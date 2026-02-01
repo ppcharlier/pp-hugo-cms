@@ -27,8 +27,8 @@ describe("empty spec", () => {
 });
 
 describe("validate blog", () => {
-  it("should have 2 blog posts", () => {
+  it("should have 3 blog posts", () => {
     cy.visit("/post");
-    cy.get("ul#blog-list li").should("have.length", 2);
+    cy.get("ul#blog-list li").should("have.length", 3);
   });
 });
