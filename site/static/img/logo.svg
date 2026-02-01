@@ -1,18 +1,40 @@
-<svg viewBox="0 0 280 40" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
   <title>Jardin des Racines</title>
-  <!-- Stylized tree/root icon -->
-  <g fill="#2D6A4F" transform="translate(0,2)">
-    <!-- Trunk -->
-    <rect x="14" y="10" width="3" height="16" rx="1"/>
+  <g fill="#2D6A4F">
     <!-- Canopy -->
-    <circle cx="15.5" cy="8" r="6" opacity="0.85"/>
-    <circle cx="10" cy="10" r="4.5" opacity="0.7"/>
-    <circle cx="21" cy="10" r="4.5" opacity="0.7"/>
-    <!-- Roots -->
-    <path d="M14 26 Q10 32 6 36" stroke="#2D6A4F" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M17 26 Q21 32 25 36" stroke="#2D6A4F" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M15.5 26 Q15.5 32 15.5 36" stroke="#2D6A4F" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <circle cx="100" cy="12" r="11" opacity="0.85"/>
+    <circle cx="87" cy="16" r="8.5" opacity="0.65"/>
+    <circle cx="113" cy="16" r="8.5" opacity="0.65"/>
+    <circle cx="93" cy="8" r="6.5" opacity="0.55"/>
+    <circle cx="107" cy="8" r="6.5" opacity="0.55"/>
+    <!-- Trunk -->
+    <rect x="96.5" y="22" width="7" height="22" rx="2.5"/>
   </g>
-  <!-- Text -->
-  <text x="38" y="27" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="bold" fill="#2D6A4F" letter-spacing="0.5">Jardin des Racines</text>
+  <!-- Roots spreading wide left and right -->
+  <!-- Main left root -->
+  <path d="M97 44 Q80 52 55 56 Q30 60 8 55" stroke="#2D6A4F" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Secondary left roots -->
+  <path d="M93 46 Q70 58 40 66 Q20 72 4 68" stroke="#2D6A4F" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M90 48 Q65 62 35 74" stroke="#2D6A4F" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- Tertiary left tendrils -->
+  <path d="M55 56 Q48 64 38 62" stroke="#2D6A4F" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M40 66 Q32 60 22 62" stroke="#2D6A4F" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.35"/>
+  <!-- Main right root -->
+  <path d="M103 44 Q120 52 145 56 Q170 60 192 55" stroke="#2D6A4F" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Secondary right roots -->
+  <path d="M107 46 Q130 58 160 66 Q180 72 196 68" stroke="#2D6A4F" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M110 48 Q135 62 165 74" stroke="#2D6A4F" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- Tertiary right tendrils -->
+  <path d="M145 56 Q152 64 162 62" stroke="#2D6A4F" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M160 66 Q168 60 178 62" stroke="#2D6A4F" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.35"/>
+  <!-- Central root going down -->
+  <path d="M100 44 Q100 58 100 72" stroke="#2D6A4F" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <!-- Orange accent tips -->
+  <circle cx="8" cy="55" r="3" fill="#FF8C00"/>
+  <circle cx="4" cy="68" r="2.5" fill="#FF8C00" opacity="0.8"/>
+  <circle cx="35" cy="74" r="2" fill="#FF8C00" opacity="0.6"/>
+  <circle cx="192" cy="55" r="3" fill="#FF8C00"/>
+  <circle cx="196" cy="68" r="2.5" fill="#FF8C00" opacity="0.8"/>
+  <circle cx="165" cy="74" r="2" fill="#FF8C00" opacity="0.6"/>
+  <circle cx="100" cy="72" r="2" fill="#FF8C00" opacity="0.7"/>
 </svg>
