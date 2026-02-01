@@ -32,6 +32,8 @@
 
   <!-- Open Graph Hugo https://gohugo.io/templates/internal/#open-graph -->
   {{ template "_internal/opengraph.html" . }}
+  <!-- Twitter Card -->
+  {{ template "_internal/twitter_cards.html" . }}
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

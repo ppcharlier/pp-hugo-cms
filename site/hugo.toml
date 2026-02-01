@@ -6,7 +6,8 @@ disableLanguages = []
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/og-image.png"]
+description = "Déterrer le sens des mots — Explorer les racines des mouvements politiques, sociaux et industriels."
 
 [languages]
   [languages.fr]
