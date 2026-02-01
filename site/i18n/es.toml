@@ -1,0 +1,41 @@
+[nav_home]
+other = "Inicio"
+
+[nav_products]
+other = "Temas"
+
+[nav_values]
+other = "Valores"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contacto"
+
+[footer_discover]
+other = "Descubrir"
+
+[footer_latest]
+other = "Últimos artículos"
+
+[footer_social]
+other = "Redes sociales"
+
+[read_more]
+other = "Leer más"
+
+[form_heading]
+other = "Envíenos un mensaje"
+
+[form_name]
+other = "Nombre"
+
+[form_email]
+other = "Correo electrónico"
+
+[form_message]
+other = "Su mensaje"
+
+[form_submit]
+other = "Enviar"

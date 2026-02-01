@@ -30,3 +30,10 @@ description = "Déterrer le sens des mots — Explorer les racines des mouvement
     title = "Roots' Garden"
     weight = 3
     contentDir = "content/en"
+
+  [languages.es]
+    languageCode = "es"
+    languageName = "Español"
+    title = "Jardín de las Raíces"
+    weight = 4
+    contentDir = "content/es"
