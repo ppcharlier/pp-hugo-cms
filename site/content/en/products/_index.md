@@ -1,7 +1,7 @@
 ---
 title: Our Themes
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/products-jumbotron.svg
 intro:
   heading: What we explore
   description: >-
@@ -33,13 +33,13 @@ main:
     present and building the future.
   image1:
     alt: Historical archive
-    image: /img/products-grid3.jpg
+    image: /img/products-grid3.svg
   image2:
     alt: Social movement
-    image: /img/products-grid2.jpg
+    image: /img/products-grid2.svg
   image3:
     alt: Industrial heritage
-    image: /img/products-grid1.jpg
+    image: /img/products-grid1.svg
 testimonials:
   - author: A reader
     quote: >-
@@ -48,7 +48,7 @@ testimonials:
   - author: A contributor
     quote: >-
       Finally a project that takes the complexity of our history seriously.
-full_image: /img/products-full-width.jpg
+full_image: /img/products-full-width.svg
 pricing:
   heading: Support the project
   description: >-

@@ -1,7 +1,7 @@
 ---
 title: Onze Thema's
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/products-jumbotron.svg
 intro:
   heading: Wat we verkennen
   description: >-
@@ -34,13 +34,13 @@ main:
     begrijpen en de toekomst te bouwen.
   image1:
     alt: Historisch archief
-    image: /img/products-grid3.jpg
+    image: /img/products-grid3.svg
   image2:
     alt: Sociale beweging
-    image: /img/products-grid2.jpg
+    image: /img/products-grid2.svg
   image3:
     alt: Industrieel erfgoed
-    image: /img/products-grid1.jpg
+    image: /img/products-grid1.svg
 testimonials:
   - author: Een lezer
     quote: >-
@@ -50,7 +50,7 @@ testimonials:
     quote: >-
       Eindelijk een project dat de complexiteit van onze geschiedenis
       serieus neemt.
-full_image: /img/products-full-width.jpg
+full_image: /img/products-full-width.svg
 pricing:
   heading: Steun het project
   description: >-

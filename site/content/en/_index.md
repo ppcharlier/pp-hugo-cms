@@ -1,7 +1,7 @@
 ---
 title: "A garden of roots and ideas"
 subtitle: Discover the political, social, and industrial roots that shaped our world
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.svg
 blurb:
     heading: Why Roots' Garden?
     text: "Roots' Garden is a cultural project dedicated to exploring the roots of political, social, and industrial movements. We dig into history to understand the forces that have shaped and continue to influence our societies."

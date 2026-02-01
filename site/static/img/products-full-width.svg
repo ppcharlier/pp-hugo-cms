@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <rect width="1200" height="400" fill="#F0F7F4"/>
+  <!-- Soil surface line -->
+  <line x1="0" y1="80" x2="1200" y2="80" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <!-- Small plants above -->
+  <line x1="200" y1="80" x2="200" y2="40" stroke="#2D6A4F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="200" cy="32" r="10" fill="#2D6A4F" opacity="0.5"/>
+  <line x1="600" y1="80" x2="600" y2="30" stroke="#2D6A4F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="600" cy="22" r="12" fill="#2D6A4F" opacity="0.5"/>
+  <line x1="1000" y1="80" x2="1000" y2="45" stroke="#2D6A4F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="1000" cy="37" r="10" fill="#2D6A4F" opacity="0.5"/>
+  <!-- Main root network -->
+  <path d="M200 80 Q200 150 300 180 Q450 220 600 200 Q750 180 900 220 Q1000 250 1000 80" stroke="#2D6A4F" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M200 80 Q150 160 100 250 Q50 340 80 380" stroke="#2D6A4F" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M600 200 Q600 280 580 360" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M1000 80 Q1050 170 1100 260 Q1150 340 1120 380" stroke="#2D6A4F" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <!-- Secondary roots -->
+  <path d="M300 180 Q280 250 250 320" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M450 210 Q430 280 420 350" stroke="#2D6A4F" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M750 185 Q770 260 790 340" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M900 220 Q920 290 940 360" stroke="#2D6A4F" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <!-- Orange nodes at intersections -->
+  <circle cx="300" cy="180" r="8" fill="#FF8C00"/>
+  <circle cx="600" cy="200" r="10" fill="#FF8C00"/>
+  <circle cx="900" cy="220" r="8" fill="#FF8C00"/>
+  <circle cx="450" cy="215" r="5" fill="#FF8C00" opacity="0.6"/>
+  <circle cx="750" cy="185" r="5" fill="#FF8C00" opacity="0.6"/>
+</svg>

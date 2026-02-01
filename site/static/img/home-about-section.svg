@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#F0F7F4"/>
+  <!-- Overlapping circles representing community -->
+  <circle cx="400" cy="350" r="140" fill="none" stroke="#2D6A4F" stroke-width="4" opacity="0.6"/>
+  <circle cx="550" cy="280" r="120" fill="none" stroke="#2D6A4F" stroke-width="4" opacity="0.7"/>
+  <circle cx="700" cy="350" r="140" fill="none" stroke="#FF8C00" stroke-width="4" opacity="0.6"/>
+  <circle cx="550" cy="430" r="110" fill="none" stroke="#2D6A4F" stroke-width="3" opacity="0.5"/>
+  <!-- Root connections between circles -->
+  <path d="M400 490 Q420 530 450 560 Q500 600 550 540 Q600 600 650 560 Q680 530 700 490" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Roots going down -->
+  <path d="M450 560 Q420 620 380 700" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M550 580 Q550 650 550 740" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M650 560 Q680 620 720 700" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <!-- Orange accent dots -->
+  <circle cx="550" cy="540" r="8" fill="#FF8C00"/>
+  <circle cx="380" cy="700" r="6" fill="#FF8C00"/>
+  <circle cx="550" cy="740" r="6" fill="#FF8C00"/>
+  <circle cx="720" cy="700" r="6" fill="#FF8C00"/>
+  <!-- Small leaf at intersection top -->
+  <ellipse cx="545" cy="175" rx="12" ry="20" fill="#2D6A4F" opacity="0.4" transform="rotate(-10,545,175)"/>
+  <ellipse cx="560" cy="172" rx="12" ry="20" fill="#FF8C00" opacity="0.3" transform="rotate(10,560,172)"/>
+</svg>

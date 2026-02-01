@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#FFF5E6"/>
+  <!-- Earth layers -->
+  <rect x="100" y="350" width="1000" height="100" fill="#2D6A4F" opacity="0.15" rx="4"/>
+  <rect x="100" y="450" width="1000" height="100" fill="#2D6A4F" opacity="0.25" rx="4"/>
+  <rect x="100" y="550" width="1000" height="100" fill="#2D6A4F" opacity="0.35" rx="4"/>
+  <rect x="100" y="650" width="1000" height="100" fill="#2D6A4F" opacity="0.45" rx="4"/>
+  <!-- Root lines in soil -->
+  <path d="M400 380 Q350 450 300 550" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M600 360 Q600 480 580 600" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M800 380 Q850 460 900 560" stroke="#2D6A4F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- Magnifying glass -->
+  <circle cx="550" cy="350" r="130" fill="none" stroke="#FF8C00" stroke-width="8"/>
+  <circle cx="550" cy="350" r="125" fill="white" opacity="0.3"/>
+  <line x1="640" y1="450" x2="750" y2="580" stroke="#FF8C00" stroke-width="12" stroke-linecap="round"/>
+  <!-- Highlighted roots inside magnifier -->
+  <path d="M500 320 Q480 370 460 420" stroke="#FF8C00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M550 300 Q550 370 540 430" stroke="#FF8C00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M580 310 Q600 370 620 420" stroke="#2D6A4F" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="460" cy="420" r="6" fill="#FF8C00"/>
+  <circle cx="540" cy="430" r="6" fill="#FF8C00"/>
+  <circle cx="620" cy="420" r="5" fill="#2D6A4F"/>
+</svg>

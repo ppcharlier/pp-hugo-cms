@@ -1,7 +1,7 @@
 ---
 title: "Een tuin van wortels en ideeën"
 subtitle: Ontdek de politieke, sociale en industriële wortels die onze wereld vormgeven
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.svg
 blurb:
     heading: Waarom Worteltuin?
     text: "Worteltuin is een cultureel project gewijd aan het verkennen van de wortels van politieke, sociale en industriële bewegingen. We graven in de geschiedenis om de krachten te begrijpen die onze samenlevingen hebben gevormd en blijven beïnvloeden."

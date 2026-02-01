@@ -1,7 +1,7 @@
 ---
 title: Nos Thèmes
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/products-jumbotron.svg
 intro:
   heading: Ce que nous explorons
   description: >-
@@ -34,13 +34,13 @@ main:
     le présent et construire l'avenir.
   image1:
     alt: Archives historiques
-    image: /img/products-grid3.jpg
+    image: /img/products-grid3.svg
   image2:
     alt: Mouvement social
-    image: /img/products-grid2.jpg
+    image: /img/products-grid2.svg
   image3:
     alt: Patrimoine industriel
-    image: /img/products-grid1.jpg
+    image: /img/products-grid1.svg
 testimonials:
   - author: Un lecteur
     quote: >-
@@ -49,7 +49,7 @@ testimonials:
   - author: Un contributeur
     quote: >-
       Enfin un projet qui prend au sérieux la complexité de notre histoire.
-full_image: /img/products-full-width.jpg
+full_image: /img/products-full-width.svg
 pricing:
   heading: Soutenir le projet
   description: >-

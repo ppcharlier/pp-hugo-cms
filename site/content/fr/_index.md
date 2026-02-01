@@ -1,7 +1,7 @@
 ---
 title: "Un jardin de racines et d'idées"
 subtitle: Explorez les racines politiques, sociales et industrielles qui ont façonné notre monde
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.svg
 blurb:
     heading: Pourquoi Jardin des Racines ?
     text: "Jardin des Racines est un projet culturel dédié à l'exploration des racines des mouvements politiques, sociaux et industriels. Nous creusons dans l'histoire pour comprendre les forces qui ont façonné et continuent d'influencer nos sociétés."

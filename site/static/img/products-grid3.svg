@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#F0F7F4"/>
+  <!-- Scroll body -->
+  <rect x="250" y="150" width="300" height="450" fill="white" stroke="#2D6A4F" stroke-width="3" rx="4"/>
+  <!-- Scroll top curl -->
+  <path d="M245 150 Q245 120 270 120 L530 120 Q555 120 555 150" fill="white" stroke="#2D6A4F" stroke-width="3"/>
+  <ellipse cx="400" cy="125" rx="155" ry="15" fill="white" stroke="#2D6A4F" stroke-width="2"/>
+  <!-- Scroll bottom curl -->
+  <path d="M245 600 Q245 630 270 630 L530 630 Q555 630 555 600" fill="white" stroke="#2D6A4F" stroke-width="3"/>
+  <ellipse cx="400" cy="625" rx="155" ry="15" fill="white" stroke="#2D6A4F" stroke-width="2"/>
+  <!-- Text lines -->
+  <line x1="290" y1="200" x2="510" y2="200" stroke="#2D6A4F" stroke-width="2" opacity="0.25"/>
+  <line x1="290" y1="230" x2="490" y2="230" stroke="#2D6A4F" stroke-width="2" opacity="0.25"/>
+  <line x1="290" y1="260" x2="510" y2="260" stroke="#2D6A4F" stroke-width="2" opacity="0.25"/>
+  <line x1="290" y1="290" x2="470" y2="290" stroke="#2D6A4F" stroke-width="2" opacity="0.25"/>
+  <line x1="290" y1="320" x2="510" y2="320" stroke="#2D6A4F" stroke-width="2" opacity="0.25"/>
+  <!-- Root tendrils growing from scroll -->
+  <path d="M350 600 Q300 670 230 720" stroke="#2D6A4F" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M400 640 Q400 700 400 760" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M450 600 Q500 670 570 720" stroke="#2D6A4F" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="230" cy="720" r="7" fill="#FF8C00"/>
+  <circle cx="400" cy="760" r="7" fill="#FF8C00"/>
+  <circle cx="570" cy="720" r="7" fill="#FF8C00"/>
+  <!-- Seal/stamp -->
+  <circle cx="440" cy="500" r="30" fill="#FF8C00" opacity="0.2" stroke="#FF8C00" stroke-width="2"/>
+  <circle cx="440" cy="500" r="18" fill="none" stroke="#FF8C00" stroke-width="1.5"/>
+</svg>

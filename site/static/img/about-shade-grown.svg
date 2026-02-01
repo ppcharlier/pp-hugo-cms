@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#F0F7F4"/>
+  <path d="M540 200 Q540 100 600 100 Q660 100 660 200 Q660 300 680 340 Q700 380 700 400 L500 400 Q500 380 520 340 Q540 300 540 200Z" fill="none" stroke="#2D6A4F" stroke-width="6"/>
+  <path d="M545 200 Q545 110 600 110 Q655 110 655 200 Q655 295 675 340 Q690 370 695 395 L505 395 Q510 370 525 340 Q545 295 545 200Z" fill="#2D6A4F" opacity="0.15"/>
+  <path d="M570 250 Q585 220 600 250 Q615 280 630 250" stroke="#FF8C00" stroke-width="3" fill="none"/>
+  <rect x="520" y="400" width="160" height="20" rx="4" fill="#2D6A4F"/>
+  <rect x="530" y="425" width="140" height="15" rx="4" fill="#2D6A4F" opacity="0.8"/>
+  <rect x="540" y="445" width="120" height="15" rx="4" fill="#2D6A4F" opacity="0.6"/>
+  <path d="M560 460 Q500 520 420 600" stroke="#2D6A4F" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M600 460 Q600 550 600 680" stroke="#2D6A4F" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M640 460 Q700 520 780 600" stroke="#2D6A4F" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M550 480 Q470 500 380 540" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M650 480 Q730 500 820 540" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="420" cy="600" r="8" fill="#2D6A4F"/>
+  <circle cx="780" cy="600" r="8" fill="#2D6A4F"/>
+  <circle cx="600" cy="680" r="8" fill="#2D6A4F"/>
+  <line x1="600" y1="60" x2="600" y2="30" stroke="#FF8C00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="500" y1="100" x2="480" y2="75" stroke="#FF8C00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="700" y1="100" x2="720" y2="75" stroke="#FF8C00" stroke-width="3" stroke-linecap="round"/>
+  <line x1="470" y1="170" x2="440" y2="155" stroke="#FF8C00" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="730" y1="170" x2="760" y2="155" stroke="#FF8C00" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>

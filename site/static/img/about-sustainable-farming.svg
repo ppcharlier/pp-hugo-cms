@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#F0F7F4"/>
+  <line x1="600" y1="250" x2="600" y2="550" stroke="#2D6A4F" stroke-width="4"/>
+  <path d="M600 250 Q500 240 350 260 L350 540 Q500 520 600 550Z" fill="white" stroke="#2D6A4F" stroke-width="3"/>
+  <path d="M600 250 Q700 240 850 260 L850 540 Q700 520 600 550Z" fill="white" stroke="#2D6A4F" stroke-width="3"/>
+  <line x1="400" y1="310" x2="560" y2="300" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="400" y1="340" x2="550" y2="330" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="400" y1="370" x2="560" y2="360" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="400" y1="400" x2="530" y2="392" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="640" y1="300" x2="800" y2="310" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="640" y1="330" x2="810" y2="340" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="640" y1="360" x2="800" y2="370" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <line x1="640" y1="390" x2="790" y2="400" stroke="#2D6A4F" stroke-width="2" opacity="0.3"/>
+  <path d="M500 550 Q450 620 380 700" stroke="#2D6A4F" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M600 550 Q600 650 600 750" stroke="#2D6A4F" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M700 550 Q750 620 820 700" stroke="#2D6A4F" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M450 560 Q400 590 330 630" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M750 560 Q800 590 870 630" stroke="#2D6A4F" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M580 250 Q570 220 580 200" stroke="#2D6A4F" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="575" cy="195" rx="8" ry="12" fill="#2D6A4F" opacity="0.5" transform="rotate(-15, 575, 195)"/>
+  <path d="M620 250 Q630 215 620 195" stroke="#FF8C00" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="625" cy="190" rx="8" ry="12" fill="#FF8C00" opacity="0.5" transform="rotate(15, 625, 190)"/>
+</svg>
