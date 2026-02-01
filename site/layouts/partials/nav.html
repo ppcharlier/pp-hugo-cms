@@ -1,8 +1,8 @@
 <nav data-nav class="flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+	<a href="{{ "/" | relLangURL }}" class="pa3 db mr4 h-100 w3 flex-none">
+		<img src="/img/logo.svg" alt="{{ .Site.Title }}" class="br0 db mb0 w-100"/>
 	</a>
 
 	<!-- Primary Nav -->
@@ -15,13 +15,23 @@
 	</div>
 
 	<ul class="flex b grey-3 nav-menu">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
+		<li><a href="{{ "products" | relLangURL }}" class="pa3 no-underline db">{{ i18n "nav_products" }}</a></li>
+		<li><a href="{{ "values" | relLangURL }}" class="pa3 no-underline db">{{ i18n "nav_values" }}</a></li>
+		<li><a href="{{ "post" | relLangURL }}" class="pa3 no-underline db">{{ i18n "nav_blog" }}</a></li>
+		<li><a href="{{ "contact" | relLangURL }}" class="pa3 no-underline db">{{ i18n "nav_contact" }}</a></li>
 
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+		<!-- Language switcher -->
+		{{ if .IsTranslated }}
+		{{ range .Translations }}
+		<li><a href="{{ .Permalink }}" class="pa3 no-underline db" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+		{{ end }}
+		{{ else }}
+		{{ range $.Site.Languages }}
+		{{ if ne .Lang $.Site.Language.Lang }}
+		<li><a href="/{{ .Lang }}/" class="pa3 no-underline db" lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
+		{{ end }}
+		{{ end }}
+		{{ end }}
 	</ul>
 
 </nav>
