@@ -11,3 +11,4 @@ cypress/screenshots
 /.DS_Store
 /site/.DS_Store
 /site/content/.DS_Store
+/.claude
