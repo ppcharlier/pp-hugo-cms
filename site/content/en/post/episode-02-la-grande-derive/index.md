@@ -1,6 +1,6 @@
 ---
 title: "The Great Drift"
-date: 2026-02-08
+date: 2026-02-01
 draft: false
 episode: 2
 series: "Le Jardin des Racines"
