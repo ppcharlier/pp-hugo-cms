@@ -54,25 +54,4 @@ pricing:
   description: >-
     Roots' Garden is an independent cultural project. Your support helps us
     continue producing in-depth content.
-  plans:
-    - description: Receive our monthly newsletter.
-      items:
-        - Monthly newsletter
-        - Access to articles
-      plan: Reader
-      price: '0'
-    - description: Support our work and get early access.
-      items:
-        - Everything in Reader
-        - Early access
-        - Name in acknowledgments
-      plan: Supporter
-      price: '5'
-    - description: Become a project partner.
-      items:
-        - Everything in Supporter
-        - Input on themes
-        - Event invitations
-      plan: Partner
-      price: '?'
 ---

@@ -55,25 +55,4 @@ pricing:
   description: >-
     Jardin des Racines est un projet culturel indépendant. Votre soutien nous
     aide à continuer à produire du contenu approfondi.
-  plans:
-    - description: Recevez notre newsletter mensuelle.
-      items:
-        - Newsletter mensuelle
-        - Accès aux articles
-      plan: Lecteur
-      price: '0'
-    - description: Soutenez notre travail et obtenez un accès anticipé.
-      items:
-        - Tout de Lecteur
-        - Accès anticipé
-        - Nom dans les remerciements
-      plan: Soutien
-      price: '5'
-    - description: Devenez partenaire du projet.
-      items:
-        - Tout de Soutien
-        - Choix des thèmes
-        - Invitations aux événements
-      plan: Partenaire
-      price: '?'
 ---

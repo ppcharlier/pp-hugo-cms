@@ -56,25 +56,4 @@ pricing:
   description: >-
     Worteltuin is een onafhankelijk cultureel project. Uw steun helpt ons
     om diepgaande content te blijven produceren.
-  plans:
-    - description: Ontvang onze maandelijkse nieuwsbrief.
-      items:
-        - Maandelijkse nieuwsbrief
-        - Toegang tot artikelen
-      plan: Lezer
-      price: '0'
-    - description: Steun ons werk en krijg vroegtijdige toegang.
-      items:
-        - Alles van Lezer
-        - Vroegtijdige toegang
-        - Naam in dankwoord
-      plan: Supporter
-      price: '5'
-    - description: Word partner van het project.
-      items:
-        - Alles van Supporter
-        - Inspraak in thema's
-        - Uitnodiging voor evenementen
-      plan: Partner
-      price: '?'
 ---

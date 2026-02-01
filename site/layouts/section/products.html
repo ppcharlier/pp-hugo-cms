@@ -26,6 +26,14 @@
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+{{ with .Params.pricing }}
+<div class="mw7 center ph3 pv5">
+  <h3 class="f3 b lh-title mb2 tc">{{ .heading }}</h3>
+  <p class="tc measure center mb4">{{ .description }}</p>
+  <div class="tc">
+    <a href="https://paypal.me/ppcharlier" target="_blank" rel="noopener" class="btn raise">{{ .heading }} →</a>
+  </div>
+</div>
+{{ end }}
 
 {{ end }}
