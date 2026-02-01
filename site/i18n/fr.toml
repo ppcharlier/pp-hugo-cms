@@ -24,3 +24,18 @@ other = "Réseaux sociaux"
 
 [read_more]
 other = "Lire la suite"
+
+[form_heading]
+other = "Envoyez-nous un message"
+
+[form_name]
+other = "Nom"
+
+[form_email]
+other = "Email"
+
+[form_message]
+other = "Votre message"
+
+[form_submit]
+other = "Envoyer"

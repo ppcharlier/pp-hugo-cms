@@ -24,3 +24,18 @@ other = "Sociale media"
 
 [read_more]
 other = "Lees meer"
+
+[form_heading]
+other = "Stuur ons een bericht"
+
+[form_name]
+other = "Naam"
+
+[form_email]
+other = "Email"
+
+[form_message]
+other = "Uw bericht"
+
+[form_submit]
+other = "Versturen"
