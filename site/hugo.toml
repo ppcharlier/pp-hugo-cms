@@ -1,12 +1,31 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Kaldi"
+title = "Jardin des Racines"
+defaultContentLanguage = "fr"
+disableLanguages = []
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-BE"
+    languageName = "Français"
+    title = "Jardin des Racines"
+    weight = 1
+    contentDir = "content/fr"
+
+  [languages.nl]
+    languageCode = "nl-BE"
+    languageName = "Nederlands"
+    title = "Worteltuin"
+    weight = 2
+    contentDir = "content/nl"
+
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    title = "Roots' Garden"
+    weight = 3
+    contentDir = "content/en"

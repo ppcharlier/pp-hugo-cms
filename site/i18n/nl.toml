@@ -1,0 +1,26 @@
+[nav_home]
+other = "Home"
+
+[nav_products]
+other = "Thema's"
+
+[nav_values]
+other = "Waarden"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contact"
+
+[footer_discover]
+other = "Ontdekken"
+
+[footer_latest]
+other = "Laatste artikelen"
+
+[footer_social]
+other = "Sociale media"
+
+[read_more]
+other = "Lees meer"

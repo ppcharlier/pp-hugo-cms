@@ -1,0 +1,26 @@
+[nav_home]
+other = "Accueil"
+
+[nav_products]
+other = "Thèmes"
+
+[nav_values]
+other = "Valeurs"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contact"
+
+[footer_discover]
+other = "Découvrir"
+
+[footer_latest]
+other = "Derniers articles"
+
+[footer_social]
+other = "Réseaux sociaux"
+
+[read_more]
+other = "Lire la suite"
