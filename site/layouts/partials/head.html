@@ -10,8 +10,6 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ $.Site.BaseURL }}">
-
   <!-- SEO meta -->
   {{ $desc := .Description | default (index .Site.Params.descriptions .Lang) | default .Site.Params.description }}
   <meta name="description" content="{{ $desc }}">

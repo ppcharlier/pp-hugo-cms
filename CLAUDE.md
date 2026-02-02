@@ -57,3 +57,17 @@ Decap CMS at `/admin/` using Git Gateway + Netlify Identity. i18n configured wit
 ### Deployment
 
 Netlify auto-deploys from `main`. Cypress tests run on deploy via `netlify-plugin-cypress`. Deploy previews enabled for PRs.
+
+## Cypress E2E Tests
+
+Tests live in `cypress/e2e/basic.cy.js`. They run automatically on every Netlify deploy (`onSuccess`).
+
+**IMPORTANT — When modifying content or structure, update Cypress tests accordingly:**
+
+- **Adding/removing pages or sections**: update navigation tests (link selectors like `a[href="/products"]`) and any URL assertions.
+- **Changing page titles or headings**: update `.contains()` assertions that match `<h1>` text.
+- **Adding/removing blog posts**: update the post count assertion (`should("have.length", N)`).
+- **Changing URL structure or routes**: update `cy.visit()` paths and `href` selectors.
+- **Changing `<base>` tag or `baseurl`**: avoid `<base href>` with absolute URLs — it breaks deploy preview link resolution. Use Hugo `relURL`/`absURL` instead.
+
+Always verify tests pass locally with `yarn cypress:run` before pushing.
