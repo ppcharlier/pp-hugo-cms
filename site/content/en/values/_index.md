@@ -1,5 +1,6 @@
 ---
 title: "Values"
+description: "Our values: critical thinking, multiple voices, accessibility, connection, and independence."
 image: /img/about-jumbotron.svg
 values:
   - heading: "Critical thinking"

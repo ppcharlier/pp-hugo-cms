@@ -1,5 +1,6 @@
 ---
 title: "Waarden"
+description: "Onze waarden: kritisch denken, meerstemmigheid, toegankelijkheid, verbinding en onafhankelijkheid."
 image: /img/about-jumbotron.svg
 values:
   - heading: "Kritisch denken"

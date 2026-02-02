@@ -1,5 +1,6 @@
 ---
 title: Our Themes
+description: "Explore our themes: political, industrial, social, and cultural roots of contemporary movements."
 type: products
 image: /img/products-jumbotron.svg
 intro:

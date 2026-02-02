@@ -1,5 +1,6 @@
 ---
 title: "A garden of roots and ideas"
+description: "Unearthing the meaning of words — Exploring the roots of political, social, and industrial movements."
 subtitle: Discover the political, social, and industrial roots that shaped our world
 image: /img/home-jumbotron.svg
 blurb:

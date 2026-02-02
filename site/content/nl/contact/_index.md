@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Neem contact op met Worteltuin — Deel uw ideeën, suggesties of vragen vanuit Brussel."
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Locatie

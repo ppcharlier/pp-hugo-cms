@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contact Roots' Garden — Share your ideas, suggestions, or questions from Brussels."
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location

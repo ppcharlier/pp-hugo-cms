@@ -1,5 +1,6 @@
 ---
 title: "Valores"
+description: "Nuestros valores: pensamiento crítico, pluralidad de voces, accesibilidad, conexión e independencia."
 image: /img/about-jumbotron.svg
 values:
   - heading: "Pensamiento crítico"

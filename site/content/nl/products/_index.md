@@ -1,5 +1,6 @@
 ---
 title: Onze Thema's
+description: "Ontdek onze thema's: politieke, industriële, sociale en culturele wortels van hedendaagse bewegingen."
 type: products
 image: /img/products-jumbotron.svg
 intro:

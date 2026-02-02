@@ -1,5 +1,6 @@
 ---
 title: "Un jardín de raíces e ideas"
+description: "Desenterrar el sentido de las palabras — Explorar las raíces de los movimientos políticos, sociales e industriales."
 subtitle: Explore las raíces políticas, sociales e industriales que han dado forma a nuestro mundo
 image: /img/home-jumbotron.svg
 blurb:

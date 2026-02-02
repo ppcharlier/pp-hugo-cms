@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contactez Jardin des Racines — Partagez vos idées, suggestions ou questions depuis Bruxelles."
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Localisation

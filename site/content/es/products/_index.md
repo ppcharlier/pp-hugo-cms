@@ -1,5 +1,6 @@
 ---
 title: Nuestros Temas
+description: "Explore nuestros temas: raíces políticas, industriales, sociales y culturales de los movimientos contemporáneos."
 type: products
 image: /img/products-jumbotron.svg
 intro:

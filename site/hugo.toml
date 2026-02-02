@@ -1,13 +1,23 @@
-baseurl = "/"
+baseurl = "https://garden.ppcharlier.be/"
 title = "Jardin des Racines"
 defaultContentLanguage = "fr"
 disableLanguages = []
 
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = []
+
+[taxonomies]
+tag = "tags"
+category = "categories"
 
 [params]
 images = ["img/og-image.png"]
 description = "Déterrer le sens des mots — Explorer les racines des mouvements politiques, sociaux et industriels."
+
+[params.descriptions]
+fr = "Déterrer le sens des mots — Explorer les racines des mouvements politiques, sociaux et industriels."
+nl = "De betekenis van woorden opgraven — De wortels van politieke, sociale en industriële bewegingen verkennen."
+en = "Unearthing the meaning of words — Exploring the roots of political, social, and industrial movements."
+es = "Desenterrar el sentido de las palabras — Explorar las raíces de los movimientos políticos, sociales e industriales."
 
 [languages]
   [languages.fr]

@@ -12,6 +12,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ $.Site.BaseURL }}">
 
+  <!-- SEO meta -->
+  {{ $desc := .Description | default (index .Site.Params.descriptions .Lang) | default .Site.Params.description }}
+  <meta name="description" content="{{ $desc }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ .Permalink }}">
+
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
@@ -34,6 +40,45 @@
   {{ template "_internal/opengraph.html" . }}
   <!-- Twitter Card -->
   {{ template "_internal/twitter_cards.html" . }}
+
+  <!-- JSON-LD structured data -->
+  {{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ $desc }}",
+    "inLanguage": "{{ .Lang }}"
+  }
+  </script>
+  {{ end }}
+  {{ if eq .Section "post" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "description": "{{ $desc }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    {{ with .Lastmod }}"dateModified": "{{ .Format "2006-01-02" }}",{{ end }}
+    "author": {
+      "@type": "Person",
+      "name": "Pépé"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    }{{ with .Resources.Get .Params.image }},
+    "image": "{{ .Permalink }}"{{ end }}
+  }
+  </script>
+  {{ end }}
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

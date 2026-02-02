@@ -1,5 +1,6 @@
 ---
 title: "Contacto"
+description: "Contacte con Jardín de las Raíces — Comparta sus ideas, sugerencias o preguntas desde Bruselas."
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Ubicación

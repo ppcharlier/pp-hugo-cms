@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garden.ppcharlier.be/sitemap.xml
