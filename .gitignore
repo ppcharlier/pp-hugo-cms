@@ -12,3 +12,5 @@ cypress/screenshots
 /site/.DS_Store
 /site/content/.DS_Store
 /.claude
+/site/content/fr/.DS_Store
+/site/content/fr/post/.DS_Store
