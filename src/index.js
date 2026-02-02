@@ -2,6 +2,10 @@
 
 import "./css/main.scss";
 
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/sw.js");
+}
+
 const mobileMenu = document.querySelector("[data-mobile-menu]");
 const nav = document.querySelector("[data-nav]");
 
