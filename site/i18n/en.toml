@@ -25,6 +25,12 @@ other = "Social media"
 [read_more]
 other = "Read more"
 
+[discover_values]
+other = "Discover our values"
+
+[see_all_posts]
+other = "See all articles"
+
 [form_heading]
 other = "Send us a message"
 
