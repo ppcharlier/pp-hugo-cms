@@ -41,4 +41,10 @@ describe("action landing page", () => {
     cy.visit("/action");
     cy.contains("Lire le manifeste").should("have.attr", "href").and("include", "le-levier-oublie");
   });
+
+  it("has action banner on homepage linking to action page", () => {
+    cy.visit("/");
+    cy.get(".action-banner").should("exist");
+    cy.get('a[href="/action"]').should("exist");
+  });
 });

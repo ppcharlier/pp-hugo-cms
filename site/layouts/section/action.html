@@ -1,6 +1,20 @@
 {{ define "main" }}
 
-<div class="action-landing min-vh-100 flex flex-column justify-center items-center bg-dark-green white pa4 tc">
+<style>
+.action-landing {
+  background: linear-gradient(135deg, #1a3a2f 0%, #2D6A4F 50%, #1a3a2f 100%);
+}
+.countdown-unit {
+  min-width: 80px;
+}
+@media screen and (min-width: 60em) {
+  .countdown-unit {
+    min-width: 120px;
+  }
+}
+</style>
+
+<div class="action-landing min-vh-100 flex flex-column justify-center items-center white pa4 tc">
 
   <!-- Countdown Section -->
   <div class="countdown-container mb4">

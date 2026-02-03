@@ -60,3 +60,9 @@ other = "Minutes"
 
 [countdown_seconds]
 other = "Secondes"
+
+[action_banner_title]
+other = "1er Mars 2026 — Le Jour J"
+
+[action_banner_subtitle]
+other = "Le jour où nous cessons de financer les bulldozers"
