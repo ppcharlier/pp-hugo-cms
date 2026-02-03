@@ -50,27 +50,6 @@ collections:
           - {label: "Values", name: "values", widget: "object", i18n: true, fields: [
               {label: "Heading", name: "heading", widget: string, i18n: true},
               {label: "Text", name: "text", widget: "text", i18n: true}]}
-      - file: "site/content/fr/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
-        i18n: true
-        fields:
-          - {label: Title, name: title, widget: string, i18n: true}
-          - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown, i18n: true}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
-            i18n: true
-            fields:
-              - label: Heading
-                name: heading
-                widget: string
-                i18n: true
-              - label: Text
-                name: text
-                widget: text
-                i18n: true
       - file: "site/content/fr/products/_index.md"
         label: "Products Page"
         name: "products"

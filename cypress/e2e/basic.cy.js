@@ -3,8 +3,8 @@ describe("empty spec", () => {
     cy.visit("/");
   });
 
-  it("opens the index page", () => {
-    cy.get("h1").contains("Un jardin de racines");
+  it("opens the index page with blog listing", () => {
+    cy.get("h1").contains("Jardin des Racines");
   });
 
   it("navigates to the product page", () => {
@@ -18,17 +18,11 @@ describe("empty spec", () => {
     cy.url().should("include", "/values");
     cy.get("h1").contains(/Valeurs/i);
   });
-
-  it("navigates to the blog page", () => {
-    cy.get('a[href="/post"]').eq(0).click();
-    cy.url().should("include", "/post");
-    cy.get("h1").contains(/Blog/i);
-  });
 });
 
 describe("validate blog", () => {
-  it("should have 4 blog posts", () => {
-    cy.visit("/post");
+  it("should have 4 blog posts on homepage (paginated)", () => {
+    cy.visit("/");
     cy.get("ul#blog-list li").should("have.length", 4);
   });
 });

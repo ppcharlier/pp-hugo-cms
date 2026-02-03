@@ -3,8 +3,11 @@
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.svg" "title" (i18n "nav_blog")) }}
 
 <div class="mw7 center">
+  {{/* Sort by date descending, then by episode number descending for consistent ordering */}}
+  {{ $posts := sort .RegularPages ".Params.episode" "desc" }}
+  {{ $posts = sort $posts ".Date" "desc" }}
   <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginate $posts 4).Pages }}
           <li class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </li>

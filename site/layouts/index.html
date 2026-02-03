@@ -1,13 +1,20 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.svg" "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
-
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" (i18n "discover_values") "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
+<div class="mw7 center">
+  {{/* Get all posts, sort by date descending, then by episode number descending for consistent ordering */}}
+  {{ $posts := where .Site.RegularPages "Type" "post" }}
+  {{ $posts = sort $posts ".Params.episode" "desc" }}
+  {{ $posts = sort $posts ".Date" "desc" }}
+  <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
+      {{ range (.Paginate $posts 4).Pages }}
+          <li class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </li>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
 
 {{ end }}
