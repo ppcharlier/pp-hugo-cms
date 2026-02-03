@@ -26,3 +26,19 @@ describe("validate blog", () => {
     cy.get("ul#blog-list li").should("have.length", 4);
   });
 });
+
+describe("action landing page", () => {
+  it("displays countdown to D-Day", () => {
+    cy.visit("/action");
+    cy.get("#countdown").should("exist");
+    cy.get("#days").should("exist");
+    cy.get("#hours").should("exist");
+    cy.get("#minutes").should("exist");
+    cy.get("#seconds").should("exist");
+  });
+
+  it("has call to action buttons", () => {
+    cy.visit("/action");
+    cy.contains("Lire le manifeste").should("have.attr", "href").and("include", "le-levier-oublie");
+  });
+});

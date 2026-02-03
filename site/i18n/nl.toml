@@ -45,3 +45,18 @@ other = "Uw bericht"
 
 [form_submit]
 other = "Versturen"
+
+[nav_action]
+other = "D-Day"
+
+[countdown_days]
+other = "Dagen"
+
+[countdown_hours]
+other = "Uren"
+
+[countdown_minutes]
+other = "Minuten"
+
+[countdown_seconds]
+other = "Seconden"

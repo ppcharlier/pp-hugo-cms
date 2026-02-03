@@ -45,3 +45,18 @@ other = "Votre message"
 
 [form_submit]
 other = "Envoyer"
+
+[nav_action]
+other = "Le Jour J"
+
+[countdown_days]
+other = "Jours"
+
+[countdown_hours]
+other = "Heures"
+
+[countdown_minutes]
+other = "Minutes"
+
+[countdown_seconds]
+other = "Secondes"

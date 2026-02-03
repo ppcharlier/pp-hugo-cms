@@ -45,3 +45,18 @@ other = "Su mensaje"
 
 [form_submit]
 other = "Enviar"
+
+[nav_action]
+other = "El Día D"
+
+[countdown_days]
+other = "Días"
+
+[countdown_hours]
+other = "Horas"
+
+[countdown_minutes]
+other = "Minutos"
+
+[countdown_seconds]
+other = "Segundos"

@@ -45,3 +45,18 @@ other = "Your message"
 
 [form_submit]
 other = "Submit"
+
+[nav_action]
+other = "D-Day"
+
+[countdown_days]
+other = "Days"
+
+[countdown_hours]
+other = "Hours"
+
+[countdown_minutes]
+other = "Minutes"
+
+[countdown_seconds]
+other = "Seconds"
