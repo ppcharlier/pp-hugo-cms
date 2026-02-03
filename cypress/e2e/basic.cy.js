@@ -21,7 +21,7 @@ describe("empty spec", () => {
 });
 
 describe("validate blog", () => {
-  it("should have 4 blog posts on homepage (paginated)", () => {
+  it("should have 4 blog posts on homepage (paginated, 6 total)", () => {
     cy.visit("/");
     cy.get("ul#blog-list li").should("have.length", 4);
   });
