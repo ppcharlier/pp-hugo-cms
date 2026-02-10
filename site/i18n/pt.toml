@@ -1,0 +1,68 @@
+[nav_home]
+other = "Início"
+
+[nav_products]
+other = "Temas"
+
+[nav_values]
+other = "Valores"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contacto"
+
+[footer_discover]
+other = "Descobrir"
+
+[footer_latest]
+other = "Últimos artigos"
+
+[footer_social]
+other = "Redes sociais"
+
+[read_more]
+other = "Ler mais"
+
+[discover_values]
+other = "Descobrir os nossos valores"
+
+[see_all_posts]
+other = "Ver todos os artigos"
+
+[form_heading]
+other = "Envie-nos uma mensagem"
+
+[form_name]
+other = "Nome"
+
+[form_email]
+other = "Email"
+
+[form_message]
+other = "A sua mensagem"
+
+[form_submit]
+other = "Enviar"
+
+[nav_action]
+other = "O Dia D"
+
+[countdown_days]
+other = "Dias"
+
+[countdown_hours]
+other = "Horas"
+
+[countdown_minutes]
+other = "Minutos"
+
+[countdown_seconds]
+other = "Segundos"
+
+[action_banner_title]
+other = "1 de Março de 2026 — O Dia D"
+
+[action_banner_subtitle]
+other = "O dia em que deixamos de financiar bulldozers"

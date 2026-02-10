@@ -1,0 +1,68 @@
+[nav_home]
+other = "Startseite"
+
+[nav_products]
+other = "Themen"
+
+[nav_values]
+other = "Werte"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Entdecken"
+
+[footer_latest]
+other = "Neueste Artikel"
+
+[footer_social]
+other = "Soziale Medien"
+
+[read_more]
+other = "Weiterlesen"
+
+[discover_values]
+other = "Unsere Werte entdecken"
+
+[see_all_posts]
+other = "Alle Artikel ansehen"
+
+[form_heading]
+other = "Schreiben Sie uns"
+
+[form_name]
+other = "Name"
+
+[form_email]
+other = "E-Mail"
+
+[form_message]
+other = "Ihre Nachricht"
+
+[form_submit]
+other = "Absenden"
+
+[nav_action]
+other = "Der Tag X"
+
+[countdown_days]
+other = "Tage"
+
+[countdown_hours]
+other = "Stunden"
+
+[countdown_minutes]
+other = "Minuten"
+
+[countdown_seconds]
+other = "Sekunden"
+
+[action_banner_title]
+other = "1. März 2026 — Der Tag X"
+
+[action_banner_subtitle]
+other = "Der Tag, an dem wir aufhören, Bulldozer zu finanzieren"

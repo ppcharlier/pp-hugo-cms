@@ -18,6 +18,8 @@ fr = "Déterrer le sens des mots — Explorer les racines des mouvements politiq
 nl = "De betekenis van woorden opgraven — De wortels van politieke, sociale en industriële bewegingen verkennen."
 en = "Unearthing the meaning of words — Exploring the roots of political, social, and industrial movements."
 es = "Desenterrar el sentido de las palabras — Explorar las raíces de los movimientos políticos, sociales e industriales."
+de = "Die Bedeutung der Wörter ausgraben — Die Wurzeln politischer, sozialer und industrieller Bewegungen erforschen."
+pt = "Desenterrar o sentido das palavras — Explorar as raízes dos movimentos políticos, sociais e industriais."
 
 [languages]
   [languages.fr]
@@ -47,3 +49,17 @@ es = "Desenterrar el sentido de las palabras — Explorar las raíces de los mov
     title = "Jardín de las Raíces"
     weight = 4
     contentDir = "content/es"
+
+  [languages.de]
+    languageCode = "de"
+    languageName = "Deutsch"
+    title = "Wurzelgarten"
+    weight = 5
+    contentDir = "content/de"
+
+  [languages.pt]
+    languageCode = "pt"
+    languageName = "Português"
+    title = "Jardim das Raízes"
+    weight = 6
+    contentDir = "content/pt"
