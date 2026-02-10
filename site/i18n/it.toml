@@ -1,0 +1,68 @@
+[nav_home]
+other = "Home"
+
+[nav_products]
+other = "Temi"
+
+[nav_values]
+other = "Valori"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contatti"
+
+[footer_discover]
+other = "Scoprire"
+
+[footer_latest]
+other = "Ultimi articoli"
+
+[footer_social]
+other = "Social media"
+
+[read_more]
+other = "Continua a leggere"
+
+[discover_values]
+other = "Scopri i nostri valori"
+
+[see_all_posts]
+other = "Vedi tutti gli articoli"
+
+[form_heading]
+other = "Inviaci un messaggio"
+
+[form_name]
+other = "Nome"
+
+[form_email]
+other = "Email"
+
+[form_message]
+other = "Il tuo messaggio"
+
+[form_submit]
+other = "Invia"
+
+[nav_action]
+other = "Il Giorno X"
+
+[countdown_days]
+other = "Giorni"
+
+[countdown_hours]
+other = "Ore"
+
+[countdown_minutes]
+other = "Minuti"
+
+[countdown_seconds]
+other = "Secondi"
+
+[action_banner_title]
+other = "1° marzo 2026 — Il Giorno X"
+
+[action_banner_subtitle]
+other = "Il giorno in cui smettiamo di finanziare i bulldozer"

@@ -20,6 +20,8 @@ en = "Unearthing the meaning of words — Exploring the roots of political, soci
 es = "Desenterrar el sentido de las palabras — Explorar las raíces de los movimientos políticos, sociales e industriales."
 de = "Die Bedeutung der Wörter ausgraben — Die Wurzeln politischer, sozialer und industrieller Bewegungen erforschen."
 pt = "Desenterrar o sentido das palavras — Explorar as raízes dos movimentos políticos, sociais e industriais."
+hu = "A szavak jelentésének feltárása — A politikai, társadalmi és ipari mozgalmak gyökereinek felfedezése."
+it = "Dissotterrare il senso delle parole — Esplorare le radici dei movimenti politici, sociali e industriali."
 
 [languages]
   [languages.fr]
@@ -63,3 +65,17 @@ pt = "Desenterrar o sentido das palavras — Explorar as raízes dos movimentos 
     title = "Jardim das Raízes"
     weight = 6
     contentDir = "content/pt"
+
+  [languages.hu]
+    languageCode = "hu"
+    languageName = "Magyar"
+    title = "Gyökérkert"
+    weight = 7
+    contentDir = "content/hu"
+
+  [languages.it]
+    languageCode = "it"
+    languageName = "Italiano"
+    title = "Giardino delle Radici"
+    weight = 8
+    contentDir = "content/it"

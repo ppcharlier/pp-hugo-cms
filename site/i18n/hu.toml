@@ -1,0 +1,68 @@
+[nav_home]
+other = "Kezdőlap"
+
+[nav_products]
+other = "Témák"
+
+[nav_values]
+other = "Értékek"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kapcsolat"
+
+[footer_discover]
+other = "Felfedezés"
+
+[footer_latest]
+other = "Legújabb cikkek"
+
+[footer_social]
+other = "Közösségi média"
+
+[read_more]
+other = "Tovább olvasom"
+
+[discover_values]
+other = "Értékeink felfedezése"
+
+[see_all_posts]
+other = "Összes cikk megtekintése"
+
+[form_heading]
+other = "Küldjön nekünk üzenetet"
+
+[form_name]
+other = "Név"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Üzenete"
+
+[form_submit]
+other = "Küldés"
+
+[nav_action]
+other = "A D-nap"
+
+[countdown_days]
+other = "Nap"
+
+[countdown_hours]
+other = "Óra"
+
+[countdown_minutes]
+other = "Perc"
+
+[countdown_seconds]
+other = "Másodperc"
+
+[action_banner_title]
+other = "2026. március 1. — A D-nap"
+
+[action_banner_subtitle]
+other = "A nap, amikor abbahagyjuk a buldózerek finanszírozását"
