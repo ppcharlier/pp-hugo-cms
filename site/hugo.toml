@@ -25,6 +25,13 @@ it = "Dissotterrare il senso delle parole — Esplorare le radici dei movimenti 
 sv = "Gräva fram ordens betydelse — Utforska rötterna till politiska, sociala och industriella rörelser."
 no = "Grave fram ordenes betydning — Utforske røttene til politiske, sosiale og industrielle bevegelser."
 fi = "Sanojen merkityksen esiin kaivaminen — Poliittisten, sosiaalisten ja teollisten liikkeiden juurien tutkiminen."
+pl = "Odkopywanie znaczenia słów — Badanie korzeni ruchów politycznych, społecznych i przemysłowych."
+cs = "Vykopávání významu slov — Zkoumání kořenů politických, sociálních a průmyslových hnutí."
+ro = "Dezgroparea sensului cuvintelor — Explorarea rădăcinilor mișcărilor politice, sociale și industriale."
+sk = "Vykopávanie významu slov — Skúmanie koreňov politických, sociálnych a priemyselných hnutí."
+lt = "Žodžių prasmės atkasimas — Politinių, socialinių ir pramoninių judėjimų šaknų tyrinėjimas."
+lv = "Vārdu nozīmes atrakšana — Politisko, sociālo un industriālo kustību sakņu izpēte."
+et = "Sõnade tähenduse väljakaevamine — Poliitiliste, sotsiaalsete ja tööstuslike liikumiste juurte uurimine."
 
 [languages]
   [languages.fr]
@@ -103,3 +110,52 @@ fi = "Sanojen merkityksen esiin kaivaminen — Poliittisten, sosiaalisten ja teo
     title = "Juuripuutarha"
     weight = 11
     contentDir = "content/fi"
+
+  [languages.pl]
+    languageCode = "pl"
+    languageName = "Polski"
+    title = "Ogród Korzeni"
+    weight = 12
+    contentDir = "content/pl"
+
+  [languages.cs]
+    languageCode = "cs"
+    languageName = "Čeština"
+    title = "Zahrada Kořenů"
+    weight = 13
+    contentDir = "content/cs"
+
+  [languages.ro]
+    languageCode = "ro"
+    languageName = "Română"
+    title = "Grădina Rădăcinilor"
+    weight = 14
+    contentDir = "content/ro"
+
+  [languages.sk]
+    languageCode = "sk"
+    languageName = "Slovenčina"
+    title = "Záhrada Koreňov"
+    weight = 15
+    contentDir = "content/sk"
+
+  [languages.lt]
+    languageCode = "lt"
+    languageName = "Lietuvių"
+    title = "Šaknų Sodas"
+    weight = 16
+    contentDir = "content/lt"
+
+  [languages.lv]
+    languageCode = "lv"
+    languageName = "Latviešu"
+    title = "Sakņu Dārzs"
+    weight = 17
+    contentDir = "content/lv"
+
+  [languages.et]
+    languageCode = "et"
+    languageName = "Eesti"
+    title = "Juurte Aed"
+    weight = 18
+    contentDir = "content/et"

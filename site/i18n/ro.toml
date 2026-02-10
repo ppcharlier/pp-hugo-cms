@@ -1,0 +1,68 @@
+[nav_home]
+other = "Acasă"
+
+[nav_products]
+other = "Teme"
+
+[nav_values]
+other = "Valori"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contact"
+
+[footer_discover]
+other = "Descoperă"
+
+[footer_latest]
+other = "Cele mai recente articole"
+
+[footer_social]
+other = "Rețele sociale"
+
+[read_more]
+other = "Citește mai mult"
+
+[discover_values]
+other = "Descoperă valorile noastre"
+
+[see_all_posts]
+other = "Vezi toate articolele"
+
+[form_heading]
+other = "Scrie-ne"
+
+[form_name]
+other = "Nume"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Mesajul tău"
+
+[form_submit]
+other = "Trimite"
+
+[nav_action]
+other = "Ziua X"
+
+[countdown_days]
+other = "zile"
+
+[countdown_hours]
+other = "ore"
+
+[countdown_minutes]
+other = "minute"
+
+[countdown_seconds]
+other = "secunde"
+
+[action_banner_title]
+other = "1 martie 2026 — Ziua X"
+
+[action_banner_subtitle]
+other = "Ziua în care nu mai finanțăm buldozere"

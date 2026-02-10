@@ -1,0 +1,68 @@
+[nav_home]
+other = "Strona główna"
+
+[nav_products]
+other = "Tematy"
+
+[nav_values]
+other = "Wartości"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Odkryj"
+
+[footer_latest]
+other = "Najnowsze artykuły"
+
+[footer_social]
+other = "Media społecznościowe"
+
+[read_more]
+other = "Czytaj dalej"
+
+[discover_values]
+other = "Poznaj nasze wartości"
+
+[see_all_posts]
+other = "Zobacz wszystkie artykuły"
+
+[form_heading]
+other = "Napisz do nas"
+
+[form_name]
+other = "Imię"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Twoja wiadomość"
+
+[form_submit]
+other = "Wyślij"
+
+[nav_action]
+other = "Dzień X"
+
+[countdown_days]
+other = "dni"
+
+[countdown_hours]
+other = "godzin"
+
+[countdown_minutes]
+other = "minut"
+
+[countdown_seconds]
+other = "sekund"
+
+[action_banner_title]
+other = "1 marca 2026 — Dzień X"
+
+[action_banner_subtitle]
+other = "Dzień, w którym przestajemy finansować buldożery"

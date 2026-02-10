@@ -1,0 +1,68 @@
+[nav_home]
+other = "Domov"
+
+[nav_products]
+other = "Témy"
+
+[nav_values]
+other = "Hodnoty"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Objavte"
+
+[footer_latest]
+other = "Najnovšie články"
+
+[footer_social]
+other = "Sociálne siete"
+
+[read_more]
+other = "Čítať ďalej"
+
+[discover_values]
+other = "Objavte naše hodnoty"
+
+[see_all_posts]
+other = "Zobraziť všetky články"
+
+[form_heading]
+other = "Napíšte nám"
+
+[form_name]
+other = "Meno"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Vaša správa"
+
+[form_submit]
+other = "Odoslať"
+
+[nav_action]
+other = "Deň X"
+
+[countdown_days]
+other = "dní"
+
+[countdown_hours]
+other = "hodín"
+
+[countdown_minutes]
+other = "minút"
+
+[countdown_seconds]
+other = "sekúnd"
+
+[action_banner_title]
+other = "1. marca 2026 — Deň X"
+
+[action_banner_subtitle]
+other = "Deň, keď prestaneme financovať buldozéry"

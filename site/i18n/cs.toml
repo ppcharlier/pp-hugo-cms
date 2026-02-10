@@ -1,0 +1,68 @@
+[nav_home]
+other = "Domů"
+
+[nav_products]
+other = "Témata"
+
+[nav_values]
+other = "Hodnoty"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Objevte"
+
+[footer_latest]
+other = "Nejnovější články"
+
+[footer_social]
+other = "Sociální sítě"
+
+[read_more]
+other = "Číst dál"
+
+[discover_values]
+other = "Objevte naše hodnoty"
+
+[see_all_posts]
+other = "Zobrazit všechny články"
+
+[form_heading]
+other = "Napište nám"
+
+[form_name]
+other = "Jméno"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Vaše zpráva"
+
+[form_submit]
+other = "Odeslat"
+
+[nav_action]
+other = "Den X"
+
+[countdown_days]
+other = "dní"
+
+[countdown_hours]
+other = "hodin"
+
+[countdown_minutes]
+other = "minut"
+
+[countdown_seconds]
+other = "sekund"
+
+[action_banner_title]
+other = "1. března 2026 — Den X"
+
+[action_banner_subtitle]
+other = "Den, kdy přestaneme financovat buldozery"

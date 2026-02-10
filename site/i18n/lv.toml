@@ -1,0 +1,68 @@
+[nav_home]
+other = "Sākums"
+
+[nav_products]
+other = "Tēmas"
+
+[nav_values]
+other = "Vērtības"
+
+[nav_blog]
+other = "Emuārs"
+
+[nav_contact]
+other = "Kontakti"
+
+[footer_discover]
+other = "Atklājiet"
+
+[footer_latest]
+other = "Jaunākie raksti"
+
+[footer_social]
+other = "Sociālie tīkli"
+
+[read_more]
+other = "Lasīt vairāk"
+
+[discover_values]
+other = "Atklājiet mūsu vērtības"
+
+[see_all_posts]
+other = "Skatīt visus rakstus"
+
+[form_heading]
+other = "Rakstiet mums"
+
+[form_name]
+other = "Vārds"
+
+[form_email]
+other = "E-pasts"
+
+[form_message]
+other = "Jūsu ziņojums"
+
+[form_submit]
+other = "Nosūtīt"
+
+[nav_action]
+other = "X diena"
+
+[countdown_days]
+other = "dienas"
+
+[countdown_hours]
+other = "stundas"
+
+[countdown_minutes]
+other = "minūtes"
+
+[countdown_seconds]
+other = "sekundes"
+
+[action_banner_title]
+other = "2026. gada 1. marts — X diena"
+
+[action_banner_subtitle]
+other = "Diena, kad pārstājam finansēt buldozerus"

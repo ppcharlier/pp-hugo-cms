@@ -1,0 +1,68 @@
+[nav_home]
+other = "Avaleht"
+
+[nav_products]
+other = "Teemad"
+
+[nav_values]
+other = "Väärtused"
+
+[nav_blog]
+other = "Blogi"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Avasta"
+
+[footer_latest]
+other = "Viimased artiklid"
+
+[footer_social]
+other = "Sotsiaalmeedia"
+
+[read_more]
+other = "Loe edasi"
+
+[discover_values]
+other = "Avasta meie väärtused"
+
+[see_all_posts]
+other = "Vaata kõiki artikleid"
+
+[form_heading]
+other = "Kirjuta meile"
+
+[form_name]
+other = "Nimi"
+
+[form_email]
+other = "E-post"
+
+[form_message]
+other = "Sinu sõnum"
+
+[form_submit]
+other = "Saada"
+
+[nav_action]
+other = "X-päev"
+
+[countdown_days]
+other = "päeva"
+
+[countdown_hours]
+other = "tundi"
+
+[countdown_minutes]
+other = "minutit"
+
+[countdown_seconds]
+other = "sekundit"
+
+[action_banner_title]
+other = "1. märts 2026 — X-päev"
+
+[action_banner_subtitle]
+other = "Päev, mil lõpetame buldooserite rahastamise"

@@ -1,0 +1,68 @@
+[nav_home]
+other = "Pradžia"
+
+[nav_products]
+other = "Temos"
+
+[nav_values]
+other = "Vertybės"
+
+[nav_blog]
+other = "Tinklaraštis"
+
+[nav_contact]
+other = "Kontaktai"
+
+[footer_discover]
+other = "Atraskite"
+
+[footer_latest]
+other = "Naujausi straipsniai"
+
+[footer_social]
+other = "Socialinė žiniasklaida"
+
+[read_more]
+other = "Skaityti daugiau"
+
+[discover_values]
+other = "Atraskite mūsų vertybes"
+
+[see_all_posts]
+other = "Žiūrėti visus straipsnius"
+
+[form_heading]
+other = "Parašykite mums"
+
+[form_name]
+other = "Vardas"
+
+[form_email]
+other = "El. paštas"
+
+[form_message]
+other = "Jūsų žinutė"
+
+[form_submit]
+other = "Siųsti"
+
+[nav_action]
+other = "X diena"
+
+[countdown_days]
+other = "dienų"
+
+[countdown_hours]
+other = "valandų"
+
+[countdown_minutes]
+other = "minučių"
+
+[countdown_seconds]
+other = "sekundžių"
+
+[action_banner_title]
+other = "2026 m. kovo 1 d. — X diena"
+
+[action_banner_subtitle]
+other = "Diena, kai nustojame finansuoti buldozerius"
