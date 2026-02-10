@@ -2,19 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.svg" "title" .Title "subtitle" .Params.subtitle) }}
 
-<!-- Action Banner -->
-<div class="mw8 center pa3 mb4">
-  <a href="{{ "action" | relLangURL }}" class="db no-underline">
-    <div class="action-banner relative overflow-hidden br3 shadow-4">
-      <img src="/img/action-banner.svg" alt="{{ i18n "nav_action" }}" class="w-100 db"/>
-      <div class="absolute bottom-0 left-0 right-0 pa4 bg-black-60 white">
-        <h2 class="f3 f2-l fw7 mb2 white">{{ i18n "action_banner_title" | default "1er Mars 2026 — Le Jour J" }}</h2>
-        <p class="f5 f4-l mb0 o-90">{{ i18n "action_banner_subtitle" | default "Le jour où nous cessons de financer les bulldozers" }}</p>
-      </div>
-    </div>
-  </a>
-</div>
-
 <div class="mw7 center">
   {{/* Get all posts, sort by date descending, then by episode number descending for consistent ordering */}}
   {{ $posts := where .Site.RegularPages "Type" "post" }}
