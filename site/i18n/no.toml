@@ -1,0 +1,68 @@
+[nav_home]
+other = "Hjem"
+
+[nav_products]
+other = "Temaer"
+
+[nav_values]
+other = "Verdier"
+
+[nav_blog]
+other = "Blogg"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Oppdag"
+
+[footer_latest]
+other = "Nyeste artikler"
+
+[footer_social]
+other = "Sosiale medier"
+
+[read_more]
+other = "Les mer"
+
+[discover_values]
+other = "Oppdag våre verdier"
+
+[see_all_posts]
+other = "Se alle artikler"
+
+[form_heading]
+other = "Skriv til oss"
+
+[form_name]
+other = "Navn"
+
+[form_email]
+other = "E-post"
+
+[form_message]
+other = "Din melding"
+
+[form_submit]
+other = "Send"
+
+[nav_action]
+other = "Dagen X"
+
+[countdown_days]
+other = "dager"
+
+[countdown_hours]
+other = "timer"
+
+[countdown_minutes]
+other = "minutter"
+
+[countdown_seconds]
+other = "sekunder"
+
+[action_banner_title]
+other = "1. mars 2026 — Dagen X"
+
+[action_banner_subtitle]
+other = "Dagen da vi slutter å finansiere bulldosere"

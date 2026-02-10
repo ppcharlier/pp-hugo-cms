@@ -22,6 +22,9 @@ de = "Die Bedeutung der Wörter ausgraben — Die Wurzeln politischer, sozialer 
 pt = "Desenterrar o sentido das palavras — Explorar as raízes dos movimentos políticos, sociais e industriais."
 hu = "A szavak jelentésének feltárása — A politikai, társadalmi és ipari mozgalmak gyökereinek felfedezése."
 it = "Dissotterrare il senso delle parole — Esplorare le radici dei movimenti politici, sociali e industriali."
+sv = "Gräva fram ordens betydelse — Utforska rötterna till politiska, sociala och industriella rörelser."
+no = "Grave fram ordenes betydning — Utforske røttene til politiske, sosiale og industrielle bevegelser."
+fi = "Sanojen merkityksen esiin kaivaminen — Poliittisten, sosiaalisten ja teollisten liikkeiden juurien tutkiminen."
 
 [languages]
   [languages.fr]
@@ -79,3 +82,24 @@ it = "Dissotterrare il senso delle parole — Esplorare le radici dei movimenti 
     title = "Giardino delle Radici"
     weight = 8
     contentDir = "content/it"
+
+  [languages.sv]
+    languageCode = "sv"
+    languageName = "Svenska"
+    title = "Rotträdgården"
+    weight = 9
+    contentDir = "content/sv"
+
+  [languages.no]
+    languageCode = "no"
+    languageName = "Norsk"
+    title = "Rothagen"
+    weight = 10
+    contentDir = "content/no"
+
+  [languages.fi]
+    languageCode = "fi"
+    languageName = "Suomi"
+    title = "Juuripuutarha"
+    weight = 11
+    contentDir = "content/fi"

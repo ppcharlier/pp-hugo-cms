@@ -1,0 +1,68 @@
+[nav_home]
+other = "Etusivu"
+
+[nav_products]
+other = "Teemat"
+
+[nav_values]
+other = "Arvot"
+
+[nav_blog]
+other = "Blogi"
+
+[nav_contact]
+other = "Yhteystiedot"
+
+[footer_discover]
+other = "Tutustu"
+
+[footer_latest]
+other = "Uusimmat artikkelit"
+
+[footer_social]
+other = "Sosiaalinen media"
+
+[read_more]
+other = "Lue lisää"
+
+[discover_values]
+other = "Tutustu arvoihimme"
+
+[see_all_posts]
+other = "Katso kaikki artikkelit"
+
+[form_heading]
+other = "Kirjoita meille"
+
+[form_name]
+other = "Nimi"
+
+[form_email]
+other = "Sähköposti"
+
+[form_message]
+other = "Viestisi"
+
+[form_submit]
+other = "Lähetä"
+
+[nav_action]
+other = "X-päivä"
+
+[countdown_days]
+other = "päivää"
+
+[countdown_hours]
+other = "tuntia"
+
+[countdown_minutes]
+other = "minuuttia"
+
+[countdown_seconds]
+other = "sekuntia"
+
+[action_banner_title]
+other = "1. maaliskuuta 2026 — X-päivä"
+
+[action_banner_subtitle]
+other = "Päivä, jona lopetamme puskutraktoreiden rahoittamisen"

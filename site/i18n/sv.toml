@@ -1,0 +1,68 @@
+[nav_home]
+other = "Hem"
+
+[nav_products]
+other = "Teman"
+
+[nav_values]
+other = "Värderingar"
+
+[nav_blog]
+other = "Blogg"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Upptäck"
+
+[footer_latest]
+other = "Senaste artiklarna"
+
+[footer_social]
+other = "Sociala medier"
+
+[read_more]
+other = "Läs mer"
+
+[discover_values]
+other = "Upptäck våra värderingar"
+
+[see_all_posts]
+other = "Se alla artiklar"
+
+[form_heading]
+other = "Skriv till oss"
+
+[form_name]
+other = "Namn"
+
+[form_email]
+other = "E-post"
+
+[form_message]
+other = "Ditt meddelande"
+
+[form_submit]
+other = "Skicka"
+
+[nav_action]
+other = "Dagen X"
+
+[countdown_days]
+other = "dagar"
+
+[countdown_hours]
+other = "timmar"
+
+[countdown_minutes]
+other = "minuter"
+
+[countdown_seconds]
+other = "sekunder"
+
+[action_banner_title]
+other = "1 mars 2026 — Dagen X"
+
+[action_banner_subtitle]
+other = "Dagen då vi slutar finansiera bulldozrar"
