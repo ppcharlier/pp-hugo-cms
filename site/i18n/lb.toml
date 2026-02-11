@@ -1,0 +1,68 @@
+[nav_home]
+other = "Heem"
+
+[nav_products]
+other = "Themen"
+
+[nav_values]
+other = "Wäerter"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Entdecken"
+
+[footer_latest]
+other = "Lescht Artikelen"
+
+[footer_social]
+other = "Sozial Netzwierker"
+
+[read_more]
+other = "Méi liesen"
+
+[discover_values]
+other = "Entdeckt eis Wäerter"
+
+[see_all_posts]
+other = "All Artikelen gesinn"
+
+[form_heading]
+other = "Schreift eis"
+
+[form_name]
+other = "Numm"
+
+[form_email]
+other = "E-Mail"
+
+[form_message]
+other = "Är Noriicht"
+
+[form_submit]
+other = "Schécken"
+
+[nav_action]
+other = "Den Dag X"
+
+[countdown_days]
+other = "Deeg"
+
+[countdown_hours]
+other = "Stonnen"
+
+[countdown_minutes]
+other = "Minutten"
+
+[countdown_seconds]
+other = "Sekonnen"
+
+[action_banner_title]
+other = "1. Mäerz 2026 — Den Dag X"
+
+[action_banner_subtitle]
+other = "Den Dag wou mer ophalen Bagger ze finanzéieren"

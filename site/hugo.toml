@@ -32,6 +32,15 @@ sk = "Vykopávanie významu slov — Skúmanie koreňov politických, sociálnyc
 lt = "Žodžių prasmės atkasimas — Politinių, socialinių ir pramoninių judėjimų šaknų tyrinėjimas."
 lv = "Vārdu nozīmes atrakšana — Politisko, sociālo un industriālo kustību sakņu izpēte."
 et = "Sõnade tähenduse väljakaevamine — Poliitiliste, sotsiaalsete ja tööstuslike liikumiste juurte uurimine."
+da = "At udgrave ordenes betydning — At udforske rødderne til politiske, sociale og industrielle bevægelser."
+bg = "Разкопаване на значението на думите — Изследване на корените на политическите, социалните и индустриалните движения."
+hr = "Iskopavanje značenja riječi — Istraživanje korijena političkih, društvenih i industrijskih pokreta."
+sl = "Izkopavanje pomena besed — Raziskovanje korenin političnih, družbenih in industrijskih gibanj."
+el = "Ξεθάβοντας τη σημασία των λέξεων — Εξερευνώντας τις ρίζες των πολιτικών, κοινωνικών και βιομηχανικών κινημάτων."
+mt = "Tħaffer it-tifsira tal-kliem — Tesplora l-għeruq tal-movimenti politiċi, soċjali u industrijali."
+ga = "Tochailt bhrí na bhfocal — Fréamhacha na ngluaiseachtaí polaitiúla, sóisialta agus tionsclaíocha a fhiosrú."
+ca = "Desenterrar el sentit de les paraules — Explorar les arrels dels moviments polítics, socials i industrials."
+lb = "De Sënn vun de Wierder ausgruewen — D'Wuerzele vu politesche, sozialen an industrielle Bewegungen entdecken."
 
 [languages]
   [languages.fr]
@@ -159,3 +168,66 @@ et = "Sõnade tähenduse väljakaevamine — Poliitiliste, sotsiaalsete ja töö
     title = "Juurte Aed"
     weight = 18
     contentDir = "content/et"
+
+  [languages.da]
+    languageCode = "da"
+    languageName = "Dansk"
+    title = "Rodhaven"
+    weight = 19
+    contentDir = "content/da"
+
+  [languages.bg]
+    languageCode = "bg"
+    languageName = "Български"
+    title = "Градината на корените"
+    weight = 20
+    contentDir = "content/bg"
+
+  [languages.hr]
+    languageCode = "hr"
+    languageName = "Hrvatski"
+    title = "Vrt Korijena"
+    weight = 21
+    contentDir = "content/hr"
+
+  [languages.sl]
+    languageCode = "sl"
+    languageName = "Slovenščina"
+    title = "Vrt Korenin"
+    weight = 22
+    contentDir = "content/sl"
+
+  [languages.el]
+    languageCode = "el"
+    languageName = "Ελληνικά"
+    title = "Κήπος των Ριζών"
+    weight = 23
+    contentDir = "content/el"
+
+  [languages.mt]
+    languageCode = "mt"
+    languageName = "Malti"
+    title = "Il-Ġnien tal-Għeruq"
+    weight = 24
+    contentDir = "content/mt"
+
+  [languages.ga]
+    languageCode = "ga"
+    languageName = "Gaeilge"
+    title = "Gairdín na bhFréamhacha"
+    weight = 25
+    contentDir = "content/ga"
+
+  [languages.ca]
+    languageCode = "ca"
+    languageName = "Català"
+    title = "El Jardí de les Arrels"
+    weight = 26
+    contentDir = "content/ca"
+
+  [languages.lb]
+    languageCode = "lb"
+    languageName = "Lëtzebuergesch"
+    title = "De Wuerzelgaart"
+    weight = 27
+    contentDir = "content/lb"
