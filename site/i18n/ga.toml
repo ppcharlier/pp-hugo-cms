@@ -1,0 +1,68 @@
+[nav_home]
+other = "Baile"
+
+[nav_products]
+other = "Téamaí"
+
+[nav_values]
+other = "Luachanna"
+
+[nav_blog]
+other = "Blag"
+
+[nav_contact]
+other = "Teagmháil"
+
+[footer_discover]
+other = "Aimsigh"
+
+[footer_latest]
+other = "Na hailt is déanaí"
+
+[footer_social]
+other = "Meáin shóisialta"
+
+[read_more]
+other = "Léigh tuilleadh"
+
+[discover_values]
+other = "Aimsigh ár luachanna"
+
+[see_all_posts]
+other = "Féach ar gach alt"
+
+[form_heading]
+other = "Scríobh chugainn"
+
+[form_name]
+other = "Ainm"
+
+[form_email]
+other = "Ríomhphost"
+
+[form_message]
+other = "Do theachtaireacht"
+
+[form_submit]
+other = "Seol"
+
+[nav_action]
+other = "Lá X"
+
+[countdown_days]
+other = "lá"
+
+[countdown_hours]
+other = "uair"
+
+[countdown_minutes]
+other = "nóiméad"
+
+[countdown_seconds]
+other = "soicind"
+
+[action_banner_title]
+other = "1 Márta 2026 — Lá X"
+
+[action_banner_subtitle]
+other = "An lá a stopaimid ag maoiniú bulldóiseirí"

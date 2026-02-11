@@ -1,0 +1,68 @@
+[nav_home]
+other = "Paġna Ewlenija"
+
+[nav_products]
+other = "Temi"
+
+[nav_values]
+other = "Valuri"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kuntatt"
+
+[footer_discover]
+other = "Skopri"
+
+[footer_latest]
+other = "L-aħħar artikli"
+
+[footer_social]
+other = "Midja soċjali"
+
+[read_more]
+other = "Aqra aktar"
+
+[discover_values]
+other = "Skopri l-valuri tagħna"
+
+[see_all_posts]
+other = "Ara l-artikli kollha"
+
+[form_heading]
+other = "Iktbilna"
+
+[form_name]
+other = "Isem"
+
+[form_email]
+other = "Email"
+
+[form_message]
+other = "Il-messaġġ tiegħek"
+
+[form_submit]
+other = "Ibgħat"
+
+[nav_action]
+other = "Jum X"
+
+[countdown_days]
+other = "jiem"
+
+[countdown_hours]
+other = "sigħat"
+
+[countdown_minutes]
+other = "minuti"
+
+[countdown_seconds]
+other = "sekondi"
+
+[action_banner_title]
+other = "1 ta' Marzu 2026 — Jum X"
+
+[action_banner_subtitle]
+other = "Il-jum li nieqfu niffinanzjaw il-bulldozers"

@@ -1,0 +1,68 @@
+[nav_home]
+other = "Inici"
+
+[nav_products]
+other = "Temes"
+
+[nav_values]
+other = "Valors"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Contacte"
+
+[footer_discover]
+other = "Descobreix"
+
+[footer_latest]
+other = "Últims articles"
+
+[footer_social]
+other = "Xarxes socials"
+
+[read_more]
+other = "Llegeix més"
+
+[discover_values]
+other = "Descobreix els nostres valors"
+
+[see_all_posts]
+other = "Veure tots els articles"
+
+[form_heading]
+other = "Escriu-nos"
+
+[form_name]
+other = "Nom"
+
+[form_email]
+other = "Correu electrònic"
+
+[form_message]
+other = "El teu missatge"
+
+[form_submit]
+other = "Enviar"
+
+[nav_action]
+other = "El Dia X"
+
+[countdown_days]
+other = "dies"
+
+[countdown_hours]
+other = "hores"
+
+[countdown_minutes]
+other = "minuts"
+
+[countdown_seconds]
+other = "segons"
+
+[action_banner_title]
+other = "1 de març de 2026 — El Dia X"
+
+[action_banner_subtitle]
+other = "El dia que deixem de finançar excavadores"

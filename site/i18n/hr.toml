@@ -1,0 +1,68 @@
+[nav_home]
+other = "Početna"
+
+[nav_products]
+other = "Teme"
+
+[nav_values]
+other = "Vrijednosti"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Otkrijte"
+
+[footer_latest]
+other = "Najnoviji članci"
+
+[footer_social]
+other = "Društvene mreže"
+
+[read_more]
+other = "Pročitajte više"
+
+[discover_values]
+other = "Otkrijte naše vrijednosti"
+
+[see_all_posts]
+other = "Pogledajte sve članke"
+
+[form_heading]
+other = "Pišite nam"
+
+[form_name]
+other = "Ime"
+
+[form_email]
+other = "E-pošta"
+
+[form_message]
+other = "Vaša poruka"
+
+[form_submit]
+other = "Pošalji"
+
+[nav_action]
+other = "Dan X"
+
+[countdown_days]
+other = "dana"
+
+[countdown_hours]
+other = "sati"
+
+[countdown_minutes]
+other = "minuta"
+
+[countdown_seconds]
+other = "sekundi"
+
+[action_banner_title]
+other = "1. ožujka 2026. — Dan X"
+
+[action_banner_subtitle]
+other = "Dan kada prestajemo financirati buldožere"

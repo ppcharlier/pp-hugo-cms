@@ -1,0 +1,68 @@
+[nav_home]
+other = "Αρχική"
+
+[nav_products]
+other = "Θέματα"
+
+[nav_values]
+other = "Αξίες"
+
+[nav_blog]
+other = "Ιστολόγιο"
+
+[nav_contact]
+other = "Επικοινωνία"
+
+[footer_discover]
+other = "Ανακαλύψτε"
+
+[footer_latest]
+other = "Τελευταία άρθρα"
+
+[footer_social]
+other = "Κοινωνικά δίκτυα"
+
+[read_more]
+other = "Διαβάστε περισσότερα"
+
+[discover_values]
+other = "Ανακαλύψτε τις αξίες μας"
+
+[see_all_posts]
+other = "Δείτε όλα τα άρθρα"
+
+[form_heading]
+other = "Γράψτε μας"
+
+[form_name]
+other = "Όνομα"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Το μήνυμά σας"
+
+[form_submit]
+other = "Αποστολή"
+
+[nav_action]
+other = "Ημέρα Χ"
+
+[countdown_days]
+other = "ημέρες"
+
+[countdown_hours]
+other = "ώρες"
+
+[countdown_minutes]
+other = "λεπτά"
+
+[countdown_seconds]
+other = "δευτερόλεπτα"
+
+[action_banner_title]
+other = "1η Μαρτίου 2026 — Ημέρα Χ"
+
+[action_banner_subtitle]
+other = "Η ημέρα που σταματάμε να χρηματοδοτούμε μπουλντόζες"

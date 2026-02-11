@@ -1,0 +1,68 @@
+[nav_home]
+other = "Начало"
+
+[nav_products]
+other = "Теми"
+
+[nav_values]
+other = "Ценности"
+
+[nav_blog]
+other = "Блог"
+
+[nav_contact]
+other = "Контакт"
+
+[footer_discover]
+other = "Открийте"
+
+[footer_latest]
+other = "Последни статии"
+
+[footer_social]
+other = "Социални мрежи"
+
+[read_more]
+other = "Прочетете повече"
+
+[discover_values]
+other = "Открийте нашите ценности"
+
+[see_all_posts]
+other = "Вижте всички статии"
+
+[form_heading]
+other = "Пишете ни"
+
+[form_name]
+other = "Име"
+
+[form_email]
+other = "Имейл"
+
+[form_message]
+other = "Вашето съобщение"
+
+[form_submit]
+other = "Изпрати"
+
+[nav_action]
+other = "Ден X"
+
+[countdown_days]
+other = "дни"
+
+[countdown_hours]
+other = "часа"
+
+[countdown_minutes]
+other = "минути"
+
+[countdown_seconds]
+other = "секунди"
+
+[action_banner_title]
+other = "1 март 2026 — Ден X"
+
+[action_banner_subtitle]
+other = "Денят, в който спираме да финансираме булдозери"

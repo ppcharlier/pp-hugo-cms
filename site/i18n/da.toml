@@ -1,0 +1,68 @@
+[nav_home]
+other = "Hjem"
+
+[nav_products]
+other = "Temaer"
+
+[nav_values]
+other = "Værdier"
+
+[nav_blog]
+other = "Blog"
+
+[nav_contact]
+other = "Kontakt"
+
+[footer_discover]
+other = "Opdag"
+
+[footer_latest]
+other = "Seneste artikler"
+
+[footer_social]
+other = "Sociale medier"
+
+[read_more]
+other = "Læs mere"
+
+[discover_values]
+other = "Opdag vores værdier"
+
+[see_all_posts]
+other = "Se alle artikler"
+
+[form_heading]
+other = "Skriv til os"
+
+[form_name]
+other = "Navn"
+
+[form_email]
+other = "E-mail"
+
+[form_message]
+other = "Din besked"
+
+[form_submit]
+other = "Send"
+
+[nav_action]
+other = "Dagen X"
+
+[countdown_days]
+other = "dage"
+
+[countdown_hours]
+other = "timer"
+
+[countdown_minutes]
+other = "minutter"
+
+[countdown_seconds]
+other = "sekunder"
+
+[action_banner_title]
+other = "1. marts 2026 — Dagen X"
+
+[action_banner_subtitle]
+other = "Dagen hvor vi holder op med at finansiere bulldozere"
