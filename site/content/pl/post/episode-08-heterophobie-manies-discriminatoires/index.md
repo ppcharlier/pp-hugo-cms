@@ -1,21 +1,27 @@
 ---
-title: "Heterofobia i Manie Dyskryminacyjne"
+title: "Ksenomania"
 date: 2026-02-10
 draft: false
 episode: 8
-series: "Ogród Korzeni"
-subtitle: "Kiedy słowa zdają się diagnozą"
-description: "Przyrostek -fob opisuje strach. Ale ten, który prześladuje, nie ucieka — jest obsesyjny. Eksploracja etymologiczna kłamstwa lingwistycznego, które chroni to, co pretenduje do walki."
+series: "Ogrod Korzeni"
+subtitle: "Nominatywne Zgromadzenie dyskryminacji"
+description: "Homofobia, ksenofobia, transfobia - te slowa klamia. Przyrostek -fob opisuje strach, ale ten, kto przesladuje, nie ucieka: jest obsesyjny. Eksploracja etymologiczna klamstwa lingwistycznego, ktore chroni dyskryminacje, i propozycja terminu unifikujacego: ksenomania, chorobliwa obsesja na punkcie innego."
 categories: ["filozofia", "lingwistyka", "psychologia"]
-tags: ["etymologia", "homofobia", "dyskryminacja", "heterofobia", "mania", "fobia", "język", "Weinberg", "Herek", "uprzedzenie"]
+tags: [
+  "ksenomania", "etymologia", "dyskryminacja", "jezyk", "mania", "fobia",
+  "homofobia", "ksenofobia", "transfobia", "islamofobia", "rasizm", "seksizm",
+  "homomania", "transmania", "islamomania", "etnomania",
+  "inkluzywnosc", "roznorodnosc", "innosc", "tolerancja", "szacunek", "godnosc ludzka",
+  "uprzedzenie", "obsesja", "Weinberg", "Herek", "psychologia spoleczna"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, marzec 2017"
   - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, artykuł w Screw Magazine, 5 maja 1969"
+  - "Jack Nichols & Lige Clarke, artykul w Screw Magazine, 5 maja 1969"
   - "Time Magazine, 'The Homosexual in America', 1969"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
-  - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
+  - "Pierre Chantraine, Dictionnaire etymologique de la langue grecque, Klincksieck, 1968"
   - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
   - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
   - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
@@ -27,222 +33,273 @@ sources:
   - "Warren J. Blumenfeld (red.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
-> **Nota o przejrzystości**
+> **Nota o przejrzystosci**
 >
-> Ta kronika jest rezultatem współpracy między człowiekiem (Pépé) a sztuczną inteligencją (Claude, Anthropic). Kierunkowe idee, linia redakcyjna i ostateczna walidacja są człowiekiem. Badania dokumentalne i redakcja są wspierane przez AI.
+> Ta kronika jest rezultatem wspolpracy miedzy czlowiekiem (Pepe) a sztuczna inteligencja (Claude, Anthropic). Kierunkowe idee, linia redakcyjna i ostateczna walidacja sa ludzkie. Badania dokumentalne i redakcja sa wspierane przez AI.
 >
-> Ponieważ AI mogą produkować niedokładności, **każde stwierdzenie faktyczne jest źródłem** z dokumentów akademickich, encyklopedycznych lub dziennikarskich dających się zweryfikować. Źródła są wymienione na końcu artykułu.
+> Poniewaz AI moga produkowac niedokladnosci, **kazde stwierdzenie faktyczne jest zrodlowane** z dokumentow akademickich, encyklopedycznych lub dziennikarskich dajacych sie zweryfikowac. Zrodla sa wymienione na koncu artykulu.
 >
-> Ten tekst angażuje tylko swojego redaktora człowieka, który bierze za niego odpowiedzialność.
+> Ten tekst angazuje tylko swojego redaktora ludzkiego, ktory bierze za niego odpowiedzialnosc.
 
 ---
 
-W tym tygodniu wpadłem w dziurę zajęczą etymologiczną. Dzieje się mi to często — pociągam nić, a trzeba godzin później znajduję się z motkiem, który patrzy na mnie oskarżycielsko.
+W tym tygodniu wpadlem w krolicza nore etymologiczna. Zdarza mi sie to czesto - pociagam za nitke i trzy godziny pozniej znajduje sie z motkiem, ktory patrzy na mnie oskarzycielsko.
 
-Nić, tym razem, była przyrostkiem. Cztery litery: *-fob*. Położyłem je obok tego, co pretendują opisać. I nie pasowały. Wcale nie.
+Nitka, tym razem, byla przyrostkiem. Cztery litery: *-fob*. Polozylem je obok tego, co pretenduja opisac. I nie pasowaly. Wcale.
 
-Słowa mają pamięć, a ta sięga starogreckiej. A starożytna greka nie kłamie. My natomiast — kłamiemy za pomocą jej kawałków.
-
----
-
-## Pierwsza Część: Wymyślenie Strategiczne Niedoskonałego Słowa
-
-### George Weinberg i Geniusz 1965
-
-W 1965 roku amerykański psycholog George Weinberg obserwuje coś zatrważającego u swoich kolegów. Kiedy zaprasza przyjaciół homoseksualnych na spotkania, niektórzy naukowcy reagują wizceralnym wstrętem — "bez argumentu, tylko obrzydzenie", powie później.[^1]
-
-Weinberg rozumie, że problem nie jest u homoseksualista. Problem jest u tych, którzy patrzą. I aby to nazwać, wymyśla słowo: *homofobia*.
-
-Termin pojawia się po raz pierwszy w prasie w 1969 roku w czasopiśmie *Screw*, potem w *Time Magazine* tego samego roku.[^2] W 1972 roku Weinberg rozwija go w *Society and the Healthy Homosexual*, książce rewolucyjnej, której pierwsze zdanie nadaje ton: "Nigdy nie uważałbym pacjenta za zdrowego, dopóki nie przezwyciężył uprzedzenia wobec homoseksualności".[^3]
-
-Geniusz jest strategiczny: przyczepiając przyrostek *-fobia* do uprzedzenia anty-gej, Weinberg odwraca diagnozę. To nie homoseksualista, który jest chory — to ten, kto go prześladuje. W epoce, gdy homoseksualność nadal figurowała w *Diagnostic and Statistical Manual* (DSM) jako zaburzenie psychiatryczne, ta inwersja była aktem intelektualnej oporu.[^3]
-
-### Słowo Świadome Swojej Niedoskonałości
-
-Ale Weinberg wiedział, że jego słowo było niedoskonałe. Faktycznie, zdefiniował je wąsko: "terror bycia w bliskiej bliskości homoseksualista — i, w przypadku samych homoseksualista, nienawiść do siebie".[^3]
-
-Słowo działało — wspaniale — jako narzędzie polityczne. Przyspieszył usunięcie homoseksualności z DSM w 1973 roku. Dał mu nazwę coś, co wszyscy widzieli, ale nikt nie mógł nazwać.[^2]
-
-Ale sześćdziesiąt lat później, słowo nas więzi.
+Slowa maja pamiec, a ta siega starozytnej greki. A starozytna greka nie klamie. My natomiast - klamiemy za pomoca jej kawalkow.
 
 ---
 
-## Druga Część: Kłamstwo Etymologiczne
+## Czesc pierwsza: Strategiczne wynalezienie niedoskonalego slowa
 
-### Co Grecy Naprawdę Mówią
+### George Weinberg i geniusz z 1965 roku
 
-Przyrostek *-phobos* (φόβος) oznacza strach, ucieczkę, instynktowną awersję.[^4] Arachnofob ucieka przed pająkiem. Klaustrofob ucieka przed zamkniętą przestrzenią. Agorafob ucieka przed tłumem. W każdym przypadku mechanizm jest identyczny: terror, który popycha do uniknięcia, wycofania, paraliżu.
+W 1965 roku amerykanski psycholog George Weinberg obserwuje cos niepokojacego u swoich kolegow. Kiedy zaprasza przyjaciol homoseksualnych na spotkania, niektorzy koledzy reaguja wisceralna awersja - "bez argumentu, tylko obrzydzenie", powie pozniej.[^1]
 
-Teraz, co robi ten, o którym mówi się "homofob"?
+Weinberg rozumie, ze problem nie tkwi w homoseksualistach. Problem tkwi w tych, ktorzy na nich patrza. I aby to nazwac, wymysla slowo: *homofobia*.
 
-Nie ucieka. Nie kurczy się. Nie zmienia chodnika drżąc. Nie. Legisluje. Nękuje. Atakuje. Tropią. Manifestuje, petycjonuje, każe i prześladuje. Wchodzi do sypialni innych z uporem fnatyka. Poświęca znaczną energię na przyglądanie się, komentowanie, skazywanie i próbę kontrolowania intymności zupełnie obcych ludzi.
+Termin pojawia sie po raz pierwszy w prasie w 1969 roku w czasopismie *Screw*, pozniej w *Time Magazine* tego samego roku.[^2] W 1972 roku Weinberg rozwija go w *Society and the Healthy Homosexual*, rewolucyjnej ksiazce, ktorej pierwsze zdanie nadaje ton: "Nigdy nie uznalem pacjenta za zdrowego, dopoki nie przezwyciezyl swojego uprzedzenia wobec homoseksualnosci".[^3]
 
-To zachowanie nie jest fobią. To obsesja.
+Geniusz jest strategiczny: dodajac przyrostek *-fobia* do uprzedzenia anty-gejowskiego, Weinberg odwraca diagnoze. To nie homoseksualista jest chory - to ten, kto go przesladuje. W epoce, gdy homoseksualnosc nadal figurowala w *Diagnostic and Statistical Manual* (DSM) jako zaburzenie psychiatryczne, ta inwersja byla aktem intelektualnego oporu.[^3]
 
-### Nauka Potwierdza: To Nie Strach
+### Slowo swiadome swoich ograniczen
 
-Gregory Herek, profesor psychologii na Uniwersytecie Kalifornii w Davis i jeden z wielkich specjalistów światowych uprzedzenia seksualnego, poświęcił dziesięciolecia dokumentowaniu limitów terminu. W artykule założycielskim z 2004 roku, "Beyond Homophobia", zauważa, że słowo "rzadko odnosi się do intensywnego, irracjonalnego strachu przed mniejszościami seksualnymi", że jest "oprawiane przez pryzmat psychopatologii bez bycia zaprojektowanym jako diagnoza", i że "nieadekwatnie odzwierciedlało rolę szerszych norm społecznych w kształtowaniu indywidualnych postaw".[^5]
+Ale Weinberg wiedzial, ze jego slowo bylo niedoskonale. Zdefiniował je zreszta wasko: "terror przebywania w bliskiej obecnosci homoseksualista - i, w przypadku samych homoseksualistow, nienawsci do siebie".[^3]
 
-Herek proponuje zastąpić termin "uprzedzeniem seksualnym" (*sexual prejudice*), które definiuje jako "negatywne postawy wobec jednostki z powodu jej orientacji seksualnej".[^6] To bardziej precyzyjne. Ale to nadal nie jest wystarczająco sprawiedliwe.
+Slowo zadzialalo - wspaniale - jako narzedzie polityczne. Przyczynilo sie do usuniecia homoseksualnosci z DSM w 1973 roku. Nadalo nazwe czemus, co wszyscy widzieli, ale nikt nie mogl nazwac.[^2]
 
-Ponieważ problem nie jest tylko niedokładnością. To kierunek reflektora.
-
-### Tarcza Retoryczna
-
-W 2012 roku Associated Press — którego *Stylebook* ustala normy redakcyjne dla większości gazet amerykańskich — usunęła słowo "homofobia" z kontekstów politycznych i społecznych. Zastępca redaktora naczelnego Dave Minthorn wyjaśnił: "To jest po prostu niedokładne. Priorytetuje zaburzenie psychiczne komuś, i to sugeruje wiedzę, którą nie mamy".[^7]
-
-Sam Weinberg sprzeciwił się temu wycofaniu, argumentując, że słowo pozostało "krytyczne dla naszej ludzkości" tak długo, jak trwały czyny, które ono opisywało.[^8] Miał rację na temat konieczności namiania. Ale pytanie pozostaje: czy słowo źle, czy nie chroni niezamierzone?
-
-Ponieważ oto co pozwala przyrostek *-fob*: każdy prześladowca może odpowiedzieć "nie boję się", i mieć technicznie rację. Słowo oferuje mu wyjście retoryczne.
-
-Jeszcze gorzej: stwarza to perwersjną zachętę do agresji. Jeśli oskarża się cię o strach, jak dowodzisz kontroli? Przejawiając, że się nie boisz. Idąc do obiektu twojej rzekomo przerażenia. Uderzając, obrażając, prześladując — właśnie aby wykazać, że nie jesteś tym, co słowo pretenduje opisać. Fobia wzywa do ucieczki; obalenie fobii wzywa do ataku. Słowo nie opisuje przemocy — to ją prowokuje.
-
-I przyczepiając *homo-* do negatywnego przyrostka, subtelnie wpisuje problem po stronie homoseksualista — jakby proste istnienie wystarczyłoby, aby wywoływać patologię u drugiego.
+Ale szescdziesiat lat pozniej slowo nas wiezie.
 
 ---
 
-## Trzecia Część: Prawidłowa Diagnoza — Mania
+## Czesc druga: Klamstwo etymologiczne
 
-### Przyrostek Znacznie Bardziej Precyzyjny
+### Co greka naprawde mowi
 
-Starożytna greka oferuje nam inne narzędzie: *-mania* (μανία) — szaleństwo, pożerająca obsesja, przymusowa fiksacja, która pochłania rozum.[^4] Piromaniaka nie "boi się" ognia: jest nim opętany. Megalomaniak nie "ucieka" od wielkości: jest jej niewolnikiem. Kleptomaniak nie "boi się" kradzieży: jest jej więźniem.
+Przyrostek *-phobos* (phobos) oznacza strach, ucieczke, instynktowna awersje.[^4] Arachnofob ucieka przed pajakiem. Klaustrofob ucieka przed zamknieta przestrzenia. Agorafob ucieka przed tlumem. W kazdym przypadku mechanizm jest identyczny: terror, ktory popycha do unikania, wycofania, paraliżu.
 
-Homomania nie boi się homoseksualności: jest nią zafascynowany. Myśli o tym rano, czytając gazetę. Myśli o tym widząc dwie osoby trzymające się za ręce na ulicy. Myśli o tym głosując, wychowując dzieci, wybierając swoje walki polityczne. Jego umysł jest kolonizowany homoseksualnością drugich z intensywnością, którą większość homoseksualista prawdopodobnie nie osiąga.
+Teraz, co robi ten, o ktorym mowi sie "homofob"?
 
-### Nauka Obsesji
+Nie ucieka. Nie kurczy sie. Nie zmienia chodnika drzac. Nie. Legisluje. Neka. Atakuje. Tropi. Manifestuje, petycjonuje, każe i przesladuje. Wchodzi do sypialni innych z uporem fanatyka. Poświeca znaczna energie na przygladanie sie, komentowanie, potępianie i probe kontrolowania intymnosci zupelnie obcych ludzi.
 
-W 1996 roku psychologowie Henry Adams, Lester Wright i Bethany Lohr z Uniwersytetu Georgia opublikują słynne badanie w *Journal of Abnormal Psychology*. Zmierzyli fizjologiczne reakcje 64 mężczyzn heteroseksualnych — 35 sklasyfikowanych jako "homofobowie" i 29 jako "nie-homofobowie" — wobec erotycznych bodźców homoseksualnych. Wynik: tylko mężczyźni homofobowie wykazali istotne wzbudzenie seksualne wobec bodźców homoseksualnych mężczyzn.[^9]
+To zachowanie nie jest fobia. To obsesja.
 
-Interpretacje tego badania są dyskutowane — wzbudzenie mogłoby odzwierciedlać lęk niż pragnienie.[^9] Ale co badanie dokumentuje bez dwuznaczności to reaktywność nieproporcjonalna: "homofob" nie odwraca wzrok. Jego ciało reaguje. Jego uwaga jest uwięziona. To mechanizm fiksacji obsesyjnej, nie fiksacja fobii.
+### Nauka potwierdza: to nie strach
 
-### Potrójny Awans Nowego Terminu
+Gregory Herek, profesor psychologii na Uniwersytecie Kalifornii w Davis i jeden z wielkich swiatowych specjalistow od uprzedzen seksualnych, poswiecil dziesieciolecia dokumentowaniu ograniczen tego terminu. W artykule zalozycielskim z 2004 roku, "Beyond Homophobia", zauważa, ze slowo "rzadko odnosi sie do intensywnego, irracjonalnego strachu przed mniejszosciami seksualnymi", ze jest "oprawiane przez pryzmat psychopatologii bez bycia zaprojektowanym jako diagnoza", i ze "nieadekwatnie odzwierciedlalo role szerszych norm spolecznych w ksztaltowaniu indywidualnych postaw".[^5]
 
-Termin *homomania* ma potrójny awans:
+Herek proponuje zastąpic termin "uprzedzeniem seksualnym" (*sexual prejudice*), ktore definiuje jako "negatywne postawy wobec jednostki z powodu jej orientacji seksualnej".[^6] To bardziej precyzyjne. Ale to nadal nie jest wystarczajaco trafne.
 
-1. **Etymologicznie dokładnie**: opisuje obsesję, nie strach.
-2. **Klinicznie szczerze**: literatura psychologiczna obszernie udokumentowała aspekt przymusowy i projekcyjny tych zachowań.[^9][^10]
-3. **Retoryczne sprawiedliwie**: umieszcza reflektor dokładnie tam, gdzie znajduje się rzeczywista dysfunkcja — u prześladowcy, nie u prześladowanego. Homomania nosi diagnozę w swojej własnej nazwie.
+Poniewaz problem nie polega tylko na niedokladnosci. To kierunek reflektora.
 
----
+### Tarcza retoryczna
 
-## Czwarta Część: Generalizacja — Manie Dyskryminacyjne
+W 2012 roku Associated Press - ktorej *Stylebook* ustala normy redakcyjne dla wiekszosci gazet amerykanskich - usunela slowo "homofobia" z kontekstow politycznych i spolecznych. Zastepca redaktora naczelnego Dave Minthorn wyjasnil: "To jest po prostu niedokladne. Przypisuje zaburzenie psychiczne komus, i to sugeruje wiedze, ktorej nie mamy".[^7]
 
-### Schemat, Który Się Powtarza
+Sam Weinberg sprzeciwil sie temu wycofaniu, argumentujac, ze slowo pozostalo "krytyczne dla naszej ludzkosci" tak dlugo, jak trwaly czyny, ktore ono opisywalo.[^8] Mial racje co do koniecznosci nazywania. Ale pytanie pozostaje: nazywac źle, czy to nie znaczy nieumyslnie chronic?
 
-To, co obserwujemy homoseksualność, odnosi się do wszystkich dyskryminacji. Wszędzie przyrostek *-fob* maskuje rzeczywistość zachowania.
+Poniewaz oto, co pozwala przyrostek *-fob*: kazdy przesladowca moze odpowiedziec "nie boje sie", i miec technicznie racje. Slowo oferuje mu wyjscie retoryczne.
 
-*Ksenomaniak* nie boi się obcego — jest nim obsesyjny. Widzi go wszędzie, czyni go odpowiedzialnym za wszystko, buduje całe programy polityczne na tej fiksacji. Poświęca więcej czasu na mówienie o obcych niż obcy sami poświęcają na myślenie o nim.
+Jeszcze gorzej: stwarza to perwersyjna zachete do agresji. Jesli oskarza sie cie o strach, jak udowadniasz, ze jest inaczej? Pokazujac, ze sie nie boisz. Idac do obiektu swojego rzekomego przerazenia. Uderzajac, obrazajac, przesladujac - wlasnie aby wykazac, ze nie jestes tym, co slowo pretenduje opisac. Fobia wzywa do ucieczki; obalenie fobii wzywa do ataku. Slowo nie opisuje przemocy - ono ja prowokuje.
 
-*Etnomania* nie drży przed kolorem skóry — kontroluje go, kategoryzuje, hierarchizuje z dokładnością kompulsywnego kolekcjonera.
-
-*Transmania* nie ucieka przed osobami transgendrami — inwestuje nieproporcjonalny czas i energię w monitorowanie ich ciał, dokumentów tożsamości, toalet.
-
-*Islamomania* nie ucieka przed muzułmanami — tropią je, komentuje, nadzoruje, fantazjuje, przyzywa na każdą debatę, jakby cała cywilizacja zależała od tego, co kobieta nosi na głowie.
-
-W każdym przypadku ten sam schemat: nie przestraszony unik, ale obsesyjna fiksacja, która pożera uwagę, dyskurs i działania polityczne maniaka.
-
-### Kto Czerpie Korzyści z Złej Diagnozy?
-
-Poprzednie odcinki Ogródu Korzeni stawiały pytanie: *cui bono* — komu to służy? Stosujmy to tutaj.
-
-Komu służy przyrostek *-fob*?
-
-Zdecydowanie nie ofiarom, które znajdują się lingwistycznie związane ze słowem negatywnym. Zdecydowanie nie dyskursowi publicznym, które traci w precyzji. Zdecydowanie nie psychologii, która widzi jeden ze swoich przyrostków klinicznych zniekształcony.
-
-Służy prześladowcy, który może się wymigać: "Nie boję się". Służy systemom opresji, które pozostają nienamiete: jeśli jest to "fobia" indywidualna, to nie jest struktura społeczna. Służy wszystkim, którzy wolą patologizować jednostki zamiast kwestionować systemy.
+I doczepiejac *homo-* do negatywnego przyrostka, subtelnie wpisuje problem po stronie homoseksualista - jakby samo istnienie wystarczylo, aby wywolywac patologie u drugiego.
 
 ---
 
-## Piąta Część: Heterofobia — Prawdziwe Imię Korzenia
+## Czesc trzecia: Prawidlowa diagnoza - mania
 
-### Wspólny Pień
+### Przyrostek znacznie bardziej precyzyjny
 
-Pozostaje nazwać wspólny pień wszystkich tych manii. I tutaj słowo już istnieje, którego etymologia zawiera wspaniałą ironię: *heterofobia*.
+Starozytna greka oferuje nam inne narzedzie: *-mania* (mania) - szalenstwo, pozerapjaca obsesja, przymusowa fiksacja, ktora pochlania rozum.[^4] Piroman nie "boi sie" ognia: jest nim opetany. Megaloman nie "ucieka" od wielkosci: jest jej niewolnikiem. Kleptoman nie "boi sie" kradzieży: jest jej wiezniem.
 
-*Heteros* (ἕτερος) oznacza w grece "inny", "różny", "to, co nie jest identyczne ze sobą".[^4] *Phobos*, strach. Heterofobia jest zatem, w najdosłowniejszym sensie, strachem przed alternatywności — egzystencjalnym terrorem wobec tego, co się różni od siebie.
+Homomaniaka nie boi sie homoseksualnosci: jest nia zafascynowany. Mysli o tym rano, czytajac gazete. Mysli o tym widzac dwie osoby trzymajace sie za rece na ulicy. Mysli o tym glosujac, wychowujac dzieci, wybierajac swoje walki polityczne. Jego umysl jest kolonizowany homoseksualnoscia innych z intensywnoscia, ktorej wiekszosc homoseksualistow prawdopodobnie sama nie osiaga.
 
-I tam przyrostek *-fobia* wreszcie odzyskuje swoją słuszność. Ponieważ poniżej głośnej manii, poniżej praw i obelg i przemocy, jest rzeczywiście strach. Głęboki strach, często nieokreślony, czasami nieświadomy: że świata, który nie zgadza się z pocieszającym obrazem, który się sobą wyobraża. Strach, że inny, przez swojego istnienia, podważa solidność poszczególnych pewności.
+### Nauka obsesji
 
-Heterofob — ten, kto boi się różnicy we wszystkich jej formach — jest ogólnym termenem na rasizm, seksizm, homomanię, ksenomanię. Strach jest korzeniem; mania jest aktywnym objawem.
+W 1996 roku psychologowie Henry Adams, Lester Wright i Bethany Lohr z Uniwersytetu Georgia opublikowali slynne badanie w *Journal of Abnormal Psychology*. Zmierzyli fizjologiczne reakcje 64 mezczyzn heteroseksualnych - 35 sklasyfikowanych jako "homofobowie" i 29 jako "nie-homofobowie" - wobec erotycznych bodzcow homoseksualnych. Wynik: tylko mezczyzni homofobowie wykazali istotne podniecenie seksualne wobec bodzcow homoseksualnych.[^9]
 
-### Struktura Kompletna
+Interpretacje tego badania sa dyskutowane - podniecenie mogloby odzwierciedlac lek, a nie pozadanie.[^9] Ale to, co badanie dokumentuje bez dwuznacznosci, to nieproporcjonalna reaktywnosc: "homofob" nie odwraca wzroku. Jego cialo reaguje. Jego uwaga jest uchwycona. To mechanizm fiksacji obsesyjnej, nie mechanizm fobii.
+
+### Potrójny atut nowego terminu
+
+Termin *homomaniaka* ma trojny atut:
+
+1. **Etymologicznie dokladny**: opisuje obsesje, nie strach.
+2. **Klinicznie uczciwy**: literatura psychologiczna obszernie udokumentowala przymusowy i projekcyjny wymiar tych zachowan.[^9][^10]
+3. **Retorycznie sprawiedliwy**: umieszcza reflektor dokladnie tam, gdzie znajduje sie rzeczywista dysfunkcja - u przesladowcy, nie u przesladowanego. Homomaniaka nosi diagnoze w swojej wlasnej nazwie.
+
+---
+
+## Czesc czwarta: Generalizacja - manie dyskryminacyjne
+
+### Schemat, ktory sie powtarza
+
+To, co obserwujemy w przypadku homoseksualnosci, odnosi sie do wszystkich dyskryminacji. Wszedzie przyrostek *-fob* maskuje rzeczywistosc zachowania.
+
+*Ksenomaniaka* nie boi sie obcego - jest nim zafascynowany. Widzi go wszedzie, czyni go odpowiedzialnym za wszystko, buduje cale programy polityczne na tej fiksacji. Poswięca wiecej czasu na mowienie o obcych niz obcy sami poswięcaja na myslenie o nim.
+
+*Etnomaniaka* nie drzy przed kolorem skory - kontroluje go, kategoryzuje, hierarchizuje z dokladnoscia kompulsywnego kolekcjonera.
+
+*Transmaniaka* nie ucieka przed osobami transpłciowymi - inwestuje nieproporcjonalny czas i energie w monitorowanie ich ciał, dokumentow tożsamosci, toalet.
+
+*Islamomaniaka* nie ucieka przed muzulmanami - tropi ich, komentuje, nadzoruje, fantazjuje, przywoluje na kazdą debate, jakby cala cywilizacja zalezala od tego, co kobieta nosi na glowie.
+
+W kazdym przypadku ten sam schemat: nie przestraszony unik, ale obsesyjna fiksacja, ktora pozera uwage, dyskurs i dzialania polityczne maniaka.
+
+### Kto czerpie korzysci ze zlej diagnozy?
+
+Poprzednie odcinki Ogrodu Korzeni stawialy pytanie: *cui bono* - komu to sluzy? Zastosujmy to tutaj.
+
+Komu sluzy przyrostek *-fob*?
+
+Z pewnoscia nie ofiarom, ktore znajduja sie lingwistycznie powiązane ze slowem negatywnym. Z pewnoscia nie dyskursowi publicznemu, ktory traci na precyzji. Z pewnoscia nie psychologii, ktora widzi jeden ze swoich przyrostkow klinicznych znieksztalcony.
+
+Sluzy przesladowcy, ktory moze sie wymigac: "Nie boje sie". Sluzy systemom opresji, ktore pozostaja nienazwane: jesli jest to "fobia" indywidualna, to nie jest struktura spoleczna. I sluzy wszystkim, ktorzy wolą patologizowac jednostki zamiast kwestionowac systemy.
+
+---
+
+## Czesc piąta: Ksenomania - Nominatywne Zgromadzenie
+
+### Dlaczego termin unifikujacy?
+
+Pozostaje nazwać wspolny pien wszystkich tych manii. Potrzebujemy słowa, ktore zjednoczy pod jednym sztandarem wszystkie obsesje dyskryminacyjne - **Nominatywnego Zgromadzenia**, jesli chcecie, zachowan, ktore odrzucaja innego.
+
+*(Akronim N.Z., ktory z tego wynika, jest tylko zbiegiem okolicznosci. Lub nie.)*
+
+### Dlaczego nie "heteromania"?
+
+Mozna by zaproponowac *heteromanie*, od greckiego *heteros* (heteros) - "inny", "rozny". Ale ten termin stwarza problem niejednoznacznosci: w potocznym języku "hetero-" przywoluje natychmiast heteroseksualnosc. *Heteromania* mogłaby być mylona z obsesją *na punkcie* heteroseksualnosci, co maci przekaz.
+
+### Jasnosc "ksenomanii"
+
+Termin **ksenomania** jest przejrzysty.
+
+*Xenos* (xenos) w starozytnej grece oznacza obcego, tego, ktory pochodzi skądinąd, tego, ktory nie nalezy do grupy.[^4] Jest to korzen *ksenofobii*, ale takze *ksenofilii* i pieknego slowa *filoksenia* - goscinnosc, milosc do obcego.
+
+**Ksenomania** jest zatem chorobliwą obsesją na punkcie obcego - ale "obcego" w najszerszym sensie:
+
+- **Obcy narodowy**: ten, ktory pochodzi z innego kraju, z innej kultury
+- **Obcy religijny**: ten, ktory modli sie do innego boga, lub do tego samego boga inaczej - "bliźni ograniczony" religii, ktore zawezają miłosc bliznego do tych, ktorzy dzielą wiare
+- **Obcy seksualny**: ten, którego orientacja lub tożsamosc nie odpowiada normie zbudowanej na niepelnej obserwacji natury
+- **Obcy etniczny**: ten, ktorego wyglad rozni sie od miejscowej wiekszosci
+- **Obcy spoleczny**: ten, którego styl zycia, wybory, wartosci odbiegaja od otaczającego konformizmu
+
+Wszystkie te "innosci" sa postrzegane przez ksenomaniaka jako egzystencjalne zagrozenia. Nie dlatego, ze naprawde mu zagrazaja - ale dlatego, ze ich samo istnienie podwaza fikcje jednolitego, przewidywalnego, uspokajającego swiata.
+
+### Kompletna struktura zrewidowana
 
 ```
-HETEROFOBIA (korzeń)
-    Egzystencjalny strach przed alternatywności
-           │
-           ▼
-    MANIE DYSKRYMINACYJNE (objawy)
-    ├── Homomania: obsesja orientacją seksualną drugich
-    ├── Ksenomania: obsesja pochodzeniem drugich
-    ├── Etnomania: obsesja kolorem skóry drugich
-    ├── Transmania: obsesja tożsamością rodzaju drugich
-    ├── Islamomania: obsesja religią drugych
-    └── itd.
-           │
-           ▼
-    SYSTEMY OPRESJI (struktury)
-    ├── Heteoreseksizm: system привилею heteroseksualnego
-    ├── Rasizm: system hierarchii rasowej
-    ├── Patriarchat: system dominacji męskiej
-    └── itd.
+KSENOMANIA (wspolny pien)
+    Chorobliwa obsesja na punkcie innego, różnego, obcego
+           |
+           +-- Homomania: obsesja orientacja seksualna innych
+           +-- Transmania: obsesja tożsamoscia płciowa innych
+           +-- Etnomania: obsesja pochodzeniem etnicznym innych
+           +-- Islamomania: obsesja religia innych
+           +-- Gynomania nienawistna: obsesja kontrola kobiet
+           +-- itd.
+           |
+           v
+    SYSTEMY OPRESJI (struktury zinstytucjonalizowane)
+           +-- Heteroseksizm: system przywileju heteroseksualnego
+           +-- Rasizm: system hierarchii rasowej
+           +-- Patriarchat: system dominacji meskiej
+           +-- Kolonializm: system eksploatacji ludow
+           +-- itd.
 ```
 
-Ta architektura rozróżnia trzy poziomy, które obecny słownik sprawia, że się mieści:
+Ta architektura rozroznia dwa poziomy, ktore obecny slownik myli:
 
-1. **Strach** (heterofobia) — głęboki poziom psychologiczny, często nieświadomy
-2. **Obsesja** (manie) — widoczny poziom behawioralny, przymusowy
-3. **System** (struktury opresji) — poziom instytucjonalny, kulturalny
+1. **Obsesja** (ksenomania i jej odmiany) - poziom behawioralny widoczny, kompulsywny, indywidualny, ale takze zbiorowy
+2. **System** (struktury opresji) - poziom instytucjonalny, kulturowy, historyczny
 
-Łączenie tych poziomów pozbawiając nas efektywnie zwalczania nich.
+Ksenomaniaka jest piechota. System jest armia. Mylic jedno z drugim to pozbawiać sie mozliwosci skutecznego walczenia z nimi.
 
----
+### Co ujawnia nowe slownictwo
 
-## Szósta Część: Odcinek 01 w Odwrotności
+| Stary termin | Sugeruje... | Nowy termin | Ujawnia... |
+|--------------|-------------|-------------|------------|
+| Homofob | Strach, ofiara swojego strachu | Homomaniaka | Obsesja, odpowiedzialny za swoja obsesje |
+| Ksenofob | Strach przed obcym | Ksenomaniaka | Chorobliwa fiksacja na obcym |
+| Transfob | Strach przed trans | Transmaniaka | Kompulsywna inwigilacja ciał trans |
+| Islamofob | Strach przed islamem | Islamomaniaka | Obsesyjny fantazmat o muzulmaninie |
 
-### Połączenie z Serią
+Przyrostek *-mania* robi trzy rzeczy, ktorych *-fobia* nie robi:
 
-W Odcinku 01 Ogródu Korzeni dokumentowaliśmy dryf semantyczny partii politycznych: słowa, które pozostają na butelkach, których zawartość się zmieniła. "Wolność", "solidarność", "sprawiedliwość społeczna" — etykiety pozostały, sens się parował.
-
-Tutaj obserwujemy zjawisko odwrotne: słowa, które nigdy nie miały właściwej zawartości. Nie dryf — błąd fundacyjny. Słowo "homofobia" nie dryftowało ze swojego pierwotnego sensu. Została zbudowana na nieadekwatnym przyrostek, dla zrozumiałych przyczyn strategicznych, których konsekwencje nas doganiają.
-
-To ta sama lekcja, widziana z drugiej strony lustra: słownik nigdy nie jest niewinny. Kiedy słowa kłamią — poprzez dryf lub budowę — chroniące struktury, które pretendują mieć imię.
-
-### Prześladowca to Tchórz, Który się Nie Wie
-
-Ta analiza nie jest tylko ejercyciem stylistycznym leksykalnym. Poprawna nazwa oznacza poprawne zrozumienie. A poprawne zrozumienie oznacza możliwość działania z sprawiedliwością.
-
-Kiedy mówimy "homofob", opisujemy wroga. Kiedy mówimy "homomania", opisujemy obsesyjnego. Kiedy identyfikujemy heterofobię jako korzeń, opisujemy tchórza. I wobec tchórza odpowiedź nie jest taka sama jak wobec wroga.
-
-Maniakalna osoba jest kimś, którego tożsamość jest tak krucha, że nie znosi istnienia alternatywności. Obsesja z innym jest tylko odwróconym odbiciem jej strachu o sobie. Każde prawo, które głosuje przeciwko różnicy, jest wyznaniem insecurity. Każda obelga jest krzykiem paniki. Każde prześladowanie jest desperacką próbą uproszczenia świata, którego złożoność go przytłacza.
-
-To nie czyni jego czynów ani mniej poważnymi, ani mniej potępiającymi. Ale zmienia spojrzenie, które przykłada do mechanizmu. A w tej zmianie spojrzenia można znaleźć może, poza niezbędną oporem, klucz do zrozumienia — a zatem transformacji.
-
-Ponieważ nie lecz się manii poprzez nazwanie jej fobią. A nie walczy się ze strachem, ignorując to, że istnieje.
+1. **Odpowiedzialnosc**: nie usprawiedliwia sie manii tak, jak usprawiedliwia sie strach
+2. **Trafna diagnoza**: obsesja jest prawdziwym mechanizmem
+3. **Przesuniecie problemu**: dysfunkcja jest u obserwatora, nie u obserwowanego
 
 ---
 
-### Pytanie, Które Ci Zostawiam
+## Czesc szosta: Odcinek 01 odwrocony
 
-Słowa, które używamy do opisania dyskryminacji — czy rzeczywiście je opisują? Czy tworzą ekran więcej między nami a rzeczywistością?
+### Powiazanie z seria
 
-Jeśli słownik chroni to, co pretenduje do walki, to może pierwszy akt oporu jest przenamianie. Nie przez lingwistyczną kokieterię. Ponieważ nie możesz leczyć to, czego nie potrafisz nazwać.
+W Odcinku 01 Ogrodu Korzeni dokumentowalismy dryf semantyczny partii politycznych: slowa, ktore pozostaja na butelkach, ktorych zawartosc sie zmienila. "Wolnosc", "solidarnosc", "sprawiedliwosc spoleczna" - etykiety pozostaly, sens wyparowal.
 
-Napiszcie do mnie. Ogród jest wielki, a niektóre korzenie są zakopaone w samym języku.
+Tutaj obserwujemy zjawisko odwrotne: slowa, ktore nigdy nie mialy wlasciwej zawartosci. Nie dryf - blad fundamentalny. Slowo "homofobia" nie dryfowalo ze swojego pierwotnego sensu. Zostalo zbudowane na nieadekwatnym przyrostku, z powodów strategicznych zrozumialych, ale ktorych konsekwencje nas doganiaja.
 
-*Pépé*
+To ta sama lekcja, widziana z drugiej strony lustra: slownik nigdy nie jest niewinny. Kiedy slowa klamia - poprzez dryf lub konstrukcje - chronia struktury, ktore pretenduja nazywac.
+
+### Ksenomaniaka jest tchorzem, ktory sie nie zna
+
+Ta analiza to nie tylko cwiczenie stylistyczne leksykalne. Nazywac poprawnie to rozumiec poprawnie. A rozumiec poprawnie to moc dzialac sprawiedliwie.
+
+Pod glosna mania, pod prawami i obrazami i przemoca, jest moze rzeczywiscie strach. Gleboki strach, czesto nieprzyznany, czasem nieswiadomy: ze swiat nie zgadza sie z uspokajającym obrazem, ktory sie o nim tworzy. Strach, ze inny, przez samo swoje istnienie, podwaza solidnosc wlasnych pewników.
+
+Ale ten strach ksenomaniaka przeksztalca w agresje. Nie ucieka - atakuje. I ta transformacja musi byc nazwana. Mania jest aktywnym objawem; strach jest tylko zakopanym korzeniem.
+
+Maniakalna osoba dyskryminacyjna jest kims, czyja tozsamosc jest tak krucha, ze nie znosi istnienia innosci. Jej obsesja na punkcie innego jest tylko odwroconym odbiciem jej leku o siebie. Kazde prawo, ktore glosuje przeciwko roznorodnosci, jest wyznaniem niepewnosci. Kazda obelga jest krzykiem paniki. Kazde przesladowanie jest desperacka proba uproszczenia swiata, ktorego zlozonosc przytlacza.
+
+To nie czyni jego czynow ani mniej powaznych, ani mniej godnych potepienia. Ale zmienia spojrzenie na mechanizm. A w tej zmianie spojrzenia moze sie znajdowac, poza koniecznym oporem, klucz do zrozumienia - a zatem transformacji.
+
+---
+
+## Przeciw-slownik: nazywac takze inkluzje
+
+Jesli przemianowujemy patologie, nazwijmy takze cnoty. Wobec ksenomanii istnieje antidotum, ktore Grecy dobrze znali: **filoksenia** (philoxenia) - doslownie, milosc do obcego.
+
+Filoksenia to nie naiwnosc. To nie wymazanie siebie wobec innego. To zdolnosc widzenia w obcym nie zagrozenia, ale mozliwosci. Okna na swiat, ktorego jeszcze nie znamy. Wzbogacenia, a nie rozmiecie.
+
+| Patologia | Antidotum |
+|-----------|-----------|
+| Ksenomania | Filoksenia - milosc do obcego, goscinnosc |
+| Homomania | Akceptacja roznorodnosci milosci |
+| Transmania | Szacunek dla samostanowienia cial |
+| Etnomania | Uznanie rownej godnosci |
+| Islamomania | Autentyczna swieckosc - zyczliwa obojetnosc wobec wierzen innych |
+
+Prawdziwa sila nie tkwi w jednolitosci - tkwi w zdolnosci przyjmowania roznorodnosci bez rozpuszczania sie w niej.
+
+---
+
+### Pytanie, ktore ci zostawiam
+
+Slowa, ktorych uzywamy do opisania dyskryminacji - czy naprawde je opisuja? Czy tworza kolejny ekran miedzy nami a rzeczywistoscia?
+
+Jesli slownictwo chroni to, co pretenduje zwalczac, to moze pierwszym aktem oporu jest przemianowanie. Nie przez lingwistyczna kokieterie. Poniewaz nie mozna leczyc tego, czego nie umie sie nazwac.
+
+**Ksenomania**: chorobliwa obsesja na punkcie innego. Nominatywne Zgromadzenie wszystkich dyskryminacji.
+
+Teraz mamy slowo.
+
+Napiszcie do mnie. Ogrod jest wielki, a niektore korzenie sa zakopane w samym jezyku.
+
+*Pepe*
 
 ---
 
 [^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, marzec 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, artykuł w *Screw Magazine*, 5 maja 1969; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, artykul w *Screw Magazine*, 5 maja 1969; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (pozycje φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire etymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (pozycje phobos, mania, xenos, heteros).
 
-[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, rozdział "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, rozdzial "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 
 [^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 

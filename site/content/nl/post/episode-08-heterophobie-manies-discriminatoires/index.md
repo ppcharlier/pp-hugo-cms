@@ -1,13 +1,19 @@
 ---
-title: "Heterofobie en Discriminatoire Manieën"
+title: "Xenomanie"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Worteltuin"
-subtitle: "Wanneer woorden de diagnose verraden"
-description: "Het achtervoegsel -foob beschrijft angst. Maar de vervolger vlucht niet — hij is geobsedeerd. Een etymologische verkenning van een taalkundige leugen die beschermt wat hij beweert te bestrijden."
+subtitle: "De nominatieve verzameling van discriminaties"
+description: "Homofobie, xenofobie, transfobie — deze woorden liegen. Het achtervoegsel -foob beschrijft angst, maar de vervolger vlucht niet: hij is geobsedeerd. Een etymologische verkenning van de taalkundige leugen die discriminaties beschermt, en een voorstel voor een overkoepelende term: xenomanie, de ziekelijke obsessie met de ander."
 categories: ["filosofie", "taalkunde", "psychologie"]
-tags: ["etymologie", "homofobie", "discriminatie", "heterofobie", "manie", "fobie", "taal", "Weinberg", "Herek", "vooroordeel"]
+tags: [
+  "xenomanie", "etymologie", "discriminatie", "taal", "manie", "fobie",
+  "homofobie", "xenofobie", "transfobie", "islamofobie", "racisme", "seksisme",
+  "homomanie", "transmanie", "islamomanie", "etnomanie",
+  "inclusiviteit", "diversiteit", "alteriteit", "tolerantie", "respect", "menselijke waardigheid",
+  "vooroordeel", "obsessie", "Weinberg", "Herek", "sociale psychologie"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, maart 2017"
@@ -153,48 +159,79 @@ Het profiteert de vervolger, die kan afschuiven: "Ik ben niet bang." Het profite
 
 ---
 
-## Deel vijf: Heterofobie — de ware naam van de wortel
+## Deel vijf: Xenomanie — de Nominatieve Verzameling
 
-### De gemeenschappelijke stam
+### Waarom een overkoepelende term?
 
-Rest ons de gemeenschappelijke stam van al deze manieën te benoemen. En hier bestaat al een woord, waarvan de etymologie een prachtige ironie bevat: *heterofobie*.
+Rest ons de gemeenschappelijke stam van al deze manieën te benoemen. We hebben een woord nodig dat alle discriminatoire obsessies onder één vlag samenbrengt — een **Nominatieve Verzameling**, als je wilt, van gedragingen die de ander afwijzen.
 
-*Heteros* (ἕτερος) betekent in het Grieks "de ander," "het verschillende," "dat wat niet identiek is aan zichzelf."[^4] *Phobos*, angst. Heterofobie is dus, in de meest letterlijke zin, de angst voor andersheid — de existentiële angst voor dat wat van jezelf verschilt.
+*(Het acroniem N.V. dat hieruit voortvloeit is slechts toeval. Of niet.)*
 
-En hier herwint het achtervoegsel *-fobie* eindelijk zijn juistheid. Want onder de luidruchtige manie, onder de wetten en beledigingen en het geweld, schuilt inderdaad een angst. Een diepe angst, vaak onuitgesproken, soms onbewust: de angst voor een wereld die niet overeenkomt met het geruststellende beeld dat men ervan heeft. De angst dat de ander, door zijn loutere bestaan, de stevigheid van je eigen zekerheden op de proef stelt.
+### Waarom niet "heteromanie"?
 
-De heterofoob — degene die de verscheidenheid in al haar vormen vreest — is de gemeenschappelijke voedingsbodem van racisme, seksisme, homomanie, xenomanie. De angst is de wortel; de manie is het actieve symptoom.
+Men zou *heteromanie* kunnen voorstellen, van het Griekse *heteros* (ἕτερος) — "de ander," "het verschillende." Maar deze term heeft een probleem van dubbelzinnigheid: in het dagelijks taalgebruik roept "hetero-" onmiddellijk heteroseksualiteit op. *Heteromanie* zou verward kunnen worden met een obsessie *voor* heteroseksualiteit, wat de boodschap vertroebelt.
 
-### De volledige structuur
+### De helderheid van "xenomanie"
+
+De term **xenomanie** is glashelder.
+
+*Xenos* (ξένος) in het Oudgrieks duidt de vreemdeling aan, degene die van elders komt, degene die niet tot de groep behoort.[^4] Het is de wortel van *xenofobie*, maar ook van *xenofilie* en het mooie woord *philoxenia* — gastvrijheid, liefde voor de vreemdeling.
+
+**Xenomanie** is dus de ziekelijke obsessie met de vreemdeling — maar "vreemdeling" in de breedste zin:
+
+- **De nationale vreemdeling**: degene die uit een ander land komt, uit een andere cultuur
+- **De religieuze vreemdeling**: degene die tot een andere god bidt, of tot dezelfde god op een andere manier — de "beperkte naaste" van religies die naastenliefde beperken tot degenen die het geloof delen
+- **De seksuele vreemdeling**: degene wiens oriëntatie of identiteit niet overeenkomt met een norm gebouwd op een onvolledige waarneming van de natuur
+- **De etnische vreemdeling**: degene wiens uiterlijk verschilt van de lokale meerderheid
+- **De sociale vreemdeling**: degene wiens levensstijl, keuzes, waarden afwijken van het heersende conformisme
+
+Al deze "andersheden" worden door de xenomaan ervaren als existentiële bedreigingen. Niet omdat ze hem werkelijk bedreigen — maar omdat hun loutere bestaan de fictie van een uniforme, voorspelbare, geruststellende wereld ondermijnt.
+
+### De volledige structuur herzien
 
 ```
-HETEROFOBIE (wortel)
-    Existentiële angst voor andersheid
-           |
-           v
-    DISCRIMINATOIRE MANIEËN (symptomen)
-    |-- Homomanie: obsessie met andermans seksuele oriëntatie
-    |-- Xenomanie: obsessie met andermans afkomst
-    |-- Etnomanie: obsessie met andermans huidskleur
-    |-- Transmanie: obsessie met andermans genderidentiteit
-    |-- Islamomanie: obsessie met andermans religie
-    +-- enz.
-           |
-           v
-    ONDERDRUKKINGSSYSTEMEN (structuren)
-    |-- Heteroseksisme: systeem van heteroseksueel privilege
-    |-- Racisme: systeem van raciale hiërarchie
-    |-- Patriarchaat: systeem van mannelijke overheersing
-    +-- enz.
+XENOMANIE (gemeenschappelijke stam)
+    Ziekelijke obsessie met de ander, het verschillende, de vreemdeling
+           │
+           ├── Homomanie: obsessie met andermans seksuele oriëntatie
+           ├── Transmanie: obsessie met andermans genderidentiteit
+           ├── Etnomanie: obsessie met andermans etnische afkomst
+           ├── Islamomanie: obsessie met andermans religie
+           ├── Hatelijke gynomanie: obsessie met de controle over vrouwen
+           └── enz.
+           │
+           ▼
+    ONDERDRUKKINGSSYSTEMEN (geïnstitutionaliseerde structuren)
+           ├── Heteroseksisme: systeem van heteroseksueel privilege
+           ├── Racisme: systeem van raciale hiërarchie
+           ├── Patriarchaat: systeem van mannelijke overheersing
+           ├── Kolonialisme: systeem van uitbuiting van volkeren
+           └── enz.
 ```
 
-Deze architectuur onderscheidt drie niveaus die het huidige vocabulaire vermengt:
+Deze architectuur onderscheidt twee niveaus die het huidige vocabulaire vermengt:
 
-1. **De angst** (heterofobie) — diep psychologisch niveau, vaak onbewust
-2. **De obsessie** (manieën) — zichtbaar, compulsief gedragsniveau
-3. **Het systeem** (onderdrukkingsstructuren) — institutioneel, cultureel niveau
+1. **De obsessie** (xenomanie en haar varianten) — zichtbaar, compulsief gedragsniveau, individueel maar ook collectief
+2. **Het systeem** (onderdrukkingsstructuren) — institutioneel, cultureel, historisch niveau
 
-Deze niveaus verwarren is jezelf beroven van de middelen om ze effectief te bestrijden.
+De xenomaan is de voetsoldaat. Het systeem is het leger. De twee verwarren is jezelf beroven van de middelen om ze effectief te bestrijden.
+
+### Wat het nieuwe vocabulaire onthult
+
+Door correct te benoemen, begrijpen we beter:
+
+| Oude term | Suggereert... | Nieuwe term | Onthult... |
+|-----------|---------------|-------------|------------|
+| Homofoob | Angst, slachtoffer van zijn angst | Homomaan | Obsessie, verantwoordelijk voor zijn obsessie |
+| Xenofoob | Angst voor de vreemdeling | Xenomaan | Ziekelijke fixatie op de vreemdeling |
+| Transfoob | Angst voor trans personen | Transmaan | Compulsieve bewaking van trans lichamen |
+| Islamofoob | Angst voor de islam | Islamomaan | Obsessioneel fantaseren over de moslim |
+
+Het achtervoegsel *-manie* doet drie dingen die *-fobie* niet doet:
+
+1. **Het maakt verantwoordelijk**: je excuseert geen manie zoals je een angst excuseert
+2. **Het diagnosticeert juist**: de obsessie is het werkelijke mechanisme
+3. **Het verplaatst het probleem**: de disfunctie zit bij de waarnemer, niet bij de waargenomene
 
 ---
 
@@ -208,17 +245,35 @@ Hier observeren we het omgekeerde verschijnsel: woorden die nooit de juiste inho
 
 Het is dezelfde les, gezien van de andere kant van de spiegel: vocabulaire is nooit onschuldig. Wanneer woorden liegen — door verschuiving of door constructie — beschermen ze de structuren die ze beweren te benoemen.
 
-### De vervolger is een bangerd die het niet weet
+### De xenomaan is een bangerd die het niet weet
 
 Deze analyse is niet slechts een lexicale vingeroefening. Correct benoemen is correct begrijpen. En correct begrijpen is met juistheid kunnen handelen.
 
-Wanneer we "homofoob" zeggen, beschrijven we een vijand. Wanneer we "homomaan" zeggen, beschrijven we een geobsedeerde. Wanneer we heterofobie als wortel identificeren, beschrijven we een bangerd. En tegenover een bangerd is de reactie niet dezelfde als tegenover een vijand.
+Onder de luidruchtige manie, onder de wetten en beledigingen en het geweld, schuilt misschien inderdaad een angst. Een diepe angst, vaak onuitgesproken, soms onbewust: de angst voor een wereld die niet overeenkomt met het geruststellende beeld dat men ervan heeft. De angst dat de ander, door zijn loutere bestaan, de stevigheid van je eigen zekerheden op de proef stelt.
+
+Maar deze angst zet de xenomaan om in agressie. Hij vlucht niet — hij valt aan. En het is deze transformatie die benoemd moet worden. De manie is het actieve symptoom; de angst is slechts de begraven wortel.
 
 De discriminatoire maan is iemand wiens identiteit zo fragiel is dat ze het bestaan van andersheid niet verdraagt. Zijn obsessie voor de ander is slechts de omgekeerde weerspiegeling van zijn angst voor zichzelf. Elke wet die hij stemt tegen verschil is een bekentenis van onzekerheid. Elke belediging is een paniekreet. Elke vervolging is een wanhopige poging om een wereld te vereenvoudigen waarvan de complexiteit hem overspoelt.
 
 Dit maakt zijn daden niet minder ernstig, niet minder veroordeelbaar. Maar het verandert de blik die we op het mechanisme werpen. En in die verandering van perspectief schuilt misschien, voorbij het noodzakelijke verzet, een sleutel tot begrip — en dus tot transformatie.
 
-Want je geneest geen manie door haar fobie te noemen. En je bestrijdt geen angst door te negeren dat ze bestaat.
+---
+
+## Het tegenvocabulaire: ook de inclusie benoemen
+
+Als we de pathologieën herbenoemen, laten we dan ook de deugden benoemen. Tegenover xenomanie bestaat een tegengif dat de Grieken goed kenden: **philoxenie** (φιλοξενία) — letterlijk, liefde voor de vreemdeling.
+
+Philoxenie is geen naïviteit. Het is geen zelfverloochening tegenover de ander. Het is het vermogen om in de vreemdeling geen bedreiging te zien, maar een mogelijkheid. Een venster op een wereld die je nog niet kent. Een verrijking in plaats van een verdunning.
+
+| Pathologie | Tegengif |
+|------------|----------|
+| Xenomanie | Philoxenie — liefde voor de vreemdeling, gastvrijheid |
+| Homomanie | Aanvaarding van de diversiteit van liefdes |
+| Transmanie | Respect voor zelfbeschikking over het lichaam |
+| Etnomanie | Erkenning van gelijke waardigheid |
+| Islamomanie | Authentieke seculariteit — welwillende onverschilligheid voor andermans geloof |
+
+Ware kracht ligt niet in uniformiteit — ze ligt in het vermogen om verschil te verwelkomen zonder erin op te lossen.
 
 ---
 
@@ -227,6 +282,10 @@ Want je geneest geen manie door haar fobie te noemen. En je bestrijdt geen angst
 Beschrijven de woorden die we gebruiken om discriminatie te beschrijven haar werkelijk? Of vormen ze een scherm te meer tussen ons en de werkelijkheid?
 
 Als vocabulaire beschermt wat het beweert te bestrijden, dan is de eerste daad van verzet misschien herbenoemen. Niet uit taalkundige ijdelheid. Omdat je niet kunt genezen wat je niet kunt benoemen.
+
+**Xenomanie**: de ziekelijke obsessie met de ander. De Nominatieve Verzameling van alle discriminaties.
+
+Nu hebben we een woord.
 
 Schrijf me. De tuin is groot, en sommige wortels liggen begraven in de taal zelf.
 
@@ -240,7 +299,7 @@ Schrijf me. De tuin is groot, en sommige wortels liggen begraven in de taal zelf
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (lemma's φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (lemma's φόβος, μανία, ξένος, ἕτερος).
 
 [^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, hoofdstuk "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 

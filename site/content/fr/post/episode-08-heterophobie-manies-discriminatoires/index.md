@@ -1,13 +1,19 @@
 ---
-title: "Hétérophobie et Manies Discriminatoires"
+title: "Xénomanie"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Le Jardin des Racines"
-subtitle: "Quand les mots trahissent le diagnostic"
-description: "Le suffixe -phobe décrit une peur. Mais celui qui persécute ne fuit pas — il est obsédé. Exploration étymologique d'un mensonge linguistique qui protège ce qu'il prétend combattre."
+subtitle: "Le Rassemblement Nominatif des discriminations"
+description: "Homophobie, xénophobie, transphobie — ces mots mentent. Le suffixe -phobe décrit une peur, mais celui qui persécute ne fuit pas : il est obsédé. Exploration étymologique du mensonge linguistique qui protège les discriminations, et proposition d'un terme unificateur : la xénomanie, l'obsession maladive de l'autre."
 categories: ["philosophie", "linguistique", "psychologie"]
-tags: ["étymologie", "homophobie", "discrimination", "hétérophobie", "manie", "phobie", "langage", "Weinberg", "Herek", "préjugé"]
+tags: [
+  "xénomanie", "étymologie", "discrimination", "langage", "manie", "phobie",
+  "homophobie", "xénophobie", "transphobie", "islamophobie", "racisme", "sexisme",
+  "homomanie", "transmanie", "islamomanie", "ethnomanie",
+  "inclusivité", "diversité", "altérité", "tolérance", "respect", "dignité humaine",
+  "préjugé", "obsession", "Weinberg", "Herek", "psychologie sociale"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, mars 2017"
@@ -153,48 +159,79 @@ Il profite au persécuteur, qui peut se défausser : « Je n'ai pas peur. » Il 
 
 ---
 
-## Cinquième partie : L'hétérophobie — le vrai nom de la racine
+## Cinquième partie : Xénomanie — le Rassemblement Nominatif
 
-### Le tronc commun
+### Pourquoi un terme unificateur ?
 
-Reste à nommer le tronc commun de toutes ces manies. Et ici, un mot existe déjà, dont l'étymologie recèle une ironie magnifique : *hétérophobie*.
+Reste à nommer le tronc commun de toutes ces manies. Nous avons besoin d'un mot qui rassemble sous une même bannière toutes les obsessions discriminatoires — un **Rassemblement Nominatif**, si l'on veut, des comportements qui rejettent l'autre.
 
-*Heteros* (ἕτερος) signifie en grec « l'autre », « le différent », « ce qui n'est pas identique à soi ».[^4] *Phobos*, la peur. L'hétérophobie est donc, au sens le plus littéral, la peur de l'altérité — la terreur existentielle face à ce qui diffère de soi.
+*(L'acronyme R.N. qui en découle n'est qu'une coïncidence. Ou pas.)*
 
-Et là, le suffixe *-phobie* retrouve enfin sa justesse. Car sous la manie bruyante, sous les lois et les insultes et les violences, il y a bien une peur. Une peur profonde, souvent inavouée, parfois inconsciente : celle d'un monde qui ne se conforme pas à l'image rassurante qu'on s'en fait. La peur que l'autre, par sa simple existence, remette en question la solidité de ses propres certitudes.
+### Pourquoi pas « hétéromanie » ?
 
-L'hétérophobe — celui qui craint la différence sous toutes ses formes — est le terreau commun du racisme, du sexisme, de l'homomanie, de la xénomanie. La peur est la racine ; la manie en est le symptôme actif.
+On pourrait proposer *hétéromanie*, du grec *heteros* (ἕτερος) — « l'autre », « le différent ». Mais ce terme pose un problème d'ambiguïté : dans le langage courant, « hétéro- » évoque immédiatement l'hétérosexualité. L'*hétéromanie* pourrait être confondue avec une obsession *pour* l'hétérosexualité, ce qui brouille le message.
 
-### La structure complète
+### La clarté de « xénomanie »
+
+Le terme **xénomanie** est limpide.
+
+*Xenos* (ξένος) en grec ancien désigne l'étranger, celui qui vient d'ailleurs, celui qui n'appartient pas au groupe.[^4] C'est la racine de *xénophobie*, mais aussi de *xénophilie* et du beau mot *philoxenia* — l'hospitalité, l'amour de l'étranger.
+
+La **xénomanie** est donc l'obsession maladive de l'étranger — mais « étranger » au sens le plus large :
+
+- **L'étranger national** : celui qui vient d'un autre pays, d'une autre culture
+- **L'étranger religieux** : celui qui prie un autre dieu, ou le même dieu autrement — le « prochain restreint » des religions qui limitent l'amour du prochain à ceux qui partagent la foi
+- **L'étranger sexuel** : celui dont l'orientation ou l'identité ne correspond pas à une norme construite sur une observation incomplète de la nature
+- **L'étranger ethnique** : celui dont l'apparence diffère de la majorité locale
+- **L'étranger social** : celui dont le mode de vie, les choix, les valeurs s'écartent du conformisme ambiant
+
+Toutes ces « altérités » sont perçues par le xénomaniaque comme des menaces existentielles. Non pas parce qu'elles le menacent réellement — mais parce que leur simple existence fragilise la fiction d'un monde uniforme, prévisible, rassurant.
+
+### La structure complète revisitée
 
 ```
-HÉTÉROPHOBIE (racine)
-    Peur existentielle de l'altérité
+XÉNOMANIE (tronc commun)
+    Obsession maladive de l'autre, du différent, de l'étranger
+           │
+           ├── Homomanie : obsession de l'orientation sexuelle d'autrui
+           ├── Transmanie : obsession de l'identité de genre d'autrui
+           ├── Ethnomanie : obsession de l'origine ethnique d'autrui
+           ├── Islamomanie : obsession de la religion d'autrui
+           ├── Gynomanie haineuse : obsession du contrôle des femmes
+           └── etc.
            │
            ▼
-    MANIES DISCRIMINATOIRES (symptômes)
-    ├── Homomanie : obsession de l'orientation sexuelle d'autrui
-    ├── Xénomanie : obsession de l'origine d'autrui
-    ├── Ethnomanie : obsession de la couleur de peau d'autrui
-    ├── Transmanie : obsession de l'identité de genre d'autrui
-    ├── Islamomanie : obsession de la religion d'autrui
-    └── etc.
-           │
-           ▼
-    SYSTÈMES D'OPPRESSION (structures)
-    ├── Hétérosexisme : système de privilège hétérosexuel
-    ├── Racisme : système de hiérarchie raciale
-    ├── Patriarcat : système de domination masculine
-    └── etc.
+    SYSTÈMES D'OPPRESSION (structures institutionnalisées)
+           ├── Hétérosexisme : système de privilège hétérosexuel
+           ├── Racisme : système de hiérarchie raciale
+           ├── Patriarcat : système de domination masculine
+           ├── Colonialisme : système d'exploitation des peuples
+           └── etc.
 ```
 
-Cette architecture distingue trois niveaux que le vocabulaire actuel confond :
+Cette architecture distingue deux niveaux que le vocabulaire actuel confond :
 
-1. **La peur** (hétérophobie) — niveau psychologique profond, souvent inconscient
-2. **L'obsession** (manies) — niveau comportemental visible, compulsif
-3. **Le système** (structures d'oppression) — niveau institutionnel, culturel
+1. **L'obsession** (xénomanie et ses déclinaisons) — niveau comportemental visible, compulsif, individuel mais aussi collectif
+2. **Le système** (structures d'oppression) — niveau institutionnel, culturel, historique
 
-Confondre ces niveaux, c'est se priver de les combattre efficacement.
+Le xénomaniaque est le fantassin. Le système est l'armée. Confondre les deux, c'est se priver de les combattre efficacement.
+
+### Ce que révèle le nouveau vocabulaire
+
+En nommant correctement, on comprend mieux :
+
+| Ancien terme | Suggère... | Nouveau terme | Révèle... |
+|--------------|------------|---------------|-----------|
+| Homophobe | Peur, victime de sa peur | Homomaniaque | Obsession, responsable de son obsession |
+| Xénophobe | Peur de l'étranger | Xénomaniaque | Fixation maladive sur l'étranger |
+| Transphobe | Peur des trans | Transmaniaque | Surveillance compulsive des corps trans |
+| Islamophobe | Peur de l'islam | Islamomaniaque | Fantasme obsessionnel du musulman |
+
+Le suffixe *-manie* fait trois choses que *-phobie* ne fait pas :
+
+1. **Il responsabilise** : on n'excuse pas une manie comme on excuse une peur
+2. **Il diagnostique justement** : l'obsession est le mécanisme réel
+3. **Il déplace le problème** : le dysfonctionnement est chez l'observateur, pas chez l'observé
 
 ---
 
@@ -208,17 +245,35 @@ Ici, nous observons le phénomène inverse : des mots qui n'ont jamais eu le bon
 
 C'est la même leçon, vue de l'autre côté du miroir : le vocabulaire n'est jamais innocent. Quand les mots mentent — par dérive ou par construction — ils protègent les structures qu'ils prétendent nommer.
 
-### Le persécuteur est un peureux qui s'ignore
+### Le xénomaniaque est un peureux qui s'ignore
 
 Cette analyse n'est pas qu'un exercice de style lexical. Nommer correctement, c'est comprendre correctement. Et comprendre correctement, c'est pouvoir agir avec justesse.
 
-Quand on dit « homophobe », on décrit un ennemi. Quand on dit « homomaniaque », on décrit un obsédé. Quand on identifie l'hétérophobie comme racine, on décrit un peureux. Et face à un peureux, la réponse n'est pas la même que face à un ennemi.
+Sous la manie bruyante, sous les lois et les insultes et les violences, il y a peut-être bien une peur. Une peur profonde, souvent inavouée, parfois inconsciente : celle d'un monde qui ne se conforme pas à l'image rassurante qu'on s'en fait. La peur que l'autre, par sa simple existence, remette en question la solidité de ses propres certitudes.
+
+Mais cette peur, le xénomaniaque la transforme en agression. Il ne fuit pas — il attaque. Et c'est cette transformation qui doit être nommée. La manie est le symptôme actif ; la peur n'en est que la racine enfouie.
 
 Le maniaque discriminatoire est quelqu'un dont l'identité est si fragile qu'elle ne supporte pas l'existence de l'altérité. Son obsession pour l'autre n'est que le reflet inversé de son angoisse pour lui-même. Chaque loi qu'il vote contre la différence est un aveu d'insécurité. Chaque insulte est un cri de panique. Chaque persécution est une tentative désespérée de simplifier un monde dont la complexité le submerge.
 
 Cela ne rend ses actes ni moins graves, ni moins condamnables. Mais cela change le regard qu'on porte sur le mécanisme. Et dans ce changement de regard se trouve peut-être, au-delà de la résistance nécessaire, une clé de compréhension — et donc de transformation.
 
-Car on ne guérit pas une manie en la nommant phobie. Et on ne combat pas la peur en ignorant qu'elle existe.
+---
+
+## Le contre-vocabulaire : nommer aussi l'inclusion
+
+Si nous renommons les pathologies, nommons aussi les vertus. Face à la xénomanie, il existe un antidote que les Grecs connaissaient bien : la **philoxénie** (φιλοξενία) — littéralement, l'amour de l'étranger.
+
+La philoxénie n'est pas la naïveté. Ce n'est pas l'effacement de soi devant l'autre. C'est la capacité à voir dans l'étranger non pas une menace, mais une possibilité. Une fenêtre sur un monde qu'on ne connaît pas encore. Un enrichissement plutôt qu'une dilution.
+
+| Pathologie | Antidote |
+|------------|----------|
+| Xénomanie | Philoxénie — amour de l'étranger, hospitalité |
+| Homomanie | Acceptation de la diversité des amours |
+| Transmanie | Respect de l'autodétermination des corps |
+| Ethnomanie | Reconnaissance de l'égale dignité |
+| Islamomanie | Laïcité authentique — indifférence bienveillante aux croyances d'autrui |
+
+La vraie force n'est pas dans l'uniformité — elle est dans la capacité à accueillir la différence sans s'y dissoudre.
 
 ---
 
@@ -227,6 +282,10 @@ Car on ne guérit pas une manie en la nommant phobie. Et on ne combat pas la peu
 Les mots que nous utilisons pour décrire les discriminations — les décrivent-ils vraiment ? Ou forment-ils un écran de plus entre nous et la réalité ?
 
 Si le vocabulaire protège ce qu'il prétend combattre, alors le premier acte de résistance est peut-être de renommer. Pas par coquetterie linguistique. Parce qu'on ne peut pas soigner ce qu'on ne sait pas nommer.
+
+**Xénomanie** : l'obsession maladive de l'autre. Le Rassemblement Nominatif de toutes les discriminations.
+
+Maintenant, nous avons un mot.
 
 Écrivez-moi. Le jardin est grand, et certaines racines sont enfouies dans le langage lui-même.
 
@@ -240,7 +299,7 @@ Si le vocabulaire protège ce qu'il prétend combattre, alors le premier acte de
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entrées φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entrées φόβος, μανία, ξένος, ἕτερος).
 
 [^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, chapitre "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 

@@ -1,255 +1,314 @@
 ---
-title: 'Éadomhain agus Géalúintí Dochníonn'
+title: "Xeineamaine"
 date: 2026-02-10
 draft: false
 episode: 8
-series: 'Gairdín na bhFréamhacha'
-subtitle: 'Nuair a bhíonn na focail ag tabhairt breige ar an dhiagnóis'
-description: 'Ag tosaigh -phobe ar eagla. Ach níl an duine ar bhíonn á gealú gan eagla — tá sé ar ghrépann. Iniúchadh ar eitimeolaíochta ar bhraistint linguistíc ar chosaint ar cad ar bhí á ghealú.'
-categories: ["fealsúnacht", "teangeolaíochta", "síceolaíochta"]
-tags: ["eitimeolaíochta", "homomhaith", "dochníonn", "éadomhain", "géalúint", "phobe", "labhairt", "Weinberg", "Herek", "uas-bhraistint"]
+series: "Gairdín na bhFréamhacha"
+subtitle: "Cruinniú Ainmneach na n-idirdhealaithe"
+description: "Homafóibe, xeineafóibe, trasfóibe — bréaga iad na focail seo. Déanann an iarmhír -fóibe cur síos ar eagla, ach ní éalaíonn an té a ghéarleanann: tá sé gafa le sainmhian. Iniúchadh eitimeolaíoch ar an mbréag teangeolaíoch a chosnaíonn idirdhealú, agus moladh téarma aontaithe: an xeineamáine, an sainmhian mhíshláintiúil don duine eile."
+categories: ["fealsúnacht", "teangeolaíocht", "síceolaíocht"]
+tags: [
+  "xeineamáine", "eitimeolaíocht", "idirdhealú", "teanga", "máine", "fóibe",
+  "homafóibe", "xeineafóibe", "trasfóibe", "ioslámafóibe", "ciníochas", "gnéasachas",
+  "homamaíne", "trasmaíne", "ioslámamáine", "eitneamáine",
+  "cuimsiú", "éagsúlacht", "caoinfhulaingt", "meas", "dínit dhaonna",
+  "réamhchlaonadh", "sainmhian", "Weinberg", "Herek", "síceolaíocht shóisialta"
+]
 sources:
-  - "Britannica, ''George Weinberg'', 2017"
-  - "Gregory M. Herek, ''The Father of Homophobia: George Weinberg (1929-2017)'', Beyond Homophobia blog, Márta 2017"
-  - "Wikipedia, ''George Weinberg (psychologist)''"
-  - 'Jack Nichols & Lige Clarke, article i Screw Magazine, 5 Bealtaine 1969'
-  - "Time Magazine, ''The Homosexual in America'', 1969"
-  - "George Weinberg, Society and the Healthy Homosexual, St. Martin''s Press, 1972"
-  - 'Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968'
-  - 'Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press'
-  - "Gregory M. Herek, ''Beyond Homophobia'', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
-  - "Gregory M. Herek, ''The Psychology of Sexual Prejudice'', Current Directions in Psychological Science, 9(1), 19-22, 2000"
-  - 'Associated Press, nuashonrú an AP Stylebook, Samhain 2012'
-  - "Politico, ''AP nixes homophobia, ethnic cleansing'', 26 Samhain 2012"
-  - "George Weinberg, ''Homophobia: Don''t Ban the Word'', The Huffington Post, 2012"
-  - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, ''Is Homophobia Associated With Homosexual Arousal?'', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
-  - 'Byrne Fone, Homophobia: A History, Picador, 2001'
-  - 'Warren J. Blumenfeld (eag.), Homophobia: How We All Pay the Price, Beacon Press, 1992'
+  - "Britannica, 'George Weinberg', 2017"
+  - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, Márta 2017"
+  - "Wikipedia, 'George Weinberg (psychologist)'"
+  - "Jack Nichols & Lige Clarke, alt in Screw Magazine, 5 Bealtaine 1969"
+  - "Time Magazine, 'The Homosexual in America', 1969"
+  - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
+  - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
+  - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
+  - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
+  - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
+  - "Associated Press, nuashonrú ar an AP Stylebook, Samhain 2012"
+  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26 Samhain 2012"
+  - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
+  - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
+  - "Byrne Fone, Homophobia: A History, Picador, 2001"
+  - "Warren J. Blumenfeld (eag.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
 > **Nóta Trédhearcachta**
 >
-> Is toradh ar chomhchomhar idir duine daonna (Pépé) agus intleacht shaorga (Claude, Anthropic) a bhí ar an chronaic seo. Is cúrsaí daonna a bhí i bhfeidhm na dtúsparameadar, an líne eagarthóireachta agus an fhíorú deireannach. Cuireadh an taighde doiciméadach agus an scríbhneoireacht ar fáil le cuidiú ó AI.
+> Is toradh ar chomhoibriú idir duine daonna (Pépé) agus intleacht shaorga (Claude, Anthropic) an chroinic seo. Is ón duine daonna a thagann na smaointe treoraithe, an líne eagarthóireachta agus an fhíorú deiridh. Tá an taighde doiciméadach agus an scríbhneoireacht á gcuidiú ag IS.
 >
-> Toisc go bhféadfadh AIs neamhchruinneas a tháirgeadh, **tá gach éileamh fíorúil ar bhonn foinsí**  ó dhocimeid acadúla, eiliceanaclópaéideacha nó iriseoireachta infhíoraithe. Tá na foinsí liostaithe ag deireadh an alt.
+> Toisc gur féidir le córais IS míchruinneas a tháirgeadh, **tá gach éileamh fíorasach bunaithe ar fhoinsí** ó dhoiciméid acadúla, ciclipéideacha nó iriseoireachta infhíoraithe. Tá na foinsí liostaithe ag deireadh an ailt.
 >
-> Ní dhéanann an téacs seo ach a bheidh ar an eagarthóir daonna, ar a bhronann sé an fhreagracht.
+> Ní ghabhann an téacs seo ach lena eagarthóir daonna, a ghlacann freagracht iomlán as.
 
 ---
 
-An tseachtain seo caite, thit mé i bpoll cainte eitimeolaíochta. Thaithim a dhéanamh go minic — tarraingeolm an sreang agus fuairim mé trí huair níos déanaí le péilín ar féachaint orm ar dhúlamán.
+An tseachtain seo, thit mé isteach i bpoll coinín eitimeolaíoch. Tarlaíonn sé go minic dom — tarraingím snáithe amháin agus trí huaire an chloig níos déanaí, tá ceirtlín ag stánadh orm le súile ciontacha.
 
-Bhí an sreang an turas seo ar thosaigh. Ceithre litir: *-phobe*. Chuir mé iad ar an taobh ar cad ar bhí siad ag iarraidh a chur síos. Agus ní raibh siad ag teacht le chéile. Ní raibh ar chor ar bith.
+An snáithe an uair seo, ba iarmhír é. Ceithre litir: *-fóibe*. Chuir mé iad in aice leis an méid a mhaíonn siad a chur síos. Agus níor oibrigh sé. Níor oibrigh ar chor ar bith.
 
-Tá cuimhne ar na focail, agus is ó Ghréigis ársa a shroichean sé. Agus níl an Ghréigis ársa ag tabhairt bréige. Ach muid, ar a ghalaibh — tá muid ag tabhairt bréige lena péigheanna.
-
----
-
-## Chéad Páirt: An Inbhéartha Straitéiseach ar Focal Neamhiomláine
-
-### George Weinberg agus an Dul ar Dhúinn 1965
-
-I 1965, bhraithníonn an síceolaí Meiriceánach George Weinberg a rud ar bhí socraithe i measc a chroithuirí. Nuair a chuir sé cuireadh ar chairde homashéacsúlacha do imeallmhaithe, bhí a lán daoine ag freagart le greann bhruithé — "gan argóint, díreach ar dhasacht" a dhúirt sé níos déanaí[^1].
-
-Bhraithníonn Weinberg ar nach ag homashéacsúlacha a bhí an fhadhb. Ag daoine ar a raibh siad ag feachaint. Agus ar mhaithe a ainmniú, rinne sé focal: *homophobia*.
-
-Bhraistint an téacs ar dtosach i bpreas i 1969, i *Screw*, ansin i *Time Magazine* an bhliain céanna[^2]. I 1972, bhreathraigh Weinberg é i *Society and the Healthy Homosexual*, leabhar ar bhraistint ar bhunús ar chéad líne: "Ní raibh mé a bhreathnaí ar chleachtas ar bharaigh fad ar nach raibh sé ar bharraigh ar bharraigh ar homashéacsúlachta"[^3].
-
-Tá an dul ar dhúinn straitéiseach: ag ceangal ar tosaigh *-phobia* ar an uas-bhraistint ar ghay, dhíotar Weinberg an dhiagnóis. Ní ionann an homashéacsúal ar bhraistint — is ionann an duine ar bhí á ghealú. Ar am nuair a bhí an homashéacsúlachta fós i *Diagnostic and Statistical Manual* (DSM) cosúil ar bharraigh síceolaíochta, bhí an droicheal ar aghaidh ar ghealú intleacht[^3].
-
-### Focal ar thuiscint ar a theorainneacha
-
-Ach bhí fhios ag Weinberg ar bhí an focal neamhiomláine. Saineadh sé go geal: "an tréimhse ar eagla a bhí ag daoine i láthair gheal ar homashéacsúlacha — agus, i gcás na homashéacsúlacha iad féin, ar ghreann ar féin"[^3].
-
-Oibríonn an focal — go dreachbhualachta — cosúil ar uirlis pholaitiúil. Chuir sé ar dhul ar homashéacsúlachta ar an DSM i 1973. Thug sé ainm ar rud ar bhraithníonn gach duine ach ar nach raibh duine ar féad a ainmniú[^2].
-
-Ach seasca bliana níos déanaí, cuirtear muid i bpríosún ag an focal.
+Tá cuimhne ag na focail, agus téann an chuimhne sin siar go dtí an tSean-Ghréigis. Agus ní insíonn an tSean-Ghréigis bréaga. Ach sinne, ar an láimh eile — insímid bréaga lena píosaí.
 
 ---
 
-## Dara Páirt: An Bhraistint Eitimeolaíochta
+## Cuid a hAon: Cumadh Straitéiseach Focail Lochtaigh
 
-### Cad ar a bhíonn an Ghréigis ag rá i ndáiríre
+### George Weinberg agus buille na sármhaitheasa, 1965
 
-Ag tosaigh *-phobos* (φόβος) ar an eagla, ar an foluain, ar an thubaiste ar athas[^4]. Ar theacht an araicnophobe ar aghaidh ar damhán gréine. Ar dhúlamán ar an duine ar spás geal. Ar agoraphobe ar foluain ar an duine ar spás. I gach cás, ag oibríonn an cianramhairc: eagla ar phóbairt, ar imirt, ar an choinneáil, ar gealadh.
+In 1965, thug an síceolaí Meiriceánach George Weinberg rud éigin suaitheach faoi deara i measc a chomhghleacaithe. Nuair a thug sé cuireadh do chairde aeracha chuig cruinnithe, d'fhreagair roinnt comhghleacaithe le déistin láidir — "gan argóint, díreach déistin," a dúirt sé níos déanaí.[^1]
 
-Anois, cad ar dhéanann an duine ar ar tugtar "homophobe"?
+Thuig Weinberg nach ag na daoine aeracha a bhí an fhadhb. Bhí sí ag an dream a bhí ag breathnú orthu. Agus chun é a ainmniú, chum sé focal: *homophobia*.
 
-Níl sé ag foluain. Níl sé ag cur isteach ar é féin. Níl sé ar athrú ar an tsráid ag crith. Ní ionann. Ag reachta. Ag gealú. Ag ionsaí. Ag lorg. Ag tabhairt ionaid isteach i chuid eile isteach le gréine an chainníochtúlaí. Ag iarraidh air go leor ar fuinneamh ar scrudú, ar chaint, ar mhilleadh agus ar dhul i ndiaidh cosaint ar thabhdacht duine eile.
+Tháinig an téarma chun cinn den chéad uair sa phreas in 1969, san iris *Screw*, agus ansin in *Time Magazine* an bhliain chéanna.[^2] In 1972, d'fhorbair Weinberg é in *Society and the Healthy Homosexual*, leabhar réabhlóideach a dtosaíonn a chéad abairt mar seo: "Ní mheasfainn go deo go mbeadh othar sláintiúil go dtí go sáraíonn sé a réamhchlaonadh in aghaidh na homaighnéasachta."[^3]
 
-Níl an bhraistint seo ar phobe. Is ionann ar ghréann ar ghréann.
+Ba straitéis chliste í: trí an iarmhír *-phobia* a cheangal leis an réamhchlaonadh frith-aerach, d'iompaigh Weinberg an diagnóis bun os cionn. Ní raibh an duine aerach tinn a thuilleadh — bhí an té a ghéarleanann air tinn. Ag am nuair a bhí homaighnéasacht fós liostaithe sa *Diagnostic and Statistical Manual* (DSM) mar phaiteolaigeacht shíciatrach, ba ghníomh friotaíochta intleachtúil é an t-iompú seo.[^3]
 
-### An síceolaíochta a dhéanann dearbhú: níl sé ar eagla
+### Focal a bhí feasach ar a theorainneacha féin
 
-Gregory Herek, ollamh síceolaíochta ag Ollscoil na Califórnia ag Davis agus ar a bharr-ghairmí ar an deas thuaithe ar an uas-bhraistint, a chaith blianta ar dhocúmáid ar theorainneacha na théarma. I alt ar bhunús ar 2004, "Beyond Homophobia", thugtar sé nóta gur níl an focal "ag tabhairt riamh eagla dhrom agus dúbhásach ar mhiondaoineanna ar gaol-ghréine", go raibh sé "ar framhéim ag síceolaíochta gan a bhreith dála ar dhiagnóis", agus go raibh sé "ar ábhar gur raibh an ról ar thuiscint dhomhain agus ar nós an tsóir ar a raibh ar fhéin ar bharraigh ar bharraigh"[^5].
+Ach bhí a fhios ag Weinberg go raibh a fhocal lochtach. Shainmhínigh sé go cúng é: "an sceimhle a bheith i ngar do dhaoine aeracha — agus, i gcás na ndaoine aeracha féin, an fuath féin."[^3]
 
-Tairgean Herek a athrú ar an téarma go "uas-bhraistint ghéaracha" (*sexual prejudice*), ar saineadh sé mar "radharc dochímhíoch ar dhúine toisc a ghéarchéime ghéaracha"[^6]. Is ionann níos beacht. Ach níl sé fós go bhfuil cothrom ar bharraigh.
+D'oibrigh an focal — go hiontach — mar uirlis pholaitiúil. Chuidigh sé le homaighnéasacht a bhaint den DSM in 1973. Thug sé ainm ar rud a bhí feicthe ag gach duine ach nach raibh aon duine in ann a ainmniú.[^2]
 
-Toisc nach ionann an fhadhb amháin ar neamhbhinn. Is ionann an treo ar bhealadh.
-
-### An bhraistint rhéartúrach
-
-I 2012, an Press Forbartha — ar bhraistint an *Stylebook* ar bhunáil ar bharraigh ag a lán nuachtáin Mheiriceánach — a bhain an focal "homophobia" ar shóisialtaí agus ar ghníomhaighe. Thugair an eagarthóir oifigiúil Dave Minthorn: "Is ionann amháin neamhchruinn. Tá sé a bheith ag cur ar dhuine ar an neamhdhúlachta meabhrach, agus taisgean sé a fhios ar nach bhfuil ag duine"[^7].
-
-Bhraithníonn Weinberg féin ar an bhraistint seo, á argóint ar bhí an focal ar fhanairt "riachtanach ar mhaithe ar an dhaondúlachta" ar fhanairt na gníomhaireach ar bhraistint sé[^8]. Bhí sé ar bharraigh ar an riachtanas ar a ainmniú. Ach an fhéin ar raibh a bhraistint: an raibh mé ar a ainmniú a dhéanann, nach bhfuil sé ag cosaint ar dheireadh?
-
-Toisc seo ar a ligean ar thosaigh *-phobe*: gach duine ar bhí á ghealú ar féad a dhéanamh "níl mé ar eagla" agus a bhreith go teicniceach ar bharraigh. Tug an focal scaoilte ionad ar bhuinne linguistíc.
-
-Níos measa fós: cruthíonn sé gealú ar an ionsaí. Dá ndéarfar duit go bhfuil tú ar eagla, conas a dhéanann tú a dhéaramh go bhfuil tú ar eagla? Ag tabhairt ar an rud ar bhraistint ag a bhfuil eagla. Ag soilsiú, ag soilsiú, ag gealú — go díreach ar mhaithe lena dhéaramh go bhfuil tú nach bhfuil an duine ar bhraistint an focal ar dhéaramh. Ar phobe a ghealadh ar foluain; ar dhíot ar phobe a ghealadh ar ionsaí. Níl an focal ag cur síos ar an bhforsa — tá sé ag baint ar bhforsa.
-
-Agus ag ceangal *homo-* ar dhúbhailte ar chríoch, tá sé ag scriobh go soibhéalach ar an fhadhb ar taobh an homashéacsúal — cosúil ar simplí a bheith ar bharraigh go raibh sé go leor ar bhrú ar an duine eile.
+Ach seasca bliain níos déanaí, tá an focal ag cur teorainneacha orainn.
 
 ---
 
-## Tríú Páirt: An Dhiagnóis ar Cheart — an Gréann
+## Cuid a Dó: An Bhréag Eitimeolaíoch
 
-### Ag tosaigh níos beacht
+### Cad a deir an Ghréigis i ndáiríre
 
-Tugann an Ghréigis ársa uirlis eile: *-mania* (μανία) — an gealt, ar ghréann ar bhí in bhean, ar ghealú dhramhúil ar chothrom ar bharraigh[^4]. Níl an píreomaníacach ar "eagla" ar thine: tá sé ar bharraigh ann. Níl an mégalomaníacach ar "eagla" ar bharraigh: tá sé ar ghaibhnean. Níl an cleptomaníacach ar "eagla" ar ghoid: tá sé ar chros-gheal.
+Ciallaíonn an iarmhír *-phobos* (φόβος) eagla, éalú, déistin instinniúil.[^4] Éalaíonn an t-araicneafóbach ón damhán alla. Éalaíonn an claustrafóbach ón spás cúng. Éalaíonn an agarafóbach ón slua. I ngach cás, tá an meicníocht mar an gcéanna: sceimhle a spreagann éalú, cúlú, parlús.
 
-Níl an homommaniac ar eagla ar homashéacsúlachta: tá sé ar gharraithe aici. Smaoiníonn sé air ar maidin ag léamh an nuachtáin. Smaoiníonn sé air ag feiceáil dhá duine ar dhá láimh ar an tsráid. Smaoiníonn sé air ag vótála, ag oideachas ar chlann, ag roghnú ar chombhraistint pholaitiúil. Tá a intinn colonized ag homashéacsúlachta daoine eile le gréine ar a mór gur b'fhéidir nach raibh a chuid daoine ar homashéacsúlacha iad féin ag smaoinint i bhfáth.
+Anois, cad a dhéanann an té ar a dtugtar "homafóbach"?
 
-### An síceolaíochta ar ghréann
+Ní éalaíonn sé. Ní chrapann sé. Ní athraíonn sé taobh an bhóthair agus é ar crith. Ní hea. Déanann sé reachtaíocht. Ciapaíonn sé. Ionsaíonn sé. Leanann sé. Agóidíonn sé, cuireann sé achainí, seanmóiríonn sé agus géarleantacht. Tugann sé cuairt ar sheomraí leapa daoine eile le dúthracht an fhanaitigh. Caitheann sé fuinneamh ollmhór ag faire, ag caint, ag cáineadh agus ag iarraidh smacht a fháil ar phríobháideachas strainséirí iomlána.
 
-I 1996, bhraistint na síceolaín Henry Adams, Lester Wright agus Bethany Lohr ó Ollscoil na Gréige staidéar ar bharraigh i *Journal of Abnormal Psychology*. Thomhas siad an freagra ar bhraistint 64 buachaillí heterashéacsúl — 35 ar charachtarú mar "homophobes" agus 29 mar "non-homophobes" — os coinn dorchadas ar eirotúcail homashéacsúl. Torthaí: amháin na buachaillí homophobes a thaispeáin réaltachta shéacsúal tábhachtach ar chruith dorchadas homashéacsúl fíreán[^9].
+Ní fóibe é an t-iompar seo. Is sainmhian é.
 
-Tá na léirmhínithe ar an staidéar ar dhíspeanas — b'fhéidir go raibh an réaltachta a raibh ag soilsiú ar imní seachas ar dhúil[^9]. Ach cad ar dhocúmáid an staidéar gan dúlamán ar ar thobshúlachta ar dhisproportionate: níl an "homophobe" ar athrú ar fhéachaint. Braistint a corp. Is ionann ar bharraigh a bharraigh. Is ionann an cianramhairc ar ghréann ar ghealt, ní an cianramhairc ar an eagla.
+### Deimhníonn an eolaíocht: ní eagla é
 
-### An Trí Phúc Ar Bharraigh
+Chaith Gregory Herek, ollamh le síceolaíocht in Ollscoil California ag Davis agus ceann de na saineolaithe is mó ar domhan ar réamhchlaonadh gnéasach, na blianta fada ag doiciméadú teorainneacha an téarma. In alt bunúsach in 2004, "Beyond Homophobia," thug sé faoi deara go "is annamh a thagraíonn an focal d'eagla dian mhíréasúnta roimh mhionlaigh ghnéis," go bhfuil sé "frámaíthe ó thaobh paiteolaigeachta de gan é a cheapadh mar dhiagnóis," agus gur "theip air go leor ról na ngnásanna sóisialta níos leithne i múnlú dearcadh aonair a léiriú."[^5]
 
-Tá an téarma *homomaniac* ar thrí bhúc bhraistint:
+Molann Herek an téarma a athrú go "réamhchlaonadh gnéasach" (*sexual prejudice*), a shainmhíníonn sé mar "dearcaí diúltacha i leith duine aonair de bharr a threoshuíomh gnéis."[^6] Tá sé níos cruinne. Ach níl sé fós cruinn go leor.
 
-1. **Go Teangeolaíochta Cruinn**: déanann sé ar ghrann, ní ar eagla.
-2. **Go Síceolaíochta Macánta**: bhraistint an litríochta síceolaíochta ar an bhraistint ar chompúsúil agus ar dhílíonn ar an bhraistint[^9][^10]
-3. **Go Rhéartúrach ar Cheart**: cuirtear an sollas ar ais ar an áit ar a bhfuil an ualach — ag an gheal, ní ag an duine ar bhí á ghealú. Tá an fhoclóir ar gharrainn ar a bharraigh.
+Mar ní hé an mhíchruinneas amháin an fhadhb. Is é treo an spotsholas.
 
----
+### An sciath réitrice
 
-## Ceathrú Páirt: An Ghinearálú — na Géalúintí ar Dochníonn
+In 2012, bhain an Associated Press — a bhfuil a *Stylebook* ag socrú na gcaighdeán eagarthóireachta don chuid is mó de nuachtáin Mheiriceá — an focal "homophobia" ó chomhthéacsanna polaitiúla agus sóisialta. Mhínigh an leas-eagarthóir Dave Minthorn: "Tá sé míchruinn go simplí. Is é atá ann ná neamhord meabhrach a chur i leith duine, agus tugann sé le fios go bhfuil eolas againn nach bhfuil."[^7]
 
-### Patrún ar thaistigh arís agus arís
+Chuir Weinberg féin i gcoinne an bhaint seo, á áitiú go raibh an focal fós "ríthábhachtach dár ndaonnacht" fad is a bhí na gníomhartha a chuir sé síos orthu ann i gcónaí.[^8] Bhí sé ceart faoin ngá le hainmniú. Ach fanann an cheist: má ainmnímid go míchruinn, nach bhfuilimid ag cosaint go neamhbheartaithe?
 
-Cad ar bhraithim ar homashéacsúlachta ar bhuain don chomhmheasarthacht ar dochníonn ar bharraigh. Thaigeach, níl an tosaigh *-phobe* ar bhraistint.
+Mar seo a ligeann an iarmhír *-fóibe*: is féidir le haon ghéarleantóir freagairt "níl eagla orm," agus bheith ceart go teicniúil. Tugann an focal doras éalaithe teangeolaíoch dó.
 
-Níl an *xenomaniac* ar eagla ar an duine ar bharraigh — tá sé ar gharraithe aici. Feiceann sé ar bharraigh, ciontaíonn sé ar bharraigh, tógann sé ar bhraistint ar dhíol ar bharraigh ar bharraigh. Tugann sé níos mó ar am ar labhairt ar bharraigh ná ar bharraigh iad féin ag smaoinint ar dhul chun cinn.
+Níos measa fós: cruthaíonn sé dreasacht sceabhach le haghaidh ionsaí. Má chúisítear thú as eagla, conas a chruthóidh tú a mhalairt? Trí thaispeáint nach bhfuil eagla ort. Trí dhul i dtreo an ruda ar a bhfuil eagla ort de réir dealraimh. Trí bhuaileadh, trí mhaslú, trí ghéarleanúint — go díreach chun a thaispeáint nach tú an duine a mhaíonn an focal a chur síos air. Glaonna an fhóibe ar éalú; glaonna an diúltú d'fhóibe ar ionsaí. Ní chuireann an focal síos ar an bhforéigean — spreagann sé é.
 
-Níl an *ethnomaniac* ar chrith os coinn ar dhath — scrudaíonn sé air, aicmítear sé air, ordaítear sé ar bharraigh ar dtuairim an bhailitheora ar ghealú.
-
-Níl an *transmaniac* ar foluain ar daoine trangenre — infhestaíonn sé ar am agus ar fuinneamh ar dhisproportionate ar scrudú ar chorp, ar pháipéir ar bharraigh, ar leithris.
-
-Níl an *Islamomaniac* ar foluain ar Mhoslamach — lorgaíonn sé iad, deir sé iad, fhéachann sé iad, a dhúirt sé iad, agus a thugair siad ar bharraigh cosúil ar an tsibhialtacht ar bharraigh ar bharraigh ar raibh bean ar dhíol ar bharraigh ar chloich.
-
-I gach cás, an t-ord: níl an bhraistint ar imirt ar eagla, ach ar ghréann ar ghealú ar bharraigh ar bharraigh ar am ar pholaitiúil go fíor ar mhnaoi.
-
-### Cé ar an bharraigh ar an diagníos drochmheas
-
-Bhraistint na heipeasóid roimhe ar Gairdín na bhFréamhacha ar ceist: *cui bono* — ar a bharraigh ar an chion? Cuir an ceist ar an togra seo.
-
-Ar a bharraigh ar a tugtar ar thosaigh *-phobe*?
-
-Cinnte ar bharraigh ar na daoine ar bhí á ghealú, ar raibh siad ar ceangal linguistíc go focal ar dúbhailte. Cinnte ar bharraigh ar an dhíspeanas poiblí, ar raibh sé ag cailltean ar beacht. Cinnte ar bharraigh ar síceolaíochta, ar bhraistint tosaigh ar síceolaíochta ar dhól drochmheas.
-
-Is bhuain ar bhearraigh, ar féad sé a dhéaramh "níl mé ar eagla." Tá sé i bharraigh ar an chóras ar an drochmheas, ar raibh sé gan ainm: dá bhfuil sé ar "phobe" ar leith, níl sé ar dheilgneach shóisialta. Agus bhuain ar bharraigh do gach duine ar is fearr leis pheathologize ar daoine seachas ceist ar an chóras.
+Agus trí *homo-* a cheangal le hiarmhír dhiúltach, scríobhann sé go sofaisticiúil an fhadhb ar thaobh an duine aeraigh — amhail is gur leor a bheith ann chun paiteolaigeacht a tharraingt ar dhuine eile.
 
 ---
 
-## Cúigiú Páirt: An Éadomhain — an Fíor-Ainm ar an Fhréamh
+## Cuid a Trí: An Diagnóis Cheart — an Mháine
 
-### An Chuid Fhréimh
+### Iarmhír i bhfad níos cruinne
 
-Fanairt ar a ainmniú ar an chuid dhúa ar gach dreachmhaith. Agus anseo, tá focal ann cheana, ar a bhraistint ar an eitimeolaíochta ar chúráil an chúmhais: *heterophobia*.
+Tugann an tSean-Ghréigis uirlis eile dúinn: *-mania* (μανία) — an ghealtacht, an sainmhian alpach, an ghreamú compálsach a ídíonn an réasún.[^4] Ní "eagla" atá ar an bpíreamaineach roimh thine: tá sé gafa léi. Ní "éalú" a dhéanann an meigealamaineach roimh mhórgacht: tá sé ina sclábhaí aici. Ní "sceimhle" a mhothaíonn an cleipteamaineach roimh ghoid: tá sé ina phríosúnach aici.
 
-*Heteros* (ἕτερος) ag rá go Gréigis "an duine eile", "an duine ar dhíol", "cad ar nach bhfuil ar an dóigh céanna ar féin"[^4]. *Phobos*, ar eagla. Is ionann an éadomhain, ar bharraigh ar bharraigh, an eagla ar an duine ar dhíol — an tréimhse ar bharraigh ar bharraigh ar cad ar dhíol ar féin.
+Níl eagla ar an homamaineach roimh homaighnéasacht: tá sé gafa léi. Smaoiníonn sé uirthi ar maidin agus é ag léamh an nuachtáin. Smaoiníonn sé uirthi nuair a fheiceann sé beirt ag breith ar lámha ar an tsráid. Smaoiníonn sé uirthi agus é ag vótáil, ag tógáil a chlainne, ag roghnú a chathanna polaitiúla. Tá a intinn colonáilte ag homaighnéasacht daoine eile le déine nach sroicheann an chuid is mó de dhaoine aeracha iad féin, is dócha.
 
-Agus anseo, tá an tosaigh *-phobie* ar dhul ar bharraigh. Toisc faoin ghréann ar an gheal, tá eagla ann. Ar eagla dhomhain, go minic gan a rá, b'fhéidir gan mothú: eagla ar domhan ar nach bhfuil ag déanamh ar dóigh ar an íomhá rassúil ar bhraistint sé air. An eagla go raibh an duine eile, ar a simplí a bheith ar bharraigh, a chur ceist ar bharraigh ar bharraigh ar bharraigh.
+### Eolaíocht na sainmhéine
 
-Níl an éadomhaniac — an duine ar bhí ag eagla ar dhíol faoin bharraigh — ar bharraigh ar racism, ar bhraistint, ar chothrom ar fhéin, ar phháirc isteach ar an thúdoireachta. Agus is ionann an eagla ar fhréamh; an gréann ar thóg ar bharraigh.
+In 1996, d'fhoilsigh na síceolaí Henry Adams, Lester Wright agus Bethany Lohr ó Ollscoil Georgia staidéar a bhfuil cáil air san *Journal of Abnormal Psychology*. Thomhais siad na freagairtí fiseolaíocha ó 64 fear heitrighnéasach — 35 aicmithe mar "homafóbaigh" agus 29 mar "neamh-homafóbaigh" — i láthair spreagthach eiritice aeracha. Toradh: ní dhearna ach na fir homafóbacha amháin gríosú gnéasach suntasach a thaispeáint i láthair spreagthach aeracha fireanna.[^9]
 
-### An Struchtúr Iomlán
+Tá léirmhínithe an staidéir seo conspóideach — d'fhéadfadh imní seachas mianta a léiriú sa ghríosú.[^9] Ach cad a dhoiciméadaíonn an staidéar gan amhras, ná freagraíocht díréireach: ní chasann an "homafóbach" a shúile i leataobh. Freagraíonn a chorp. Gabhtar a aird. Is é seo meicníocht na greamaithe sainmhéine, ní meicníocht na fóibe.
+
+### An triúr buntáiste den téarma nua
+
+Tá triúr buntáiste ag an téarma *homamaineach*:
+
+1. **Cruinn ó thaobh eitimeolaíochta**: cuireann sé síos ar shainmhian, ní ar eagla.
+2. **Ionraic ó thaobh clinice**: tá an ghné chompálsach agus phroiciúil de na hiompraíochtaí seo doiciméadaithe go forleathan sa litríocht shíceolaíoch.[^9][^10]
+3. **Ceart ó thaobh réitrice**: athshocrú an spotsholas chuig an áit a bhfuil an mhífheidhm i ndáiríre — ag an ngéarleantóir, ní ag an ngéarleanta. Iompraíonn an homamaineach a dhiagnóis ina ainm féin.
+
+---
+
+## Cuid a Ceathair: An Ginearálú — na Máinteanna Idirdhealaitheacha
+
+### Patrún a athdhéantar
+
+Baineann an méid a fheicimid le haghaidh homaighnéasacht le gach idirdhealú. I ngach áit, ceileann an iarmhír *-fóibe* réaltacht an iompair.
+
+Níl eagla ar an *xeineamaineach* roimh an strainséir — tá sainmhian aige faoina láithreacht. Feiceann sé é i ngach áit, cuireann sé an milleán air as gach rud, tógann sé cláir pholaitiúla iomlána ar an ngreamú seo. Caitheann sé níos mó ama ag caint faoi strainséirí ná mar a chaitheann na strainséirí féin ag smaoineamh air.
+
+Ní chritheann an *eitneamaineach* roimh dhath craicinn — scrúdaíonn sé é, aicmíonn sé é, ordaíonn sé é le mionchúram an bhailitheora chompálsaigh.
+
+Ní éalaíonn an *trasmaineach* ó dhaoine trasinscneacha — infheistíonn sé am agus fuinneamh díréireach ag faire ar a gcoirp, ar a gcáipéisí aitheantais, ar a leithris.
+
+Ní éalaíonn an *ioslámamáineach* ó Mhoslamaigh — leanann sé iad, tráchtann sé orthu, fairíonn sé iad, samhlaíonn sé iad, glaonna sé orthu i ngach díospóireacht amhail is go mbraithfí an tsibhialtacht ar fad ar cad a chaitheann bean ar a ceann.
+
+I ngach cás, an struchtúr céanna: ní éalú scanraithe, ach greamú sainmhéine a shlogann aird, dioscúrsa agus gníomh polaitiúil an mhainiach.
+
+### Cé a bhaineann leas as an diagnóis mhícheart?
+
+Chuir na heipeasóid roimhe de Ghairdín na bhFréamhacha an cheist: *cui bono* — cé dó a bhfuil an choir? Cuirimis í anseo.
+
+Cé dó a bhfuil an iarmhír *-fóibe*?
+
+Go cinnte ní do na híospartaigh, atá nasctha go teangeolaíoch le focal diúltach. Go cinnte ní don díospóireacht phoiblí, a chailleann cruinneas. Go cinnte ní don síceolaíocht, a fheiceann ceann dá hiarmhírí cliniciúla mí-úsáidte.
+
+Baineann an géarleantóir leas as, ar féidir leis maíomh: "Níl eagla orm." Baineann córais chois leas as, a fhanann gan ainm: má tá sé ina "fhóibe" aonair, ní struchtúr sóisialta é. Agus baineann gach duine leas as a roghaíonn daoine aonair a phaiteolaigiú seachas córais a cheistiú.
+
+---
+
+## Cuid a Cúig: Xeineamáine — an Cruinniú Ainmneach
+
+### Cén fáth téarma aontaithe?
+
+Fágtar orainn an stoc coiteann de na máinteanna go léir a ainmniú. Teastaíonn focal uainn a thugann le chéile faoi bhratach amháin gach sainmhian idirdhealaitheach — **Cruinniú Ainmneach**, más mian leat, d'iompraíochtaí a dhiúltaíonn don duine eile.
+
+*(Ní ach comhtharlú é an giorrúchán C.A. a eascraíonn as seo. Nó b'fhéidir nach ea.)*
+
+### Cén fáth nach "heitreamáine"?
+
+D'fhéadfaí *heitreamáine* a mholadh, ón nGréigis *heteros* (ἕτερος) — "an duine eile," "an duine difriúil." Ach tá fadhb débhríochta ag an téarma seo: sa ghnáthchaint, tugann "heitra-" heitrighnéasacht chun cuimhne láithreach. D'fhéadfaí *heitreamáine* a mheascadh le sainmhian *don* heitrighnéasacht, rud a dhéanann an teachtaireacht doiléir.
+
+### Soiléireacht "xeineamáine"
+
+Tá an téarma **xeineamáine** soiléir.
+
+Ciallaíonn *Xenos* (ξένος) sa tSean-Ghréigis an strainséir, an té a thagann ó áit eile, an té nach mbaineann leis an ngrúpa.[^4] Is é an fhréamh atá le *xeineafóibe*, ach freisin le *xeineafíle* agus leis an bhfocal álainn *filoxéine* — flaithiúlacht, grá don strainséir.
+
+Is é an **xeineamáine** mar sin an sainmhian mhíshláintiúil don strainséir — ach "strainséir" sa chiall is leithne:
+
+- **An strainséir náisiúnta**: an té a thagann ó thír eile, ó chultúr eile
+- **An strainséir reiligiúnach**: an té a ghuíonn ar dhia eile, nó ar an dia céanna ar bhealach difriúil — an "comharsa cúng" de na reiligiúin a chuireann teorainn ar ghrá an chomharsa do na daoine a roinneann an creideamh
+- **An strainséir gnéasach**: an té a bhfuil a threoshuíomh nó a fhéiniúlacht nach n-oireann do norm tógtha ar breathnú neamhiomlán ar an dúlra
+- **An strainséir eitneach**: an té a bhfuil a chuma difriúil ón tromlach áitiúil
+- **An strainséir sóisialta**: an té a bhfuil a shaol, a roghanna, a luachanna ag imeacht ón gcomhréiteach timpeall
+
+Braitheann an xeineamaineach gach "altacht" seo mar bhagairtí eisiacha. Ní toisc go mbagraíonn siad air i ndáiríre — ach toisc go gcuireann a n-aon bheith ann an ficsean de dhomhan aontaithe, intuartha, suaimhneach i mbaol.
+
+### An struchtúr iomlán athbhreithnithe
 
 ```
-ÉADOMHAIN (fréamh)
-    Eagla ar bharraigh ar bharraigh
-           │
-           ▼
-    GÉALÚINTÍ DOCHNÍONN (siombail)
-    ├── Homommania: gréann ar ghéarchéime ghéaracha daoine eile
-    ├── Xenommania: gréann ar dhúch daoine eile
-    ├── Ethnommania: gréann ar dhath daoine eile
-    ├── Transmania: gréann ar bharraigh daoine eile
-    ├── Islamommania: gréann ar reiligiún daoine eile
-    └── rl.
-           │
-           ▼
-    CÓRAS AR DHROCHMHEAS (struchtúir)
-    ├── Heterosexism: córas ar bharraigh heterashéacsúl
-    ├── Racism: córas ar dheilgneach ar dúch
-    ├── Patriarkat: córas ar dhomhain ar fhireann
-    └── rl.
+XEINEAMÁINE (stoc coiteann)
+    Sainmhian mhíshláintiúil don duine eile, don difriúil, don strainséir
+           |
+           +-- Homamaíne: sainmhian do threoshuíomh gnéis daoine eile
+           +-- Trasmaíne: sainmhian d'fhéiniúlacht inscne daoine eile
+           +-- Eitneamáine: sainmhian d'fhréamh eitneach daoine eile
+           +-- Ioslámamáine: sainmhian do reiligiún daoine eile
+           +-- Ginaemaíne fuathach: sainmhian do smacht ar mhná
+           +-- srl.
+           |
+           v
+    CÓRAIS CHOIS (struchtúir institiúideacha)
+           +-- Heitrighnéasachas: córas pribhléide heitrighnéasaí
+           +-- Ciníochas: córas ordlathais cine
+           +-- Patriarcacht: córas ceannais fhireann
+           +-- Coilíneachas: córas dúshaothraithe pobail
+           +-- srl.
 ```
 
-Tá an ailtireacht seo ar scaradh ar thrí leibhéal ar raibh an foclóir reatha ag droch-theanga:
+Déanann an ailtireacht seo idirdhealú idir dhá leibhéal a mheascann an foclóir reatha:
 
-1. **An Eagla** (éadomhain) — leibhéal síceolaíochta domhain, go minic gan mothú
-2. **An Gréann** (géalúintí) — leibhéal bhraistint ar bharraigh, compúsúil
-3. **An Córas** (struchtúir ar dhrochmheas) — leibhéal institiúideach, cultúrtha
+1. **An sainmhian** (xeineamáine agus a chuid athruithe) — leibhéal iompraíochta infheicthe, compálsach, aonair ach freisin comhchoiteann
+2. **An córas** (struchtúir chois) — leibhéal institiúideach, cultúrtha, stairiúil
 
-Cuimilt na leibhéal, is ionann a bhreith ar bharraigh ar dhul i ndiaidh i ndeireadh.
+Is é an xeineamaineach an saighdiúir coisithe. Is é an córas an t-arm. Iad a mheascadh, is é sin bheith gan chumas iad a chomhrac go héifeachtach.
 
----
+### Cad a nochtann an foclóir nua
 
-## Séú Páirt: An Eipeasóid 01 ar Cúl an Drochscátháin
+Trí ainmniú i gceart, tuigimid níos fearr:
 
-### An Nasc ar an Tsraith
+| Sean-téarma | Tugann le fios... | Téarma nua | Nochtann... |
+|-------------|-------------------|------------|-------------|
+| Homafóbach | Eagla, íospartach a eagla | Homamaineach | Sainmhian, freagrach as a shainmhian |
+| Xeineafóbach | Eagla roimh an strainséir | Xeineamaineach | Greamú míshláintiúil ar an strainséir |
+| Trasfóbach | Eagla roimh dhaoine tras | Trasmaineach | Faireachas compálsach ar choirp thras |
+| Ioslámafóbach | Eagla roimh an Ioslam | Ioslámamáineach | Taibhreamh sainmhéine ar an Moslamach |
 
-San Eipeasóid 01 ar Gairdín na bhFréamhacha, bhí muid ag docúmáid ar sleamhnú séimeantach na bpáirtí polaitiúla: focail ar raibh ar bharraigh ar bhuidéal ar raibh an t-ábhar athraithe. "Saoirse", "comhpháirtíochta", "cothromas shóisialta" — bhí na leabhraí ar fhanú, an brí ag scaipeadh.
+Déanann an iarmhír *-máine* trí rud nach ndéanann *-fóibe*:
 
-Anseo, bhraithím ar feiniméan ar chosúil: focail ar nach raibh an t-ábhar cheart riamh. Ní sleamhnú — a earráid ar bhunús. Níl an focal "homophobia" ar sleamhnú ar an bhraistint bunaidh. Bhí sé ar dhúa ar tosach *-phobe*, ar chúiseanna straitéiseacha ar thuigim ach ar a bhfuil na torthaí ag teacht ar ais chuginn.
-
-Is ionann an teaspáint céanna, ar feiceáil ar an taobh eile ar an scáth: níl an foclóir riamh ar neamhgheal. Nuair a bhíonn na focail ag tabhairt bréige — ar sleamhnú nó ar dhúa — cosantaíonn siad na struchtúir ar bhraistint siad a ainmniú.
-
-### An duine ar bhí á ghealú ar an chéad pheureux
-
-Níl an anailís seo amháin ar bharraigh ar bharraigh ar bharraigh ar bharraigh. Ainm go cruinn, is ionann a thuiscint go cruinn. Agus a thuiscint go cruinn, is ionann a bheith ábalta ar ghníomhú ar bharraigh.
-
-Nuair a deir tú "homophobe", deir tú "namhaide". Nuair a deir tú "homommaniac", deir tú "duine ar gharraithe aici". Nuair a aithníonn tú an éadomhain ar fhréamh, deir tú "duine ar bhí ag eagla". Agus os coinn an duine ar bhí ag eagla, níl an freagra ar an dóigh céanna ar chuir os coinn an namhaide.
-
-Is ionann an géal ar dhrochmheas ar bhraistint go bhfuil a bharraigh chomh fréamhach go bhfuil sé gan bharraigh ar bharraigh ar bharraigh ar bharraigh ar bharraigh. Tá an ghréann ar bharraigh amháin ar dhílíonn ar an eagla ar bharraigh. Gach dli ar a rinne sé i ndiaidh an dhíol ar bharraigh ar bharraigh ar bharraigh. Gach soilsiú ar scréach ar pháinic. Gach géal ar dhul i ndiaidh ar dhul i ndiaidh a dhéaramh ar simpl ar domhan ar a bhfuil an croí ag foluain.
-
-Ní ionann seo ar bharraigh ar bharraigh ar bharraigh ar bharraigh ar bharraigh. Ach tá sé ar athrú ar an radharc ar bharraigh ar bharraigh. Agus sa athrú ar bharraigh a bhraithím b'fhéidir, ar bharraigh ar dhul i ndiaidh, ar eochair ar thuiscint — agus mar sin ar thromaighe.
-
-Toisc níl mé ag leigheasú ar ghréann ar a ainmniú ar eagla. Agus níl mé ag déanamh ar eagla ar a bhreith go rúnda.
+1. **Cuireann sé freagracht**: ní mhaithimid sainmhian mar a mhaithimid eagla
+2. **Déanann sé diagnóis cheart**: is í an sainmhian an fíor-mheicníocht
+3. **Bogann sé an fhadhb**: tá an mhífheidhm ag an mbrathadóir, ní ag an mbreathnaithe
 
 ---
 
-### An ceist ar fhághaim thú
+## Cuid a Sé: Eipeasóid 01 droim ar ais
 
-An raibh na focail ar a bhraithim ar dochníonn — an ndéanann siad é i ndáiríre? Nó an bhí siad ar scáth níos mó idir sinn agus an réadúlacht?
+### An nasc leis an tsraith
 
-Dá bhí an foclóir ar chosaint ar bharraigh ar bharraigh, ansin b'fhéidir ar an chéad ghníomh ar dhul i ndiaidh ar bhraistint a athrú. Ní ar coquetterie linguistíc. Toisc níl mé ag leigheasú cad ar nach bhfuil a fhios ar a bhrainstint cruinn.
+In Eipeasóid 01 de Ghairdín na bhFréamhacha, rinneamar doiciméadú ar an sleamhnú séimeantach páirtithe polaitiúla: focail a fhanann ar bhuidéil a bhfuil an t-ábhar athraithe. "Saoirse," "dlúthpháirtíocht," "ceartas sóisialta" — d'fhan na lipéid, ghallaigh an bhrí.
 
-Scríobh chugam. Is mór an gairdín sin, agus tá roinnt fréamhacha i bhfolach i dteanga féin.
+Anseo, feicimid an feiniméan contrártha: focail nach raibh an t-ábhar ceart riamh iontu. Ní sleamhnú — earráid bunaidh. Níor shleamhnaigh an focal "homafóibe" óna chiall bhunaidh. Tógadh é ar iarmhír mhíoiriúnach, ar chúiseanna straitéiseacha intuigthe ach a bhfuil na hiarmhairtí ag breith orainn anois.
+
+Is é an ceacht céanna é, feicthe ón taobh eile den scáthán: ní neamhchiontach an foclóir riamh. Nuair a insíonn focail bréaga — trí shleamhnú nó trí thógáil — cosnaíonn siad na struchtúir a mhaíonn siad a ainmniú.
+
+### Is eaglach é an xeineamaineach a aithníonn é féin go dona
+
+Ní díreach cleachtadh stíle foclaíochta é an anailís seo. Is ionann ainmniú i gceart agus tuiscint i gceart. Agus is ionann tuiscint i gceart agus gníomhú le cothromaíocht.
+
+Faoin máine torannach, faoi na dlíthe agus na maslaí agus an fhoréigean, b'fhéidir go bhfuil eagla ann. Eagla dhomhain, go minic neamhráite, uaireanta neamh-chomhfhiosach: eagla roimh dhomhan nach gcloíonn leis an íomhá shuaimhneach a rinne muid de. An eagla go gcuireann an duine eile, trína aon bheith ann, daingneacht a chuid deimhniúchán féin i gceist.
+
+Ach athraíonn an xeineamaineach an eagla seo go hionsaí. Ní éalaíonn sé — ionsaíonn sé. Agus ní mór an t-athrú seo a ainmniú. Is é an mháine an siomptóm gníomhach; níl san eagla ach an fhréamh curtha i bhfolach.
+
+Is duine é an maineach idirdhealaitheach a bhfuil a fhéiniúlacht chomh lag sin nach seasann sé d'aon bheith na haltachta. Níl ina shainmhian don duine eile ach scáthán droim ar ais dá imní faoina féin. Gach dlí a vótálann sé i gcoinne na héagsúlachta is admháil éagobhsaíochta é. Gach masla is béic scanraidh é. Gach géarleanúint is iarracht éadóchasach é domhan a bhfuil a chastacht ag cur isteach air a shimpliú.
+
+Ní dhéanann sé seo a ghníomhartha níos lú tromchúiseach, ná níos lú incháinte. Ach athraíonn sé an radharc ar an meicníocht. Agus san athrú radhairc seo, tá, b'fhéidir, os cionn an fhriotaíocht riachtanach, eochair thuisceana — agus mar sin athraithe.
+
+---
+
+## An frith-fhoclóir: ainmniú an chuimsithe freisin
+
+Má athainmnímid na paiteolaigeachtaí, ainmnímis na buanna freisin. Os comhair na xeineamáine, tá frithníomh a bhí ar eolas go maith ag na Gréagaigh: **filoxéine** (φιλοξενία) — go litriúil, grá don strainséir.
+
+Ní é an naíveacht an fhiloxéine. Ní é féin a scriosadh os comhair an duine eile. Is é an cumas an strainséir a fheiceáil ní mar bhagairt, ach mar fhéidearthacht. Fuinneog ar dhomhan nach n-aithním fós. Saibhriú seachas caolú.
+
+| Paiteolaigeacht | Frithníomh |
+|-----------------|------------|
+| Xeineamáine | Filoxéine — grá don strainséir, flaithiúlacht |
+| Homamaíne | Glacadh le héagsúlacht na ngrá |
+| Trasmaíne | Meas ar fhéinchinneadh na gcoirp |
+| Eitneamáine | Aitheantas ar dhínit chomhionann |
+| Ioslámamáine | Tuatachas fíor — neamhspleáchas chairdiúil do chreidimh daoine eile |
+
+Ní san aonfhoirmeacht atá an fíor-neart — tá sé sa chumas éagsúlacht a ghlacadh gan díleá inti.
+
+---
+
+### An cheist a fhágaim agat
+
+Na focail a úsáidimid chun idirdhealuithe a chur síos — an gcuireann siad síos orthu i ndáiríre? Nó an scáileán breise iad idir muid féin agus an réaltacht?
+
+Má chosnaíonn an foclóir an rud a mhaíonn sé a chomhrac, ansin b'fhéidir gurb é an chéad ghníomh friotaíochta athainmniú. Ní mar gheall ar chócaireacht theangeolaíoch. Mar ní féidir linn leigheas a dhéanamh ar rud nach bhfuil ar eolas againn conas a ainmniú.
+
+**Xeineamáine**: an sainmhian mhíshláintiúil don duine eile. Cruinniú Ainmneach gach idirdhealú.
+
+Anois, tá focal againn.
+
+Scríobh chugam. Tá an gairdín mór, agus tá roinnt fréamhacha curtha i bhfolach sa teanga féin.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, "George Weinberg", 2017 ; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, Márta 2017.
+[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, Márta 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)" ; Jack Nichols & Lige Clarke, article i *Screw Magazine*, 5 Bealtaine 1969 ; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, alt in *Screw Magazine*, 5 Bealtaine 1969; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (iontrálacha φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (iontrálacha φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, caibidil "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, caibidil "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 
 [^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Associated Press, nuashonrú *AP Stylebook*, Samhain 2012 ; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26 Samhain 2012 ; *The Advocate*, "AP Says Homophobia Off the Mark", 26 Samhain 2012.
+[^7]: Associated Press, nuashonrú ar *AP Stylebook*, Samhain 2012; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26 Samhain 2012; *The Advocate*, "AP Says Homophobia Off the Mark", 26 Samhain 2012.
 
-[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012 ; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", Márta 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", Márta 2017.
 
 [^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001 ; Warren J. Blumenfeld (eag.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992 ; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (eag.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.

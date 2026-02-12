@@ -1,21 +1,27 @@
 ---
-title: "Heterofobă și Mania Discriminatorie"
+title: "Xenomanie"
 date: 2026-02-10
 draft: false
 episode: 8
-series: "Grădina Rădăcinilor"
-subtitle: "Când cuvintele trădează diagnosticul"
-description: "Sufixul -fob descrie o frică. Dar cel care persecută nu fuge — este obsedant. Explorare etimologică a unei minciuni lingvistice care protejează ceea ce prinde a combate."
-categories: ["filosofie", "lingvistică", "psihologie"]
-tags: ["etimologie", "homofobă", "discriminare", "heterofobă", "manie", "fobă", "limbaj", "Weinberg", "Herek", "prejudecată"]
+series: "Gradina Radacinilor"
+subtitle: "Adunarea Nominativa a discriminarilor"
+description: "Homofobie, xenofobie, transfobie — aceste cuvinte mint. Sufixul -fob descrie o frica, dar cel care persecuta nu fuge: este obsedat. Explorare etimologica a minciunii lingvistice care protejeaza discriminarile, si propunerea unui termen unificator: xenomania, obsesia maladiva de celalalt."
+categories: ["filosofie", "lingvistica", "psihologie"]
+tags: [
+  "xenomanie", "etimologie", "discriminare", "limbaj", "manie", "fobie",
+  "homofobie", "xenofobie", "transfobie", "islamofobie", "rasism", "sexism",
+  "homomanie", "transmanie", "islamomanie", "etnomanie",
+  "incluziune", "diversitate", "alteritate", "toleranta", "respect", "demnitate umana",
+  "prejudecata", "obsesie", "Weinberg", "Herek", "psihologie sociala"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, martie 2017"
   - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, articol în Screw Magazine, 5 mai 1969"
+  - "Jack Nichols & Lige Clarke, articol in Screw Magazine, 5 mai 1969"
   - "Time Magazine, 'The Homosexual in America', 1969"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
-  - "Pierre Chantraine, Dicționar etimologic al limbii grecești, Klincksieck, 1968"
+  - "Pierre Chantraine, Dictionar etimologic al limbii grecesti, Klincksieck, 1968"
   - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
   - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
   - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
@@ -27,220 +33,271 @@ sources:
   - "Warren J. Blumenfeld (ed.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
-> **Notă de transparență**
+> **Nota de transparenta**
 >
-> Această cronică este rezultatul unei colaborări între un om (Pépé) și o inteligență artificială (Claude, Anthropic). Ideile directoare, linia editorială și validarea finală sunt umane. Cercetarea documentară și redactarea sunt asistate de IA.
+> Aceasta cronica este rezultatul unei colaborari intre un om (Pepe) si o inteligenta artificiala (Claude, Anthropic). Ideile directoare, linia editoriala si validarea finala sunt umane. Cercetarea documentara si redactarea sunt asistate de IA.
 >
-> Deoarece IA-urile pot produce inexactități, **fiecare afirmație factuală este citată** din documente academice, enciclopedice sau jurnalistice verificabile. Sursele sunt listate la sfârșitul articolului.
+> Deoarece IA-urile pot produce inexactitati, **fiecare afirmatie factuala este citata** din documente academice, enciclopedice sau jurnalistice verificabile. Sursele sunt listate la sfarsitul articolului.
 >
-> Acest text nu angajează decât editorului său uman, care îi asumă responsabilitatea.
+> Acest text nu angajeaza decat editorul sau uman, care isi asuma responsabilitatea.
 
 ---
 
-Săptămâna asta, am căzut într-o gaură de iepure etimologică. Mi se întâmplă des — trag un fir și mă aflu trei ore mai târziu cu o ghemă care mă privește acuzator.
+Saptamana aceasta, am cazut intr-o gaura de iepure etimologica. Mi se intampla des — trag un fir si ma gasesc trei ore mai tarziu cu un ghem care ma priveste acuzator.
 
-Firul, de data aceasta, era un sufix. Patru litere: *-fob*. Le-am pus lângă ceea ce pretind a descrie. Și nu se potriveau. Deloc.
+Firul, de data aceasta, era un sufix. Patru litere: *-fob*. Le-am pus langa ceea ce pretind a descrie. Si nu se potriveau. Deloc.
 
-Cuvintele au o memorie, și aceea urcă la grecul antic. Iar grecul antic nu minte. Noi, în schimb — mintim cu bucătile lui.
-
----
-
-## Prima parte: Invenția strategică a unui cuvânt imperfect
-
-### George Weinberg și lovitura de geniu din 1965
-
-În 1965, psihologul american George Weinberg observă ceva tulburător la colegii lui. Atunci când invită prieteni homosexuali la adunări, unii colegi reacționează cu o aversiune fiziologică — « fără argument, doar dezgust », va spune mai târziu.[^1]
-
-Weinberg înțelege că problema nu este la homosexuali. Problema este la cei care îi privesc. Și pentru a-i numi, inventează un cuvânt: *homophobia*.
-
-Termenul apare pentru prima dată în presă în 1969, în revista *Screw*, apoi în *Time Magazine* același an.[^2] În 1972, Weinberg o dezvoltă în *Society and the Healthy Homosexual*, o carte revoluționară al cărei prim propoziție dă tonul: « Nu aș considera niciodată un pacient ca sănătos cât timp nu a depășit prejudecata lui împotriva homosexualității ».[^3]
-
-Lovitura de geniu este strategică: prin acolarea sufixului *-phobia* la prejudecata anti-gay, Weinberg inverseaza diagnosticul. Nu este homosexualul cel bolnav — este cel care îl persecută. La o epocă în care homosexualitatea figura încă în *Diagnostic and Statistical Manual* (DSM) ca patologie psihiatrică, această inversare era un act de rezistență intelectuală.[^3]
-
-### Un cuvânt conștient de limitele lui
-
-Dar Weinberg știa că cuvântul lui era imperfect. L-a definit chiar în mod restrâns: « teroarea de a fi în apropiere de homosexuali — și, în cazul homosexualilor înșiși, ura de sine ».[^3]
-
-Cuvântul a funcționat — minunat — ca instrument politic. A contribuit la retragerea homosexualității din DSM în 1973. A dat un nume la ceva ce toată lumea vedea dar nimeni nu putea numi.[^2]
-
-Dar șaizeci de ani mai târziu, cuvântul ne închisoare.
+Cuvintele au o memorie, si aceasta urca la greaca veche. Iar greaca veche nu minte. Noi, in schimb — mintim cu bucatile ei.
 
 ---
 
-## A doua parte: Minciuna etimologică
+## Prima parte: Inventia strategica a unui cuvant imperfect
 
-### Ce spune grecul cu adevărat
+### George Weinberg si lovitura de geniu din 1965
 
-Sufixul *-phobos* (φόβος) desemnează frica, fuga, aversiunea instinctivă.[^4] Arachnofobul fuge de păianjen. Claustrofobul fuge din spațiu închis. Agorafobul fuge din mulțime. În fiecare caz, mecanismul este identic: o teroare care te împinge la evitare, retragere, paralizie.
+In 1965, psihologul american George Weinberg observa ceva tulburator la colegii sai. Cand invita prieteni homosexuali la intalniri, unii colegi reactionau cu o aversiune viscerala — « fara argument, doar repulsie », va spune mai tarziu.[^1]
 
-Dar ce face cel pe care îl numim « homofob »?
+Weinberg intelege ca problema nu este la homosexuali. Problema este la cei care ii privesc. Si pentru a o numi, inventeaza un cuvant: *homophobia*.
 
-Nu fuge. Nu se culcă. Nu schimbă trotuar tremurând. Nu. El legiferează. Hărțuiește. Agresează. Vânează. Manifestă, semnează petiții, predică și persecută. Se invită în dormitoarele altuia cu obsesiune a fanatic. Consacră o energie considerabilă scrutării, comentării, condamnării și încercării de a controla intimitățile unor străini de-a binelea.
+Termenul apare pentru prima data in presa in 1969, in revista *Screw*, apoi in *Time Magazine* in acelasi an.[^2] In 1972, Weinberg il dezvolta in *Society and the Healthy Homosexual*, o carte revolutionara a carei prima propozitie da tonul: « Nu as considera niciodata un pacient sanatos atat timp cat nu si-a depasit prejudecata impotriva homosexualitatii ».[^3]
 
-Acest comportament nu este o fobă. Este o obsesiune.
+Lovitura de geniu este strategica: prin alaturarea sufixului *-phobia* la prejudecata anti-gay, Weinberg inverseaza diagnosticul. Nu homosexualul este bolnav — este cel care il persecuta. Intr-o epoca in care homosexualitatea figura inca in *Diagnostic and Statistical Manual* (DSM) ca patologie psihiatrica, aceasta inversare era un act de rezistenta intelectuala.[^3]
 
-### Știința confirmă: nu este o frică
+### Un cuvant constient de limitele sale
 
-Gregory Herek, profesor de psihologie la Universitatea din California la Davis și unu din cei mai mari specialiști mondiali în prejudecată sexuală, a dedicate zeci de ani documentării limitelor termenului. Într-un articol fundamental din 2004, « Beyond Homophobia », observă că termenul « rar se referă la o frică intensă și irațională a minorităților sexuale », că « este încadrat prin prisma psihopatologiei fără a fi conceput ca diagnosticare », și că « a reflectat insuficient rolul normelor sociale mai largi în formarea atitudinilor individuale ».[^5]
+Dar Weinberg stia ca termenul sau era imperfect. L-a definit de altfel in mod restrans: « teroarea de a fi in apropierea homosexualilor — si, in cazul homosexualilor insisi, ura de sine ».[^3]
 
-Herek propune a înlocui termenul cu « prejudecată sexuală » (*sexual prejudice*), pe care o definește ca « atitudini negative vers un individ din cauza orientării lui sexuale ».[^6] Este mai precis. Dar nu este încă suficient de drept.
+Cuvantul a functionat — magnific — ca instrument politic. A contribuit la eliminarea homosexualitatii din DSM in 1973. A dat un nume la ceva ce toata lumea vedea dar nimeni nu putea numi.[^2]
 
-Pentru că problema nu este doar impreciziune. Este direcția proiectorului.
+Dar saizeci de ani mai tarziu, cuvantul ne inchide.
+
+---
+
+## A doua parte: Minciuna etimologica
+
+### Ce spune greaca cu adevarat
+
+Sufixul *-phobos* (phobos) desemneaza frica, fuga, aversiunea instinctiva.[^4] Aracnofobul fuge de paianjen. Claustrofobul fuge de spatiul inchis. Agorafobul fuge de multime. In fiecare caz, mecanismul este identic: o teroare care impinge la evitare, la retragere, la paralizie.
+
+Dar ce face cel pe care il numim « homofob »?
+
+Nu fuge. Nu se ghemureste. Nu schimba trotuarul tremutand. Nu. El legifereaza. Hartsuieste. Agreseaza. Vaneaza. Manifesta, semneaza petitii, predica si persecuta. Se invita in dormitoarele altora cu obstinatie de fanatic. Consacra o energie considerabila scrutarii, comentarii, condamnarii si incercarii de a controla intimitatea unor perfecti necunoscuti.
+
+Acest comportament nu este o fobie. Este o obsesie.
+
+### Stiinta confirma: nu este o frica
+
+Gregory Herek, profesor de psihologie la Universitatea din California la Davis si unul dintre cei mai mari specialisti mondiali in prejudecata sexuala, a dedicat decenii documentarii limitelor termenului. Intr-un articol fundamental din 2004, « Beyond Homophobia », observa ca termenul « rar se refera la o frica intensa si irationala a minoritatilor sexuale », ca « este incadrat prin prisma psihopatologiei fara a fi conceput ca un diagnostic », si ca « a reflectat insuficient rolul normelor sociale mai largi in formarea atitudinilor individuale ».[^5]
+
+Herek propune inlocuirea termenului cu « prejudecata sexuala » (*sexual prejudice*), pe care o defineste ca « atitudini negative fata de un individ din cauza orientarii sale sexuale ».[^6] Este mai precis. Dar nu este inca suficient de corect.
+
+Pentru ca problema nu este doar imprecizia. Este directia reflectorului.
 
 ### Scutul retoric
 
-În 2012, Associated Press — al cărui *Stylebook* fixează normele redacționale pentru majoritatea ziarelor americane — a retras cuvântul « homophobia » din contextele politice și sociale. Redactorul șef adjunct Dave Minthorn a explicat: « Este pur și simplu inexact. Inculpă o tulburare mentală cuiva, și sugerează o cunoaștere pe care nu o avem ».[^7]
+In 2012, Associated Press — al carui *Stylebook* fixeaza normele redactionale pentru majoritatea ziarelor americane — a eliminat cuvantul « homophobia » din contexte politice si sociale. Redactorul sef adjunct Dave Minthorn a explicat: « Este pur si simplu inexact. Inseamna a atribui o tulburare mentala cuiva, si sugereaza o cunoastere pe care nu o avem ».[^7]
 
-Weinberg însuși s-a opus acestei retrageri, argumentând că cuvântul rămânea « crucial pentru umanitatea noastră » cât timp actele pe care le descrie ar persista.[^8] Avea dreptate asupra necesității de a numi. Dar întrebarea rămâne: nu este a numi prost a proteja involuntar?
+Weinberg insusi s-a opus acestei eliminari, argumentand ca termenul ramanea « crucial pentru umanitatea noastra » atat timp cat actele pe care le descrie persistau.[^8] Avea dreptate asupra necesitatii de a numi. Dar intrebarea ramane: a numi gresit nu inseamna a proteja involuntar?
 
-Pentru că iată ce permite sufixul *-fob*: orice persecutor poate răspunde « n-am frică », și avea tehnologic dreptate. Cuvântul îi oferă o cale de ieșire lingvistică.
+Caci iata ce permite sufixul *-fob*: orice persecutor poate raspunde « nu mi-e frica », si avea tehnic dreptate. Cuvantul ii ofera o iesire lingvistica.
 
-Și mai rău: creează o stimulare perversă spre agresiune. Dacă ești acuzat de frică, cum dovedești că n-ai frică? Mergând către obiecul presupus al terorii tale. Lovind, insultând, persecutând — precis pentru a demonstra că nu ești cel pe care cuvântul pretinde a-l descrie. Fobia cheamă fuga; refutarea fobiei cheamă atac. Cuvântul nu descrie violența — o provoacă.
+Si mai rau: creeaza o stimulare perversa spre agresiune. Daca esti acuzat ca ti-e frica, cum dovedesti contrariul? Mergand catre obiectul presupus al terorii tale. Lovind, insultand, persecutand — tocmai pentru a demonstra ca nu esti cel pe care cuvantul pretinde a-l descrie. Fobia cheama fuga; respingerea fobiei cheama atacul. Cuvantul nu descrie violenta — o provoaca.
 
-Și prin acolarea *homo-* cu un sufix negativ, înscrie subtil problema de la latura homosexualului — ca și cum pur și simplu a exista ar fi suficient pentru a provoca o patologie în celălalt.
+Si prin alaturarea *homo-* cu un sufix negativ, inscrie subtil problema de partea homosexualului — ca si cum simplul fapt de a exista ar fi suficient pentru a provoca o patologie in celalalt.
 
 ---
 
-## A treia parte: Diagnosticul drept — mania
+## A treia parte: Diagnosticul corect — mania
 
-### Un sufix cu mult mai precis
+### Un sufix mult mai precis
 
-Grecul antic ne oferă alt instrument: *-mania* (μανία) — nebunie, obsesiune devoratoare, fixare compulsivă care consumă rațiunea.[^4] Piromania nu « teme » focul: este o posedare de foc. Megalomania nu « fuge » de mărime: este sclavă mărimii. Cleptomanie nu « se teme » de furt: este prizonierul furtului.
+Greaca veche ne ofera un alt instrument: *-mania* (mania) — nebunia, obsesia devoratoare, fixatia compulsiva care consuma ratiunea.[^4] Piromanul nu « se teme » de foc: este posedat de el. Megalomanul nu « fuge » de grandoare: este sclavul ei. Cleptomanul nu « se teme » de furt: este prizonierul lui.
 
-Homomaniacul nu se teme de homosexualitate: este obnubilat de ea. Se gândește la ea dimineața citind ziarul. Se gândește la ea văzând doi oameni ținând mâna pe stradă. Se gândește la ea votând, educând copiii, alegând luptele politice. Mintea lui este colonizată de homosexualitatea celorlalți cu o intensitate pe care cei mai mulți homosexuali înșiși probabil nu o ating.
+Homomaniacul nu se teme de homosexualitate: este obnubilat de ea. Se gandeste la ea dimineata citind ziarul. Se gandeste la ea vazand doi oameni tinandu-se de mana pe strada. Se gandeste la ea votand, educandu-si copiii, alegandu-si luptele politice. Mintea lui este colonizata de homosexualitatea altora cu o intensitate pe care majoritatea homosexualilor insisi probabil nu o ating.
 
-### Știința obsesiei
+### Stiinta obsesiei
 
-În 1996, psihologii Henry Adams, Lester Wright și Bethany Lohr de la Universitatea din Georgia publică un studiu care devine celebru în *Journal of Abnormal Psychology*. Au măsurat reacții fiziologice ale 64 de bărbați hetero — 35 clasificați ca « homofobă » și 29 ca « non-homofobă » — în fața stimulilor erotici homosexuali. Rezultat: doar bărbații homofobă au arătat excitare sexuală semnificativă în fața stimulilor homosexuali masculini.[^9]
+In 1996, psihologii Henry Adams, Lester Wright si Bethany Lohr de la Universitatea din Georgia au publicat un studiu devenit celebru in *Journal of Abnormal Psychology*. Au masurat reactiile fiziologice ale 64 de barbati heterosexuali — 35 clasificati ca « homofobi » si 29 ca « non-homofobi » — in fata stimulilor erotici homosexuali. Rezultat: doar barbatii homofobi au aratat o excitare sexuala semnificativa in fata stimulilor homosexuali masculini.[^9]
 
-Interpretări studiului sunt dezbătute — excitarea ar putea reflecta anxietate mai degrabă decât dorință.[^9] Dar ceea ce studiul documentează fără ambiguitate este o reactivitate disproporționată: « homofobul » nu deturnează privirea. Corpul lui reacționează. Atenția lui este captată. Acesta este mecanismul fixației obsesive, nu cel al fobiei.
+Interpretarile acestui studiu sunt dezbatute — excitarea ar putea reflecta anxietate mai degraba decat dorinta.[^9] Dar ceea ce studiul documenteaza fara ambiguitate este o reactivitate disproportionata: « homofobul » nu intoarce privirea. Corpul lui reactioneaza. Atentia lui este captata. Este mecanismul fixatiei obsesionale, nu cel al fobiei.
 
 ### Triplu avantaj al noului termen
 
-Termenul *homomaniac* prezintă un avantaj triplu:
+Termenul *homomaniac* prezinta un triplu avantaj:
 
-1. **Etimologic exact**: descrie obsesiune, nu frică.
-2. **Clinic onest**: literatura psihologică a documentat larg dimensiunea compulsivă și proiectivă a acestor comportamente.[^9][^10]
-3. **Retoric drept**: repoziționează proiectorul acolo unde se află disfuncția reală — la persecutor, nu la persecutat. Homomaniaca poartă diagnosticul lui în propriul nume.
-
----
-
-## A patra parte: Generalizare — mania discriminatorie
-
-### Un tipar care se repetă
-
-Ceea ce observăm pentru homosexualitate valorează pentru ansamblul discriminărilor. Peste tot, sufixul *-fob* mascrează realitatea comportamentului.
-
-*Xenomaniacul* nu se teme de străin — este obsedant de prezența lui. Îl vede peste tot, îl responsabiliza de totul, construiește programe politice întregi pe această fixare. Consacră mai mult timp vorbind de străini decât stranul în sine consacră gândirii lui.
-
-*Etnomaniacul* nu tremură în fața unei culori de piele — o scrută, o categorizează, o ierarhizează cu diligența colecționarului compulsiv.
-
-*Transmaniaca* nu fuge de persoane transgender — investește timp și energie disproporționată să supravegheze corpurile lor, identitatea lor, toaletele lor.
-
-*Islamomaniacul* nu fuge de musulmani — îi vânează, îi comentează, îi supraveghează, îi fantasmează, îi invocă la fiecare dezbatere ca și cum bunăstarea entregii civilizații ar depinde de ceea ce o femeie poartă pe cap.
-
-În fiecare caz, aceeași structură: nu evitare apeurată, ci fixație obsesivă care devoră atenția, discursul și acțiunea politică a maniacului.
-
-### Cui profită diagnosticul greșit?
-
-Episoadele anterioare ale Grădinii Rădăcinilor puneau întrebarea: *cui bono* — cui profită criminalitatea? Să o aplicăm aici.
-
-Cui profită sufixul *-fob*?
-
-Cu siguranță nu victimelor, care se găsesc lingvistic asociate cu un cuvânt negativ. Cu siguranță nu dezbaterii publice, care pierde precizie. Cu siguranță nu psihologiei, care vede unu din sufixi clinici deviat.
-
-Profită persecutorului, care poate se defaime: « N-am frică. » Profită sistemelor de opresiune, care rămân nenumite: dacă este o « fobă » individuală, nu este o structură socială. Și profită tuturor celor care preferă patologizarea indivizilor mai degrabă decât a questiona sisteme.
+1. **Etimologic exact**: descrie o obsesie, nu o frica.
+2. **Clinic onest**: literatura psihologica a documentat pe larg dimensiunea compulsiva si proiectiva a acestor comportamente.[^9][^10]
+3. **Retoric corect**: repozitioneaza reflectorul acolo unde se afla cu adevarat disfunctia — la persecutor, nu la persecutat. Homomaniacul poarta diagnosticul in propriul nume.
 
 ---
 
-## A cincea parte: Heterofobă — adevăratul nume al rădăcinii
+## A patra parte: Generalizarea — maniile discriminatorii
 
-### Trunchiul comun
+### Un tipar care se repeta
 
-Rămâne a numi trunchiul comun al tuturor acestor maniile. Și aici, un cuvânt există deja, al cărui etimologie ascunde o ironie minunată: *heterophobia*.
+Ceea ce observam pentru homosexualitate este valabil pentru ansamblul discriminarilor. Peste tot, sufixul *-fob* mascheaza realitatea comportamentului.
 
-*Heteros* (ἕτερος) înseamnă în greacă « celălalt », « diferit », « ceea ce nu este identic cu sine ».[^4] *Phobos*, frica. Heterofobă este deci, în sensul cel mai literal, frica de alteritate — teroare existențială în fața ceea ce diferă de sine.
+*Xenomaniacul* nu se teme de strain — este obsedat de prezenta lui. Il vede peste tot, il face responsabil de totul, construieste programe politice intregi pe aceasta fixatie. Consacra mai mult timp vorbind despre straini decat strainii insisi consacra gandindu-se la el.
 
-Și acolo, sufixul *-phobia* regăsește în fine justețea. Pentru sub manie zgomotul, sub legile și insulte și violență, există cu adevărat o frică. O frică profundă, adesea nerostită, uneori inconștientă: aceea a unei lumi care nu se conformează imaginei liniștitoare pe care și-o face. Frica că celălalt, prin simplul fapt de a exista, pune în cuestiune soliditatea propriilor certitudini.
+*Etnomaniacul* nu tremura in fata unei culori de piele — o scruteaza, o categorizeaza, o ierarhizeaza cu minutia colectionarului compulsiv.
 
-Heterofobul — cel care se teme de diferență sub toate formele — este terenul comun al rasismului, sexismului, homomaniei, xenomaniei. Frica este rădăcina; mania este simptomul activ.
+*Transmaniacul* nu fuge de persoanele transgender — investeste un timp si o energie disproportionate supravegherii corpurilor lor, actelor lor de identitate, toaletelor lor.
 
-### Structura completă
+*Islamomaniacul* nu fuge de musulmani — ii vaneaza, ii comenteaza, ii supravegheaza, ii fantasmeaza, ii invoca la fiecare dezbatere ca si cum intreaga civilizatie ar depinde de ceea ce o femeie poarta pe cap.
+
+In fiecare caz, aceeasi structura: nu o evitare speriata, ci o fixatie obsesionala care devoreaza atentia, discursul si actiunea politica a maniacului.
+
+### Cui profita diagnosticul gresit?
+
+Episoadele anterioare ale Gradinii Radacinilor puneau intrebarea: *cui bono* — cui profita crima? Sa o aplicam aici.
+
+Cui profita sufixul *-fob*?
+
+Cu siguranta nu victimelor, care se gasesc lingvistic asociate cu un cuvant negativ. Cu siguranta nu dezbaterii publice, care pierde in precizie. Cu siguranta nu psihologiei, care vede unul dintre sufixele sale clinice deturnate.
+
+Profita persecutorului, care poate se dezvinovateasca: « Nu mi-e frica. » Profita sistemelor de opresiune, care raman nenumite: daca este o « fobie » individuala, nu este o structura sociala. Si profita tuturor celor care prefera sa patologizeze indivizii decat sa puna la indoiala sistemele.
+
+---
+
+## A cincea parte: Xenomania — Adunarea Nominativa
+
+### De ce un termen unificator?
+
+Ramane sa numim trunchiul comun al tuturor acestor manii. Avem nevoie de un cuvant care sa adune sub acelasi stindard toate obsesiile discriminatorii — o **Adunare Nominativa**, daca vreti, a comportamentelor care resping pe celalalt.
+
+*(Acronimul A.N. care rezulta nu este decat o coincidenta. Sau nu.)*
+
+### De ce nu « heteromanie »?
+
+Am putea propune *heteromanie*, din greaca *heteros* (heteros) — « celalalt », « diferitul ». Dar acest termen pune o problema de ambiguitate: in limbajul curent, « hetero- » evoca imediat heterosexualitatea. *Heteromania* ar putea fi confundata cu o obsesie *pentru* heterosexualitate, ceea ce incurca mesajul.
+
+### Claritatea « xenomaniei »
+
+Termenul **xenomanie** este limpede.
+
+*Xenos* (xenos) in greaca veche desemneaza strainul, cel care vine de aiurea, cel care nu apartine grupului.[^4] Este radacina *xenofobiei*, dar si a *xenofiliei* si a frumosului cuvant *filoxenia* — ospitalitatea, dragostea de strain.
+
+**Xenomania** este deci obsesia maladiva de strain — dar « strain » in sensul cel mai larg:
+
+- **Strainul national**: cel care vine dintr-o alta tara, dintr-o alta cultura
+- **Strainul religios**: cel care se roaga unui alt dumnezeu, sau aceluiasi dumnezeu altfel — « aproapele restrans » al religiilor care limiteaza iubirea de aproapele la cei care impartasesc credinta
+- **Strainul sexual**: cel a carui orientare sau identitate nu corespunde unei norme construite pe o observatie incompleta a naturii
+- **Strainul etnic**: cel a carui aparenta difera de majoritatea locala
+- **Strainul social**: cel al carui mod de viata, alegeri, valori se departeaza de conformismul ambiant
+
+Toate aceste « alteritati » sunt percepute de xenomaniac ca amenintari existentiale. Nu pentru ca il ameninta cu adevarat — ci pentru ca simpla lor existenta fragilizeaza fictiunea unei lumi uniforme, previzibile, linistitorare.
+
+### Structura completa revizuita
 
 ```
-HETEROFOBĂ (rădăcină)
-    Frică existențială de alteritate
-           │
-           ▼
-    MANIA DISCRIMINATORIE (simptome)
-    ├── Homomania: obsesiune cu orientarea sexuală a altuia
-    ├── Xenomania: obsesiune cu originea altuia
-    ├── Etnomania: obsesiune cu culoarea pielii altuia
-    ├── Transmania: obsesiune cu identitatea de gen a altuia
-    ├── Islamomania: obsesiune cu religia altuia
-    └── etc.
-           │
-           ▼
-    SISTEME DE OPRESIUNE (structuri)
-    ├── Heterosexism: sistem de privilegiu heterosexual
-    ├── Rasism: sistem de ierarhie rasială
-    ├── Patriarhat: sistem de dominare masculină
-    └── etc.
+XENOMANIA (trunchi comun)
+    Obsesia maladiva de celalalt, de diferit, de strain
+           |
+           +-- Homomanie: obsesia orientarii sexuale a altuia
+           +-- Transmanie: obsesia identitatii de gen a altuia
+           +-- Etnomanie: obsesia originii etnice a altuia
+           +-- Islamomanie: obsesia religiei altuia
+           +-- Ginomanie uratoasa: obsesia controlului femeilor
+           +-- etc.
+           |
+           v
+    SISTEME DE OPRESIUNE (structuri institutionalizate)
+           +-- Heterosexism: sistem de privilegiu heterosexual
+           +-- Rasism: sistem de ierarhie rasiala
+           +-- Patriarhat: sistem de dominare masculina
+           +-- Colonialism: sistem de exploatare a popoarelor
+           +-- etc.
 ```
 
-Această arhitectură distinge trei niveluri pe care vocabularul actual le confundă:
+Aceasta arhitectura distinge doua niveluri pe care vocabularul actual le confunda:
 
-1. **Frica** (heterofobă) — nivel psihologic profund, adesea inconștient
-2. **Obsesiune** (mania) — nivel comportamental vizibil, compulsiv
-3. **Sistem** (structuri de opresiune) — nivel instituțional, cultural
+1. **Obsesia** (xenomania si declinari sale) — nivel comportamental vizibil, compulsiv, individual dar si colectiv
+2. **Sistemul** (structuri de opresiune) — nivel institutional, cultural, istoric
 
-Confundarea acestor niveluri te privează de a le combate eficient.
+Xenomaniacul este infanteristul. Sistemul este armata. A confunda cele doua inseamna a te priva de a le combate eficient.
 
----
+### Ce dezvaluie noul vocabular
 
-## A șasea parte: Episodul 01 inversate
+| Termen vechi | Sugereaza... | Termen nou | Dezvaluie... |
+|--------------|--------------|------------|--------------|
+| Homofob | Frica, victima a fricii sale | Homomaniac | Obsesie, responsabil de obsesia sa |
+| Xenofob | Frica de strain | Xenomaniac | Fixatie maladiva pe strain |
+| Transfob | Frica de trans | Transmaniac | Supraveghere compulsiva a corpurilor trans |
+| Islamofob | Frica de islam | Islamomaniac | Fantasm obsesional al musulmanului |
 
-### Legătura cu seria
+Sufixul *-manie* face trei lucruri pe care *-fobie* nu le face:
 
-În Episodul 01 al Grădinii Rădăcinilor, documentam deriva semantică a partidelor politice: cuvinte care rămân pe sticle al căror conținut s-a schimbat. « Libertate », « solidaritate », « justiție socială » — etichetele rămâneau, sensul se evaposa.
-
-Aici, observăm fenomenul invers: cuvinte care nu au avut niciodată conținutul corect. Nu o derivă — o eroare de fundație. Cuvântul « homophobia » nu a derivat de la sensul originar. A fost construit pe un sufix inadecvat, din motive strategice comprensibile dar ale căror consecințe ne ajung acum.
-
-Este aceeași lecție, văzută din cealaltă parte a oglinzii: vocabularul nu este niciodată nevinovat. Când cuvintele mint — prin derivă sau prin construcție — protejează structurile pe care pretind a o numi.
-
-### Persecutorul este un peurând care se ignoră
-
-Această analiză nu este doar un exercițiu lexical de stil. A numi corect, înseamnă a înțelege corect. Și a înțelege corect, înseamnă a putea acționa cu justețe.
-
-Când spui « homofob », descrii un dușman. Când spui « homomaniac », descrii un obsedant. Când identifici heterofobă ca rădăcină, descrii un peurând. Și în fața unui peurând, răspunsul nu este același ca în fața unui dușman.
-
-Maniacul discriminator este cineva al cărui identitate este atât de fragil încât nu suportă existența alterității. Obsesiunea lui cu celălalt nu este decât reflexul invers al fricii lui pentru sine. Fiecare lege pe care o votează împotriva diferenței este o mărturie de nesiguranță. Fiecare insulă este o strigare de panică. Fiecare persecuție este o încercare disperată de a simplifica o lume al cărei complexitate îl copleșește.
-
-Asta nu face actele lui nici mai puțin grave, nici mai puțin condamnabile. Dar schimbă privirea pe care o porți mecanismului. Și în schimbarea privirii se găsește poate, dincolo de rezistența necesară, o cheie de înțelegere — și deci de transformare.
-
-Pentru că nu vindeci o manie numind-o fobă. Și nu combați frica ignorând că există.
+1. **Responsabilizeaza**: nu scuzi o manie cum scuzi o frica
+2. **Diagnosticheaza corect**: obsesia este mecanismul real
+3. **Deplaseaza problema**: disfunctia este la observator, nu la observat
 
 ---
 
-### Întrebarea pe care ți-o las
+## A sasea parte: Episodul 01 inversat
 
-Cuvintele pe care le utilizează pentru a descrie discriminările — le descriu cu adevărat? Sau formează doar un ecran în plus între noi și realitate?
+### Legatura cu seria
 
-Dacă vocabularul protejează ceea ce pretinde a combate, atunci primul act de rezistență este poate a redenumi. Nu din coqueterie lingvistică. Pentru că nu poți vindica ceea ce nu știi cum a numi.
+In Episodul 01 al Gradinii Radacinilor, documentam deriva semantica a partidelor politice: cuvinte care raman pe sticle al caror continut s-a schimbat. « Libertate », « solidaritate », « justitie sociala » — etichetele ramaneau, sensul se evapora.
 
-Scrie-mi. Grădina este mare, și anumite rădăcini sunt îngropate în limbajul însuși.
+Aici, observam fenomenul invers: cuvinte care nu au avut niciodata continutul corect. Nu o deriva — o eroare de fundatie. Cuvantul « homofobie » nu a derivat de la sensul sau original. A fost construit pe un sufix inadecvat, din motive strategice de inteles dar ale caror consecinte ne ajung din urma.
 
-*Pépé*
+Este aceeasi lectie, vazuta din cealalta parte a oglinzii: vocabularul nu este niciodata inocent. Cand cuvintele mint — prin deriva sau prin constructie — protejeaza structurile pe care pretind ca le numesc.
+
+### Xenomaniacul este un fricos care se ignora
+
+Aceasta analiza nu este doar un exercitiu de stil lexical. A numi corect inseamna a intelege corect. Si a intelege corect inseamna a putea actiona cu dreptate.
+
+Sub mania zgomotoasa, sub legi si insulte si violente, exista poate o frica. O frica profunda, adesea nemartutisita, uneori inconstienta: cea a unei lumi care nu se conformeaza imaginii linistitorare pe care si-o face. Frica ca celalalt, prin simpla sa existenta, pune sub semnul intrebarii soliditatea propriilor certitudini.
+
+Dar aceasta frica, xenomaniacul o transforma in agresiune. Nu fuge — ataca. Si aceasta transformare trebuie numita. Mania este simptomul activ; frica nu este decat radacina ingropata.
+
+Maniacul discriminatoriu este cineva a carui identitate este atat de fragila incat nu suporta existenta alteritatii. Obsesia lui pentru celalalt nu este decat reflexul inversat al angoasei sale pentru sine. Fiecare lege pe care o voteaza impotriva diferentei este o marturisire de nesiguranta. Fiecare insulta este un strigat de panica. Fiecare persecutie este o tentativa disperata de a simplifica o lume a carei complexitate il copleseste.
+
+Aceasta nu face actele sale nici mai putin grave, nici mai putin condamnabile. Dar schimba privirea pe care o purtam mecanismului. Si in aceasta schimbare de privire se gaseste poate, dincolo de rezistenta necesara, o cheie de intelegere — si deci de transformare.
+
+---
+
+## Contra-vocabularul: a numi si incluziunea
+
+Daca renumim patologiile, sa numim si virtutile. In fata xenomaniei, exista un antidot pe care grecii il cunosteau bine: **filoxenia** (filoxenia) — literalmente, dragostea de strain.
+
+Filoxenia nu este naivitate. Nu este stergerea de sine in fata celuilalt. Este capacitatea de a vedea in strain nu o amenintare, ci o posibilitate. O fereastra spre o lume pe care nu o cunosti inca. O imbogatire mai degraba decat o diluare.
+
+| Patologie | Antidot |
+|-----------|---------|
+| Xenomanie | Filoxenie — dragostea de strain, ospitalitate |
+| Homomanie | Acceptarea diversitatii iubirilor |
+| Transmanie | Respectul autodeterminarii corpurilor |
+| Etnomanie | Recunoasterea egalitatii demnitatii |
+| Islamomanie | Laicitate autentica — indiferenta binevoitoare fata de credintele altuia |
+
+Adevarata forta nu este in uniformitate — este in capacitatea de a primi diferenta fara a te dizolva in ea.
+
+---
+
+### Intrebarea pe care ti-o las
+
+Cuvintele pe care le folosim pentru a descrie discriminarile — le descriu cu adevarat? Sau formeaza un ecran in plus intre noi si realitate?
+
+Daca vocabularul protejeaza ceea ce pretinde ca combate, atunci primul act de rezistenta este poate a renumi. Nu din cochetarie lingvistica. Pentru ca nu poti vindeca ceea ce nu stii sa numesti.
+
+**Xenomanie**: obsesia maladiva de celalalt. Adunarea Nominativa a tuturor discriminarilor.
+
+Acum avem un cuvant.
+
+Scrie-mi. Gradina este mare, si anumite radacini sunt ingropate in limbajul insusi.
+
+*Pepe*
 
 ---
 
 [^1]: Britannica, "George Weinberg", 2017 ; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, martie 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)" ; Jack Nichols & Lige Clarke, articol în *Screw Magazine*, 5 mai 1969 ; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)" ; Jack Nichols & Lige Clarke, articol in *Screw Magazine*, 5 mai 1969 ; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dicționar etimologic al limbii grecești*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (intrări φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionar etimologic al limbii grecesti*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (intrari phobos, mania, xenos, heteros).
 
 [^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, capitol "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 

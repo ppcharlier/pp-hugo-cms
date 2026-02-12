@@ -1,18 +1,24 @@
 ---
-title: "Erinevusehirm ja Diskrimineerivad Juhud"
+title: "Ksenomaania"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Juurte Aed"
-subtitle: "Kui sõnad paljastab diagnoosi"
-description: "Sufiksid -foob kirjeldavad hirmu. Aga see, kes kütitab, mitte põgene — ta on obsessiivne. Uurimine keelestiku valest, mis kaitseb, mida ta kavatsetakse võidelda."
+subtitle: "Diskrimineerimiste nominatiivne kogunemine"
+description: "Homofoobia, ksenofoobia, transfoobia — need sõnad valetavad. Sufiks -foob kirjeldab hirmu, kuid see, kes kiusab, ei põgene: ta on kinnisideeline. Etümoloogiline uurimine keelelisest valest, mis kaitseb diskrimineerimist, ja ühtse termini ettepanek: ksenomaania, haiguslik kinnisidee teisest."
 categories: ["filosoofia", "keeleteadus", "psühholoogia"]
-tags: ["etümoloogia", "homohirm", "diskrimineerimine", "erinevusehirm", "juhe", "hirm", "keel", "Weinberg", "Herek", "eelarve"]
+tags: [
+  "ksenomaania", "etümoloogia", "diskrimineerimine", "keel", "maania", "foobia",
+  "homofoobia", "ksenofoobia", "transfoobia", "islamofoobia", "rassism", "seksism",
+  "homomaania", "transmaania", "islamomaania", "etnomaania",
+  "kaasatus", "mitmekesisus", "teisesus", "sallivus", "austus", "inimväärikus",
+  "eelarvamus", "kinnisidee", "Weinberg", "Herek", "sotsiaalpsühholoogia"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, märts 2017"
   - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, artikkel Screw Magazine, 5 mai 1969"
+  - "Jack Nichols & Lige Clarke, artikkel Screw Magazine, 5. mai 1969"
   - "Time Magazine, 'The Homosexual in America', 1969"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
   - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
@@ -20,236 +26,289 @@ sources:
   - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
   - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
   - "Associated Press, AP Stylebook update, november 2012"
-  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26 november 2012"
+  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26. november 2012"
   - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
   - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
   - "Byrne Fone, Homophobia: A History, Picador, 2001"
-  - "Warren J. Blumenfeld (éd.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
+  - "Warren J. Blumenfeld (toim.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
 > **Läbipaistvuse märkus**
 >
-> See kroonika on inimese (Pépé) ja kunstliku intelligentsi (Claude, Anthropic) koostöö tulemus. Juhid ideed, toimetamissuund ja lõplik kinnitamine on inimesest. Dokumentatsiooni uurimine ja kirjutamine on AI abil.
+> See kroonika on inimese (Pépé) ja tehisintellekti (Claude, Anthropic) koostöö tulemus. Juhtivad ideed, toimetussuund ja lõplik kinnitus on inimlikud. Dokumentatsiooniotsing ja kirjutamine on AI abiga.
 >
-> Kuna AI-d võib teha ebatäpsusi, **iga faktvaatlus on allikatega kinnitatud** akadeemiliste, entsüklopeedilistest või kontrollitavate ajakirjanduslilkude dokumentide põhjal. Allikad on loetletud artikli lõpus.
+> Kuna tehisintellektid võivad tekitada ebatäpsusi, **on iga faktiväide allikatega tõendatud** akadeemiliste, entsüklopeediliste või kontrollitavate ajakirjanduslike dokumentide alusel. Allikad on loetletud artikli lõpus.
 >
-> See tekst seob ainult inimeste toimetajat, kes vastutab selle eest.
+> See tekst esindab ainult inimtoimetajat, kes võtab selle eest vastutuse.
 
 ---
 
-Sel nädalal maadsin etümoloogilisse külastajakaevusse. See juhtub mulle tihti — ma tõmban nöör ja ma leidsin kolm tundi hiljem palli kuulav mul süü.
+Sel nädalal langesin etümoloogilisse küülikuauku. See juhtub minuga tihti — tõmban niiti ja leian end kolm tundi hiljem keraga, mis vaatab mulle süüdistavalt otsa.
 
-Nöör oli seekord sufiks. Neli tähte: *-foob*. Ma paigutasin neid kõrvuti, mida nad kavatsetakse kirjeldada. Ja see ei sobinud. Kunagi ei sobinud.
+Niit oli seekord sufiks. Neli tähte: *-foob*. Panin need kõrvuti sellega, mida nad väidetavalt kirjeldavad. Ja see ei klappinud. Üldse mitte.
 
-Sõnadel on mälu ja see läheb Vana-Kreekale tagasi. Ja Vana-Kreeka, see valeta kunagi. Me, kuigi — me valeta oma tükkidega.
-
----
-
-## Esimene osa: Strateegilise Sõna Leiutamine
-
-### George Weinberg ja 1965. aasta Geniuse
-
-1965. aastal märkab Ameerika psühholoog George Weinberg midagi muret kogu tema kolleegide. Kui ta kutsub samast sugu sõpru kogunemisele, reageerivad mõned kaastöötajad sisendusel — "ilma argumendita, lihtsalt vastusega", ütleb ta hiljem.[^1]
-
-Weinberg mõistab, et probleem ei ole samast soost. Probleem on neid, kes vaatavad. Ja selleks nimetamiseks leiutab ta sõna: *homophobia*.
-
-Termin ilmub esimest korda ajakirjanduses 1969. aastal, ajakirjas *Screw*, siis *Time Magazine* sama aastal.[^2] 1972. aastal arendab seda *Society and the Healthy Homosexual*, revolutsiooniliseks raamatul, mille esimene lause määrab toon: "Ma kunagi pidada patsient terve, et ta pole ületanud tema eelarvamust samast soost."[^3]
-
-Geniuse ärihit on strateegiline: klammerdades sufiks *-phobia* samast soost eelarvamuse, pöördub Weinberg diagnoosi. See pole samast soost, kes on haige — see on see, kes kütitab. Ajal, mil samast soost figuuris ikkagi *Diagnostic and Statistical Manual* (DSM) kui psüühiaatrilise patholoogia, oli see intelektuaalse vastupanu tegu.[^3]
-
-### Sõna, kes Teadlik oma Piiridest
-
-Kuid Weinberg teadis, tema sõna oli puudulik. Ta määratleb seda õigupoolest: "Terror olles lähikontaktis samast soost — ja samast soost isik ise, enesevaim."[^3]
-
-Sõna töötas — magnifically — poliitilise tööriistana. See osaleda samast soost eemaldamine DSM alates 1973. aastal. See andis nimi midagi, et kõik nägi aga keegi ei saanud nimetada.[^2]
-
-Aga kuuskümmend aastat hiljem, sõna vangi meid.
+Sõnadel on mälu ja see ulatub vanakreeka keeleni. Ja vanakreeka keel ei valeta. Meie aga — me valetame tema tükkidega.
 
 ---
 
-## Teine osa: Etümoloogiline Vale
+## Esimene osa: Ebatäiusliku sõna strateegiline leiutamine
 
-### Mida Kreeka Tegelikult Ütleb
+### George Weinberg ja 1965. aasta geniaalne käik
 
-Sufiks *-phobos* (φόβος) kirjeldab hirmu, põgnemist, instinktive vastuseid.[^4] Ämblikust hirm põgeneb ämblik. Claustrohobne põgeneb suletud ruum. Agorafobne põgeneb rahvast. Igal juhul, mehhanism on identne: terror, mis pressib põgenemisele, tagasi, halvuse.
+1965. aastal märkab Ameerika psühholoog George Weinberg oma kolleegide juures midagi häirivat. Kui ta kutsub homoseksuaalseid sõpru koosviibimistele, reageerivad mõned kaastöölised sisemise vastikusega — "ilma argumendita, lihtsalt tülgastusega," ütleb ta hiljem.[^1]
 
-Nüüd, mida teeb see, keda nimetatakse "samast soost hirmuks"?
+Weinberg mõistab, et probleem ei ole homoseksuaalides. Probleem on neis, kes neid vaatavad. Ja selle nimetamiseks leiutab ta sõna: *homophobia*.
 
-Ta ei põgene. Ta ei kogu. Ta ei muuda tänavat draamusel. Ei. Ta seadusandjad. Ta ahistavad. Ta agresseerivad. Ta jälgivad. Ta avaldada, petitsiooni, jutluse ja kütitavad. Ta kutsub ennast teiste magamistubade sisse usitatusega fantaatik. Ta kulutab märkimisväärset energiat selekteerida, kommentaari, kondemneerida ja kontrollida teise intiimsus täiesti võõraste.
+Termin ilmub esimest korda ajakirjanduses 1969. aastal ajakirjas *Screw*, seejärel *Time Magazine'is* samal aastal.[^2] 1972. aastal arendab Weinberg seda raamatus *Society and the Healthy Homosexual*, revolutsiooniline teos, mille esimene lause annab tooni: "Ma ei peaks kunagi patsienti terveks, kuni ta pole ületanud oma eelarvamust homoseksuaalsuse vastu."[^3]
 
-See käitumine pole hirm. See on obsessioon.
+Geniaalne käik on strateegiline: liites sufiksi *-phobia* homovastase eelarvamuse külge, pöörab Weinberg diagnoosi ümber. Haige pole enam homoseksuaal — haige on see, kes teda kiusab. Ajal, mil homoseksuaalsus oli veel *Diagnostic and Statistical Manual'is* (DSM) psühhiaatrilise patoloogiana kirjas, oli see intellektuaalne vastupanuakt.[^3]
 
-### Teadus Kinnitab: See ole Hirm
+### Sõna, mis teab oma piire
 
-Gregory Herek, psühholoogia professor Kalifornia Davisil ja ühe suurima spetsialisti seksuaalse eelarva kohta, on pühendanud kümnendeid dokumenteerimiseks sõna piirangud. 2004. aasta asutava artiklis, "Beyond Homophobia", märgib ta, et sõna "viitab harva intensiivsele ja irratsionaalsele hirmule seksuaalse vähemusrahvaste," et see oli "raamitud psüühopatoloogia prisma ilma diagnoosina kavatsuseta," ja et see "ebapiisavalt peegeldas sotsiaalsete normi laiamat rolli isiku suhtumisel."[^5]
+Kuid Weinberg teadis, et tema sõna on ebatäiuslik. Ta määratles seda tegelikult kitsalt: "terror olla homoseksuaalidega lähikontaktis — ja homoseksuaalide endi puhul eneseviha."[^3]
 
-Herek soovib asendada termin "seksuaalsed eelarve" (*sexual prejudice*), mida ta määratleb "negatiivse attitude isiksuse vastu tema seksuaalse orientatsiooni."[^6] See on täpsem. Aga see ei ole veel õige.
+Sõna töötas — suurepäraselt — poliitilise tööriistana. See aitas kaasa homoseksuaalsuse eemaldamisele DSM-ist 1973. aastal. See andis nime millelegi, mida kõik nägid, kuid keegi ei osanud nimetada.[^2]
 
-Sest probleem pole ainult ebatäpsus. See on projektor suund.
-
-### Retoorilise Kilp
-
-2012. aastal Associated Press — mille *Stylebook* määrab redigeerimis standardid enamus Ameerika ajalehed — eemaldanud sõna "homophobia" poliitiliste ja ühiskondlike kontekstide. Aasise peatoimetaja Dave Minthorn selgitas: "See on lihtsalt vale. See on atribuutsi psüühiaatrilise häire keegi, ja see viitab teadmine, mida meil pole."[^7]
-
-Weinberg ise vastas enda selle mahavõtmise, väites, et sõna jäi "kriitiliseks meie inimkonnale" nii kaua, kuni teod ta kirjeldab jätkub.[^8] Tal oli õigus vajaduse nimetamine. Kuid küsimus jääb: nimetades valesti, oleksid me tahtmatult kaitsta?
-
-Sest siin on, mida sufiks *-phobe* lubab: iga versetaja võib vastata "ma ei hirmu," ja ole tehnikaliselt paremini. Sõna pakub talle keeleline väljapääs.
-
-Veel halvem: ta loob perverse stiimuli ründele. Kui teid süüdistatakse hirmu, kuidas tõestada vastupidi? Näidates, et te ei hirmu. Minnes objekti poole, mis on olev teie terrori. Peksa, solvama, kütitada — täpselt ründe demonstreerimine, et te pole see, keda sõna pretendib kirjeldada. Hirm kutsub põgenemine; refutatsiooni hirmu kutsub rünnak. Sõna pole kirjeldada vägivald — ta seda kutsub.
-
-Ja klammerdades *homo-* sufiks negatiiviga, see keeletakse subtiilselt probleem homo poole — kui nagu lihtne olemasolu sobib kutsuda patologi teise.
+Kuid kuuskümmend aastat hiljem vangistab see sõna meid.
 
 ---
 
-## Kolmas osa: Õige Diagnoos — Juhe
+## Teine osa: Etümoloogiline vale
 
-### Teine Sufiks Märksa Täpsem
+### Mida kreeka keel tegelikult ütleb
 
-Vana-Kreeka pakub meile teise tööriist: *-mania* (μανία) — hulluus, obsessioon süljendavad, obstinatiivsed fikseerimised, mis tarbetab põhjuse.[^4] Pyromaniac ei "hirmu" tule: ta on omandatud. Megalomaniac ei "põgene" suurusest: ta on orjus. Kleptomaniac ei "hirmu" vargus: ta on vang.
+Sufiks *-phobos* (φόβος) tähistab hirmu, põgenemist, instinktiivset vastumeelsust.[^4] Ämblikhirmuline põgeneb ämbliku eest. Klaustrofoob põgeneb suletud ruumist. Agorafoob põgeneb rahvahulgast. Igal juhul on mehhanism identne: terror, mis sunnib põgenema, taanduma, halvama.
 
-Samast soost maniac ei hirmu samast soost: ta on obnubileeritud. Ta mõtleb sellest hommikul lugedes ajaleht. Ta mõtleb, nähi kaks inimest pidades kätt tänaval. Ta mõtleb häälestades, kasvatades tema lapsi, valides tema võitlused. Tema mõistus on asustatud samast soost teiste inimestega intensiivsusega, mida enamik samast soost inimesi ei jõua ilmselt.
+Nüüd, mida teeb see, keda nimetatakse "homofoobiks"?
 
-### Obsessiooni Teadus
+Ta ei põgene. Ta ei tõmbu endasse. Ta ei vaheta värisedes tänavat. Ei. Ta seadusandleb. Ta ahistab. Ta ründab. Ta jälitab. Ta avaldab, petitsioneerib, jutlustab ja kiusab. Ta tungib teiste magamistubadesse fanaatiku visadusega. Ta kulutab märkimisväärset energiat teiste intiimsuse uurimisele, kommenteerimisele, hukkamõistmisele ja kontrollimisele.
 
-1996. aastal avaldavad psühholoogid Henry Adams, Lester Wright ja Bethany Lohr Georgia Ülikoolist kuulsaks muutunud uuringu *Journal of Abnormal Psychology*. Nad mõõdsid füsioloogilisi reaktsioonid 64 heterosexuaalse meest — 35 klassifitseeritud kui "samast soost hirm" ja 29 kui "mitte-samast soost hirm" — vastuseks homoseksuaalsele erootikale stiimuleerida. Tulem: ainult samast soost hirm mehed näitas märkimisväärset seksuaalset tõstmist samast soost meestes stiimuli.[^9]
+See käitumine ei ole foobia. See on kinnisidee.
 
-Selle uuringu tõlgendused on umbes — ergutus võis peegeldada ärevust asemel iha.[^9] Aga mida uuringu dokumenteerivad ilma kahetsuseta on ebaproportsionaalne reaktiivsus: "samast soost hirm" ei pööra pilk ära. Tema keha reageerib. Tema tähelepanu kinni. See on obsessioon fikseerimise mehhanism, mitte hirm mehhanism.
+### Teadus kinnitab: see ei ole hirm
 
-### Kolmiklik Uue Termi Eelis
+Gregory Herek, psühholoogiaprofessor California Ülikoolis Davis'is ja üks maailma suurimaid seksuaalse eelarvamuse spetsialiste, on pühendanud aastakümneid termini piirangute dokumenteerimisele. 2004. aasta alusepanevas artiklis "Beyond Homophobia" märgib ta, et sõna "viitab harva intensiivsele ja irratsionaalsele hirmule seksuaalvähemuste ees," et see "on raamistatud psühhopatoloogia prisma läbi, olemata mõeldud diagnoosiks," ja et see "ei kajasta piisavalt laiemate sotsiaalsete normide rolli individuaalsete hoiakute kujundamisel."[^5]
 
-Termin *samast soost-maniac* esitab kolmiklik eelis:
+Herek pakub termini asemele "seksuaalne eelarvamus" (*sexual prejudice*), mida ta määratleb kui "negatiivsed hoiakud isiku suhtes tema seksuaalse orientatsiooni tõttu."[^6] See on täpsem. Kuid see pole veel piisavalt õige.
 
-1. **Etümoloogiliselt Õige**: ta kirjeldab obsessiooni, mitte hirmu.
-2. **Kliiniliselt Aus**: psüühiaatrilise kirjanduse paljud dokumenteerinud kompulsiivne ja projektiivsed käitumisi.[^9][^10]
-3. **Retooriliselt Õige**: see paigutab projektor tagasi, kus tegelik funktsioon on — kütitaja, mitte kütitav. Samast soost maniac kannab oma diagnoos tema nime.
+Sest probleem pole ainult ebatäpsus. See on projektori suund.
 
----
+### Retooriline kilp
 
-## Neljas osa: Üldistamine — Diskrimineerivad Juhud
+2012. aastal eemaldas Associated Press — mille *Stylebook* kehtestab redaktsioonistandardid enamikule Ameerika ajalehtedele — sõna "homophobia" poliitilistest ja sotsiaalsetest kontekstidest. Asetäitja peatoimetaja Dave Minthorn selgitas: "See on lihtsalt vale. See on psüühikahäire omistamine kellelegi ja see viitab teadmistele, mida meil pole."[^7]
 
-### Korduvate Skeemid
+Weinberg ise vaidles selle eemaldamise vastu, väites, et sõna jääb "meie inimlikkuse jaoks kriitiliseks" niikaua, kuni teod, mida see kirjeldab, püsivad.[^8] Tal oli õigus nimetamise vajaduse osas. Kuid küsimus jääb: kas vale nimetamine ei tähenda tahtmatut kaitsmist?
 
-Mida me jälgime samast soost geldtakse kogu diskrimineerimise juurde. Kõikjal, sufiks *-phobe* varjab käitumise tegelikkust.
+Sest siin on, mida sufiks *-foob* võimaldab: iga kiusaja võib vastata "mul pole hirmu" ja omada tehniliselt õigust. Sõna pakub talle keelelise väljapääsu.
 
-*Xenomaniac* ei hirmu fremmed — ta on obsessiivne tema olemasolu. Ta näeb teda kõikjal, teeb ta vastutavaks kõige, ehitab kogu poliitilised programmid sellele fikseerimisele. Ta kulutas rohkem aega võõrastest rääkides kui võõrased ise ei kulla talle mõtlemise.
+Veel hullem: see loob perversse stiimuli ründamiseks. Kui teid süüdistatakse hirmus, kuidas tõestate vastupidist? Näidates, et teil pole hirmu. Minnes väidetava terrori objekti poole. Lüües, solvates, kiusates — täpselt selleks, et demonstreerida, et te pole see, keda sõna väidab kirjeldavat. Foobia kutsub põgenemist; foobia ümberlükkamine kutsub rünnakut. Sõna ei kirjelda vägivalda — see kutsub seda esile.
 
-*Ethnomaniac* ei väriseb värvi — ta uurib seda, kategoriseerib seda, hierarhiseerib seda minutiaga collector.
-
-*Transmaniac* ei põgene transsoolised inimesed — ta investeerib praportsionaalselt aega ja energiat jälgimiseks nende kehad, nende ID paberid, nende tualettruumid.
-
-*Islamomaniac* ei põgene muslimid — ta jälgivad neid, kommentaari, jälgivad, fantaasiat, kutsub neid igale debatile, nagu tsivilisatsiooni kogu sõltus sellest, mida naine kandes peal.
-
-Igal juhul sama struktuur: mitte jäik põgenemine, vaid obsessioon fikseerimise, mis neelab tähelepanu, diskursus ja poliitilise sambuse maniak.
-
-### Kes Benefitsid Vale Diagnoosist?
-
-Eelmised episoodid Juurte Aeda arutavad küsimuse: *cui bono* — kes kasumid? Kandidaatide siin.
-
-Kes benefitsid sufiks *-phobe*?
-
-Kindlasti mitte ohvrid, kes leiavad keelele seostunud sõnaga negatiivide. Kindlasti mitte avaliku debati, mis kaotab täpsuses. Kindlasti mitte psühholoogia, kes näeb tema sufiks kliinike degenereerida.
-
-See benefitsid kütitaja, kes saab off-load: "Ma ei hirmu." See benefitsid pealetungi süsteemid, mis jäävad unimeeritud: kui see on "hirm" isiklik, see ole struktuuri ühiskondlik. Ja see benefitsid kõik, kes maale individuaalid asemel küsimist süsteemide.
+Ja liites *homo-* negatiivse sufiksiga, paigutab see subtiilselt probleemi homoseksuaali poolele — justkui piisaks pelgast olemasolust, et tekitada teises patoloogia.
 
 ---
 
-## Viies osa: Erinevusehirm — Juurte Tõeline Nimi
+## Kolmas osa: Õige diagnoos — maania
 
-### Tavaline Stem
+### Märksa täpsem sufiks
 
-Jäi nimetada tavaline tüvi kõik neid juhamatut. Ja siin, sõna eksisteerib juba, mille etümoloogia sisaldab magnifikatsiooni irooniat: *erinevusehirm*.
+Vanakreeka keel pakub meile teist tööriista: *-mania* (μανία) — hull, haarav kinnisidee, kompulsiivne fikseering, mis tarbib mõistust.[^4] Püromaan ei "karda" tuld: ta on selle valduses. Suurushullustaja ei "põgene" suurusest: ta on selle ori. Kleptomaan ei "karda" vargust: ta on selle vang.
 
-*Heteros* (ἕτερος) tähendab kreeka keeles "muud," "erinev," "mida pole identne iseendale".[^4] *Phobos*, hirm. Erinevusehirm on seega, kõige kirjanduslikul tähendus, hirm erinevuse — eksistentsiaalne terror erineva iseendale.
+Homomaanialane ei karda homoseksuaalsust: ta on sellest pimestatud. Ta mõtleb sellele hommikul ajalehte lugedes. Ta mõtleb sellele, nähes kaht inimest tänaval käest kinni hoidmas. Ta mõtleb sellele hääletades, lapsi kasvatades, poliitilisi võitlusi valides. Tema mõistust on asustanud teiste homoseksuaalsus intensiivsusega, mida enamik homoseksuaale ise tõenäoliselt ei saavuta.
 
-Ja seal, sufiks *-phobia* tagastab lõpuks oma õigluse. Sest allpool juhe bruyant, all seadused ja solv ja vägivald, seal on kohti hirm. Sügav, sageli unaware, mõnikord teadmata: maailma hirm, mis ei vasta rahuliku kujutise, mida te tegid sellest. Hirm, et muud, tema lihtne olemasolu, küsimusi tahkuse oma kindluse.
+### Kinnisidee teadus
 
-Erinevusehirm — see, kes kardab erinevust, kõigi vormide — on ühine turvas rassi, seksuaalse, transmaniac, xenmanie. Hirm on juur; juhe on aktiivne sümptom.
+1996. aastal avaldasid psühholoogid Henry Adams, Lester Wright ja Bethany Lohr Georgia Ülikoolist kuulsaks saanud uuringu *Journal of Abnormal Psychology's*. Nad mõõtsid 64 heteroseksuaalse mehe — 35 klassifitseeritud kui "homofoobid" ja 29 kui "mittehomofoobid" — füsioloogilisi reaktsioone homoseksuaalsetele erootilistele stiimulitele. Tulemus: ainult homofoobideks klassifitseeritud mehed näitasid märkimisväärset seksuaalset erutust homoseksuaalsete meeste stiimulite suhtes.[^9]
 
-### Täielik Struktuur
+Selle uuringu tõlgendused on vaieldavad — erutus võis peegeldada ärevust, mitte iha.[^9] Kuid mida uuring dokumenteerib ühemõtteliselt, on ebaproportsionaalne reaktiivsus: "homofoob" ei pööra pilku ära. Tema keha reageerib. Tema tähelepanu on haaratud. See on kinnisideelise fikseeringu mehhanism, mitte foobia mehhanism.
+
+### Uue termini kolmekordne eelis
+
+Termin *homomaanialane* pakub kolmekordset eelist:
+
+1. **Etümoloogiliselt täpne**: see kirjeldab kinnisideed, mitte hirmu.
+2. **Kliiniliselt aus**: psühholoogiline kirjandus on laialdaselt dokumenteerinud nende käitumiste kompulsiivset ja projektiivset mõõdet.[^9][^10]
+3. **Retooriliselt õige**: see paigutab projektori tagasi sinna, kus düsfunktsioon tegelikult asub — kiusaja juurde, mitte kiusatava juurde. Homomaanialane kannab oma diagnoosi oma nimes.
+
+---
+
+## Neljas osa: Üldistamine — diskrimineerivad maaniad
+
+### Korduv muster
+
+See, mida me täheldame homoseksuaalsuse puhul, kehtib kõigi diskrimineerimiste kohta. Kõikjal varjab sufiks *-foob* käitumise tegelikkust.
+
+*Ksenomaanialane* ei karda võõrast — ta on tema kohalolust kinnisideeline. Ta näeb teda kõikjal, teeb ta kõige eest vastutavaks, ehitab terveid poliitilisi programme sellele fikseeringule. Ta veedab rohkem aega võõrastest rääkimisele kui võõrad ise tema peale mõtlemisele.
+
+*Etnomaanialane* ei värise nahavärvuse ees — ta uurib, kategoriseerib, hierarhiseerib seda kompulsiivse kollektsionääri täpsusega.
+
+*Transmaanialane* ei põgene transsooliste inimeste eest — ta investeerib ebaproportsionaalselt aega ja energiat nende kehade, isikutunnistuste, tualettruumide jälgimisele.
+
+*Islamomaanialane* ei põgene moslemite eest — ta jälitab neid, kommenteerib, jälgib, fantaseerib, kutsub neid esile igas debatis, justkui sõltuks kogu tsivilisatsioon sellest, mida naine peas kannab.
+
+Igal juhul sama struktuur: mitte hirmunud vältimine, vaid kinnisideeline fikseering, mis neelab maanialase tähelepanu, diskursuse ja poliitilise tegevuse.
+
+### Kes saab kasu valest diagnoosist?
+
+Juurte Aia eelmised episoodid küsisid küsimust: *cui bono* — kelle kasuks on kuritegu? Rakendame seda siin.
+
+Kes saab kasu sufiksist *-foob*?
+
+Kindlasti mitte ohvrid, kes leiavad end keeleliselt seotuna negatiivse sõnaga. Kindlasti mitte avalik debatt, mis kaotab täpsuses. Kindlasti mitte psühholoogia, mis näeb ühte oma kliinilistest sufiksitest väärtarvitatuna.
+
+Kasu saab kiusaja, kes saab ennast vabandada: "Mul pole hirmu." Kasu saavad rõhumissüsteemid, mis jäävad nimetamata: kui see on individuaalne "foobia," siis see pole sotsiaalne struktuur. Ja kasu saavad kõik, kes eelistavad patologiseerida üksikisikuid, selle asemel et küsitleda süsteeme.
+
+---
+
+## Viies osa: Ksenomaania — Nominatiivne Kogunemine
+
+### Miks ühendav termin?
+
+Jääb nimetada kõigi nende maaniate ühine tüvi. Meil on vaja sõna, mis koondab ühise lipu alla kõik diskrimineerivad kinnisideed — **Nominatiivne Kogunemine**, kui soovite, käitumistest, mis tõrjuvad teist.
+
+*(Sellest tulenev akronüüm N.K. on ainult juhus. Või mitte.)*
+
+### Miks mitte "heteromaania"?
+
+Võiks pakkuda *heteromaaniat*, kreeka sõnast *heteros* (ἕτερος) — "teine," "erinev." Kuid see termin tekitab mitmemõttelisuse probleemi: igapäevakeeles seostub "hetero-" kohe heteroseksuaalsusega. *Heteromaaniat* võidaks segi ajada kinnisideega heteroseksuaalsuse *vastu*, mis hägustab sõnumi.
+
+### "Ksenomaania" selgus
+
+Termin **ksenomaania** on selge.
+
+*Xenos* (ξένος) vanakreeka keeles tähistab võõrast, seda, kes tuleb mujalt, seda, kes ei kuulu gruppi.[^4] See on *ksenofoobia* juur, aga ka *ksenofiilia* ja kauni sõna *filokseenia* — külalislahkus, võõra armastamine.
+
+**Ksenomaania** on seega haiguslik kinnisidee võõrast — kuid "võõras" kõige laiemas mõttes:
+
+- **Rahvuslik võõras**: see, kes tuleb teisest riigist, teisest kultuurist
+- **Religioosne võõras**: see, kes palvetab teist jumalat või sama jumalat teistmoodi — religioonide "piiratud ligimene", kes piirab ligimesearmastust neile, kes jagavad usku
+- **Seksuaalne võõras**: see, kelle orientatsioon või identiteet ei vasta looduse mittetäieliku vaatluse põhjal konstrueeritud normile
+- **Etniline võõras**: see, kelle välimus erineb kohalikust enamusest
+- **Sotsiaalne võõras**: see, kelle eluviis, valikud, väärtused kalduvad kõrvale ümbritsevast konformismist
+
+Kõiki neid "teisesusi" tajub ksenomaanialane eksistentsiaalsete ohtudena. Mitte sellepärast, et nad teda tegelikult ohustaksid — vaid sellepärast, et nende pelk olemasolu nõrgendab ühtlase, etteaimatava, rahumeelse maailma fiktsiooni.
+
+### Täielik struktuur ümbervaadatuna
 
 ```
-ERINEVUSE HIRM (juur)
-    Eksistentsiaalne hirm erinevuse kohta
+KSENOMAANIA (ühine tüvi)
+    Haiguslik kinnisidee teisest, erinevast, võõrast
+           │
+           ├── Homomaania: kinnisidee teise seksuaalsest orientatsioonist
+           ├── Transmaania: kinnisidee teise sooidentiteedist
+           ├── Etnomaania: kinnisidee teise etnilisest päritolust
+           ├── Islamomaania: kinnisidee teise religioonist
+           ├── Vihkav günomaania: kinnisidee naiste kontrollimisest
+           └── jne.
            │
            ▼
-    DISKRIMINEERIVAD JUHUD (sümptomid)
-    ├── Samast soost maniac: obsessioon teise seksuaalse orientatsiooni
-    ├── Xeno-maniac: obsessioon teise päritolu
-    ├── Ethno-maniac: obsessioon teise nahavärvi
-    ├── Trans-maniac: obsessioon teise soo identiteedi
-    ├── Islam-maniac: obsessioon teise religiooni
-    └── jne.
-           │
-           ▼
-    SURESSI SÜSTEEMID (struktuurid)
-    ├── Heterosexism: heterosuiksuaalse eesõiguse süsteem
-    ├── Rasism: rassilise hierarhia süsteem
-    ├── Patriarhaat: meespoliitika valitsemise süsteem
-    └── jne.
+    RÕHUMISSÜSTEEMID (institutsioonilised struktuurid)
+           ├── Heteroseksism: heteroseksuaalse eesõiguse süsteem
+           ├── Rassism: rassilise hierarhia süsteem
+           ├── Patriarhaat: meeste domineerimise süsteem
+           ├── Kolonialism: rahvaste ekspluateerimise süsteem
+           └── jne.
 ```
 
-See arkkitektuur eristab kolm taset, mida praegune sõnavaraline konfuseda:
+See arhitektuur eristab kahte taset, mida praegune sõnavara segab:
 
-1. **Hirm** (erinevusehirm) — sügav psühholoogiline tase, sageli teadmata
-2. **Obsessioon** (juhud) — nähtav käitumuline tase, kompulsiivne
-3. **Süsteem** (pealetungi struktuurid) — institutsionaalne, kultuurne tase
+1. **Kinnisidee** (ksenomaania ja selle harud) — nähtav, kompulsiivne käitumistase, individuaalne, aga ka kollektiivne
+2. **Süsteem** (rõhustruktuurid) — institutsionaalne, kultuurne, ajalooline tase
 
-Segada need tasemed on priva neid tõhusalt võideldes.
+Ksenomaanialane on jalaväelane. Süsteem on armee. Neid segi ajada tähendab loobuda nende tõhusast võitlemisest.
 
----
+### Mida uus sõnavara paljastab
 
-## Kuues osa: Episoodi 01 Pööraliselt
+Õigesti nimetades mõistame paremini:
 
-### Ühendus Seeriale
+| Vana termin | Viitab... | Uus termin | Paljastab... |
+|-------------|-----------|------------|--------------|
+| Homofoob | Hirm, oma hirmu ohver | Homomaanialane | Kinnisidee, oma kinnisidee eest vastutav |
+| Ksenofoob | Võõra hirm | Ksenomaanialane | Haiguslik fikseering võõrale |
+| Transfoob | Transsooliste hirm | Transmaanialane | Transkehade kompulsiivne jälgimine |
+| Islamofoob | Islami hirm | Islamomaanialane | Kinnisideeline fantaasia moslemist |
 
-Episoodis 01 Juurte Aeda dokumenteerisime poliitiliste parteide semantilist hälvet: sõnad, mis jäävad etikettidele pudelid, mille sisu muutnud. "Vabadus," "solidaarsus," "sotsiaalne õiglus" — etiketid jäid, mõte auratud.
+Sufiks *-maania* teeb kolm asja, mida *-foobia* ei tee:
 
-Siin vaatame nähtus vastupidi: sõnad, kes kunagi õigel sisul. Mitte hälve — asutamine viga. Sõna "samast soost hirm" pole hälvenud tema algselt tähendusest. Ta oli ehitatud neadekvaatse sufiks poliitiliste põhjuste jaoks, mille tagajärgede meid harjuvad.
-
-See on sama tunnus, näh teise peeglidest: sõnavaral pole kunagi süütud. Kui sõnad valetavad — hälve või ehitus poolt — nad kaitsevad struktuurid, mida nad pretendeerivad nimetada.
-
-### Versetaja on Peureux, kes Ignoreeritud ta
-
-See analüüs pole ainult keele stiili käitumine. Nimetamine õigesti, see on õigesti mõistmine. Ja õigesti mõistmine on õigesti tegutseda.
-
-Kui me ütleme "samast soost hirm," me kirjeldage vaenlasi. Kui me ütleme "samast soost maniac," me kirjeldage obsesseritud. Kui me identifitseerivad erinevuse hirm juurena, me kirjeldage persooni. Ja persooni vastuselt hirm, vastus pole sama nagu vastuseft vaenlaste.
-
-Diskrimineerivate maniac on keegi, kelle identiteet on nii haige, et see ei toetanud erinevuse olemasolu. Tema obsessioon muus pole aga tema pöördatud hirm iseendale. Iga seadus, mille ta häälestab erinevuse vastu, on teadmata insult. Iga solv on paanika hüüd. Iga kütitus on mahajäänud proovinud simp maailma, mille keerukus ta üle ujutab.
-
-See ei muuta tema teod kahjuks, ega vähem condamnabel. Aga see muudab perspektiivid mehhanism. Ja selles perspektiivi muutuses võib leida võib olla, alates vajalik resistantsist, võti mõistmine — ja seega teisendus.
-
-Sest te ei ravi maniac nimetamine hirmu. Ja te pole võitlus hirmu, eirates et see eksisteerib.
+1. **See vastutab**: maaniat ei vabanda nagu hirmu
+2. **See diagnoosib õigesti**: kinnisidee on tegelik mehhanism
+3. **See nihutab probleemi**: düsfunktsioon on vaatlejas, mitte vaadeldavas
 
 ---
 
-### Küsimus, mille jätan teile
+## Kuues osa: Episood 01 tagurpidi
 
-Sõnad, mida me kasutame diskrimineerimise kirjeldamiseks — tegelikult kirjeldavad neid? Või teevad nad ekraan rohkem meie ja tegelikkuse vahel?
+### Seos sarjaga
 
-Kui sõnavara kaitset, mida ta pretendeerivad võidelda, siis esimene vastupanu akt on võib olla uustest. Mitte keele koquettery. Sest te ei saa tervist, mida te ei tea, nimetada.
+Juurte Aia 1. episoodis dokumenteerisime poliitiliste parteide semantilist triivi: sõnad, mis jäävad pudelitele, mille sisu on muutunud. "Vabadus," "solidaarsus," "sotsiaalne õiglus" — sildid jäid, mõte aurustus.
 
-Kirjutage mulle. Aed on suur ja mõned juured on maetud keeles ise.
+Siin vaatleme vastupidist nähtust: sõnad, millel polnud kunagi õiget sisu. Mitte triiv — alusviga. Sõna "homofoobia" pole oma algsest tähendusest triivi teinud. See ehitati ebasobivale sufiksile, mõistetavatel strateegilistel põhjustel, mille tagajärjed meid nüüd tabavad.
+
+See on sama õppetund, nähtuna peegli teiselt poolt: sõnavara pole kunagi süütu. Kui sõnad valetavad — triivi või ehituse läbi — kaitsevad nad struktuure, mida nad väidavad nimetavat.
+
+### Ksenomaanialane on kartlik, kes ennast ei tunne
+
+See analüüs pole lihtsalt leksikaalne stiiliharjutus. Õigesti nimetada tähendab õigesti mõista. Ja õigesti mõista tähendab õigesti tegutseda.
+
+Lärmakas maania all, seaduste ja solvangute ja vägivalla all, on võib-olla tõesti hirm. Sügav, tihti tunnistamata, mõnikord teadvustamata hirm: maailma hirm, mis ei vasta rahustuseks loodud kujutisele. Hirm, et teine, oma pelga olemasoluga, seab kahtluse alla tema enda kindluse tahkuse.
+
+Kuid selle hirmu muudab ksenomaanialane agressiooniks. Ta ei põgene — ta ründab. Ja see teisendus on see, mida tuleb nimetada. Maania on aktiivne sümptom; hirm on vaid maetud juur.
+
+Diskrimineeriv maanialane on keegi, kelle identiteet on nii habras, et see ei talu teisesuse olemasolu. Tema kinnisidee teisest on vaid tema enda ärevuse pööratud peegeldus. Iga seadus, mille ta erinevuse vastu hääletab, on ebakindluse tunnistus. Iga solvang on paanikakarje. Iga kiusamine on meeleheitlik katse lihtsustada maailma, mille keerukus teda üle ujutab.
+
+See ei muuda tema tegusid vähem tõsiseks ega vähem hukkamõistetavaks. Kuid see muudab pilku, mida mehhanismile heidame. Ja selles pilgumuutuses peitub võib-olla, vajaliku vastupanu taga, mõistmise võti — ja seega teisenduse võti.
+
+---
+
+## Vastusõnavara: nimetagem ka kaasamist
+
+Kui me nimetame patoloogiad ümber, nimetagem ka voorused. Ksenomaania vastu eksisteerib vastumürk, mida kreeklased hästi tundsid: **filokseenia** (φιλοξενία) — sõna-sõnalt võõra armastus.
+
+Filokseenia pole naiivus. See pole enda kustutamine teise ees. See on võime näha võõras mitte ohtu, vaid võimalust. Aken maailma, mida sa veel ei tunne. Rikastumine, mitte lahustumine.
+
+| Patoloogia | Vastumürk |
+|------------|-----------|
+| Ksenomaania | Filokseenia — võõra armastus, külalislahkus |
+| Homomaania | Armastuste mitmekesisuse aktsepteerimine |
+| Transmaania | Kehade enesemääramise austus |
+| Etnomaania | Võrdse väärikuse tunnustamine |
+| Islamomaania | Autentne ilmalikkus — heatahtlik ükskõiksus teise uskumuste suhtes |
+
+Tõeline tugevus pole ühetaolisuses — see on võimes vastu võtta erinevust ilma selles lahustumata.
+
+---
+
+### Küsimus, mille teile jätan
+
+Sõnad, mida me kasutame diskrimineerimiste kirjeldamiseks — kas need kirjeldavad neid tegelikult? Või moodustavad nad veel ühe ekraani meie ja tegelikkuse vahel?
+
+Kui sõnavara kaitseb seda, mida ta väidab vastu võitlevat, siis esimene vastupanuakt on võib-olla ümbernimetamine. Mitte keelelisest koketteerimisest. Sest sa ei saa ravida seda, mida sa ei oska nimetada.
+
+**Ksenomaania**: haiguslik kinnisidee teisest. Kõigi diskrimineerimiste Nominatiivne Kogunemine.
+
+Nüüd on meil sõna.
+
+Kirjutage mulle. Aed on suur ja mõned juured on maetud keelde endasse.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, "George Weinberg", 2017 ; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, märts 2017.
+[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, märts 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)" ; Jack Nichols & Lige Clarke, artikkel *Screw Magazine*, 5 mai 1969 ; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, artikkel *Screw Magazine*, 5. mai 1969; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (kirjed φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (kirjed φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, peatükk "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, peatükk "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 
 [^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Associated Press, *AP Stylebook* update, november 2012 ; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26 november 2012 ; *The Advocate*, "AP Says Homophobia Off the Mark", 26 november 2012.
+[^7]: Associated Press, *AP Stylebook* update, november 2012; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26. november 2012; *The Advocate*, "AP Says Homophobia Off the Mark", 26. november 2012.
 
-[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012 ; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", märts 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", märts 2017.
 
 [^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001 ; Warren J. Blumenfeld (éd.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992 ; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (toim.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.

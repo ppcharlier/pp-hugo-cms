@@ -9,6 +9,11 @@ disableKinds = []
 tag = "tags"
 category = "categories"
 
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
 [params]
 images = ["img/og-image.png"]
 description = "Déterrer le sens des mots — Explorer les racines des mouvements politiques, sociaux et industriels."
@@ -41,6 +46,7 @@ mt = "Tħaffer it-tifsira tal-kliem — Tesplora l-għeruq tal-movimenti politi�
 ga = "Tochailt bhrí na bhfocal — Fréamhacha na ngluaiseachtaí polaitiúla, sóisialta agus tionsclaíocha a fhiosrú."
 ca = "Desenterrar el sentit de les paraules — Explorar les arrels dels moviments polítics, socials i industrials."
 lb = "De Sënn vun de Wierder ausgruewen — D'Wuerzele vu politesche, sozialen an industrielle Bewegungen entdecken."
+uk = "Викопувати значення слів — Досліджувати коріння політичних, соціальних та промислових рухів."
 
 [languages]
   [languages.fr]
@@ -231,3 +237,10 @@ lb = "De Sënn vun de Wierder ausgruewen — D'Wuerzele vu politesche, sozialen 
     title = "De Wuerzelgaart"
     weight = 27
     contentDir = "content/lb"
+
+  [languages.uk]
+    languageCode = "uk"
+    languageName = "Українська"
+    title = "Сад Коренів"
+    weight = 28
+    contentDir = "content/uk"

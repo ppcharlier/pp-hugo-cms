@@ -1,255 +1,302 @@
 ---
-title: "Heterophobia and Discriminatory Manias"
+title: "Xenomania"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Roots' Garden"
-subtitle: "When words betray the diagnosis"
-description: "The suffix -phobe describes a fear. But the persecutor doesn't flee — they are obsessed. An etymological exploration of a linguistic lie that protects what it claims to fight."
+subtitle: "The Nominative Rally of discriminations"
+description: "Homophobia, xenophobia, transphobia — these words lie. The suffix -phobe describes a fear, but the persecutor doesn't flee: he's obsessed. An etymological exploration of the linguistic lie that protects discrimination, and a proposal for a unifying term: xenomania, the pathological obsession with the other."
 categories: ["philosophy", "linguistics", "psychology"]
-tags: ["etymology", "homophobia", "discrimination", "heterophobia", "mania", "phobia", "language", "Weinberg", "Herek", "prejudice"]
+tags: [
+  "xenomania", "etymology", "discrimination", "language", "mania", "phobia",
+  "homophobia", "xenophobia", "transphobia", "islamophobia", "racism", "sexism",
+  "homomania", "transmania", "islamomania", "ethnomania",
+  "inclusivity", "diversity", "otherness", "tolerance", "respect", "human dignity",
+  "prejudice", "obsession", "Weinberg", "Herek", "social psychology"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
-  - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, March 2017"
-  - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, article in Screw Magazine, May 5, 1969"
-  - "Time Magazine, 'The Homosexual in America', 1969"
+  - "Gregory M. Herek, 'The Father of Homophobia', Beyond Homophobia blog, March 2017"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
-  - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
+  - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, 1968"
   - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
-  - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
-  - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
+  - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 2004"
   - "Associated Press, AP Stylebook update, November 2012"
-  - "Politico, 'AP nixes homophobia, ethnic cleansing', November 26, 2012"
-  - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
-  - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
-  - "Byrne Fone, Homophobia: A History, Picador, 2001"
-  - "Warren J. Blumenfeld (ed.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
+  - "Henry E. Adams et al., 'Is Homophobia Associated With Homosexual Arousal?', 1996"
 ---
 
 > **Transparency note**
 >
-> This column is the result of a collaboration between a human (Pépé) and an artificial intelligence (Claude, Anthropic). The guiding ideas, editorial direction and final approval are human. Research and writing are AI-assisted.
+> This chronicle is the result of a collaboration between a human (Pépé) and an artificial intelligence (Claude, Anthropic). The guiding ideas, editorial line, and final validation are human. Documentary research and writing are AI-assisted.
 >
-> Because AI can produce inaccuracies, **every factual claim is sourced** from verifiable academic, encyclopaedic or journalistic documents. Sources are listed at the end of the article.
+> Because AI can produce inaccuracies, **every factual claim is sourced** from verifiable academic, encyclopaedic, or journalistic documents. Sources are listed at the end of the article.
 >
-> This text commits only its human editor, who takes full responsibility for it.
+> This text is the sole responsibility of its human editor.
 
 ---
 
-This week, I fell down an etymological rabbit hole. It happens to me quite often — I pull on a thread and three hours later I find myself staring at a ball of yarn that looks back at me accusingly.
+This week, I fell down an etymological rabbit hole. It happens often — I pull a thread and find myself three hours later with a ball of yarn staring back at me accusingly.
 
-The thread, this time, was a suffix. Four letters: *-phobe*. I laid them next to what they claim to describe. And it didn't fit. Not at all.
+The thread, this time, was a suffix. Four letters: *-phobe*. I placed them next to what they claim to describe. And it didn't fit. Not at all.
 
-Words have a memory, and that memory reaches back to Ancient Greek. And Ancient Greek does not lie. We, on the other hand — we lie with its pieces.
+Words have a memory, and this one goes back to ancient Greek. And ancient Greek doesn't lie. We, however — we lie with its pieces.
 
 ---
 
-## Part One: The strategic invention of an imperfect word
+## Part One: The Strategic Invention of an Imperfect Word
 
 ### George Weinberg and the stroke of genius of 1965
 
-In 1965, American psychologist George Weinberg observed something disturbing among his colleagues. When he invited gay friends to gatherings, some of his fellow psychologists reacted with visceral aversion — "no argument, just repugnance," he would later say.[^1]
+In 1965, American psychologist George Weinberg observed something troubling among his colleagues. When he invited gay friends to gatherings, some colleagues reacted with visceral aversion — "without argument, just repugnance," he would later say.[^1]
 
-Weinberg understood that the problem was not with homosexuals. The problem lay with those who looked at them. And to name it, he coined a word: *homophobia*.
+Weinberg understood that the problem wasn't with homosexuals. The problem was with those looking at them. And to name it, he invented a word: *homophobia*.
 
-The term first appeared in the press in 1969, in the magazine *Screw*, then in *Time Magazine* the same year.[^2] In 1972, Weinberg developed it in *Society and the Healthy Homosexual*, a revolutionary book whose opening sentence set the tone: "I would never consider a patient healthy unless he had overcome his prejudice against homosexuality."[^3]
+The term first appeared in print in 1969, in *Screw* magazine, then in *Time Magazine* the same year.[^2] In 1972, Weinberg developed it in *Society and the Healthy Homosexual*, a revolutionary book whose first sentence sets the tone: "I would never consider a patient healthy unless he had overcome his prejudice against homosexuality."[^3]
 
-The stroke of genius was strategic: by attaching the suffix *-phobia* to anti-gay prejudice, Weinberg reversed the diagnosis. It was no longer the homosexual who was sick — it was the one persecuting them. At a time when homosexuality was still listed in the *Diagnostic and Statistical Manual* (DSM) as a psychiatric disorder, this reversal was an act of intellectual resistance.[^3]
+The stroke of genius was strategic: by attaching the suffix *-phobia* to anti-gay prejudice, Weinberg reversed the diagnosis. It was no longer the homosexual who was sick — it was the persecutor. At a time when homosexuality was still listed in the *Diagnostic and Statistical Manual* (DSM) as a psychiatric pathology, this reversal was an act of intellectual resistance.[^3]
 
-### A word aware of its own limits
+### A word aware of its limits
 
 But Weinberg knew his word was imperfect. He defined it narrowly: "the dread of being in close quarters with homosexuals — and in the case of homosexuals themselves, self-loathing."[^3]
 
-The word worked — magnificently — as a political tool. It helped remove homosexuality from the DSM in 1973. It gave a name to something everyone could see but no one could name.[^2]
+The word worked — magnificently — as a political tool. It helped get homosexuality removed from the DSM in 1973. It gave a name to something everyone saw but nobody could name.[^2]
 
-But sixty years on, the word has become our prison.
+But sixty years later, the word imprisons us.
 
 ---
 
-## Part Two: The etymological lie
+## Part Two: The Etymological Lie
 
-### What Greek actually says
+### What Greek really says
 
-The suffix *-phobos* (φόβος) denotes fear, flight, instinctive aversion.[^4] The arachnophobe flees the spider. The claustrophobe flees the enclosed space. The agoraphobe flees the crowd. In every case, the mechanism is identical: a terror that drives avoidance, withdrawal, paralysis.
+The suffix *-phobos* (φόβος) denotes fear, flight, instinctive aversion.[^4] The arachnophobe flees the spider. The claustrophobe flees enclosed spaces. The agoraphobe flees crowds. In each case, the mechanism is identical: a terror that drives avoidance, withdrawal, paralysis.
 
-Now, what does the person called "homophobic" actually do?
+But what does the person called "homophobe" do?
 
-They do not flee. They do not cower. They do not cross the street trembling. No. They legislate. They harass. They assault. They stalk. They march, petition, preach and persecute. They invite themselves into other people's bedrooms with the relentlessness of the zealot. They devote considerable energy to scrutinising, commenting on, condemning and attempting to control the intimacy of perfect strangers.
+He doesn't flee. He doesn't cower. He doesn't change sidewalks trembling. No. He legislates. He harasses. He assaults. He hunts. He demonstrates, petitions, preaches and persecutes. He invites himself into other people's bedrooms with the obstinacy of a fanatic. He devotes considerable energy to scrutinizing, commenting, condemning and trying to control the intimacy of perfect strangers.
 
-This behaviour is not a phobia. It is an obsession.
+This behaviour is not a phobia. It's an obsession.
 
-### Science confirms: it is not fear
+### Science confirms: it's not fear
 
-Gregory Herek, professor of psychology at the University of California, Davis, and one of the world's foremost experts on sexual prejudice, has spent decades documenting the term's limitations. In a landmark 2004 article, "Beyond Homophobia," he noted that the word "only rarely refers to an intense, irrational fear of sexual minorities," that it "is framed through the lens of psychopathology without being intended as a diagnosis," and that it "has insufficiently reflected the role of broader social norms in shaping individual attitudes."[^5]
+Gregory Herek, psychology professor at the University of California, Davis, and one of the world's leading experts on sexual prejudice, has spent decades documenting the term's limitations. In a foundational 2004 article, "Beyond Homophobia," he notes that the word "rarely refers to intense and irrational fear of sexual minorities," that it "is framed through the lens of psychopathology without being designed as a diagnosis," and that it "has insufficiently reflected the role of broader social norms in shaping individual attitudes."[^5]
 
-Herek proposed replacing the term with "sexual prejudice," which he defined as "negative attitudes toward an individual based on their sexual orientation."[^6] More precise. But still not quite right.
+Herek proposes replacing the term with "sexual prejudice," which he defines as "negative attitudes toward an individual because of their sexual orientation."[^6] It's more precise. But it's still not quite right.
 
-Because the problem is not merely imprecision. It is the direction of the spotlight.
+Because the problem isn't just imprecision. It's the direction of the spotlight.
 
 ### The rhetorical shield
 
-In 2012, the Associated Press — whose *Stylebook* sets editorial standards for most American newspapers — dropped the word "homophobia" from political and social contexts. Deputy standards editor Dave Minthorn explained: "It's just inaccurate. It's ascribing a mental disability to someone, and suggests a knowledge that we don't have."[^7]
+In 2012, the Associated Press — whose *Stylebook* sets editorial standards for most American newspapers — removed the word "homophobia" from political and social contexts. Deputy managing editor Dave Minthorn explained: "It's simply inaccurate. It's ascribing a mental disorder to someone, and it suggests knowledge we don't have."[^7]
 
-Weinberg himself opposed this removal, arguing that the word remained "crucial to our humanity" as long as the acts it described persisted.[^8] He was right about the need to name. But the question remains: to name wrongly — is that not to inadvertently protect?
+Weinberg himself opposed this removal, arguing that the word remained "crucial to our humanity" as long as the acts it describes persisted.[^8] He was right about the need to name. But the question remains: is naming wrongly not inadvertently protecting?
 
-For here is what the suffix *-phobe* allows: any persecutor can answer "I'm not afraid," and be technically correct. The word offers them a linguistic escape hatch.
+For here's what the suffix *-phobe* allows: any persecutor can respond "I'm not afraid," and be technically correct. The word offers them a linguistic escape route.
 
-Worse still: it creates a perverse incentive for aggression. If you are accused of being afraid, how do you prove otherwise? By showing you are not afraid. By approaching the supposed object of your terror. By hitting, insulting, persecuting — precisely to demonstrate that you are not the person the word claims to describe. Phobia calls for flight; the refutation of phobia calls for attack. The word does not describe the violence — it provokes it.
-
-And by attaching *homo-* to a negative suffix, it subtly locates the problem on the homosexual's side — as though merely existing were enough to trigger a pathology in the other.
+Worse still: it creates a perverse incentive for aggression. If you're accused of being afraid, how do you prove otherwise? By showing you're not afraid. By approaching the supposed object of your terror. By striking, insulting, persecuting — precisely to demonstrate that you're not what the word claims to describe. Phobia calls for flight; refutation of phobia calls for attack. The word doesn't describe violence — it provokes it.
 
 ---
 
-## Part Three: The correct diagnosis — mania
+## Part Three: The Correct Diagnosis — Mania
 
 ### A far more precise suffix
 
-Ancient Greek offers us another tool: *-mania* (μανία) — madness, devouring obsession, the compulsive fixation that consumes reason.[^4] The pyromaniac does not "fear" fire: they are possessed by it. The megalomaniac does not "flee" grandeur: they are enslaved by it. The kleptomaniac does not "dread" theft: they are imprisoned by it.
+Ancient Greek offers us another tool: *-mania* (μανία) — madness, devouring obsession, compulsive fixation that consumes reason.[^4] The pyromaniac doesn't "fear" fire: he's possessed by it. The megalomaniac doesn't "flee" grandeur: he's enslaved by it. The kleptomaniac doesn't "dread" theft: he's prisoner to it.
 
-The *homomaniac* does not fear homosexuality: they are consumed by it. They think about it in the morning reading the newspaper. They think about it when they see two people holding hands in the street. They think about it when voting, when raising their children, when choosing their political battles. Their mind is colonised by other people's homosexuality with an intensity that most gay people themselves probably never reach.
+The homomaniac doesn't fear homosexuality: he's obsessed with it. He thinks about it in the morning reading the newspaper. He thinks about it seeing two people hold hands in the street. He thinks about it when voting, when raising his children, when choosing his political battles. His mind is colonized by others' homosexuality with an intensity that most homosexuals themselves probably don't reach.
 
 ### The science of obsession
 
-In 1996, psychologists Henry Adams, Lester Wright and Bethany Lohr at the University of Georgia published a now-famous study in the *Journal of Abnormal Psychology*. They measured the physiological responses of 64 heterosexual men — 35 classified as "homophobic" and 29 as "non-homophobic" — when exposed to homosexual erotic stimuli. Result: only the homophobic men showed significant sexual arousal in response to male homosexual stimuli.[^9]
+In 1996, psychologists Henry Adams, Lester Wright and Bethany Lohr of the University of Georgia published a now-famous study in the *Journal of Abnormal Psychology*. They measured the physiological reactions of 64 heterosexual men — 35 classified as "homophobic" and 29 as "non-homophobic" — to homosexual erotic stimuli. Result: only the homophobic men showed significant sexual arousal to male homosexual stimuli.[^9]
 
-The interpretations of this study are debated — arousal might reflect anxiety rather than desire.[^9] But what the study documents unambiguously is a disproportionate reactivity: the "homophobe" does not look away. Their body reacts. Their attention is captured. This is the mechanism of obsessive fixation, not of phobia.
+The interpretations of this study are debated — arousal could reflect anxiety rather than desire.[^9] But what the study documents unambiguously is a disproportionate reactivity: the "homophobe" doesn't look away. His body reacts. His attention is captured. This is the mechanism of obsessive fixation, not phobia.
 
 ### The triple advantage of the new term
 
-The term *homomaniac* offers a triple advantage:
+The term *homomaniac* presents a triple advantage:
 
 1. **Etymologically accurate**: it describes an obsession, not a fear.
 2. **Clinically honest**: the psychological literature has extensively documented the compulsive and projective dimension of these behaviours.[^9][^10]
-3. **Rhetorically just**: it redirects the spotlight to where the dysfunction truly lies — with the persecutor, not the persecuted. The homomaniac carries the diagnosis in their own name.
+3. **Rhetorically just**: it redirects the spotlight to where the dysfunction actually lies — with the persecutor, not the persecuted. The homomaniac carries his diagnosis in his own name.
 
 ---
 
-## Part Four: The generalisation — discriminatory manias
+## Part Four: Generalization — Discriminatory Manias
 
 ### A pattern that repeats
 
-What we observe regarding homosexuality holds true for the full spectrum of discrimination. Everywhere, the suffix *-phobe* masks the reality of the behaviour.
+What we observe for homosexuality applies to all discriminations. Everywhere, the suffix *-phobe* masks the reality of the behaviour.
 
-The *xenomaniac* is not afraid of foreigners — they are obsessed with their presence. They see them everywhere, blame them for everything, build entire political programmes on this fixation. They spend more time talking about foreigners than foreigners themselves spend thinking about them.
+The *xenomaniac* isn't afraid of foreigners — he's obsessed with their presence. He sees them everywhere, blames them for everything, builds entire political programmes on this fixation. He spends more time talking about foreigners than foreigners themselves spend thinking about him.
 
-The *ethnomaniac* does not tremble before a skin colour — they scrutinise it, categorise it, rank it with the meticulousness of the compulsive collector.
+The *ethnomaniac* doesn't tremble before a skin colour — he scrutinizes it, categorizes it, hierarchizes it with the meticulousness of a compulsive collector.
 
-The *transmaniac* does not flee transgender people — they invest disproportionate time and energy in policing their bodies, their identity documents, their toilets.
+The *transmaniac* doesn't flee transgender people — he invests disproportionate time and energy in monitoring their bodies, their identity papers, their bathrooms.
 
-The *Islamomaniac* does not flee Muslims — they track them, comment on them, surveil them, fantasise about them, invoke them at every debate as though all of civilisation depended on what a woman wears on her head.
+The *islamomaniac* doesn't flee Muslims — he tracks them, comments on them, monitors them, fantasizes about them, invokes them in every debate as if all civilization depended on what a woman wears on her head.
 
-In every case, the same structure: not fearful avoidance, but an obsessive fixation that devours the attention, discourse and political action of the maniac.
+In each case, the same structure: not fearful avoidance, but obsessive fixation that devours the maniac's attention, discourse and political action.
 
 ### Who benefits from the wrong diagnosis?
 
-Previous episodes of the Roots' Garden posed the question: *cui bono* — who benefits from the crime? Let us apply it here.
+Previous episodes of Roots' Garden posed the question: *cui bono* — who benefits from the crime? Let's apply it here.
 
 Who benefits from the suffix *-phobe*?
 
-Certainly not the victims, who find themselves linguistically associated with a negative word. Certainly not public debate, which loses precision. Certainly not psychology, which sees one of its clinical suffixes misappropriated.
+Certainly not the victims, who find themselves linguistically associated with a negative word. Certainly not public debate, which loses precision. Certainly not psychology, which sees one of its clinical suffixes misused.
 
-It benefits the persecutor, who can deflect: "I'm not afraid." It benefits systems of oppression, which remain unnamed: if it is an individual "phobia," it is not a social structure. And it benefits all those who prefer to pathologise individuals rather than question systems.
-
----
-
-## Part Five: Heterophobia — the true name of the root
-
-### The common trunk
-
-It remains to name the common trunk of all these manias. And here, a word already exists, whose etymology contains a magnificent irony: *heterophobia*.
-
-*Heteros* (ἕτερος) means in Greek "the other," "the different," "that which is not identical to oneself."[^4] *Phobos*, fear. Heterophobia is therefore, in the most literal sense, the fear of otherness — the existential terror of that which differs from oneself.
-
-And here, the suffix *-phobia* finally recovers its accuracy. For beneath the noisy mania, beneath the laws and insults and violence, there is indeed a fear. A deep fear, often unacknowledged, sometimes unconscious: the fear of a world that does not conform to the reassuring image one has built of it. The fear that the other, by their mere existence, might call into question the solidity of one's own certainties.
-
-The heterophobe — the one who fears difference in all its forms — is the common soil of racism, sexism, homomania, xenomania. Fear is the root; mania is the active symptom.
-
-### The complete structure
-
-```
-HETEROPHOBIA (root)
-    Existential fear of otherness
-           |
-           v
-    DISCRIMINATORY MANIAS (symptoms)
-    |-- Homomania: obsession with others' sexual orientation
-    |-- Xenomania: obsession with others' origins
-    |-- Ethnomania: obsession with others' skin colour
-    |-- Transmania: obsession with others' gender identity
-    |-- Islamomania: obsession with others' religion
-    +-- etc.
-           |
-           v
-    SYSTEMS OF OPPRESSION (structures)
-    |-- Heterosexism: system of heterosexual privilege
-    |-- Racism: system of racial hierarchy
-    |-- Patriarchy: system of male domination
-    +-- etc.
-```
-
-This architecture distinguishes three levels that the current vocabulary conflates:
-
-1. **Fear** (heterophobia) — deep psychological level, often unconscious
-2. **Obsession** (manias) — visible, compulsive behavioural level
-3. **System** (structures of oppression) — institutional, cultural level
-
-To confuse these levels is to deprive ourselves of the means to fight them effectively.
+It benefits the persecutor, who can deflect: "I'm not afraid." It benefits systems of oppression, which remain unnamed: if it's an individual "phobia," it's not a social structure. And it benefits all those who prefer to pathologize individuals rather than question systems.
 
 ---
 
-## Part Six: Episode 01 in reverse
+## Part Five: Xenomania — The Nominative Rally
+
+### Why a unifying term?
+
+We need to name the common trunk of all these manias. We need a word that gathers under one banner all discriminatory obsessions — a **Nominative Rally**, if you will, of behaviours that reject the other.
+
+*(The acronym N.R. that results is merely a coincidence. Or not.)*
+
+### Why not "heteromania"?
+
+One could propose *heteromania*, from the Greek *heteros* (ἕτερος) — "the other," "the different." But this term poses an ambiguity problem: in common language, "hetero-" immediately evokes heterosexuality. *Heteromania* could be confused with an obsession *with* heterosexuality, which muddies the message.
+
+### The clarity of "xenomania"
+
+The term **xenomania** is crystal clear.
+
+*Xenos* (ξένος) in ancient Greek designates the stranger, the one who comes from elsewhere, the one who doesn't belong to the group.[^4] It's the root of *xenophobia*, but also of *xenophilia* and the beautiful word *philoxenia* — hospitality, love of the stranger.
+
+**Xenomania** is thus the pathological obsession with the stranger — but "stranger" in the broadest sense:
+
+- **The national stranger**: the one from another country, another culture
+- **The religious stranger**: the one who prays to another god, or the same god differently — the "restricted neighbour" of religions that limit love of neighbour to those who share the faith
+- **The sexual stranger**: the one whose orientation or identity doesn't match a norm built on incomplete observation of nature
+- **The ethnic stranger**: the one whose appearance differs from the local majority
+- **The social stranger**: the one whose lifestyle, choices, values deviate from ambient conformism
+
+All these "othernesses" are perceived by the xenomaniac as existential threats. Not because they actually threaten him — but because their mere existence weakens the fiction of a uniform, predictable, reassuring world.
+
+### The revised complete structure
+
+```
+XENOMANIA (common trunk)
+    Pathological obsession with the other, the different, the stranger
+           │
+           ├── Homomania: obsession with others' sexual orientation
+           ├── Transmania: obsession with others' gender identity
+           ├── Ethnomania: obsession with others' ethnic origin
+           ├── Islamomania: obsession with others' religion
+           ├── Hateful gynomania: obsession with controlling women
+           └── etc.
+           │
+           ▼
+    SYSTEMS OF OPPRESSION (institutionalized structures)
+           ├── Heterosexism: system of heterosexual privilege
+           ├── Racism: system of racial hierarchy
+           ├── Patriarchy: system of male domination
+           ├── Colonialism: system of exploitation of peoples
+           └── etc.
+```
+
+This architecture distinguishes two levels that current vocabulary conflates:
+
+1. **Obsession** (xenomania and its variations) — visible, compulsive behavioural level, individual but also collective
+2. **System** (structures of oppression) — institutional, cultural, historical level
+
+The xenomaniac is the foot soldier. The system is the army. Confusing the two means depriving ourselves of the ability to fight them effectively.
+
+### What the new vocabulary reveals
+
+| Old term | Suggests... | New term | Reveals... |
+|----------|-------------|----------|------------|
+| Homophobe | Fear, victim of fear | Homomaniac | Obsession, responsible for obsession |
+| Xenophobe | Fear of strangers | Xenomaniac | Pathological fixation on strangers |
+| Transphobe | Fear of trans people | Transmaniac | Compulsive surveillance of trans bodies |
+| Islamophobe | Fear of Islam | Islamomaniac | Obsessive fantasy of the Muslim |
+
+The suffix *-mania* does three things that *-phobia* doesn't:
+
+1. **It responsibilizes**: you don't excuse a mania like you excuse a fear
+2. **It diagnoses correctly**: obsession is the real mechanism
+3. **It shifts the problem**: the dysfunction is in the observer, not the observed
+
+---
+
+## Part Six: Episode 01 in Reverse
 
 ### The link with the series
 
-In Episode 01 of the Roots' Garden, we documented the semantic drift of political parties: words that remained on bottles whose contents had changed. "Freedom," "solidarity," "social justice" — the labels endured; the meaning evaporated.
+In Episode 01 of Roots' Garden, we documented the semantic drift of political parties: words that remain on bottles whose contents have changed. "Freedom," "solidarity," "social justice" — the labels remained, the meaning evaporated.
 
-Here, we observe the inverse phenomenon: words that never had the right content. Not a drift — a foundational error. The word "homophobia" has not drifted from its original meaning. It was built on an ill-suited suffix, for strategically understandable reasons whose consequences have now caught up with us.
+Here, we observe the opposite phenomenon: words that never had the right content. Not drift — a foundational error. The word "homophobia" didn't drift from its original meaning. It was built on an unsuitable suffix, for understandable strategic reasons whose consequences are catching up with us.
 
-It is the same lesson, seen from the other side of the mirror: vocabulary is never innocent. When words lie — by drift or by construction — they protect the structures they claim to name.
+It's the same lesson, seen from the other side of the mirror: vocabulary is never innocent. When words lie — by drift or by construction — they protect the structures they claim to name.
 
-### The persecutor is a coward who does not know it
+### The xenomaniac is a coward who doesn't know it
 
-This analysis is not merely a lexical exercise. To name correctly is to understand correctly. And to understand correctly is to be able to act with precision.
+This analysis isn't just a lexical exercise. Naming correctly is understanding correctly. And understanding correctly is being able to act justly.
 
-When we say "homophobe," we describe an enemy. When we say "homomaniac," we describe someone obsessed. When we identify heterophobia as the root, we describe a coward. And facing a coward, the response is not the same as facing an enemy.
+Beneath the loud mania, beneath the laws and insults and violence, there may well be fear. A deep fear, often unacknowledged, sometimes unconscious: fear of a world that doesn't conform to the reassuring image we have of it. Fear that the other, by their mere existence, calls into question the solidity of our own certainties.
 
-The discriminatory maniac is someone whose identity is so fragile that it cannot withstand the existence of otherness. Their obsession with the other is merely the inverted reflection of their anxiety about themselves. Every law they vote against difference is an admission of insecurity. Every insult is a cry of panic. Every persecution is a desperate attempt to simplify a world whose complexity overwhelms them.
+But this fear, the xenomaniac transforms into aggression. He doesn't flee — he attacks. And it's this transformation that must be named. Mania is the active symptom; fear is only its buried root.
 
-This makes their actions no less grave, no less condemnable. But it changes the way we see the mechanism. And in that change of perspective lies perhaps, beyond the necessary resistance, a key to understanding — and therefore to transformation.
+The discriminatory maniac is someone whose identity is so fragile that it cannot bear the existence of otherness. His obsession with the other is only the inverted reflection of his anxiety about himself. Every law he votes against difference is an admission of insecurity. Every insult is a cry of panic. Every persecution is a desperate attempt to simplify a world whose complexity overwhelms him.
 
-For one cannot cure a mania by calling it a phobia. And one cannot fight fear by pretending it does not exist.
+This doesn't make his acts any less serious, any less condemnable. But it changes how we view the mechanism. And in this change of perspective lies perhaps, beyond necessary resistance, a key to understanding — and therefore to transformation.
+
+---
+
+## The counter-vocabulary: naming inclusion too
+
+If we rename pathologies, let's name virtues too. Against xenomania, there exists an antidote the Greeks knew well: **philoxenia** (φιλοξενία) — literally, love of the stranger.
+
+Philoxenia is not naivety. It's not self-erasure before the other. It's the capacity to see in the stranger not a threat, but a possibility. A window onto a world we don't yet know. An enrichment rather than a dilution.
+
+| Pathology | Antidote |
+|-----------|----------|
+| Xenomania | Philoxenia — love of the stranger, hospitality |
+| Homomania | Acceptance of the diversity of loves |
+| Transmania | Respect for bodily self-determination |
+| Ethnomania | Recognition of equal dignity |
+| Islamomania | Authentic secularism — benevolent indifference to others' beliefs |
+
+True strength is not in uniformity — it's in the capacity to welcome difference without dissolving into it.
 
 ---
 
 ### The question I leave you with
 
-Do the words we use to describe discrimination truly describe it? Or do they form one more screen between us and reality?
+Do the words we use to describe discriminations really describe them? Or do they form yet another screen between us and reality?
 
-If vocabulary protects what it claims to combat, then the first act of resistance may be to rename. Not out of linguistic vanity. Because you cannot heal what you cannot name.
+If vocabulary protects what it claims to fight, then the first act of resistance may be to rename. Not out of linguistic coquetry. Because you cannot heal what you cannot name.
 
-Write to me. The garden is large, and some roots are buried in language itself.
+**Xenomania**: the pathological obsession with the other. The Nominative Rally of all discriminations.
+
+Now, we have a word.
+
+Write to me. The garden is vast, and some roots are buried in language itself.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, March 2017.
+[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia'", Beyond Homophobia blog, March 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, article in *Screw Magazine*, May 5, 1969; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, *Screw Magazine*, May 5, 1969; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entries φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entries φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, chapter "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia'", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004.
 
 [^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Associated Press, *AP Stylebook* update, November 2012; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", November 26, 2012; *The Advocate*, "AP Says Homophobia Off the Mark", November 26, 2012.
+[^7]: Associated Press, *AP Stylebook* update, November 2012; *Politico*, "AP nixes 'homophobia'", November 26, 2012.
 
-[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", March 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012.
 
 [^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (ed.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (ed.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992.

@@ -1,13 +1,19 @@
 ---
-title: "Heterofobia e Manias Discriminatórias"
+title: "Xenomania"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Jardim das Raízes"
-subtitle: "Quando as palavras traem o diagnóstico"
-description: "O sufixo -fobo descreve um medo. Mas o perseguidor não foge — está obcecado. Exploração etimológica de uma mentira linguística que protege aquilo que pretende combater."
+subtitle: "O Agrupamento Nominativo das discriminações"
+description: "Homofobia, xenofobia, transfobia — estas palavras mentem. O sufixo -fobo descreve um medo, mas aquele que persegue não foge: está obcecado. Exploração etimológica da mentira linguística que protege as discriminações, e proposta de um termo unificador: a xenomania, a obsessão doentia pelo outro."
 categories: ["filosofia", "linguística", "psicologia"]
-tags: ["etimologia", "homofobia", "discriminação", "heterofobia", "mania", "fobia", "linguagem", "Weinberg", "Herek", "preconceito"]
+tags: [
+  "xenomania", "etimologia", "discriminação", "linguagem", "mania", "fobia",
+  "homofobia", "xenofobia", "transfobia", "islamofobia", "racismo", "sexismo",
+  "homomania", "transmania", "islamomania", "etnomania",
+  "inclusividade", "diversidade", "alteridade", "tolerância", "respeito", "dignidade humana",
+  "preconceito", "obsessão", "Weinberg", "Herek", "psicologia social"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, março de 2017"
@@ -71,7 +77,7 @@ Mas sessenta anos depois, a palavra prende-nos.
 
 ### O que o grego realmente diz
 
-O sufixo *-phobos* (φόβος) designa o medo, a fuga, a aversão instintiva.[^4] O aracnófobico foge da aranha. O claustrofóbico foge do espaço fechado. O agorafóbico fuge da multidão. Em cada caso, o mecanismo é idêntico: um terror que impele à evasão, ao retraimento, à paralisia.
+O sufixo *-phobos* (φόβος) designa o medo, a fuga, a aversão instintiva.[^4] O aracnófobico foge da aranha. O claustrofóbico foge do espaço fechado. O agorafóbico foge da multidão. Em cada caso, o mecanismo é idêntico: um terror que impele à evasão, ao retraimento, à paralisia.
 
 Ora, o que faz aquele que chamamos "homófobico"?
 
@@ -153,48 +159,79 @@ Beneficia ao perseguidor, que pode evadir: "Não tenho medo." Beneficia aos sist
 
 ---
 
-## Quinta parte: A heterofobia — o verdadeiro nome da raiz
+## Quinta parte: Xenomania — o Agrupamento Nominativo
 
-### O tronco comum
+### Porquê um termo unificador?
 
-Resta nomear o tronco comum de todas estas manias. E aqui, existe já uma palavra cuja etimologia encerra uma ironia magnífica: *heterofobia*.
+Resta nomear o tronco comum de todas estas manias. Precisamos de uma palavra que agrupe sob a mesma bandeira todas as obsessões discriminatórias — um **Agrupamento Nominativo**, se quisermos, dos comportamentos que rejeitam o outro.
 
-*Heteros* (ἕτερος) significa em grego "o outro", "o diferente", "aquilo que não é idêntico a si".[^4] *Phobos*, o medo. A heterofobia é pois, no sentido mais literal, o medo da alteridade — o terror existencial face àquilo que difere de si.
+*(O acrónimo A.N. que daí resulta é apenas uma coincidência. Ou talvez não.)*
 
-E aqui, o sufixo *-phobia* recupera finalmente a sua justeza. Porque sob a mania ruidosa, sob as leis e os insultos e as violências, existe de facto um medo. Um medo profundo, frequentemente inconfesso, por vezes inconsciente: o de um mundo que não se conforma à imagem tranquilizadora que se faz dele. O medo de que o outro, pela sua simples existência, coloque em questão a solidez das próprias certezas.
+### Porquê não "heteromania"?
 
-O heterofóbico — aquele que teme a diferença sob todas as formas — é o terreno comum do racismo, do sexismo, da homomanía, da xenomanía. O medo é a raiz; a mania é o sintoma ativo.
+Poder-se-ia propor *heteromania*, do grego *heteros* (ἕτερος) — "o outro", "o diferente". Mas este termo coloca um problema de ambiguidade: na linguagem corrente, "hetero-" evoca imediatamente a heterossexualidade. A *heteromania* poderia ser confundida com uma obsessão *pela* heterossexualidade, o que turva a mensagem.
 
-### A estrutura completa
+### A clareza de "xenomania"
+
+O termo **xenomania** é límpido.
+
+*Xenos* (ξένος) em grego antigo designa o estrangeiro, aquele que vem de outro lugar, aquele que não pertence ao grupo.[^4] É a raiz de *xenofobia*, mas também de *xenofilia* e da bela palavra *filoxenia* — a hospitalidade, o amor pelo estrangeiro.
+
+A **xenomania** é portanto a obsessão doentia pelo estrangeiro — mas "estrangeiro" no sentido mais amplo:
+
+- **O estrangeiro nacional**: aquele que vem de outro país, de outra cultura
+- **O estrangeiro religioso**: aquele que reza a outro deus, ou ao mesmo deus de outra forma — o "próximo restrito" das religiões que limitam o amor ao próximo àqueles que partilham a fé
+- **O estrangeiro sexual**: aquele cuja orientação ou identidade não corresponde a uma norma construída sobre uma observação incompleta da natureza
+- **O estrangeiro étnico**: aquele cuja aparência difere da maioria local
+- **O estrangeiro social**: aquele cujo modo de vida, escolhas, valores se afastam do conformismo ambiente
+
+Todas estas "alteridades" são percebidas pelo xenomaníaco como ameaças existenciais. Não porque o ameacem realmente — mas porque a sua simples existência fragiliza a ficção de um mundo uniforme, previsível, reconfortante.
+
+### A estrutura completa revisitada
 
 ```
-HETEROFOBIA (raiz)
-    Medo existencial da alteridade
+XENOMANIA (tronco comum)
+    Obsessão doentia pelo outro, pelo diferente, pelo estrangeiro
+           │
+           ├── Homomania: obsessão pela orientação sexual alheia
+           ├── Transmania: obsessão pela identidade de género alheia
+           ├── Etnomania: obsessão pela origem étnica alheia
+           ├── Islamomania: obsessão pela religião alheia
+           ├── Ginomania odiosa: obsessão pelo controlo das mulheres
+           └── etc.
            │
            ▼
-    MANIAS DISCRIMINATÓRIAS (sintomas)
-    ├── Homomanía: obsessão com a orientação sexual alheia
-    ├── Xenomanía: obsessão com a origem alheia
-    ├── Etnomanía: obsessão com a cor de pele alheia
-    ├── Transmanía: obsessão com a identidade de género alheia
-    ├── Islamomanía: obsessão com a religião alheia
-    └── etc.
-           │
-           ▼
-    SISTEMAS DE OPRESSÃO (estruturas)
-    ├── Heterossexismo: sistema de privilégio heterossexual
-    ├── Racismo: sistema de hierarquia racial
-    ├── Patriarcado: sistema de dominação masculina
-    └── etc.
+    SISTEMAS DE OPRESSÃO (estruturas institucionalizadas)
+           ├── Heterossexismo: sistema de privilégio heterossexual
+           ├── Racismo: sistema de hierarquia racial
+           ├── Patriarcado: sistema de dominação masculina
+           ├── Colonialismo: sistema de exploração dos povos
+           └── etc.
 ```
 
-Esta arquitetura distingue três níveis que o vocabulário atual confunde:
+Esta arquitetura distingue dois níveis que o vocabulário atual confunde:
 
-1. **O medo** (heterofobia) — nível psicológico profundo, frequentemente inconsciente
-2. **A obsessão** (manias) — nível comportamental visível, compulsivo
-3. **O sistema** (estruturas de opressão) — nível institucional, cultural
+1. **A obsessão** (xenomania e as suas declinações) — nível comportamental visível, compulsivo, individual mas também coletivo
+2. **O sistema** (estruturas de opressão) — nível institucional, cultural, histórico
 
-Confundir estes níveis é privar-nos dos meios para os combater eficazmente.
+O xenomaníaco é o soldado raso. O sistema é o exército. Confundir os dois é privar-nos de os combater eficazmente.
+
+### O que revela o novo vocabulário
+
+Ao nomear corretamente, compreendemos melhor:
+
+| Termo antigo | Sugere... | Termo novo | Revela... |
+|--------------|-----------|------------|-----------|
+| Homófobo | Medo, vítima do seu medo | Homomaníaco | Obsessão, responsável pela sua obsessão |
+| Xenófobo | Medo do estrangeiro | Xenomaníaco | Fixação doentia no estrangeiro |
+| Transfóbico | Medo dos trans | Transmaníaco | Vigilância compulsiva dos corpos trans |
+| Islamofóbico | Medo do islão | Islamomaníaco | Fantasia obsessiva do muçulmano |
+
+O sufixo *-mania* faz três coisas que *-fobia* não faz:
+
+1. **Responsabiliza**: não se desculpa uma mania como se desculpa um medo
+2. **Diagnostica com justiça**: a obsessão é o mecanismo real
+3. **Desloca o problema**: a disfunção está no observador, não no observado
 
 ---
 
@@ -206,19 +243,37 @@ No Episódio 01 do Jardim das Raízes, documentávamos a deriva semântica dos p
 
 Aqui, observamos o fenómeno inverso: palavras que nunca tiveram o conteúdo correto. Não uma deriva — um erro de fundação. A palavra "homofobia" não derivou do seu sentido original. Foi construída sobre um sufixo inadequado, por razões estratégicas compreensíveis mas cujas consequências nos alcançam.
 
-É a mesma lição, vista pelo outro lado do espelho: o vocabulário nunca é inocente. Quando as palavras mentem — por deriva ou por construção — protegem as estruturas que pretendem combater.
+É a mesma lição, vista pelo outro lado do espelho: o vocabulário nunca é inocente. Quando as palavras mentem — por deriva ou por construção — protegem as estruturas que pretendem nomear.
 
-### O perseguidor é um medroso que se ignora
+### O xenomaníaco é um medroso que se ignora
 
 Esta análise não é apenas um exercício de estilo lexical. Nomear corretamente é compreender corretamente. E compreender corretamente é poder agir com justeza.
 
-Quando dizemos "homófobico", descrevemos um inimigo. Quando dizemos "homomaníaco", descrevemos um obcecado. Quando identificamos a heterofobia como raiz, descrevemos um medroso. E perante um medroso, a resposta não é a mesma que perante um inimigo.
+Sob a mania ruidosa, sob as leis e os insultos e as violências, existe talvez de facto um medo. Um medo profundo, frequentemente inconfesso, por vezes inconsciente: o de um mundo que não se conforma à imagem tranquilizadora que se faz dele. O medo de que o outro, pela sua simples existência, coloque em questão a solidez das próprias certezas.
+
+Mas este medo, o xenomaníaco transforma-o em agressão. Não foge — ataca. E é esta transformação que deve ser nomeada. A mania é o sintoma ativo; o medo não é senão a raiz enterrada.
 
 O maníaco discriminatório é alguém cuja identidade é tão frágil que não suporta a existência da alteridade. A sua obsessão pelo outro não é senão o reflexo invertido da sua angústia por si mesmo. Cada lei que vota contra a diferença é uma confissão de insegurança. Cada insulto é um grito de pânico. Cada perseguição é uma tentativa desesperada de simplificar um mundo cuja complexidade o subjuga.
 
 Isto não torna os seus actos nem menos graves nem menos condenáveis. Mas muda o olhar que dirigimos ao mecanismo. E nesta mudança de olhar encontra-se talvez, para além da resistência necessária, uma chave de compreensão — e portanto de transformação.
 
-Porque não se cura uma mania chamando-lhe fobia. E não se combate o medo ignorando que existe.
+---
+
+## O contra-vocabulário: nomear também a inclusão
+
+Se renomeamos as patologias, nomeemos também as virtudes. Face à xenomania, existe um antídoto que os Gregos conheciam bem: a **filoxenia** (φιλοξενία) — literalmente, o amor pelo estrangeiro.
+
+A filoxenia não é ingenuidade. Não é o apagamento de si perante o outro. É a capacidade de ver no estrangeiro não uma ameaça, mas uma possibilidade. Uma janela para um mundo que ainda não conhecemos. Um enriquecimento em vez de uma diluição.
+
+| Patologia | Antídoto |
+|-----------|----------|
+| Xenomania | Filoxenia — amor pelo estrangeiro, hospitalidade |
+| Homomania | Aceitação da diversidade dos amores |
+| Transmania | Respeito pela autodeterminação dos corpos |
+| Etnomania | Reconhecimento da igual dignidade |
+| Islamomania | Laicidade autêntica — indiferença benevolente às crenças alheias |
+
+A verdadeira força não está na uniformidade — está na capacidade de acolher a diferença sem nela se dissolver.
 
 ---
 
@@ -227,6 +282,10 @@ Porque não se cura uma mania chamando-lhe fobia. E não se combate o medo ignor
 As palavras que usamos para descrever as discriminações — descrevem-nas realmente? Ou formam um ecrã a mais entre nós e a realidade?
 
 Se o vocabulário protege aquilo que pretende combater, então o primeiro acto de resistência é talvez renomear. Não por coqueteria linguística. Porque não se consegue curar aquilo que não se sabe nomear.
+
+**Xenomania**: a obsessão doentia pelo outro. O Agrupamento Nominativo de todas as discriminações.
+
+Agora, temos uma palavra.
 
 Escreva-me. O jardim é grande, e certas raízes estão enterradas na própria linguagem.
 
@@ -240,7 +299,7 @@ Escreva-me. O jardim é grande, e certas raízes estão enterradas na própria l
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entradas φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entradas φόβος, μανία, ξένος, ἕτερος).
 
 [^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, capítulo "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 

@@ -1,13 +1,19 @@
 ---
-title: "Heterofóbia a Diskriminačné Mánie"
+title: "Xenománia"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Záhrada Koreňov"
-subtitle: "Keď slová zradia diagnózu"
-description: "Prípona -fóbia opisuje strach. Ale ten, kto prenasleduje, neuteká — je posadnutý. Etymologické preskúmanie jazykového klamstva, ktoré chráni to, čo tvrdí, že bojuje."
+subtitle: "Nominatívne Zhromaždenie diskriminácií"
+description: "Homofóbia, xenofóbia, transfóbia — tieto slová klamú. Prípona -fóbia opisuje strach, ale ten, kto prenasleduje, neuteká: je posadnutý. Etymologické preskúmanie jazykového klamstva, ktoré chráni diskriminácie, a návrh zjednocujúceho termínu: xenománia, chorobná posadnutosť iným."
 categories: ["filozofia", "lingvistika", "psychológia"]
-tags: ["etymológia", "homofóbia", "diskriminacia", "heterofóbia", "manie", "fóbia", "jazyk", "Weinberg", "Herek", "predsudok"]
+tags: [
+  "xenománia", "etymológia", "diskriminácia", "jazyk", "mánia", "fóbia",
+  "homofóbia", "xenofóbia", "transfóbia", "islamofóbia", "rasizmus", "sexizmus",
+  "homománia", "transmánia", "islamománia", "etnománia",
+  "inklúzia", "rozmanitosť", "alterita", "tolerancia", "rešpekt", "ľudská dôstojnosť",
+  "predsudok", "posadnutosť", "Weinberg", "Herek", "sociálna psychológia"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, marec 2017"
@@ -29,7 +35,7 @@ sources:
 
 > **Poznámka o transparentnosti**
 >
-> Táto kronika je výsledkom spolupráce medzi človekom (Pépé) a umelou inteligenciou (Claude, Anthropic). Smernica, redakčná politika a konečné overenie sú ľudské. Dokumentárny výskum a písanie sú podporované AI.
+> Táto kronika je výsledkom spolupráce medzi človekom (Pépé) a umelou inteligenciou (Claude, Anthropic). Smernice, redakčná línia a konečné schválenie sú ľudské. Dokumentárny výskum a písanie sú podporované AI.
 >
 > Pretože AI môže produkovať nepresnosti, **každé faktické tvrdenie je zdrojované** z akademických, encyklopedických alebo overiteľných novinárskych dokumentov. Zdroje sú uvedené na konci článku.
 >
@@ -37,198 +43,249 @@ sources:
 
 ---
 
-Minulý týždeň som sa prepadla do etymologickej králikej nory. Stáva sa mi to často — ťahám vlákno a tri hodiny neskôr si ma hľadí zväzok akože budete.
+Tento týždeň som spadol do etymologickej králičej nory. Stáva sa mi to často — potiahnem vlákno a tri hodiny neskôr na mňa hľadí klbko s obviňujúcim pohľadom.
 
-Vlákno bolo tentokrát prípona. Štyri písmená: *-fóbia*. Položila som ich vedľa toho, čo majú popisovať. A nepassovalo to. Vôbec nie.
+Vlákno bolo tentokrát prípona. Štyri písmená: *-fóbia*. Položil som ich vedľa toho, čo majú popisovať. A nesedelo to. Vôbec nie.
 
-Slová majú pamäť a táto sa vďačí starovekovej gréčtine. A staroveka gréčtina neklame. My, na druhej strane — klameš s jej kusmi.
-
----
-
-## Prvá časť: Strategické Vynájmanie Nedokonalého Slova
-
-### George Weinberg a Géniová Ťah 1965
-
-V roku 1965, americký psychológ George Weinberg pozorujem niečo znepokojujúcej medzi svojimi kolegami. Keď pozýva homosexuálnych priateľov na stretnutia, určité kolegovia reagujú s viskóznym odporom — „bez argumentu, iba s hnusomom", ako to neskôr povedal.[^1]
-
-Weinberg pochopil, že problém nie je u homosexuálov. Problém je u tých, ktorí ich pozorujú. A na jeho vymenovanie, vynájde slovo: *homophobia*.
-
-Pojem sa prvý krát objaví v tlači v roku 1969, v časopise *Screw*, potom v *Time Magazine* v tom istom roku.[^2] V roku 1972, Weinberg ju vyvíja v *Society and the Healthy Homosexual*, revolučnej knihe, ktorej prvej veta dáva tón: „Nikdy by som neuvažoval o pacientovi ako zdraví, kým neprekonali svoj predsudok proti homosexualite".[^3]
-
-Genius move je strategický: pripojením sufixu *-phobia* k anti-gay predsudkom, Weinberg prevráti diagnózu. To nie je homosexuál, ktorý je chorý — je to ten, kto ho prenasleduje. V čase, keď homosexualita stále figurovala v *Diagnostic and Statistical Manual* (DSM) ako psychiatrická chorobu, táto inverzia bola aktom intelektuálneho odporu.[^3]
-
-### Slovo Vedľa Svojich Limitácií
-
-Ale Weinberg vedel, že jeho slovo bolo nedokonalé. V skutočnosti ho definuje úzko: „Terror byť v blízkej prítomnosti homosexuálov — a v prípade samotných homosexuálov, nenávisť k sebe".[^3]
-
-Slovo fungoval — nádherný — ako politický nástroj. Pomáhalo sa mu vyradit homosexualitu z DSM v roku 1973. Dalo to meno na niečo, čo všetci videli, ale nikto nemohol pomenať.[^2]
-
-Ale šesťdesiat rokov neskôr, slovo nás žene.
+Slová majú pamäť a táto siaha až do starovekej gréčtiny. A stará gréčtina neklame. My, na druhej strane — klameme s jej kúskami.
 
 ---
 
-## Druhá časť: Etymologické Klamstvo
+## Prvá časť: Strategický vynález nedokonalého slova
 
-### Čo Gréčtina Naozaj Hovorí
+### George Weinberg a geniálny ťah roku 1965
 
-Prípona *-phobos* (φόβος) popisuje strach, let, inštinktívny odpor.[^4] Arachnophobe beží od pauka. Claustrophobe beží z uzavretého priestoru. Agoraphobe beží od davu. V každom prípade je mechanizmus identický: terror, ktorý tlačí k evitácii, stiahnutiu, paralýze.
+V roku 1965 americký psychológ George Weinberg pozoruje niečo znepokojujúce medzi svojimi kolegami. Keď pozýva homosexuálnych priateľov na stretnutia, niektorí kolegovia reagujú s viscerálnym odporom — „bez argumentu, iba s hnusom", ako to neskôr povedal.[^1]
 
-Teraz, čo robí ten, koho voláme "homophobe"?
+Weinberg pochopil, že problém nie je u homosexuálov. Problém je u tých, ktorí na nich hľadia. A aby to pomenoval, vynašiel slovo: *homophobia*.
 
-Neuteká. Nezakúčuje sa. Nezmení chôdnik v tremrení. Nie. Legisluje. Obtiaruje. Útočí. Tlačiť. Manifestuje, petičný, kázal a prenasledujem. Vkazuje v spáľňach cudzincov s harením fanatika. Dedikuje značné energie na škriepenie, komentovanie, odsúdenie a pokus kontrolovať intimnosť úplne cudzích ľudí.
+Termín sa prvýkrát objaví v tlači v roku 1969, v časopise *Screw*, potom v *Time Magazine* v tom istom roku.[^2] V roku 1972 ho Weinberg rozvíja v *Society and the Healthy Homosexual*, revolučnej knihe, ktorej prvá veta udáva tón: „Nikdy by som nepovažoval pacienta za zdravého, kým neprekoná svoj predsudok voči homosexualite".[^3]
+
+Geniálny ťah je strategický: pripojením prípony *-phobia* k anti-gay predsudku Weinberg prevrátil diagnózu. To nie homosexuál je chorý — je to ten, kto ho prenasleduje. V čase, keď homosexualita ešte stále figurovala v *Diagnostic and Statistical Manual* (DSM) ako psychiatrická patológia, táto inverzia bola aktom intelektuálneho odporu.[^3]
+
+### Slovo vedomé si svojich limitov
+
+Ale Weinberg vedel, že jeho slovo bolo nedokonalé. V skutočnosti ho definoval úzko: „hrôza byť v tesnej blízkosti homosexuálov — a v prípade samotných homosexuálov, nenávisť k sebe".[^3]
+
+Slovo fungovalo — nádherné — ako politický nástroj. Prispelo k vyradeniu homosexuality z DSM v roku 1973. Dalo meno niečomu, čo všetci videli, ale nikto nevedel pomenovať.[^2]
+
+Ale šesťdesiat rokov neskôr nás to slovo väzní.
+
+---
+
+## Druhá časť: Etymologické klamstvo
+
+### Čo gréčtina naozaj hovorí
+
+Prípona *-phobos* (φόβος) označuje strach, útek, inštinktívnu averziu.[^4] Arachnofób uteká pred pavúkom. Klaustrofób uteká z uzavretého priestoru. Agorafób uteká pred davom. V každom prípade je mechanizmus identický: hrôza, ktorá núti k vyhýbaniu, stiahnutiu, paralýze.
+
+Teraz, čo robí ten, koho voláme „homofób"?
+
+Neuteká. Nezakrúca sa. Nemení chodník, trasúc sa. Nie. Legislatívne koná. Obťažuje. Útočí. Prenasleduje. Manifestuje, petičuje, káže a perzekuuje. Vchádza do spální cudzích ľudí s tvrdohlavosťou fanatika. Venuje značnú energiu skúmaniu, komentovaniu, odsudzovaniu a pokusom kontrolovať intimitu úplne cudzích ľudí.
 
 Toto správanie nie je fóbia. Je to posadnutosť.
 
-### Veda Potvrdzuje: Nie je to Strach
+### Veda potvrdzuje: nie je to strach
 
-Gregory Herek, profesor psychológie na Kalifornijskej univerzite v Davis a jeden z najväčších svetových špecialista na sexuálny predsudok, venoval desaťročia dokumentovanie limitácií tohto pojmu. V základnom článku z roku 2004, „Beyond Homophobia", poznamenáva, že slovo „Len zriedka sa odkazuje na intenzívnu a iracionálnu strach menšín sexuálom", že „je rámcovaný perspektívou psychopatológie bez toho aby bol koncipovaný ako diagnóza", a že „Nedostatočne odrazil úlohu širších sociálnych noriem v tvorbe jednotlivých postojov".[^5]
+Gregory Herek, profesor psychológie na Kalifornskej univerzite v Davis a jeden z najväčších svetových odborníkov na sexuálny predsudok, venoval desaťročia dokumentovaniu limitov tohto termínu. V základnom článku z roku 2004, „Beyond Homophobia", poznamenáva, že slovo „sa len zriedka odkazuje na intenzívny a iracionálny strach zo sexuálnych menšín", že „je rámcované perspektívou psychopatológie bez toho, aby bolo koncipované ako diagnóza", a že „nedostatočne odzrkadľovalo úlohu širších sociálnych noriem pri formovaní individuálnych postojov".[^5]
 
-Herek navrhuje nahradiť pojem „sexuálnym predsudkom", ktorý definuje ako „negatívne postoje voči jednotlivcovi na základe ich sexuálnej orientácie".[^6] To je presnejšie. Ale nie je to ešte dosť spravodlivé.
+Herek navrhuje nahradiť termín „sexuálnym predsudkom" (*sexual prejudice*), ktorý definuje ako „negatívne postoje voči jednotlivcovi na základe jeho sexuálnej orientácie".[^6] To je presnejšie. Ale ešte to nie je dosť spravodlivé.
 
-Pretože problém nie je iba nepresnosť. Je to smerovanie projektora.
+Pretože problém nie je len nepresnosť. Je to smer reflektora.
 
-### Rétorika Štít
+### Rétorický štít
 
-V roku 2012, Associated Press — ktorej *Stylebook* stanovuje redakčné normy pre väčšinu amerických novín — odstráni slovo „homophobia" z politických a spoločenských kontextov. Asistent redaktor David Minthorn vysvetlil: „Je to jednoducho nepresné. Prideľuje psychiatrické poruchy komukoľvek a naznačuje vedomosť, ktorú nemáme".[^7]
+V roku 2012 Associated Press — ktorej *Stylebook* stanovuje redakčné normy pre väčšinu amerických novín — odstránila slovo „homophobia" z politických a spoločenských kontextov. Zástupca šéfredaktora Dave Minthorn vysvetlil: „Je to jednoducho nepresné. Pripisuje to psychiatrickú poruchu niekomu, a naznačuje to vedomosti, ktoré nemáme".[^7]
 
-Samotný Weinberg sa postavil proti tomuto stiahnutiu, argumentujúc, že slovo zostalo „kľúčové pre našu ľudskosť" dovtedy, kým činy, ktoré opisuje, pretrvávajú.[^8] Mal pravdu na potrebu pomenúť. Ale otázka zostáva: aby pomenova zle, nie je to ochranu?
+Samotný Weinberg sa postavil proti tomuto stiahnutiu, argumentujúc, že slovo zostalo „kľúčové pre našu ľudskosť" dovtedy, kým činy, ktoré opisuje, pretrvávajú.[^8] Mal pravdu o potrebe pomenovať. Ale otázka zostáva: pomenovať zle, nie je to neúmyselne chrániť?
 
-Pretože tu je to, čo sufixu *-phobe* umožňuje: ktorýkoľvek prenasledovateľ môže odpovedať „Nemám strach" a má technicky pravdu. Slovo mu dáva lingvistické východisko.
+Pretože tu je, čo prípona *-fóbia* umožňuje: ktorýkoľvek prenasledovateľ môže odpovedať „nemám strach" a mať technicky pravdu. Slovo mu ponúka lingvistický únik.
 
-Ešte horšie: vytvára perverzný podnet na násilie. Ak vás obvinňujete zo strachu, ako preukážete opak? Tým, že budete k objektu údajného strachu. Útokom, urážkou, prenasledovaním — presne aby ste dokázali, že nie ste ten, ktorého slovo tvrdí, že ste. Fóbia volá po flight; popretie fóbie volá po útoku. Slovo nepopisuje násilíe — to to vyvoláva.
+Ešte horšie: vytvára perverzný podnet k útoku. Ak vás obviňujú zo strachu, ako dokážete opak? Tým, že pôjdete k údajnému objektu svojej hrôzy. Útokom, urážaním, prenasledovaním — presne aby ste dokázali, že nie ste tým, koho slovo tvrdí, že opisuje. Fóbia volá po úteku; popretie fóbie volá po útoku. Slovo nepopisuje násilie — provokuje ho.
 
-A spojením *homo-* s negatívnym sufixom, subtle vpisuje problém na strane homosexuála — ako keby pôvodne existencia stačila na vyvolanie choroby v druhom.
-
----
-
-## Tretia Časť: Správna Diagnóza — Manie
-
-### Oveľa Presnejší Sufixu
-
-Staroveka gréčtina nám dáva iný nástroj: *-mania* (μανία) — šialenosť, obsedantá závislosť, kompluzívna fixácia, ktorá konzumuje rozum.[^4] Pyromane sa nenecháva od ohňa: je ním posadnutý. Megalomaniac nebeží od veľkosti: je jej otrokom. Klepto mane sa nedostane od krádeže: je jej väzňom.
-
-Homo-maniac sa nenecháva od homosexuálnosti: je jom obnubilovaný. Myslí na to ráno čítajúc noviny. Myslí na to vidiacich dvoch ľudí, ktorí si držia ruku na ulici. Myslí na to pri hlasovaní, v tréningovej svojích detí, v výbere svojej politických bojov. Jeho mozog je kolonizovaný homosexualitou ostatných s intenzitou, ktorú väčšina homosexuálov pravdepodobne nepresahuje.
-
-### Veda Obsesie
-
-V roku 1996, psychológi Henry Adams, Lester Wright a Bethany Lohr z Gruzínskej univerzity publikujú slávnu študiu v *Journal of Abnormal Psychology*. Merali fyziologické reakcie 64 heterosexuálnych mužov — 35 klasifikovaných ako „homophobné" a 29 ako „non-homophobné" — na erotické podraženie homosexuála. Výsledok: iba homophobní muži vykazali značné sexuálne vzbudenie na heterosexuálneho podraženi.[^9]
-
-Interpretácie tejto štúdie sú diskutované — vzbudenie by mohla odrážať úzkosť skôr ako túžba.[^9] Ale to, čo štúdia dokumentuje bez ambiguity, je disproportionálna reaktívnosť: „homofobe" neodvracia zrak. Jeho telo reaguje. Jeho pozornosť je zatknutá. Je to mechanizmus obsedantnej fixácie, nie fóbia.
-
-### Trojitá Výhoda Nového Termínu
-
-Pojem *homo-maniac* predstavuje trojitú výhodu:
-
-1. **Etymologicky Presný**: opisuje obsesiu, nie strach.
-2. **Klinicky Čestný**: psychologická literatúra rozsiahlo dokumentovat kompulzívnu a projektívnu dimenzia týchto správ.[^9][^10]
-3. **Rétorický Spravodlivý**: on premiestni projektúra tam, kde sa skutočne nachádza dysfunkcia — pri prenasledovateľovi, nie u persekúovaného. Homo-maniac nosí svoju diagnózu vo svojom vlastnom názvu.
+A spojením *homo-* s negatívnou príponou jemne vpisuje problém na stranu homosexuála — akoby samotná existencia stačila na vyvolanie patológie u druhého.
 
 ---
 
-## Štvrtá Časť: Zovšeobecnenie — Diskriminačné Mánie
+## Tretia časť: Správna diagnóza — mánia
 
-### Vzorec, Ktorý sa Opakuje
+### Oveľa presnejšia prípona
 
-Čo vidíme pre homosexualitu vzťahuje na všetky diskriminačiu. Všade sufixu *-phobe* maskuje realitu správania.
+Stará gréčtina nám ponúka iný nástroj: *-mania* (μανία) — šialenstvo, stravujúca posadnutosť, kompulzívna fixácia, ktorá konzumuje rozum.[^4] Pyromán sa „nebojí" ohňa: je ním posadnutý. Megalomán „neuteká" pred veľkosťou: je jej otrokom. Kleptomán sa „nebojí" krádeže: je jej väzňom.
 
-*Xeno-maniac* sa nenecháva od cudzinca — je posadnutý jeho prítomnosťou. Vidí ho všade, robiť ho zodpovedný za všetko, buduje celé politické programy na tejto fixácii. Dedikuje viac času na rozhovore cudzincov ako cudzinci sami dedikujúci čas myslieť oňom.
+Homomániaci sa neboja homosexuality: sú ňou obnubilovaní. Myslia na to ráno pri čítaní novín. Myslia na to, keď vidia dvoch ľudí, ako sa držia za ruky na ulici. Myslia na to pri hlasovaní, pri výchove svojich detí, pri výbere svojich politických bojov. Ich myseľ je kolonizovaná homosexualitou ostatných s intenzitou, ktorú väčšina homosexuálov pravdepodobne nedosahuje.
 
-*Ethno-maniac* neuteká pred farbou kože — strieľa, kategorizuje, hierarchizuje s presnosťou zberateľa.
+### Veda o posadnutosti
 
-*Trans-maniac* neuteká pred transgenderními osobami — investuje neproporcionalný čas a energiu sledovať ich telá, ich papiere, ich toilety.
+V roku 1996 psychológovia Henry Adams, Lester Wright a Bethany Lohr z Georgijskej univerzity publikovali slávnu štúdiu v *Journal of Abnormal Psychology*. Merali fyziologické reakcie 64 heterosexuálnych mužov — 35 klasifikovaných ako „homofóbni" a 29 ako „nehomofóbni" — na homosexuálne erotické podnety. Výsledok: iba homofóbni muži vykazovali významné sexuálne vzrušenie na mužské homosexuálne podnety.[^9]
 
-*Islamo-maniac* neuteká pred moslimami — spája, komentáry, sleduje ich, fantázie ich, vyvolá ich v každej debating ako keby civilizácia závisela od toho, čo nosí žena na hlave.
+Interpretácie tejto štúdie sú diskutované — vzrušenie by mohlo odrážať úzkosť skôr než túžbu.[^9] Ale čo štúdia dokumentuje bez nejednoznačnosti, je neúmerná reaktivita: „homofób" neodvracia zrak. Jeho telo reaguje. Jeho pozornosť je zachytená. Je to mechanizmus obsedantnej fixácie, nie fóbie.
 
-V každom prípade rovnaká štruktúra: nie apeureous únikul, ale obsedantná fixácia, ktorá žrádí pozornosť, diskusiu a politické pôsobenie maniaka.
+### Trojitá výhoda nového termínu
 
-### Kto Má Zisk zo Zlej Diagnózy?
+Termín *homomániaci* predstavuje trojitú výhodu:
 
-Predchádzajúce epizódy Záhrady Koreňov položili otázku: *cui bono* — komu prospievá zločin? Aplikujme to sem.
-
-Komu profituje sufixu *-phobe*?
-
-Určite nie obetím, ktoré sa lingvisticky spájajú so záporným slovom. Určite nie verejnej debate, ktorá je stratená na presnosťu. Určite nie psychológii, ktorá vidí jeden z jej sufixov zneužitého.
-
-Profituje pre prenasledovateľa, ktorý môže odľahlý: „Nemám strach." To mu ponúka lingvistické únikové. Prospievajúcich systémom útlaku, ktoré zostávajú nemenované: ak je to jednotlivá „fóbia", nie je to spoločenská štruktúra. A profituje všetkým tým, ktorí by radšej patologizovali jednotlivcov ako aby spochybňovali systémy.
+1. **Etymologicky presný**: opisuje posadnutosť, nie strach.
+2. **Klinicky čestný**: psychologická literatúra rozsiahlo dokumentovala kompulzívnu a projektívnu dimenziu týchto správaní.[^9][^10]
+3. **Rétoricky spravodlivý**: premiestňuje reflektor tam, kde sa skutočne nachádza dysfunkcia — pri prenasledovateľovi, nie u prenasledovaného. Homomániak nosí svoju diagnózu vo svojom vlastnom mene.
 
 ---
 
-## Piata Časť: Heterofóbia — Skutočný Názov Koreňa
+## Štvrtá časť: Zovšeobecnenie — diskriminačné mánie
 
-### Spoločný Kmeň
+### Vzorec, ktorý sa opakuje
 
-Zostáva pomenúť spoločný kmeň všetkých týchto mánií. A tu, slovo existuje už, ktorého etymológia ukrývajú nádhernej irónie: *heterophobia*.
+Čo pozorujeme pri homosexualite, platí pre všetky diskriminácie. Všade prípona *-fóbia* maskuje realitu správania.
 
-*Heteros* (ἕτερος) znamená v gréčtine „druhý", „rozdielny", „to čo nie je identické s sebou".[^4] *Phobos*, strach. Heterofóbia je preto, v najpresnejšom zmysle, strach z inosti — existenciálny teror pred tým, čo sa líši od seba.
+*Xenomániak* sa nebojí cudzinca — je posadnutý jeho prítomnosťou. Vidí ho všade, robí ho zodpovedným za všetko, buduje celé politické programy na tejto fixácii. Venuje viac času hovoreniu o cudzincoch než cudzinci sami venujú premýšľaniu o ňom.
 
-A tam sufixu *-phobia* nakoniec regains jeho spravodlivosť. Pretože pod hlasitou mánií, pod zákonmi a urážkami a násilím, existuje strach. Hlboký, často nespočítaný, niekedy bezvedomý: strach sveta, ktorý sa nekonformuje s upokojujúcim obrázkom, ako sme si to predstavovali. Strach že druhý, svojou pôvodnou existenciou, spochybní solidnosť vlastných istôt.
+*Etnomániak* sa netrasie pred farbou pleti — skúma ju, kategorizuje, hierarchizuje s precíznosťou kompulzívneho zberateľa.
 
-Heterophobe — ten, kto sa boji rozdielnosti vo všetkých jej formách — je plodná pôda rasizmu, sexizmu, homo-mánie, xeno-mánie. Strach je koreň; manie je jeho aktívny symptóm.
+*Transmániak* neuteká pred transgenderovými osobami — investuje neúmerný čas a energiu do sledovania ich tiel, ich dokladov totožnosti, ich toaliet.
 
-### Úplná Štruktúra
+*Islamomániak* neuteká pred moslimami — sleduje ich, komentuje, špehuje, fantazíruje o nich, invokuje ich v každej debate, akoby celá civilizácia závisela od toho, čo nosí žena na hlave.
+
+V každom prípade rovnaká štruktúra: nie vystrašený útek, ale obsedantná fixácia, ktorá pohlcuje pozornosť, diskurz a politické konanie mániaka.
+
+### Kto profituje zo zlej diagnózy?
+
+Predchádzajúce epizódy Záhrady Koreňov položili otázku: *cui bono* — komu prospieva zločin? Aplikujme ju tu.
+
+Komu prospieva prípona *-fóbia*?
+
+Určite nie obetiam, ktoré sa lingvisticky spájajú s negatívnym slovom. Určite nie verejnej debate, ktorá stráca na presnosti. Určite nie psychológii, ktorá vidí jednu zo svojich klinických prípon zneužitú.
+
+Prospieva prenasledovateľovi, ktorý sa môže vyhovoriť: „Nemám strach." Ponúka mu lingvistický únik. Prospieva systémom útlaku, ktoré zostávajú nepomenované: ak je to individuálna „fóbia", nie je to sociálna štruktúra. A prospieva všetkým tým, ktorí radšej patologizujú jednotlivcov než spochybňujú systémy.
+
+---
+
+## Piata časť: Xenománia — Nominatívne Zhromaždenie
+
+### Prečo zjednocujúci termín?
+
+Zostáva pomenovať spoločný kmeň všetkých týchto mánií. Potrebujeme slovo, ktoré zhromaždí pod jednu vlajku všetky diskriminačné posadnutosti — **Nominatívne Zhromaždenie**, ak chcete, správaní, ktoré odmietajú iného.
+
+*(Skratka N.Z., ktorá z toho vyplýva, je len náhoda. Alebo nie.)*
+
+### Prečo nie „heterománia"?
+
+Mohli by sme navrhnúť *heteromániu*, z gréckeho *heteros* (ἕτερος) — „iný", „odlišný". Ale tento termín má problém s nejednoznačnosťou: v bežnom jazyku „hetero-" okamžite evokuje heterosexualitu. *Heterománia* by mohla byť zamieňaná s posadnutosťou *pre* heterosexualitu, čo zahmluje posolstvo.
+
+### Jasnosť „xenománie"
+
+Termín **xenománia** je krištáľovo jasný.
+
+*Xenos* (ξένος) v starej gréčtine označuje cudzinca, toho, kto prichádza odinakiaľ, toho, kto nepatrí do skupiny.[^4] Je to koreň *xenofóbie*, ale aj *xenofílie* a krásneho slova *filoxénia* — pohostinnosť, láska k cudzincovi.
+
+**Xenománia** je teda chorobná posadnutosť cudzincom — ale „cudzinec" v najširšom zmysle:
+
+- **Národnostný cudzinec**: ten, kto pochádza z inej krajiny, inej kultúry
+- **Náboženský cudzinec**: ten, kto sa modlí k inému bohu, alebo k tomu istému bohu inak — „obmedzený blížny" náboženstiev, ktoré limitujú lásku k blížnemu na tých, ktorí zdieľajú vieru
+- **Sexuálny cudzinec**: ten, koho orientácia alebo identita nezodpovedá norme postavenej na neúplnom pozorovaní prírody
+- **Etnický cudzinec**: ten, koho vzhľad sa líši od miestnej väčšiny
+- **Sociálny cudzinec**: ten, koho spôsob života, voľby, hodnoty sa odchyľujú od okolitého konformizmu
+
+Všetky tieto „inakosti" sú xenomániakmi vnímané ako existenčné hrozby. Nie preto, že by ich skutočne ohrozovali — ale preto, že ich samotná existencia krehká fikciu uniformného, predvídateľného, upokojujúceho sveta.
+
+### Kompletná revidovaná štruktúra
 
 ```
-HETEROFÓBIA (koreň)
-    Existenciálny strach z inosti
+XENOMÁNIA (spoločný kmeň)
+    Chorobná posadnutosť iným, odlišným, cudzincom
+           │
+           ├── Homománia: posadnutosť sexuálnou orientáciou iných
+           ├── Transmánia: posadnutosť rodovou identitou iných
+           ├── Etnománia: posadnutosť etnickým pôvodom iných
+           ├── Islamománia: posadnutosť náboženstvom iných
+           ├── Nenávistná gynománia: posadnutosť kontrolou žien
+           └── atď.
            │
            ▼
-    DISKRIMINAČNÉ MÁNIE (príznaky)
-    ├── Homo-manie: obsedancia sexuálnej orientácie ostatných
-    ├── Xeno-manie: obsedancia pôvodu ostatných
-    ├── Ethno-manie: obsedancia farby kože ostatných
-    ├── Trans-manie: obsedancia gender identity ostatných
-    ├── Islamo-manie: obsedancia náboženstva ostatných
-    └── etc.
-           │
-           ▼
-    SYSTÉMY ÚTLAKU (štruktúry)
-    ├── Heterosexizmus: systém heterosexuálneho privilegia
-    ├── Rasizmus: systém rasovej hierarchie
-    ├── Patriarchát: systém mužskej dominancie
-    └── etc.
+    SYSTÉMY ÚTLAKU (inštitucionalizované štruktúry)
+           ├── Heterosexizmus: systém heterosexuálnych privilégií
+           ├── Rasizmus: systém rasovej hierarchie
+           ├── Patriarchát: systém mužskej dominancie
+           ├── Kolonializmus: systém vykorisťovania národov
+           └── atď.
 ```
 
-Táto architektúra rozlišuje tri úrovne, ktoré súčasný slovník zmätí:
+Táto architektúra rozlišuje dve úrovne, ktoré súčasný slovník mieša:
 
-1. **Strach** (heterofóbia) — hĺbková psychologická úroveň, často bezvedomá
-2. **Obsedancia** (mánie) — viditeľná behaviorálna úroveň, kompulzívna
-3. **Systém** (štruktúry útlaku) — inštitucionálna, kultúrna úroveň
+1. **Posadnutosť** (xenománia a jej deklinácii) — viditeľná behaviorálna úroveň, kompulzívna, individuálna ale aj kolektívna
+2. **Systém** (štruktúry útlaku) — inštitucionálna, kultúrna, historická úroveň
 
-Pomiatnutí tieto úrovne sa zbaví možnosti ich efektívne boj.
+Xenomániak je pešiak. Systém je armáda. Zamieňať ich znamená pripraviť sa o možnosť efektívne s nimi bojovať.
 
----
+### Čo odhaľuje nový slovník
 
-## Šiesta Časť: Epizóda 01 Pozáde
+| Starý termín | Naznačuje... | Nový termín | Odhaľuje... |
+|--------------|--------------|-------------|-------------|
+| Homofób | Strach, obeť svojho strachu | Homomániaci | Posadnutosť, zodpovedný za svoju posadnutosť |
+| Xenofób | Strach z cudzinca | Xenomániak | Chorobná fixácia na cudzinca |
+| Transfób | Strach z trans ľudí | Transmániak | Kompulzívny dohľad nad trans telami |
+| Islamofób | Strach z islamu | Islamomániak | Obsedantná fantázia o moslimovi |
 
-### Spojení so Sériou
+Prípona *-mánia* robí tri veci, ktoré *-fóbia* nerobí:
 
-V Epizóde 01 Záhrady Koreňov sme dokumentovali sémantický presun politických strán: slová, ktoré zostali na fľašiach, ktorého obsah sa zmenil. „Sloboda", „solidarita", „sociálna spravodlivosť" — etikety zostali, zmysel sa vyparil.
-
-Tu pozorujeme opačný fenomén: slová, ktoré nikdy nemali správny obsah. Nie posun — chyba základu. Slovo „homophobia" si neuškodili z pôvodného zmyslu. Bolo postavené na nevhodnom sufixu, z pochopiteľných strategických dôvodov, ktorých dôsledky nás chytajú.
-
-Je to rovnaké poučenie, videné z druhej strany zrkadla: slovník nikdy nie je nevinný. Keď slová klameš — posun alebo konštrukcia — chránia štruktúry, ktoré tvrdia na vymenovanie.
-
-### Prenasledovateľ je Bojaný, Ktorý sa Ignoruje
-
-Táta analýza nie je iba ejercícium v lexikálnej elegancii. Správne pomenúť, to je správne pochopiť. A správne pochopiť je pôsobiť so spravodlivosťou.
-
-Keď povieme „homophobe", opisujeme nepriateľa. Keď povieme „homo-maniac", opisujeme posadnutca. Keď identifikujeme heterofóbiu ako koreň, opisujeme bojana. A pred bojanom, odpoveď nie je rovnaká ako pred nepriateľom.
-
-Maniakálny diskriminácií je niekto, ktorého identita je taká krehká, že neudrží existenciu inosti. Jeho obsedancia druhého je iba obrátený odrazu svojej úzkosti o seba. Každý zákon, ktorý hlasuje proti rozdielnosti, je priznanie nezistnosti. Každá urážka je krik paníc. Každý persekúcia je zúfalý pokus zjednodušiť svet, ktorého zložitosť ho prehlca.
-
-Toto nerobí jeho činy menej vážnymi, menej odsúditeľnými. Ale zmení pohľad, ktorý aplikujete na mechanizmus. A v tejto zmene pohľadu, možno, okrem potrebnej odolnosti, sa nachádza kľúč k chápaniu — a teda transformácia.
-
-Pretože neuzdravujeme maniacu, pomenúvaním ju fóbiu. A neboujeme strach ignorovaním, že existuje.
+1. **Zodpovedňuje**: posadnutosť sa neospravedlňuje ako strach
+2. **Správne diagnostikuje**: posadnutosť je skutočný mechanizmus
+3. **Premiestňuje problém**: dysfunkcia je u pozorovateľa, nie u pozorovaného
 
 ---
 
-### Otázka, Ktorú Vám Zanechávam
+## Šiesta časť: Epizóda 01 naopak
 
-Sú slová, ktoré používame na opis diskriminácií — skutočne ich opisujem? Alebo tvoria obrazovku medzi nami a skutočnosťou?
+### Spojenie so sériou
 
-Ak slovník chráni to, čo tvrdí na boj, potom prvým aktom odporu je možno premenovať. Nie kvôli slovesnej koketernosti. Pretože nemôžete liečiť to, čo neste vedieť, ako pomenúť.
+V Epizóde 01 Záhrady Koreňov sme dokumentovali sémantický posun politických strán: slová, ktoré zostali na fľašiach, ktorých obsah sa zmenil. „Sloboda", „solidarita", „sociálna spravodlivosť" — etikety zostali, zmysel sa vyparil.
 
-Napíšte mi. Záhrada je veľká a určité koreňa sú zakopané v samotnom jazyku.
+Tu pozorujeme opačný fenomén: slová, ktoré nikdy nemali správny obsah. Nie posun — chyba základov. Slovo „homofóbia" sa neodchýlilo od svojho pôvodného zmyslu. Bolo postavené na nevhodnej prípone, z pochopiteľných strategických dôvodov, ktorých dôsledky nás dobiehaujú.
+
+Je to rovnaké poučenie, videné z druhej strany zrkadla: slovník nikdy nie je nevinný. Keď slová klamú — posunom alebo konštrukciou — chránia štruktúry, ktoré tvrdia, že pomenúvajú.
+
+### Xenomániak je bojko, ktorý sa nepozná
+
+Táto analýza nie je len cvičením v lexikálnej elegancii. Správne pomenovať znamená správne pochopiť. A správne pochopiť znamená môcť konať spravodlivo.
+
+Pod hlučnou mániou, pod zákonmi a urážkami a násilím, možno naozaj je strach. Hlboký, často nepriznaný, niekedy nevedomý strach: strach zo sveta, ktorý sa nekonformuje s upokojujúcim obrazom, aký sme si o ňom vytvorili. Strach, že iný, svojou jednoduchou existenciou, spochybní pevnosť vlastných istôt.
+
+Ale tento strach xenomániak premieňa na agresiu. Neuteká — útočí. A práve táto premena musí byť pomenovaná. Mánia je aktívny symptóm; strach je len zakopané korene.
+
+Mániakálny diskriminátor je niekto, koho identita je taká krehká, že neznesie existenciu inakosti. Jeho posadnutosť iným je len prevrátený odraz jeho úzkosti o seba samého. Každý zákon, ktorý hlasuje proti odlišnosti, je priznaním neistoty. Každá urážka je výkrik paniky. Každé prenasledovanie je zúfalý pokus zjednodušiť svet, ktorého komplexita ho premáha.
+
+Toto nerobí jeho činy menej vážnymi, menej odsúdeniahodnými. Ale mení pohľad, ktorý aplikujeme na mechanizmus. A v tejto zmene pohľadu sa možno nachádza, okrem nevyhnutného odporu, kľúč k pochopeniu — a teda k transformácii.
+
+---
+
+## Protislovník: pomenovať aj inklúziu
+
+Ak premenúvame patológie, pomenujme aj cnosti. Proti xenománii existuje protiliek, ktorý Gréci dobre poznali: **filoxénia** (φιλοξενία) — doslova, láska k cudzincovi.
+
+Filoxénia nie je naivita. Nie je to vymazanie seba pred iným. Je to schopnosť vidieť v cudzincovi nie hrozbu, ale možnosť. Okno do sveta, ktorý ešte nepoznáme. Obohatenie skôr než zriedenie.
+
+| Patológia | Protiliek |
+|-----------|-----------|
+| Xenománia | Filoxénia — láska k cudzincovi, pohostinnosť |
+| Homománia | Akceptácia rozmanitosti lások |
+| Transmánia | Rešpekt k sebaurčeniu tiel |
+| Etnománia | Uznanie rovnakej dôstojnosti |
+| Islamománia | Autentická laickosť — benevolentná ľahostajnosť k vierovyznaniam iných |
+
+Skutočná sila nie je v uniformite — je v schopnosti prijať odlišnosť bez toho, aby sme sa v nej rozpustili.
+
+---
+
+### Otázka, ktorú vám zanechávam
+
+Slová, ktoré používame na opis diskriminácií — skutočne ich opisujú? Alebo tvoria ďalšiu clonu medzi nami a realitou?
+
+Ak slovník chráni to, čo tvrdí, že bojuje, potom prvým aktom odporu je možno premenovať. Nie kvôli jazykovej koketernosti. Pretože nemožno liečiť to, čo neviete pomenovať.
+
+**Xenománia**: chorobná posadnutosť iným. Nominatívne Zhromaždenie všetkých diskriminácií.
+
+Teraz máme slovo.
+
+Napíšte mi. Záhrada je veľká a niektoré korene sú zakopané v samotnom jazyku.
 
 *Pépé*
 
@@ -240,7 +297,7 @@ Napíšte mi. Záhrada je veľká a určité koreňa sú zakopané v samotnom ja
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (záznamy φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (záznamy φόβος, μανία, ξένος, ἕτερος).
 
 [^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, kapitola "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 

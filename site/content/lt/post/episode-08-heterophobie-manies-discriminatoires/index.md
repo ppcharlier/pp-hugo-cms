@@ -1,26 +1,32 @@
 ---
-title: "Heterofobija ir Diskriminacinės Manijos"
+title: "Ksenomanija"
 date: 2026-02-10
 draft: false
 episode: 8
-series: "Šaknų Sodas"
-subtitle: "Kai žodžiai išduoda diagnozę"
-description: "Sufiksas -fobas aprašo baimę. Tačiau tas kuris persekioja nefuga — jis yra apsėstas. Etimologinis tyrinėjimas lingvistinio melagio kuris apsaugo ką jis pretenduoja kovoti."
+series: "Saknų Sodas"
+subtitle: "Nominatyvinis diskriminacijų susirinkimas"
+description: "Homofobija, ksenofobija, transfobija — šie žodžiai meluoja. Sufiksas -fobas aprašo baimę, bet tas, kuris persekioja, nebėga: jis yra apsėstas. Etimologinis lingvistinio melo, saugančio diskriminacijas, tyrimas ir vienijančio termino pasiūlymas: ksenomanija, liguista kito obsesija."
 categories: ["filosofija", "lingvistika", "psichologija"]
-tags: ["etimologija", "homofobija", "diskriminacija", "heterofobija", "manija", "fobija", "kalba", "Weinberg", "Herek", "nuomonė"]
+tags: [
+  "ksenomanija", "etimologija", "diskriminacija", "kalba", "manija", "fobija",
+  "homofobija", "ksenofobija", "transfobija", "islamofobija", "rasizmas", "seksizmas",
+  "homomanija", "transmanija", "islamomanija", "etnomanija",
+  "įtrauktis", "įvairovė", "kitoniškumas", "tolerancija", "pagarba", "žmogaus orumas",
+  "išankstinis nusistatymas", "obsesija", "Weinberg", "Herek", "socialinė psichologija"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, kovas 2017"
   - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, straipsnį Screw Magazine, 5 gegužė 1969"
+  - "Jack Nichols & Lige Clarke, straipsnis Screw Magazine, 1969 m. gegužės 5 d."
   - "Time Magazine, 'The Homosexual in America', 1969"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
   - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
   - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
   - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
   - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
-  - "Associated Press, AP Stylebook atnaujinimas, lapkritis 2012"
-  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26 lapkritis 2012"
+  - "Associated Press, AP Stylebook atnaujinimas, 2012 m. lapkritis"
+  - "Politico, 'AP nixes homophobia, ethnic cleansing', 2012 m. lapkričio 26 d."
   - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
   - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
   - "Byrne Fone, Homophobia: A History, Picador, 2001"
@@ -29,227 +35,278 @@ sources:
 
 > **Skaidrumo pastaba**
 >
-> Šis tekstas yra žmogaus (Pépé) ir dirbtinio intelekto (Claude, Anthropic) bendradarbiavimo vaisius. Pagrindinės idėjos, redakcinė linija ir galutinis patvirtinimas yra žmogiški. Dokumentų tyrinėjimas ir rašymas yra dirbtinio intelekto padedami.
+> Ši kronika yra žmogaus (Pépé) ir dirbtinio intelekto (Claude, Anthropic) bendradarbiavimo vaisius. Pagrindinės idėjos, redakcinė linija ir galutinis patvirtinimas yra žmogiški. Dokumentinis tyrimas ir rašymas yra atliekami su DI pagalba.
 >
-> Kadangi dirbtinis intelektas gali padaryti netikslumų, **kiekvienas faktinis teiginys turi šaltinius** iš akademinių, enciklopedrinių ar patikrintinų žurnalistinių dokumentų. Šaltiniai yra išvardyti straipsnio pabaigoje.
+> Kadangi DI gali gaminti netikslumus, **kiekvienas faktinis teiginys yra paremtas šaltiniais** iš akademinių, enciklopedinių ar patikrinamus žurnalistinių dokumentų. Šaltiniai išvardyti straipsnio pabaigoje.
 >
-> Šis tekstas atsaką dėl jo turi tik žmonės redaktorius, kuris prisiima atsakomybę.
+> Šis tekstas įpareigoja tik jo žmogiškąjį redaktorių, kuris prisiima atsakomybę.
 
 ---
 
-Šią savaitę, aš kritau į kiaušą iš etimologinės vielos. Tai nutinka dažnai — aš traukiu siūlą ir aš žinau tris valandas vėliau su mopu kuris žiūri i mane kaltinančiai.
+Šią savaitę įkritau į etimologinę triušio olą. Tai man nutinka dažnai — patraukiu siūlą ir po trijų valandų atsiduri su kamuoliu, kuris žiūri į mane kaltinančiai.
 
-Siūlas, šitai kartą, buvo sufiksas. Keturi raidės: *-fobas*. Aš juos padejau šalimais ką jie pretenduoja aprašyti. Ir jis negražo. Visai negražo.
+Siūlas šį kartą buvo sufiksas. Keturios raidės: *-fobas*. Padėjau jas šalia to, ką jos tariasi aprašančios. Ir nesutapo. Visai nesutapo.
 
-Žodžiai turi atmintį, ir šito grąžina į senovės graiką. Ir senovės graikas, jis nemeluoja. Mes, priešingai — mes meluojame su jo gabalais.
-
----
-
-## Pirma Dalis: Strateginė Imperfektinio Žodžio Išradimas
-
-### George Weinberg ir 1965 m. Genialybė
-
-1965 m., amerikiečių psichologas George Weinberg pastebi kažką alarmavimo savuose kolegose. Kai jis pakvieša draugus homoseksualias prie suvažiavime, kai kurie kolegos reaguoja su visceraliu atmetu — "be argumentu, tik nuo repugnancia", jis sakys vėliau.[^1]
-
-Weinberg supranta kurie problema nėra su homoseksualaus. Problema yra su tuo kurie juos žiūri. Ir nuo jį pavadinimo, jis išranda žodį: *homophobia*.
-
-Terminas pirmas pasirodyt spaudoje 1969 m., *Screw* žurnale, tada *Time Magazine* tais pačiais metais.[^2] 1972 m., Weinberg jį išvystt *Society and the Healthy Homosexual*, revoliucingas knygos kurio pirmas sakinys sudaro tonusą: "Aš niekada laikyčiu pacientą kaip sveiką kol jis nepergale jo prejudice prieš homoseksualumą".[^3]
-
-Genialusis šūvis yra strategina: persidėdamas sufiks *-phobia* prie anti-gay prejudice, Weinberg apverstas diagnozę. Jis nėra homoseksualus kuris yra sergantas — jis yra tas kuris žiūri kurį serga. Laikotarpyje kurie homoseksualumą dar figūre *Diagnostic and Statistical Manual* (DSM) kaip psichiatrinį negalią, šita inversija buvo aktas iš intelektinio pasiprieš.[^3]
-
-### Žodis Subyrančias iš Savo Ribų
-
-Tačiau Weinberg žinojo kurie jo žodis buvo imperfektinis. Jis jį iš tikrųjų apibrėžė greitai: "Teroras turėjus arti homoseksualaus — ir, homoseksualaus tikriausiai pačiams, savęs neapykanta".[^3]
-
-Žodis dirbo — nuostabiai — kaip politinis įrankis. Jis padėjo pašalinti homoseksualumą iš DSM 1973 m. Jis davė vardą kažkam kurie visi matei, tačiau niekas galėjo pavadinimas.[^2]
-
-Bet šešiasdešimt metų vėliau, žodis mūsų turėklai kalinys.
+Žodžiai turi atmintį, ir ji siekia senovės graikų kalbą. O senovės graikų kalba nemeluoja. Mes, priešingai — meluojame jos gabalais.
 
 ---
 
-## Antra Dalis: Etimologinis Melas
+## Pirma dalis: Strateginis netobulo žodžio išradimas
 
-### Kas Graikas Iš Tikrųjų Sako
+### George Weinberg ir 1965 m. genialus potėpis
 
-Sufiksas *-phobos* (φόβος) nurodyt baimė, bėgimas, instinktyvus atmetu.[^4] Arahnophobas bėga iš vorų. Claustrophobas bėga iš uždario vietos. Agoraphobas bėga iš minios. Kiekvienai bylai, mechanizmas yra identiškas: teroras kuris išvaro i atlaikymo, atsitraukimas, paraližis.
+1965 m. amerikiečių psichologas George Weinberg pastebi kažką neramaus tarp savo kolegų. Kai jis pakviečia homoseksualius draugus į susibūrimus, kai kurie kolegos reaguoja su visceraliniu pasibjaurėjimu — „be argumento, tik pasišlykštėjimas", vėliau pasakys jis.[^1]
 
-Dabar, ką daro tas kuris mes vadinkime "homophobas"?
+Weinberg supranta, kad problema nėra homoseksualuose. Problema yra tuose, kurie į juos žiūri. Ir kad tai įvardytų, jis išranda žodį: *homophobia*.
 
-Jis nefuga. Jis nesusikaupia. Jis nekeito šaligatvio drėbdamas. Ne. Jis legislatuoja. Jis bezdžiuoja. Jis atakuoja. Jis raukšči. Jis pasireiškia, peticionuoja, pamokina ir persekioja. Jis invadina kitų miegamąsias su fanatiško atkaklaus. Jis skiria neproporcionalią energiją į paieškią, komentarą, nuosmergą ir bandyti valdyti kitų tiesiog nepažįstamų.
+Terminas pirmą kartą pasirodo spaudoje 1969 m., žurnale *Screw*, paskui *Time Magazine* tais pačiais metais.[^2] 1972 m. Weinberg jį išplėtoja knygoje *Society and the Healthy Homosexual*, revoliucinėje knygoje, kurios pirmas sakinys nustato toną: „Niekada nelaikyčiau paciento sveiku, kol jis neįveikė savo išankstinio nusistatymo prieš homoseksualumą".[^3]
 
-Šitas chuyavimas nėra fobija. Tai yra apsėdimas.
+Genialus potėpis yra strateginis: prijungdamas sufiksą *-phobia* prie priešiškumo gėjams, Weinberg apverčia diagnozę. Nebe homoseksualas yra sergantis — tai tas, kuris jį persekioja. Laikotarpiu, kai homoseksualumas dar figūravo *Diagnostic and Statistical Manual* (DSM) kaip psichiatrinė patologija, ši inversija buvo intelektinio pasipriešinimo aktas.[^3]
 
-### Mokslas Patvirtina: Tai Nėra Baimė
+### Žodis, žinantis savo ribas
 
-Gregory Herek, psichologos profesorius Universidad of California at Davis ir vienas iš didžiausią pasauliui eksperto ant seksualinės prejudice, posvieciai dešimtmečius dokumentavimas ribų iš termino. Pagrindinią 2004 m. straipsnį, "Beyond Homophobia", jis rodo kurie žodis "reti reiškia intensyvią ir neracionaliną baimę iš seksualų mažumų", kurie "yra įrėmintas per psichiatrinės psychopatologijos kritęrija be būties konceptualizuotas kaip diagnozę", ir kurie "nesufficinently atsispinde socialiniu normų vaidmenį iš žemiau formavimu individualaus nusistatymų".[^5]
+Tačiau Weinberg žinojo, kad jo žodis buvo netobulas. Jis jį iš tiesų apibrėžė siaurai: „siaubas būti arti homoseksualų — ir, pačių homoseksualų atveju, savęs neapykanta".[^3]
 
-Herek siūlyt pakeisti terminą prie "seksualaus prejudice" (*sexual prejudice*), kurie jis apibrėžta kaip "neigiamų nusistatymų turi asmenį dėl jų seksualinio orientavimo".[^6] Tai labiau tikslas. Bet tai nėra dar pakankamai teisus.
+Žodis veikė — nuostabiai — kaip politinis įrankis. Jis prisidėjo prie homoseksualumo pašalinimo iš DSM 1973 m. Jis davė vardą kažkam, ką visi matė, bet niekas negalėjo įvardyti.[^2]
 
-Nes problema nėra tik iš tikslumo. Tai yra šviesos kryptis.
-
-### Retoriškasis Skydas
-
-2012 m., Associated Press — kurio *Stylebook* nustato redakcinę normas daugumai amerikietiškų laikraščių — atšaukti žodis "homophobia" iš politinės ir socialiniu kontekstu. Pavaduotojas redaktorius Dave Minthorn paaiškino: "Tai yra paprastai netiesa. Jis priskirtų psichiatrinio negalią asmenui, ir jis siūlyt žinojimo kurie mes nešte".[^7]
-
-Weinberg jis pats priešinosi šita atšaukimui, argumentavimas kurie žodis liko "kritinis iki mūsų žmonijos" tol kol atliktas kurie jis aprašys persistenti.[^8] Jis buvo teisias ant būtinybės pavadinti. Bet klausimas lieka: pavadinti blogai, nėra jis netyčia apsaugt?
-
-Nes čia kas permeta sufiksas *-phobas*: bet koks persekiutojas gali atsakyti "Aš nešte baimintas", ir jis yra techniškai teisus. Žodis jam siūlyt lingvistinio jėgo.
-
-Dar blogiau: jis kurie persekimą perversę. Jei jūs kaltimas kurie baimintas, kaip jūs atrodyt baimintas? Apeinant objekto paskelbes jūsų siūlyto terroro. Į atliekoje. Jūs atakuoti — būtent norint iš jūs nėšte tas kurie žodis pretenduoja aprašyti. Fobija vadovų nuo bėgimo; refutas iš fobijos vadovų nuo atako. Žodis nė nuo smurto — jis jį iškelia.
-
-Ir persidėdant *homo-* prie neigiamo sufiks, jis subtle įrašo problemą su homoseksualu — kaip jei paprastas iš buvimo yra pakankamiaus norint iškelta patologiją į kitą.
+Bet šešiasdešimt metų vėliau žodis mus įkalina.
 
 ---
 
-## Trečia Dalis: Teisingas Diagnozė — Manija
+## Antra dalis: Etimologinis melas
 
-### Diferencijuotasis Sufiksas
+### Ką iš tikrųjų sako graikų kalba
 
-Senovės graikas mums siūlyt kitą įrankis: *-mania* (μανία) — beprotybė, apsėdimas devouringly, komp obsessiona kuris suvartoja priešuti.[^4] Pyromaniacs ne "baimintas" ugnies: jis yra persekiojamas juo. Megalomaniac nefuga iš didumo: jis yra baudžiaunos. Kleptomaniac nėra "baimintas" iš vagystės: jis yra kalėjimu.
+Sufiksas *-phobos* (φόβος) žymi baimę, bėgimą, instinktyvų vengimą.[^4] Arachnofobas bėga nuo voro. Klaustrofobas bėga iš uždaros erdvės. Agorafobas bėga nuo minios. Kiekvienu atveju mechanizmas identiškas: siaubas, stumiąs į vengimą, atsitraukimą, paralyžių.
 
-Homomaniac ne baimintas homoseksualumo: jis yra obsessed. Jis galvoja juo ryto skaitydamas naujieną. Jis galvoja juo matydamas dvi žmones laikyti ranką gatvėje. Jis galvoja juo balsavimas, augindamas savo vaikus, pasirenkant savo kovas. Jis yra kolonizuotas jo mąstymo su homoseksualumo iš kitų su intensitetu kurie daugelis homoseksualau patys tikriausiai ne pasiekti.
+O ką daro tas, kurį vadiname „homofobu"?
 
-### Apsėdimo Mokslas
+Jis nebėga. Jis nesusigūžia. Jis nekeičia šaligatvio drebėdamas. Ne. Jis leidžia įstatymus. Jis priekabiauja. Jis puola. Jis persekioja. Jis mitinguoja, pasirašo peticijas, pamokslauja ir persekioja. Jis veržiasi į svetimus miegamuosius su fanatiko atkaklumu. Jis skiria didžiulę energiją stebėti, komentuoti, smerkti ir bandyti kontroliuoti visiškai nepažįstamų žmonių intymumą.
 
-1996 m., psichologai Henry Adams, Lester Wright ir Bethany Lohr iš University of Georgia paskelbtą tylioui-kurie-tapo-pagarsėta *Journal of Abnormal Psychology*. Jie matuota fiziologines atsakymus 64 heterosexualiaus vyrų — 35 klasifikuota kaip "homophobics" ir 29 kaip "non-homophobics" — atlikas erotiškai homoseksualiui stimuli. Rezultatas: tik homophobic vyrai rodė reikšmingą seksualų paabudimą į homoseksualau vyriškus stimuli.[^9]
+Šis elgesys nėra fobija. Tai obsesija.
 
-Interpretacijai iš šito bylos yra ginčytą — excitatsija galėtu atspindi nerimastį ratheriau nei noro.[^9] Tačiau kas bylas dokumentuoja be ambiguwity yra disproporcionalus reactivity: "homophobas" nežiūri atsitraukti. Jo kūnas reaguoja. Jo atidetas yra nusigandus. Tai yra mechanizmas iš obsessional fiksuoty, ne iš fobijos.
+### Mokslas patvirtina: tai ne baimė
 
-### Triplinis Privalumas iš Naujo Termino
+Gregory Herek, psichologijos profesorius Kalifornijos universitete Davise ir vienas didžiausių pasaulio seksualinio išankstinio nusistatymo ekspertų, dešimtmečius dokumentavo termino ribotumą. Pamatiniame 2004 m. straipsnyje „Beyond Homophobia" jis pažymi, kad žodis „retai reiškia intensyvią ir iracionalią seksualinių mažumų baimę", kad jis „yra įrėmintas psichopatologijos prizme, nebus konceptualizuotas kaip diagnozė", ir kad jis „nepakankamai atspindėjo platesnių socialinių normų vaidmenį formuojant individualias nuostatas".[^5]
 
-Terminas *homomaniacs* siūlyt triplainas privalumą:
+Herek siūlo pakeisti terminą „seksualiniu išankstiniu nusistatymu" (*sexual prejudice*), kurį apibrėžia kaip „neigiamas nuostatas asmens atžvilgiu dėl jo seksualinės orientacijos".[^6] Tai tiksliau. Bet tai dar nėra pakankamai teisinga.
 
-1. **Etimologiškai Teisinga** : jis aprašo apsėdimą, ne baimę.
-2. **Kliniškai Teisinga** : psichologiniu literatūra yra dokumentavusi widali compulsyvę ir projektyvę dimensiją iš šito chuyavimo.[^9][^10]
-3. **Retoriškai Teisinga** : jis perkerėra šviesos ten kurie dysfunction yra iš tikrųjų — su persekioutoriumi, ne persekioti. Homomaniacs veda jo diagnozę savame vardę.
+Nes problema nėra tik netikslumas. Tai prožektoriaus kryptis.
 
----
+### Retorinis skydas
 
-## Ketvirtoji Dalis: Generalizacija — Diskriminacinės Manijos
+2012 m. Associated Press — kurios *Stylebook* nustato redakcinius standartus daugumai amerikiečių laikraščių — pašalino žodį „homophobia" iš politinių ir socialinių kontekstų. Pavaduotojas vyriausiasis redaktorius Dave Minthorn paaiškino: „Tai paprasčiausiai netikslu. Tai priskiria psichinį sutrikimą asmeniui ir siūlo žinojimą, kurio neturime".[^7]
 
-### Šablono kuris Repetuoja
+Pats Weinberg priešinosi šiam pašalinimui, teigdamas, kad žodis lieka „kritiškai svarbus mūsų žmoniškumui", kol išlieka veiksmai, kuriuos jis aprašo.[^8] Jis buvo teisus dėl būtinybės įvardyti. Bet klausimas išlieka: ar blogai įvardyti nėra netyčia apsaugoti?
 
-Kas mes stebime dėl homoseksualumo teisinga nes visų diskriminacijų. Visur, sufiksas *-phobas* slepia realybę iš chuyavimo.
+Nes štai ką leidžia sufiksas *-fobas*: bet kuris persekiotojas gali atsakyti „aš nebijau" ir būti techniškai teisus. Žodis jam siūlo lingvistinį išėjimą.
 
-*Xenomaniac* nešte baimintas iš šalimu — jis yra apsessed su jo buvimu. Jis gali matyti kaip visuomet, vini jį atsakinga už viškam, statybą iš programų politinių šito fiksuoty. Jis skiria daugiau laiko kalbą iš šalimų nei šalimų patys skirti apie jį.
+Dar blogiau: jis sukuria iškrypusią paskatą agresijai. Jei jus kaltina, kad bijote, kaip įrodote priešingai? Rodydami, kad nebijote. Eidami link tariamo jūsų siaubo objekto. Mušdami, įžeidinėdami, persekiodami — būtent tam, kad įrodytumėte, jog nesate tas, kurį žodis tariasi aprašąs. Fobija kviečia bėgti; fobijos paneigimas kviečia pulti. Žodis ne aprašo smurtą — jis jį provokuoja.
 
-*Etnomaniacs* ne drebėti prieš odos spalvą — jis yra scrutinize jį, kategorija jį, hierarhija jį su smulkumu iš compulsyvės kolikcininko.
-
-*Transmaniacs* nešte bėga nuo transgenera žmonių — jis investuoja neproporcionalą laikaš ir energiją į sekimo jų kūnai, jų identifikuoti papieriai, jų tualetai.
-
-*Islamomaniacs* nešte bėga iš musulmonų — jis raukšči juos, komentarai juos, seking juos, fantazija juos, iškelsit juos prie kiekvienos ginčai kaip jei šitos civilizacija priklauso nuo ką žinoma moteris nešio jo galvoje.
-
-Kiekviena bylai, tą pati struktūra: nė iš apeuravimo, bet iš obsessional fiksuoty kurie devourcija nusitatymą, diskuraus ir politinę akciją maniaco.
-
-### Kas Naudai Iš Blingo Diagnozės?
-
-Ankstesni epizodai iš Šaknų Sodo statė klausimą: *cui bono* — kuris profito iš nusikaltsimo? Aplikuoti jį čia.
-
-Kuris profito iš sufiks *-phobas*?
-
-Žinomis ne į aukos, kurie yra lingvistiškai susietas prie neigiamo žodžio. Žinomais ne į viešą diskusą, kuris nutrūkti iš tikslumo. Žinomais ne į psichologiją, kuris gali vienas iš jo klinininiu sufiks devoated.
-
-Jis profito persekiotojas, kuris gali sidestep: "Aš nešte baimintas." Jis profito apresystemams iš opresijos, kurie lieka unnamed: jei tai yra individualaus "fobija", tai nėšte socialiniu struktūra. Ir jis profito visuos kurie preferuoti pathologize asmenys ratheriau nei klausyt sistemų.
+Ir prijungdamas *homo-* prie neigiamo sufikso, jis subtiliai įrašo problemą homoseksualo pusėje — tarsi paprastas buvimo faktas pakaktų sukelti patologiją kitame.
 
 ---
 
-## Penktoji Dalis: Heterofobija — Tikrasis Vardas iš Šaknies
+## Trečia dalis: Teisinga diagnozė — manija
 
-### Žemynos Bendros Jėgos
+### Kur kas tikslesnis sufiksas
 
-Lieka pavadinimas bendrą jėga iš visų šitos manijų. Ir čia, vienas žodis jau egzistuoja, kurio etimologija sulaikyti grožę ironijas: *heterophobia*.
+Senovės graikų kalba mums siūlo kitą įrankį: *-mania* (μανία) — beprotybė, ryjanti obsesija, kompulsinė fiksacija, ryjanti protą.[^4] Piromanas ne „bijo" ugnies: jis ja apsėstas. Megalomanas ne „bėga" nuo didybės: jis jos vergas. Kleptomanas ne „bijo" vagystės: jis jos kalinys.
 
-*Heteros* (ἕτερος) reiškia graikoje "kitą", "skirtingą", "ką yra ne identišką savaim".[^4] *Phobos*, baimė. Heterofobija yra, iš literalinio senso, baimę iš alterity — egzistencialiniu teroru prieš tą kuris difrancija nuo savo.
+Homomanijakas nebijo homoseksualumo: jis juo apsėstas. Jis apie tai galvoja ryte skaitydamas laikraštį. Jis apie tai galvoja matydamas du žmones, laikančius rankas gatvėje. Jis apie tai galvoja balsuodamas, augindamas savo vaikus, rinkdamasis politines kovas. Jo protą kolonizuoja kitų homoseksualumas su intensyvumu, kurio dauguma pačių homoseksualų tikriausiai nepasiekia.
 
-Ir čia, sufiksas *-phobia* atsigauna jo teisingumą. Nes po triuklingų manijų, po законы ir smurtas, yra tikroji baimė. Gilinę, dažnai neatgalvotą, apie laiško negatybų: baimę pasaulio kuris nekeičiasi iki tą reassuring vaizdą jūs veisate iš jį. Baimę kurie kitą, pagal jo paprastą buvimą, klausimas solidumo iš jūsų pačių įsitikinimų.
+### Obsesijos mokslas
 
-Heterofobas — tas kurie baimintas alterity tarp visų formų — yra kaip bendras žemynas iš rasizmo, seksizmo, homomaniaco, xenomaniac. Baimė yra šaknis; manija yra aktyvus sumptom.
+1996 m. Džordžijos universiteto psichologai Henry Adams, Lester Wright ir Bethany Lohr paskelbė tyrimą, tapusį garsius *Journal of Abnormal Psychology*. Jie matavo 64 heteroseksualių vyrų — 35 klasifikuotų kaip „homofobų" ir 29 kaip „nehomofobų" — fiziologines reakcijas į homoseksualius erotinius stimulus. Rezultatas: tik homofobiški vyrai parodė reikšmingą seksualinį sužadinimą į vyriškus homoseksualius stimulus.[^9]
 
-### Pilnybės Struktūra
+Šio tyrimo interpretacijos ginčijamos — sužadinimas galėtų atspindėti nerimą, o ne troškimą.[^9] Bet ką tyrimas nedviprasmiškai dokumentuoja, tai neproporcinga reakcija: „homofobas" nenusuka akių. Jo kūnas reaguoja. Jo dėmesys pagaunamas. Tai obsesyvinės fiksacijos mechanizmas, ne fobijos.
+
+### Trigubas naujo termino privalumas
+
+Terminas *homomanijakas* turi trigubą privalumą:
+
+1. **Etimologiškai tikslus**: jis aprašo obsesiją, ne baimę.
+2. **Kliniškai sąžiningas**: psichologinė literatūra plačiai dokumentavo šių elgesių kompulsinę ir projekcinę dimensiją.[^9][^10]
+3. **Retoriškai teisingas**: jis perkelia prožektorių ten, kur iš tikrųjų yra disfunkcija — pas persekiotoją, ne persekiojamąjį. Homomanijakas nešioja savo diagnozę savo paties varde.
+
+---
+
+## Ketvirta dalis: Apibendrinimas — diskriminacinės manijos
+
+### Besikartojantis modelis
+
+Tai, ką stebime homoseksualumo atžvilgiu, galioja visoms diskriminacijoms. Visur sufiksas *-fobas* maskuoja elgesio tikrovę.
+
+*Ksenomanijakas* nebijo svetimšalio — jis apsėstas jo buvimu. Jis mato jį visur, daro jį atsakingą už viską, stato ištisas politines programas ant šios fiksacijos. Jis skiria daugiau laiko kalbėdamas apie svetimšalius, nei patys svetimšaliai skiria galvodami apie jį.
+
+*Etnomanijakas* nedreba prieš odos spalvą — jis ją stebi, kategorizuoja, hierarchizuoja su kompulsinio kolekcionierius kruopštumu.
+
+*Transmanijakas* nebėga nuo translyčių asmenų — jis investuoja neproporcingą laiką ir energiją stebėdamas jų kūnus, jų tapatybės dokumentus, jų tualetus.
+
+*Islamomanijakas* nebėga nuo musulmonų — jis juos seka, komentuoja, stebi, fantazuoja, iškelia kiekvienoje diskusijoje, tarsi visa civilizacija priklausytų nuo to, ką moteris nešioja ant galvos.
+
+Kiekvienu atveju ta pati struktūra: ne išsigandęs vengimas, o obsesyvinė fiksacija, ryjanti manijako dėmesį, diskursą ir politinę veiklą.
+
+### Kam naudingas blogas diagnozavimas?
+
+Ankstesni Šaknų Sodo epizodai kėlė klausimą: *cui bono* — kam naudingas nusikaltimas? Pritaikykime jį čia.
+
+Kam naudingas sufiksas *-fobas*?
+
+Tikrai ne aukoms, kurios lingvistiškai siejamos su neigiamu žodžiu. Tikrai ne viešajai diskusijai, kuri praranda tikslumą. Tikrai ne psichologijai, kuri mato vieną iš savo klinikinių sufiksų iškraipomą.
+
+Jis naudingas persekiotojui, kuris gali išsisukti: „Aš nebijau." Jis naudingas priespaudos sistemoms, kurios lieka neįvardytos: jei tai individuali „fobija", tai ne socialinė struktūra. Ir jis naudingas visiems, kurie nori patologizuoti individus, užuot kvestionavę sistemas.
+
+---
+
+## Penkta dalis: Ksenomanija — Nominatyvinis Susirinkimas
+
+### Kodėl reikia vienijančio termino?
+
+Lieka įvardyti bendrą visų šių manijų kamieną. Mums reikia žodžio, kuris surinktų po viena vėliava visas diskriminacines obsesijas — **Nominatyvinio Susirinkimo**, jei norite, elgesių, atmetančių kitą.
+
+*(Iš jo kylantis akronimas N.S. tėra sutapimas. Arba ne.)*
+
+### Kodėl ne „heteromanija"?
+
+Būtų galima pasiūlyti *heteromaniją*, iš graikų *heteros* (ἕτερος) — „kitas", „skirtingas". Bet šis terminas kelia dviprasmiškumo problemą: kasdienėje kalboje „hetero-" iškart primena heteroseksualumą. *Heteromanija* galėtų būti supainiota su obsesija *heteroseksualumui*, o tai sujaukia žinią.
+
+### Ksenomanijos aiškumas
+
+Terminas **ksenomanija** yra skaidrus.
+
+*Xenos* (ξένος) senovės graikų kalboje reiškia svetimą, tą, kuris ateina iš kitur, tą, kuris nepriklauso grupei.[^4] Tai *ksenofobijos* šaknis, bet taip pat *ksenofilijos* ir gražaus žodžio *filoksenija* — svetingumas, meilė svetimajam.
+
+**Ksenomanija** taigi yra liguista svetimojo obsesija — bet „svetimasis" plačiausia prasme:
+
+- **Nacionalinis svetimasis**: tas, kuris atvyksta iš kitos šalies, kitos kultūros
+- **Religinis svetimasis**: tas, kuris meldžiasi kitam dievui arba tam pačiam dievui kitaip — religijų „ribotas artimas", kurios riboja meilę artimui tik tiems, kurie dalijasi tikėjimu
+- **Seksualinis svetimasis**: tas, kurio orientacija ar tapatybė neatitinka normos, pastatytos ant nepilno gamtos stebėjimo
+- **Etninis svetimasis**: tas, kurio išvaizda skiriasi nuo vietinės daugumos
+- **Socialinis svetimasis**: tas, kurio gyvenimo būdas, pasirinkimai, vertybės nukrypsta nuo aplinkinio konformizmo
+
+Visas šias „kitonybes" ksenomanijakas suvokia kaip egzistencines grėsmes. Ne todėl, kad jos jam iš tikrųjų gresia — bet todėl, kad jų paprastas buvimas silpnina vienodo, nuspėjamo, raminančio pasaulio fikciją.
+
+### Pilna peržiūrėta struktūra
 
 ```
-HETEROFOBIJA (šaknis)
-    Egzistencialiniu baimę iš alterity
+KSENOMANIJA (bendras kamienas)
+    Liguista kito, skirtingo, svetimojo obsesija
+           │
+           ├── Homomanija : obsesija kitų seksualine orientacija
+           ├── Transmanija : obsesija kitų lytine tapatybe
+           ├── Etnomanija : obsesija kitų etnine kilme
+           ├── Islamomanija : obsesija kitų religija
+           ├── Neapykantinė ginomanija : obsesija moterų kontrole
+           └── ir t.t.
            │
            ▼
-    DISKRIMINACINĖS MANIJOS (simptomų)
-    ├── Homomania : obsession iš sexualiniu orientavimo iš kitų
-    ├── Xenomania : obsession iš kilmės iš kitų
-    ├── Etnomania : obsession iš odos spalvos iš kitų
-    ├── Transmania : obsession iš genero identifikavimo iš kitų
-    ├── Islamomania : obsession iš religijaus iš kitų
-    └── etc.
-           │
-           ▼
-    OPRESIJOS SISTEMOS (struktūros)
-    ├── Heterosexual : sistemu iš heterosexualiaus privilegijos
-    ├── Rasizmas : sistemu iš rasinės hierarchies
-    ├── Patriarchy : sistemu iš vyro domination
-    └── etc.
+    PRIESPAUDOS SISTEMOS (institucionalizuotos struktūros)
+           ├── Heteroseksizmas : heteroseksualinės privilegijos sistema
+           ├── Rasizmas : rasinės hierarchijos sistema
+           ├── Patriarchatas : vyriškos dominacijos sistema
+           ├── Kolonializmas : tautų išnaudojimo sistema
+           └── ir t.t.
 ```
 
-Šita architektūra išskirtt trys lygiai kurie dabartinis šnekamoji kalba mislead:
+Ši architektūra atskiria du lygmenis, kuriuos dabartinė kalba supainioja:
 
-1. **Baimė** (heterofobija) — gilumas psichologinis lygis, dažnai nesąmoningas
-2. **Obsession** (manijas) — matomas chuyavimo lygis, compulsyvė
-3. **Sistemu** (opresijos sistemos) — institucinė, kultūrinis lygis
+1. **Obsesija** (ksenomanija ir jos atšakos) — matomas, kompulsinis, tiek individualus, tiek kolektyvinis elgesio lygmuo
+2. **Sistema** (priespaudos struktūros) — institucinis, kultūrinis, istorinis lygmuo
 
-Painioti šitos lygiuose, tai yra jei sulauzyt jų kovą efektyviai.
+Ksenomanijakas yra pėstininkas. Sistema yra armija. Supainioti juos — tai atsisakyti galimybės efektyviai kovoti.
 
----
+### Ką atskleidžia nauja žodynė
 
-## Šešta Dalis: Episodas 01 Atvirkščiai
+| Senas terminas | Siūlo... | Naujas terminas | Atskleidžia... |
+|----------------|----------|-----------------|----------------|
+| Homofobas | Baimė, savo baimės auka | Homomanijakas | Obsesija, atsakingas už savo obsesiją |
+| Ksenofobas | Svetimojo baimė | Ksenomanijakas | Liguista fiksacija svetimajam |
+| Transfobas | Trans žmonių baimė | Transmanijakas | Kompulsinė trans kūnų priežiūra |
+| Islamofobas | Islamo baimė | Islamomanijakas | Obsesyvinė musulmono fantazija |
 
-### Linija su Serija
+Sufiksas *-manija* daro tris dalykus, kurių *-fobija* nedaro:
 
-Episodą 01 iš Šaknų Sodo, dokumentavaimės semantinę derrivą iš politinių partijų: žodžiai kurie lieka ant butelių kurio turinys pakeičius. "Laisvė", "solidarumas", "socialinis teisingumas" — žymos lieka, senas dissipate.
-
-Čia, stebime priešingą reiškinį: žodžiai kurie niekada turėjo teisingą turinį. Nė derivacija — pagrindinė klaida. Žodis "homophobia" nė iš derivaciios nuo savo originaliausio senso. Jis buvo pastatytas ant imperfektinio sufiks, dėl dėl strateginių priežasčių kurio pasekmės turime rašti.
-
-Tai yra tą pačią pamoka, žiūrima iš kitų veidrodžio pusės: šnekamoji kalba niekada yra innocuousos. Kai žodžiai meluoja — iš derivacijos arba konstito — jie apsaugo struktūras kurie jie pretenduoja pavadinti.
-
-### Persekiotojas yra Baimingas Kuris Ignoruoja
-
-Šita analizė nėra tik lexikal stiliaus atlikimas. Žodžiai teisingai, tai yra suprasti teisingai. Ir suprasti teisingai, tai yra galetat veikt su teisingumų.
-
-Kai pasakote "homophobas", jūs aprašote priešą. Kai pasakote "homomaniacs", jūs aprašote apsessed. Kai jūs kurie heterofobija kaip šaknis, jūs aprašote baimingas. Ir atlikti baimingas, atsakys yra ne tą pačią nes atlikti priešą.
-
-Maniaco diskriminacijos asmenį kurio identitasis yra taip trapus kurie jis negali paremti altarity buvimo. Jo obsession dėl kitų yra tik iš jūsų apverstas refleksas nuo savo baimės. Kiekvienas dėsnis kurie jis balsavimi prieš skirtingumą yra a recognition iš neaprūpinėtos. Kiekvienas insultas yra a krykštavimo panikon. Kiekvienas persecution yra a desperatiniu bandyti simplify a pasaulį kurio sudėtingumas jį submerge.
-
-Tai nė čia nė jo nuo smurto actai leist nei daugiau, nei daugiau damnable. Tačiau jis meni nuo žiūro kurie mes iš porti iš mechanizmo. Ir šitame žiūro iš permaina galima yra gal, iš ten iš pagrindinio to iš stovėjimo būtu, vienas raktą iš suprasti — ir todėl iš transformacija.
-
-Nes ne jūs gali gyti apsėdimą su jį pavadinant fobija. Ir jūs negali kovoti baimę su ignoravimu kurie jis egzistuoja.
+1. **Įpareigoja**: manijos neatleidžiama kaip baimės
+2. **Diagnozuoja teisingai**: obsesija yra tikrasis mechanizmas
+3. **Perkelia problemą**: disfunkcija yra stebėtojuje, ne stebimajame
 
 ---
 
-## Septintoji Dalis: Klausimas Kuris Jūs Paliekam
+## Šešta dalis: Epizodas 01 atvirkščiai
 
-Žodžiai kurie mes naudojam pagal diskriminacijų — jie apraša jį tikrai? Arba jie formuoti vienas daugiau ekranas tarp mūsų ir realybės?
+### Ryšys su serija
 
-Jei šnekamoji kalba apsaugo ką jis pretenduoja kovoti, tada pirmas aktas iš stovėjimo galima ne keisti vardas. Ne pagal lingvistinė coquetry. Nes jūs negaletat gyti ką jūs nežinote kaip pavadinimas.
+Šaknų Sodo 1 epizode dokumentavome politinių partijų semantinį dreifą: žodžiai, kurie lieka ant butelių, kurių turinys pasikeitė. „Laisvė", „solidarumas", „socialinis teisingumas" — etiketės išlieka, prasmė išgaruoja.
 
-Rašykite man. Sodas didelis, ir kai kurie šaknys yra palaidotai šnekamoje kalboje jis pats.
+Čia stebime priešingą reiškinį: žodžius, kurie niekada neturėjo tinkamo turinio. Ne dreifas — pamato klaida. Žodis „homofobija" nedreifavo nuo pradinės prasmės. Jis buvo pastatytas ant netinkamo sufikso dėl suprantamų strateginių priežasčių, kurių pasekmės mus pasiveja.
+
+Tai ta pati pamoka, matoma iš kitos veidrodžio pusės: žodynė niekada nėra nekalta. Kai žodžiai meluoja — dėl dreifavimo ar dėl konstrukcijos — jie saugo struktūras, kurias tariasi įvardijantys.
+
+### Ksenomanijakas yra baikštus, kuris to nežino
+
+Ši analizė nėra tik leksikinis stiliaus pratimas. Teisingai įvardyti — tai teisingai suprasti. O teisingai suprasti — tai galėti veikti teisingai.
+
+Po triukšmingos manijos, po įstatymų ir įžeidimų ir smurto, galbūt iš tiesų yra baimė. Gili, dažnai nepripažinta, kartais nesąmoninga baimė: pasaulio, kuris neatitinka raminančio vaizdo, kurį sau sukuriame. Baimė, kad kitas, paprastu savo buvimu, suabejoja mūsų pačių įsitikinimų tvirtumu.
+
+Bet šią baimę ksenomanijakas paverčia agresija. Jis nebėga — jis puola. Ir būtent šis virtimas turi būti įvardytas. Manija yra aktyvus simptomas; baimė tėra palaidota šaknis.
+
+Diskriminacinis manijakas yra asmuo, kurio tapatybė tokia trapi, kad negali pakelti kitoniškumo buvimo. Jo obsesija kitu tėra apverstas jo nerimo dėl savęs atspindys. Kiekvienas įstatymas, už kurį jis balsuoja prieš skirtingumą, yra nesaugumo prisipažinimas. Kiekvienas įžeidimas yra panikos šauksmas. Kiekvienas persekiojimas yra beviltiškas bandymas supaprastinti pasaulį, kurio sudėtingumas jį užlieja.
+
+Tai nedaro jo veiksmų nei mažiau rimtų, nei mažiau smerktinų. Bet tai keičia žvilgsnį į mechanizmą. Ir šiame žvilgsnio pakeitime galbūt slypi, anapus būtino pasipriešinimo, supratimo raktas — taigi ir transformacijos.
+
+---
+
+## Priešingas žodynas: įvardyti ir įtrauktį
+
+Jei pervadiname patologijas, įvardykime ir dorybes. Prieš ksenomaniją egzistuoja priešnuodis, kurį graikai gerai pažinojo: **filoksenija** (φιλοξενία) — pažodžiui, meilė svetimajam.
+
+Filoksenija nėra naivumas. Tai nėra savęs ištrynimas prieš kitą. Tai gebėjimas matyti svetimajame ne grėsmę, o galimybę. Langą į pasaulį, kurio dar nepažįstame. Praturtėjimą, o ne praskiedimą.
+
+| Patologija | Priešnuodis |
+|------------|-------------|
+| Ksenomanija | Filoksenija — meilė svetimajam, svetingumas |
+| Homomanija | Meilių įvairovės priėmimas |
+| Transmanija | Pagarba kūnų savideterminacijai |
+| Etnomanija | Lygaus orumo pripažinimas |
+| Islamomanija | Autentiška pasaulietiškumas — geranoriškas abejingumas kitų tikėjimams |
+
+Tikroji jėga nėra vienodume — ji yra gebėjime priimti skirtingumą neištirpstant jame.
+
+---
+
+### Klausimas, kurį jums palieku
+
+Žodžiai, kuriuos naudojame diskriminacijoms aprašyti — ar jie jas iš tikrųjų aprašo? Ar jie formuoja dar vieną ekraną tarp mūsų ir tikrovės?
+
+Jei žodynė saugo tai, ką tariasi kovojanti, tai pirmasis pasipriešinimo aktas galbūt yra pervadinti. Ne dėl lingvistinio koketiškumo. Nes negalima išgydyti to, ko nemokama įvardyti.
+
+**Ksenomanija**: liguista kito obsesija. Nominatyvinis visų diskriminacijų Susirinkimas.
+
+Dabar turime žodį.
+
+Rašykite man. Sodas didelis, ir kai kurios šaknys palaidotos pačioje kalboje.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, "George Weinberg", 2017 ; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, kovas 2017.
+[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia blog, kovas 2017.
 
-[^2]: Wikipedia, "George Weinberg (psychologist)" ; Jack Nichols & Lige Clarke, straipsnį *Screw Magazine*, 5 gegužė 1969 ; *Time Magazine*, "The Homosexual in America", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, straipsnis *Screw Magazine*, 1969 m. gegužės 5 d.; *Time Magazine*, "The Homosexual in America", 1969.
 
 [^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (įrašai φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (įrašai φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, skyrius "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, skyrius "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 
 [^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Associated Press, *AP Stylebook* atnaujinimas, lapkritis 2012 ; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26 lapkritis 2012 ; *The Advocate*, "AP Says Homophobia Off the Mark", 26 lapkritis 2012.
+[^7]: Associated Press, *AP Stylebook* atnaujinimas, lapkritis 2012; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 2012 m. lapkričio 26 d.; *The Advocate*, "AP Says Homophobia Off the Mark", 2012 m. lapkričio 26 d.
 
-[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012 ; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", kovas 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", kovas 2017.
 
 [^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001 ; Warren J. Blumenfeld (red.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992 ; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (red.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.

@@ -1,255 +1,315 @@
 ---
-title: 'L-Eterofobbija u l-Mani Diskriminatorji'
+title: "Xenomanija"
 date: 2026-02-10
 draft: false
 episode: 8
-series: 'Il-Ġnien tal-Għeruq'
-subtitle: 'Meta l-kliem jiftirex id-dijagnoża'
-description: "Is-suffissu -fobiku jiddeskrivu biża''. Imma dak li jippersegwita ma jfurrx — huwa obsessat. Esploraturi etimolotika ta'' mentira lingwistika li tipproteġi dak li tipprenta tikkomatti."
+series: "Il-Ġnien tal-Għeruq"
+subtitle: "Il-Ġbir Nominattiv tad-diskriminazzjonijiet"
+description: "Omofobija, ksenofobija, transfobija — dawn il-kliem jimmentaw. Is-suffissu -fobija jiddeskrivi biża', imma dak li jippersegwita ma jaħrabx: huwa ossesjonat. Esplorazzjoni etimoloġika tal-gidba lingwistika li tipproteġi d-diskriminazzjonijiet, u proposta ta' terminu unifikanti: il-xenomanija, l-ossessjoni morbida tal-ieħor."
 categories: ["filosofija", "lingwistika", "psikoloġija"]
-tags: ["etimolotika", "omossesswalità", "diskriminazzjoni", "eteroffobija", "mania", "fobija", "lingwa", "Weinberg", "Herek", "preġudiċċju"]
+tags: [
+  "xenomanija", "etimoloġija", "diskriminazzjoni", "lingwa", "manija", "fobija",
+  "omofobija", "ksenofobija", "transfobija", "islamofobija", "razziżmu", "sessiżmu",
+  "omomanija", "transmanija", "islamomanija", "etnomanija",
+  "inklużjoni", "diversità", "tolleranza", "rispett", "dinjità umana",
+  "filoksenija", "ospitalità", "alterità", "preġudizzju", "ossessjoni",
+  "Weinberg", "Herek", "psikoloġija soċjali"
+]
 sources:
-  - "Britannica, ''George Weinberg'', 2017"
-  - "Gregory M. Herek, ''The Father of Homophobia: George Weinberg (1929-2017)'', Beyond Homophobia blog, Marzu 2017"
-  - "Wikipedia, ''George Weinberg (psychologist)''"
-  - 'Jack Nichols & Lige Clarke, artiklu fi Screw Magazine, 5 Mejju 1969'
-  - "Time Magazine, ''The Homosexual in America'', 1969"
-  - "George Weinberg, Society and the Healthy Homosexual, St. Martin''s Press, 1972"
-  - 'Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968'
-  - 'Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press'
-  - "Gregory M. Herek, ''Beyond Homophobia'', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
-  - "Gregory M. Herek, ''The Psychology of Sexual Prejudice'', Current Directions in Psychological Science, 9(1), 19-22, 2000"
-  - 'Associated Press, aġġornament tal-AP Stylebook, Novembru 2012'
-  - "Politico, ''AP nixes homophobia, ethnic cleansing'', 26 Novembru 2012"
-  - "George Weinberg, ''Homophobia: Don''t Ban the Word'', The Huffington Post, 2012"
-  - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, ''Is Homophobia Associated With Homosexual Arousal?'', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
-  - 'Byrne Fone, Homophobia: A History, Picador, 2001'
-  - 'Warren J. Blumenfeld (ed.), Homophobia: How We All Pay the Price, Beacon Press, 1992'
+  - "Britannica, 'George Weinberg', 2017"
+  - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, Marzu 2017"
+  - "Wikipedia, 'George Weinberg (psychologist)'"
+  - "Jack Nichols & Lige Clarke, artikolu fi Screw Magazine, 5 ta' Mejju 1969"
+  - "Time Magazine, 'The Homosexual in America', 1969"
+  - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
+  - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
+  - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
+  - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
+  - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
+  - "Associated Press, aġġornament tal-AP Stylebook, Novembru 2012"
+  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26 ta' Novembru 2012"
+  - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
+  - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
+  - "Byrne Fone, Homophobia: A History, Picador, 2001"
+  - "Warren J. Blumenfeld (ed.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
-> **Nota ta'' Trasparenza**
+> **Nota ta' Trasparenza**
 >
-> Din il-kronaka hija r-riżultat ta'' kolaborazzjoni bejn raġel (Pépé) u intelligenza artificjali (Claude, Anthropic). L-ideat direzzjonali, il-linja editorjali u l-validazzjoni finali huma umani. Ir-riċerka dokumentarja u l-kitba huma assistiti minn AI.
+> Din il-kronika hija r-riżultat ta' kollaborazzjoni bejn bniedem (Pépé) u intelliġenza artifiċjali (Claude, Anthropic). L-ideat ewlenin, il-linja editorjali u l-validazzjoni finali huma umani. Ir-riċerka dokumentarja u l-kitba huma assistiti minn AI.
 >
-> Minħabba li l-AI tista'' tipproduċi inakkurazzjezzi, **kull affermazzjoni ta'' fatt hija sorsata** minn dokumenti akademiċi, enċiklopediċi jew ġurnalistiċi verifikabbli. Is-sorsi huma elenkat fil-aħħar tal-artiklu.
+> Minħabba li l-AI tista' tipproduċi ineżattezzi, **kull affermazzjoni fattwali hija sorsata** minn dokumenti akkademiċi, enċiklopediċi jew ġurnalistiċi verifikabbli. Is-sorsi huma elenkati fl-aħħar tal-artikolu.
 >
-> Dan it-test ma jimpenja għalax l-editur umanu tiegħu, li jassumi r-responsabbilità.
+> Dan it-test jimpenja biss lill-editur uman tiegħu, li jassumi r-responsabbiltà.
 
 ---
 
-Din il-ġimgħa, jien naqqagħt f''kamra ta'' larinċu etimolotika. Dan jiġri spiss — jien jimxu fil ta'' ħadd u jien insab tliet sigħat aktar tard b''ħazz ta'' kartun li tħares lilija b''ħajja ta'' akkuża.
+Din il-ġimgħa, waqajt f'toqba ta' fenek etimoloġika. Dan jiġri spiss — niġbed ħajta u nsib ruħi tliet sigħat wara b'gomma li tħares lejja b'arja ta' akkuża.
 
-Il-fil, dan il-ħin, kien suffissu. Erba'' ittri: *-fobiku*. Jien poġġejt fuqu minn kont t-taqbil li jippretendi jiddeskrivu. U m'għaddix kollax. Mhux ħadd.
+Il-ħajta, din id-darba, kienet suffissu. Erba' ittri: *-fobija*. Poġġejthom ħdejn dak li jippretendu jiddeskrivu. U ma kienx hemm. Xejn.
 
-Il-kliem għandu memorja, u dik merkurja terġa'' lill-ġrigħan antikw. U l-ġrigħan antikw, huwa ma jmorrux. Aħna, min-kontra — aħna mmorrux b''biċċat.
-
----
-
-## Parti Ewwela: L-Inventura Strateġika ta'' Kelma Imperfetta
-
-### George Weinberg u l-Colpu ta'' Ġenju ta'' 1965
-
-Fl-1965, il-psikoloġu Amerikanu George Weinberg josserva ħaġa ħabiela f''kolleġi tiegħu. Meta jħallu ħabibi omossesswali għal raġunamenti, x''konfreri jirreaġixxu b''averjħa vįċċhjali — ''mingħajr argument, biss riħa ta'' fġież'', ngħid aktar tard.[^1]
-
-Weinberg jifhem li l-problema mhix mal-omossesswali. Il-problema hija ma''dawk li tħarsu. U biex indindich, huwa jinventa kelma: *homophobia*.
-
-It-termini jidher għal-ewwel darba fil-presa fl-1969, fil-maġażin *Screw*, imbagħad fi *Time Magazine* l-istess sena.[^2] Fl-1972, Weinberg idevelopp fil-*Society and the Healthy Homosexual*, kotba rivoluzzjonarja li l-ewwel sentenza tagħha tagħtik it-ton: ''Jien qatt ma nikkunsidra pazjent bħala sliex inqas ma kxef mill-preġudiċċju tiegħu kontra l-omossesswalità''.[^3]
-
-Il-koljpu ta'' ġenju huwa strateġikament: b''l-akkonpanjament tas-suffissu *-phobia* għall-preġudiċċju anti-gay, Weinberg jirrivolja d-dijagnoża. Mhux l-omossesswali li huwa mċ — huwa dak li jippersegwita. F''epoka fejn l-omossesswalità kienet għadu fiha fl-*Diagnostic and Statistical Manual* (DSM) bħala patologija psikiatrini, dan l-invierżjun kien att ta'' reżistenza intellettwali.[^3]
-
-### Kelma Konxja tal-Limitazzjoniet Taħha
-
-Imma Weinberg kien jafu li l-kliem tiegħu kien imperfett. Huwa definih b''mod mqabbad: ''it-terrur minn li jkun f''prossimità qrib lill-omossesswali — u, fil-każ tal-omossesswali nnifushom, il-ġina ta'' innifsu''.[^3]
-
-Il-kelma taħa ħamet — magnifikament — bħala għodda politika. Iddaħħal għar-rimozzjoni ta'' l-omossesswalità mill-DSM fl-1973. Iddaħħal isem għal ħaġa li kulħadd kien jarah imma ħadd ma setax jiddisħa.[^2]
-
-Imba sitta snin aktar tard, il-kliem għoddinx.
+Il-kliem għandhom memorja, u din il-memorja tmur lura sal-Grieg antik. U l-Grieg antik, dan ma jimmentix. Aħna, mill-banda l-oħra — nimmentaw bil-biċċiet tiegħu.
 
 ---
 
-## Parti Tieni: Il-Mentira Etimolotika
+## L-Ewwel Parti: L-Invenzjoni Strateġika ta' Kelma Imperfetta
 
-### X''il-ġrigħan jgħid verament
+### George Weinberg u l-Kolp ta' Ġenju tal-1965
 
-Is-suffissu *-phobos* (φόβος) jiddeskrivu l-biża'', il-fjara, l-averjħa istintiva.[^4] L-arachnophobe jfirex l-ragnu. Il-claustrophobe jfirex l-ispazju msagħar. L-agoraphobe jfirex l-mjedda. F''kull każ, il-mekkaniżmu huwa identiċi: terrur li jidmen għall-evitament, ir-ritirament, il-paralisi.
+Fl-1965, il-psikologu Amerikan George Weinberg josserva xi ħaġa inkwetanti fost il-kollegi tiegħu. Meta jistieden ħbieb omosesswali għal laqgħat, xi kollegi jirreaġixxu b'avversjoni vixxerali — "mingħajr argument, biss disgust," kien jgħid aktar tard.[^1]
 
-Imma x''jagħmel dak li jisħu ''omofobiku''?
+Weinberg jifhem li l-problema mhijiex mal-omosesswali. Il-problema hija ma' dawk li jħarsu lejhom. U biex isemmiha, huwa jivvinta kelma: *homophobia*.
 
-Huwa ma jfurrx. Huwa ma jitqabbdax. Huwa ma jbaddalx il-kantuniera filwaqt li tremaxxa. Le. Huwa jilegislat. Huwa jħarraş. Huwa juqtulx. Huwa jittraċċa. Huwa jimanifesta, jipetizzjona, jipridika u jippersegwita. Huwa jinvaddu l-ħjanon tal-ħaruf inkompletu b''l-ostinazzjoni tal-fanatiku. Huwa jikkonsagra enerġija kbira biex jiskriwtini, jikkommentaw, jikkondanna u jippruvaw li jikkontrollau l-intimità ta'' persuni perfetti skonoxxi.
+It-terminu jidher għall-ewwel darba fil-istampa fl-1969, fir-rivista *Screw*, imbagħad fi *Time Magazine* l-istess sena.[^2] Fl-1972, Weinberg jiżviluppah f'*Society and the Healthy Homosexual*, ktieb rivoluzzjonarju li l-ewwel sentenza tiegħu tagħti t-ton: "Qatt ma nikkunsidra pazjent bħala f'saħħtu sakemm ma jkunx għeleb il-preġudizzju tiegħu kontra l-omosesswalità."[^3]
 
-Dan il-kompurtament mhux fobija. Huwa obsessjoni.
+Il-kolp ta' ġenju huwa strateġiku: billi jwaħħal is-suffissu *-phobia* mal-preġudizzju anti-gay, Weinberg jdawwar id-dijanjożi. Mhux l-omosesswali li hu marid — huwa dak li jippersegwitah. F'epoka fejn l-omosesswalità kienet għadha fil-*Diagnostic and Statistical Manual* (DSM) bħala patoloġija psikjatrika, din l-inversjoni kienet att ta' reżistenza intellettwali.[^3]
 
-### Il-Ħamsa jikkonferma: mhux biża''
+### Kelma Konxja tal-Limiti Tagħha
 
-Gregory Herek, professur ta'' psikoloġija f''l-Università ta'' California sa Davis u wieħed mill-akbar spesjalisti mundjali ta'' preġudiċċju sessawli, qaddax deċennji biex jiddokumenta l-limitazzjoniet tat-termini. F''artiklu ta'' 2004, ''Beyond Homophobia'', huwa jinnota li l-kelma ''rarament jeħq biża'' intensa u irrazzjonali tal-minoranze sesswali'', li ''huwa fframmewt mill-priżma ta'' psikopatoloġija mingħajr li jkun iddisinjat bħala dijagnoża'', u li ''insufficently riffletta r-rwol ta'' norme soċjali aktar wiesa'' fil-fużjazzjoni ta'' atteġidini individuali''.[^5]
+Imma Weinberg kien jaf li l-kelma tiegħu kienet imperfetta. Huwa ddefiniha b'mod ristrett: "it-terrur li tkun f'prossimità mill-qrib ma' omosesswali — u, fil-każ tal-omosesswali nnifishom, il-mibegħda tagħhom infushom."[^3]
 
-Herek jipproponi li tissostitwixxi t-termini b'' ''preġudiċċju sessawli'' (*sexual prejudice*), li jiddefinixxi bħala ''l-atteġidini negattivi lejn individwu minħabba l-orjentament sessawli tiegħu''.[^6] Dan huwa aktar preċiż. Imba mhux għadd ġust.
+Il-kelma ħadmet — b'mod maġnifiku — bħala għodda politika. Kkontribwixxiet biex l-omosesswalità titneħħa mid-DSM fl-1973. Tat isem lil xi ħaġa li kulħadd kien jara imma ħadd ma seta' jsemmi.[^2]
 
-Għax il-problema mhix biss inakurattezzja. Huwa d-direzzjoni tal-projettori.
-
-### Il-Bumper ta'' Retorika
-
-Fl-2012, l-Associated Press — li l-*Stylebook* taħha jiffissaw l-istandards editorjali għall-aktar gazzetti Amerikani — irtirat il-kelma ''homophobia'' mill-kontesti politiċi u soċjali. Ir-redattur segond f''ċef Dave Minthorn spjega: ''Dan huwa biss inakkurat. Dan jattribwixxi disturb mentali lil xi ħadd, u dan jissuġġerixxu għarfien li aħna m'għandnax''.[^7]
-
-Weinberg nnifsu toffda kontra dan ir-ritirament, argument li l-kelma baqgħat ''kriċijali għall-umanità tiegħna'' sakemm l-atti li jiddeskrivi jippersistu.[^8] Kien tajjeb dwar in-neċessità li taddresa. Imba l-kwistjoni tibqa'': tiddeskrivi ħażin, mhux lipproteġi mhux inkwantunt?
-
-Għax ħawn x''il-suffissu *-phobe* jippermetti: kwalunkwe persegwitatur jista'' jirrispondi ''jien ma nħabbx biża'''', u għandu raġuni teknikament. Il-kelma jgħidlu exit lingwistika.
-
-Agħar aktar: huwa jħoloq inkentiv perverz għall-aggressjoni. Jekk inti t-akkuzaw ta'' l-biża'', kif inti tippruva li inti m'għandux biża''? B''juri li inti m'għandux biża''. B''morru lejn l-ogett ta'' biża'' suppost. B''taħqaf, b''insult, b''jippersegwita — preċizament biex jiddemomstra li inti mhux dak li l-kelma ippretetended tiddeskrivu. Il-fobija jissajef il-fjara; ir-refutazzjoni ta'' l-fobija jissajef l-attakk. Il-kelma ma jiddeskrivu l-vjolenza — huwa jippruvu li kkalh.
-
-U b''l-akkonpanjament ta'' *homo-* lil suffissu negattiv, huwa jinsċirvi s-subtelment il-problema lejn l-omossesswali — kif jekk l-eżistenza sempliċi biċċejjal biex ippruvki patologija fl-oħra.
+Imma sittin sena wara, il-kelma qed tagħlaqna ġewwa.
 
 ---
 
-## Parti Terza: Id-Dijagnoża Ġusta — il-Mania
+## It-Tieni Parti: Il-Gidba Etimoloġika
 
-### Suffissu Aktar Preċiż
+### X'jgħid il-Grieg verament
 
-L-ġrigħan antikw joffrina għodda oħra: *-mania* (μανία) — il-follja, l-obsessjoni devoring, il-fiksazzjoni kompulsiva li tikkonsumaż ir-raġuni.[^4] Il-pyromane ma ''ma jħafs tal-nar — huwa ħamqin. Il-megalomaniak ma ''ma jfurrx il-grandezza — huwa sxiexel. Il-kleptomaniac ma ''ma jreddi l-vulgarità — huwa priġunier.
+Is-suffissu *-phobos* (φόβος) jfisser il-biża', il-ħarba, l-avversjoni istintiva.[^4] L-araknofobu jaħrab ir-ragħna. Il-klawstrofobu jaħrab l-ispazju magħluq. L-agorafobu jaħrab il-folla. F'kull każ, il-mekkaniżmu hu identiku: terrur li jimbotta lejn l-evitament, l-irtirar, il-paraliżi.
 
-L-homomaniack ma jħafs l-omossesswalità: huwa obsessat. Huwa jiffolla dwar il-grawond il-bieraħ bil-għida. Huwa jidol dwar il-tama qed tara tnejn ijżommu l-id fl-istrada. Huwa jidol dwar il-vott, b''educazz tal-tfal tiegħu, b''intella tal-ġlied politiku. Il-moħħ tiegħu huwa kolonizzat mill-omossesswalità ta'' oħrajn b''intensità li l-aktar omossesswali nnifushom ma jistgħu wkoll ragel.
+Issa, x'jagħmel dak li jissejjaħ "omofobu"?
 
-### Il-Ħamsa ta'' l-Obsessjoni
+Ma jaħrabx. Ma jitkemmex. Ma jbiddilx il-bankina waqt li jirtogħod. Le. Jilegisla. Jibbulja. Jaggredixxi. Isegwi. Jimmanifeesta, jippetiżżjona, jippriedka u jippersegwita. Jidħol fil-kmamar tas-sodda ta' ħaddieħor bl-ostinazzjoni tal-fanatiku. Jikkonsagra enerġija konsiderevoli biex jisgrutinaħħa, jikkummenta, jikkundanna u jipprova jikkontrolla l-intimità ta' persuni perfettament barranin.
 
-Fl-1996, il-psikoloġi Henry Adams, Lester Wright u Bethany Lohr tal-Università ta'' Georgia ppubblikaw studju li sar famuż fil-*Journal of Abnormal Psychology*. Huma miżaw ir-reazzjoniet fiżjoloġiċi ta'' 64 bnedmin eteroċesswali — 35 klassifikati bħala ''omofobiku'' u 29 bħala ''non-omofobiku'' — f''stimuli erottiċi omosesswali. Riżultat: biss il-bnedmin omofobiku juru excitazzjoni sessawli sinifikattiva f''stimuli omosesswali maskli.[^9]
+Dan il-komportament mhux fobija. Huwa ossessjoni.
 
-L-interpretazzjoniet ta'' dan l-istudju huma debattwiti — l-excitazzjoni tista'' jirrifletti anx minflok du.[^9] Imba x''l-istudju jiddokumenta mingħajr ambigwità huwa reattività disproporzjonata: l-''omofobiku'' ma jaqgħax il-għajnejn. Il-ġisem tiegħu jirreaġixxu. Il-attenzjoni tiegħu hija kaptata. Dan huwa l-mekkaniżmu ta'' fiksazzjoni obsessjonali, mhux dak ta'' l-fobija.
+### Ix-Xjenza tikkonferma: Mhux biża'
 
-### It-Tielet Vantagg tat-Termini Ġdid
+Gregory Herek, professur tal-psikoloġija fl-Università ta' California f'Davis u wieħed mill-akbar esperti dinjija dwar il-preġudizzju sesswali, iddedika għexieren ta' snin biex jiddokumenta l-limitazzjonijiet tat-terminu. F'artikolu fundamentali tal-2004, "Beyond Homophobia," huwa jinnota li l-kelma "rarament tirreferi għal biża' intensa u irrazzjonali tal-minoranzi sesswali," li "hija mfassla mill-priżma tal-psikopatoloġija mingħajr ma tkun iddiżinjata bħala dijanjożi," u li "rifflettiet b'mod insuffiċjenti r-rwol tan-normi soċjali usa' fil-formazzjoni ta' attitudnijiet individwali."[^5]
 
-It-termini *homomaniack* tippreżenta tielet vantagg:
+Herek jipproponi li jissostitwixxi t-terminu b'"preġudizzju sesswali" (*sexual prejudice*), li jiddefinih bħala "l-attitudnijiet negattivi lejn individwu minħabba l-orjentazzjoni sesswali tiegħu."[^6] Dan hu aktar preċiż. Imma mhux biżżejjed ġust.
 
-1. **Etimolotiċi ġust**: jiddeskrivu obsessjoni, mhux biża''.
-2. **Klinikiament onest**: il-letteratura psikoloġika ddokumenta b''estensjoni l-dimensjoni kompulsiva u projettiva ta'' dawn il-kumportamenti.[^9][^10]
-3. **Retorikament ġust**: jdaħħalx il-projettori fejn il-disfunzjuni veramenti jinsabu — mal-persegwitatur, mhux mal-persegwitat. L-homomaniack jiġibx id-dijagnoża tiegħu fl-isem tiegħu nnifsu.
+Għax il-problema mhijiex biss l-impreċiżjoni. Hija d-direzzjoni tal-projektur.
 
----
+### It-Tarka Retorika
 
-## Parti Raba'': L-Ġeneralizzazzjoni — il-Mani Diskriminatorji
+Fl-2012, l-Associated Press — li l-*Stylebook* tagħha jiffissa l-istandards editorjali għall-biċċa l-kbira tal-gażżetti Amerikani — neħħiet il-kelma "homophobia" mill-kontesti politiċi u soċjali. L-assistent editur ewlieni Dave Minthorn spjega: "Dan hu sempliċiment ineżatt. Dan jattribwixxi disturb mentali lil xi ħadd, u dan jissuġġerixxi għarfien li m'għandniex."[^7]
 
-### Skema li Tirrepeti
+Weinberg innifsu oppona dan it-tneħħija, u argumenta li l-kelma baqgħet "kruċjali għall-umanità tagħna" sakemm l-atti li tiddeskrivi jippersistu.[^8] Kellu raġun dwar in-neċessità li nsemmu. Imma l-mistoqsija tibqa': insemmu ħażin, mhux qed nipproteġu mingħajr ma nafu?
 
-X''aħna nosservaw għall-omossesswalità huwa valer għall-kumpletu tal-diskriminazzjoniet. Kullimkien, is-suffissu *-phobe* jassonn ir-realtà tal-kumportament.
+Għax hawn x'jippermetti s-suffissu *-fobu*: kwalunkwe persekutur jista' jwieġeb "jiena m'għandix biża'," u jkollu raġun teknikament. Il-kelma toffrielu ħruġ lingwistika.
 
-Il-*xenomaniack* ma jħafs l-ħranin — huwa obsessat bil-preżenza tiegħu. Huwa jara kullimkien, juri responsabilità għall-kullimkien, jibni programmi politiċi interi fuq dan il-fiksazzjoni. Huwa jikkonsagra aktar ħin biex jitkellim dwar ħranin milli l-ħranin nnifushom jikkonsagrau jiffalkaw dwar tiegħu.
+Agħar minn hekk: toħloq inċentiv pervers għall-aggressjoni. Jekk jakkużawk li għandek biża', kif tipprova l-kuntrarju? Billi turi li m'għandekx biża'. Billi tmur lejn l-oġġett suppost tat-terrur tiegħek. Billi tolqot, tinsulenta, tippersegwita — preċiżament biex tiddimostra li int mhux dak li l-kelma tippretendu tiddeskrivi. Il-fobija ssejjaħ għall-ħarba; ir-refutazzjoni tal-fobija ssejjaħ għall-attakk. Il-kelma ma tiddeskrivix il-vjolenza — tipprovokaha.
 
-L-*ethnomaniack* ma jtenqa' quddiem kulur tal-ġilda — huwa jiskkrutnizza, jikkattigarizza, jijierattkizza b''akzijoni ta'' kulla.
-
-It-*transmaniack* ma jfurrx persuni transġeneri — huwa jinvesta ħin u enerġija disproporzjonata biex jissorvejaw il-ġisem tagħhom, il-passaport, it-toilets.
-
-L-*islamomaniack* ma jfurrx il-Musulmani — huwa jittraċċa, jikkommentaw, jissorvejaw, jifantizzaw, jinvokaw kull dibatti bħal jekk il-ċivilizzazzjoni intera dipendi fuq dak li mara għamla l-kokarda.
-
-F''kull każ, l-istess struttura: mhux evitament apewrat, imma fiksazzjoni obsessjonali li tdevora l-attenzjoni, id-diskors u l-azzjonament politiku ta'' l-maniack.
-
-### Min jibbenefkia mid-Dijagnoża Ħażina?
-
-L-episodji preċedenti tal-Ġnien tal-Għeruq huma ポżaw il-kwistjoni: *cui bono* — min jibbenefkia mill-krimini? Applikaw hawn.
-
-Min jibbenefkia s-suffissu *-phobe*?
-
-Ċertament mhux il-vitmi, li jinsabu lingwistikament assoċjati ma'' kelma negattiva. Ċertament mhux id-dibatti pubbliku, li jipperdu l-preċiżjoni. Ċertament mhux il-psikoloġija, li tara dak suffissu kliniku devojat.
-
-Huwa jibbenefkia l-persegwitatur, li jista'' jiċċekkja bla: ''Jien ma nħabbx biża''.'' Huwa jibbenefkia lis-sistemi ta'' oppressjoni, li jibqaw mingħajr isem: jekk huwa ''fobija'' individwali, mhux struttura soċjali. U huwa jibbenefkia lilkoll li jippreferu patologizzazzjoni ta'' individwi minflok li tistaqsa s-sistemi.
+U billi twaħħal *omo-* ma' suffissu negattiv, tattribwixxi b'mod sottili l-problema min-naħa tal-omosesswali — bħallikieku l-eżistenza sempliċi tiegħu biżżejjed biex tipprovoka patoloġija fl-ieħor.
 
 ---
 
-## Parti Ħamsa: L-Eteroffobija — l-Isem Verament Għerruq
+## It-Tielet Parti: Id-Dijanjożi Ġusta — il-Manija
 
-### Il-Ġoħħan Komuni
+### Suffissu Ferm Aktar Preċiż
 
-Baqgħet li taddresa s-ġoħħan komuni ta'' dawn il-mani. U hawn, kelma teżisti għad, li l-etimolotiċa tagħha għandha ironija magnifika: *eteroffobija*.
+Il-Grieg antik joffrilna għodda oħra: *-mania* (μανία) — il-ġenn, l-ossessjoni li tibla', il-fiksazzjoni kompulsiva li tikkonsma r-raġuni.[^4] Il-piromanu ma "jibża'x" min-nar: huwa possedut minnu. Il-megalomanu ma "jaħrabx" il-kobor: huwa lsir tiegħu. Il-kleptomanu ma "jitwerwirx" mis-serq: huwa priġunier tiegħu.
 
-*Heteros* (ἕτερος) tfisser fil-ġrigħan ''l-oħra'', ''id-differenti'', ''dak li mhux identiċi lill-nnifsu''.[^4] *Phobos*, il-biża''. L-eteroffobija huwa allura, fil-sens l-aktar litterali, il-biża'' tal-alterità — it-terrur eżistenzjali f''dak li jiddiffer minn nnifsu.
+L-omomanjaku ma jibża'x mill-omosesswalità: huwa ossesjonat biha. Jaħseb dwarha filgħodu huwa u jaqra l-ġurnal. Jaħseb dwarha meta jara żewġ persuni jżommu jdejhom fit-triq. Jaħseb dwarha meta jivvota, meta jeduka t-tfal tiegħu, meta jagħżel il-ġlidiet politiċi tiegħu. Moħħu hu kolonizzat bl-omosesswalità ta' ħaddieħor b'intensità li l-biċċa l-kbira tal-omosesswali nnifishom probabbilment qatt ma jilħqu.
 
-U hawn, is-suffissu *-phobia* finalment jista'' jħarraġ il-ġustizzja. Għax taħt il-mania qagħda, taħt il-liġi u l-insult u l-vjolenzi, hemm biża'' verament. Biża'' fond, spiss mingħajr qbil, xi kultant ta'' inkonxja: dawk ta'' dinja li ma tikkonformx mal-immaġni ta'' rassikuranza li wieħed jagħmlu. Il-biża'' li l-oħra, b''eżistenza sempliċi, jmexxu kwistjoni is-solidità tal-ċertezzi waħdu.
+### Ix-Xjenza tal-Ossessjoni
 
-L-eteroffobe — dak li ħafs l-alterità f''l-ħajjiet ta'' formiet — huwa ż-żaqqin komuni tar-razzizmu, is-sessiżmu, tal-homomania, tal-xenomania. Il-biża'' hija l-għerua; il-mania hija s-sintom attiv.
+Fl-1996, il-psikologi Henry Adams, Lester Wright u Bethany Lohr mill-Università tal-Georgia ppubblikaw studju li sar famuż fil-*Journal of Abnormal Psychology*. Kejlu r-reazzjonijiet fiżjoloġiċi ta' 64 raġel eterosesswali — 35 klassifikati bħala "omofobi" u 29 bħala "mhux omofobi" — quddiem stimuli erotiċi omosesswali. Riżultat: l-irġiel omofobi biss urew eċċitament sesswali sinifikanti quddiem l-istimuli omosesswali maskili.[^9]
 
-### L-Arkitektura Kompletta
+L-interpretazzjonijiet ta' dan l-istudju huma kkontestati — l-eċċitament jista' jirrifletti anzjetà pjuttost milli xewqa.[^9] Imma dak li l-istudju jiddokumenta mingħajr ambigwità huwa reattività disproporzjonata: l-"omofobu" ma jdawwarx għajnejh. Ġismu jirreaġixxi. L-attenzjoni tiegħu hija kaptata. Dan hu l-mekkaniżmu tal-fiksazzjoni ossessiva, mhux dak tal-fobija.
+
+### It-Tliet Vantaġġi tat-Terminu Ġdid
+
+It-terminu *omomanjaku* jippreżenta tliet vantaġġi:
+
+1. **Etimoloġikament eżatt**: jiddeskrivi ossessjoni, mhux biża'.
+2. **Klinikament onest**: il-letteratura psikoloġika iddokumentat b'mod estensiv id-dimensjoni kompulsiva u projettiva ta' dawn il-komportamenti.[^9][^10]
+3. **Retorikament ġust**: jerġa' jpoġġi l-projektur fejn verament jinsab id-disfunzjoni — mal-persekutur, mhux mal-persegwitat. L-omomanjaku jġorr id-dijanjożi tiegħu f'ismu stess.
+
+---
+
+## Ir-Raba' Parti: Il-Ġeneralizzazzjoni — il-Maniji Diskriminatorji
+
+### Skema li tirrepeti ruħha
+
+Dak li nosservaw għall-omosesswalità japplika għad-diskriminazzjonijiet kollha. Kullimkien, is-suffissu *-fobu* jaħbi r-realtà tal-komportament.
+
+Il-*ksenomanjaku* ma jibża'x mill-barrani — huwa ossesjonat bil-preżenza tiegħu. Jarah kullimkien, jagħmlu responsabbli ta' kollox, jibni programmi politiċi sħaħ fuq din il-fiksazzjoni. Jikkonsagra aktar ħin jitkellem dwar il-barranin milli l-barranin nnifishom jikkonsagraw jaħsbu dwaru.
+
+L-*etnomanjaku* ma jirtogħodx quddiem kulur tal-ġilda — jisgrutinahha, jikkategorizzaha, jistabbilixxi ġerarkija b'attenzjoni tal-kollezzjonista kompulsiv.
+
+It-*transmanjaku* ma jaħrabx mill-persuni transġeneru — jinvesti ħin u enerġija disproporzjonati biex jissorvelja l-ġisem tagħhom, id-dokumenti ta' identità tagħhom, it-twaletti tagħhom.
+
+L-*islamomanjaku* ma jaħrabx mill-Musulmani — isegwihom, jikkummentahom, jissorvelhjahom, jiffantasizzahom, jinvokahom f'kull dibattitu bħallikieku ċ-ċiviltà kollha tiddependi minn dak li mara tilbes fuq rasha.
+
+F'kull każ, l-istess struttura: mhux evitament imbeżża', imma fiksazzjoni ossessiva li tibla' l-attenzjoni, id-diskors u l-azzjoni politika tal-manjaku.
+
+### Min jibbenefika mid-dijanjożi ħażina?
+
+L-episodji ta' qabel tal-Ġnien tal-Għeruq poġġew il-mistoqsija: *cui bono* — min jibbenefika mill-krimini? Napplikawha hawn.
+
+Min jibbenefika mis-suffissu *-fobu*?
+
+Żgur mhux il-vittmi, li jsibu ruħhom lingwistikament assoċjati ma' kelma negattiva. Żgur mhux id-dibattitu pubbliku, li jitlef fil-preċiżjoni. Żgur mhux il-psikoloġija, li tara wieħed mis-suffissi kliniċi tagħha abbużat.
+
+Jibbenefika l-persekutur, li jista' jiddefendi ruħu: "Jiena m'għandix biża'." Jibbenefikaw is-sistemi ta' oppressjoni, li jibqgħu mingħajr isem: jekk hi "fobija" individwali, mhux struttura soċjali. U jibbenefika dawk kollha li jippreferu jippatoġizzaw l-individwi minflok jistaqsu dwar is-sistemi.
+
+---
+
+## Il-Ħames Parti: Xenomanija — il-Ġbir Nominattiv
+
+### Għaliex terminu unifikanti?
+
+Jibqa' li nsemmu l-zokk komuni ta' dawn il-maniji kollha. Għandna bżonn kelma li tiġbor taħt l-istess bandiera l-ossessjonijiet diskriminatorji kollha — **Ġbir Nominattiv**, jekk trid, tal-komportamenti li jirrifjutaw lill-ieħor.
+
+*(L-akronimu Ġ.N. li joħroġ minnu mhu xejn ħlief koinċidenza. Jew le.)*
+
+### Għaliex mhux "eteromanija"?
+
+Wieħed jista' jipproponi *eteromanija*, mill-Grieg *heteros* (ἕτερος) — "l-ieħor," "id-differenti." Imma dan it-terminu għandu problema ta' ambigwità: fil-lingwa komuni, "etero-" minnufih jevoka l-eterosesswalità. L-*eteromanija* tista' tiġi konfuża ma' ossessjoni *għall*-eterosesswalità, li jħawwad il-messaġġ.
+
+### Il-Klarità ta' "xenomanija"
+
+It-terminu **xenomanija** huwa limpidu.
+
+*Xenos* (ξένος) fil-Grieg antik tfisser il-barrani, dak li ġej minn post ieħor, dak li ma jappartinix għall-grupp.[^4] Hija l-għerq ta' *ksenofobija*, imma wkoll ta' *ksenofilija* u tal-kelma sabiħa *filoksenija* — l-ospitalità, l-imħabba tal-barrani.
+
+Il-**xenomanija** hija għalhekk l-ossessjoni morbida tal-barrani — imma "barrani" fis-sens l-aktar wiesgħa:
+
+- **Il-barrani nazzjonali**: dak li ġej minn pajjiż ieħor, minn kultura oħra
+- **Il-barrani reliġjuż**: dak li jitlob lil alla ieħor, jew lill-istess alla b'mod differenti — il-"proxxmu ristrett" tar-reliġjonijiet li jillimitaw l-imħabba tal-proxxmu għal dawk li jaqsmu l-fidi
+- **Il-barrani sesswali**: dak li l-orjentazzjoni jew l-identità tiegħu ma tikkorrispondix ma' norma mibnija fuq osservazzjoni inkompleta tan-natura
+- **Il-barrani etniku**: dak li d-dehra tiegħu hija differenti mill-maġġoranza lokali
+- **Il-barrani soċjali**: dak li l-mod ta' ħajja tiegħu, l-għażliet tiegħu, il-valuri tiegħu jitbiegħdu mill-konformiżmu ambjentali
+
+Dawn l-"alteritajiet" kollha huma perċepiti mill-ksenomanjaku bħala theddid eżistenzjali. Mhux għax verament jheddduh — imma għax l-eżistenza sempliċi tagħhom iddgħajjef il-fizzjoni ta' dinja uniformi, prevedibbli, rassikuranti.
+
+### L-Istruttura Kompleta Reviżitata
 
 ```
-ETEROFFOBIJA (għerua)
-    Biża'' eżistenzjali tal-alterità
+XENOMANIJA (zokk komuni)
+    Ossessjoni morbida tal-ieħor, tad-differenti, tal-barrani
+           │
+           ├── Omomanija: ossessjoni bl-orjentazzjoni sesswali ta' ħaddieħor
+           ├── Transmanija: ossessjoni bl-identità tal-ġeneru ta' ħaddieħor
+           ├── Etnomanija: ossessjoni bl-oriġini etnika ta' ħaddieħor
+           ├── Islamomanija: ossessjoni bir-reliġjon ta' ħaddieħor
+           ├── Ġinomanija ta' mibegħda: ossessjoni bil-kontroll tan-nisa
+           └── eċċ.
            │
            ▼
-    MANI DISKRIMINATORJI (sintomi)
-    ├── Homomania: obsessjoni tal-orjentament sessawli ta'' oħrajn
-    ├── Xenomania: obsessjoni ta'' oriġini ta'' oħrajn
-    ├── Ethnomnia: obsessjoni tal-kulur tal-ġilda ta'' oħrajn
-    ├── Transmania: obsessjoni ta'' identità ta'' ġenere ta'' oħrajn
-    ├── Islamomania: obsessjoni tar-reliġjon ta'' oħrajn
-    └── eċċ.
-           │
-           ▼
-    SISTEMI TA'' OPPRESSJONI (strutturi)
-    ├── Eteropsessizmu: sistema ta'' privileġġ eterossessawli
-    ├── Razzizmu: sistema ta'' gerarkija razzjali
-    ├── Patriarkat: sistema ta'' dominazzjoni maskla
-    └── eċċ.
+    SISTEMI TA' OPPRESSJONI (strutturi istituzzjonalizzati)
+           ├── Eterosessiżmu: sistema ta' privileġġ eterosesswali
+           ├── Razziżmu: sistema ta' ġerarkija razzjali
+           ├── Patrijakat: sistema ta' dominazzjoni maskili
+           ├── Kolonjaliżmu: sistema ta' sfruttament tal-popli
+           └── eċċ.
 ```
 
-Din l-arkitektura tiddistingwi tliet livelli li l-vokabularju attwali ta'' kkonfundu:
+Din l-arkitettura tiddistingwi żewġ livelli li l-vokabolarju attwali jħawwad:
 
-1. **Il-Biża''** (eteroffobija) — livell psikoloġiku fond, spiss ta'' inkonxja
-2. **L-Obsessjoni** (mani) — livell ta'' kumportament viżibbli, kompulsiv
-3. **Is-Sistema** (strutturi ta'' oppressjoni) — livell istituzzjonali, kulturali
+1. **L-ossessjoni** (xenomanija u d-derivazzjonijiet tagħha) — livell komportamentali viżibbli, kompulsiv, individwali imma wkoll kollettiv
+2. **Is-sistema** (strutturi ta' oppressjoni) — livell istituzzjonali, kulturali, storiku
 
-Konfunduż dawn il-livelli, dan huwa li tupriva nnifusk li jikkumbattuhom b''mod effettiv.
+Il-ksenomanjaku huwa s-suldat. Is-sistema hija l-armata. Tħawwad iż-żewġ, u tċaħħad lilek innifsek milli tiġġildilhom b'mod effettiv.
 
----
+### X'jirrivela l-vokabolarju ġdid
 
-## Parti Setta: L-Episodju 01 F''l-Inverżi
+Meta nsemmu b'mod korrett, nifhmu aħjar:
 
-### Il-Link mas-Serje
+| Terminu antik | Jissuġġerixxi... | Terminu ġdid | Jirrivela... |
+|---------------|------------------|--------------|--------------|
+| Omofobu | Biża', vittma tal-biża' tiegħu | Omomanjaku | Ossessjoni, responsabbli tal-ossessjoni tiegħu |
+| Ksenofobu | Biża' tal-barrani | Ksenomanjaku | Fiksazzjoni morbida fuq il-barrani |
+| Transfobu | Biża' tat-trans | Transmanjaku | Sorveljanza kompulsiva tal-ġisem trans |
+| Islamofobu | Biża' tal-Islam | Islamomanjaku | Fantasija ossessiva tal-Musulman |
 
-Fl-Episodju 01 tal-Ġnien tal-Għeruq, iddokumenta l-drift semantiku tal-partiti politiċi: kliem li jibqa'' fuq botilji li l-kontenut tagħhom ċanġa. ''Libertà'', ''solidarjetà'', ''ġustizzja soċjali'' — l-etiketti jibqaw, is-sens jippareġ.
+Is-suffissu *-manija* jagħmel tliet affarijiet li *-fobija* ma tagħmilx:
 
-Hawn, aħna nosservaw il-fenomenu inverż: kliem li qatt m'għandux ikkontenu ġust. Mhux drift — għalat ta'' bidu. Il-kelma ''omofobija'' mhux driftat minn is-sens oriġinali. Huwa ġie benhit fuq suffissu inapproprijat, għal raġunijiet strateġiċi komprenibbli imma li l-konsegwenzi jilhqu.
-
-Huwa l-istess lezzjoni, vistu mill-aspettattiva l-oħra tal-mirru: il-vokabulari qatt mhuwiex innoxenti. Meta l-kliem mmenti — b''drift jew b''kostruzzjoni — huma jipproteġu l-strutturi li jippretetenu jinaddressahom.
-
-### Il-Persegwitatur huwa Fearful li Majjistantietax
-
-Din l-analiżi mhix biss eżerċizzju ta'' stil leksikali. Tiddaħħal b''mod korrett, taħna nifhmu b''mod korrrett. U nifham b''mod korrrett, aħna nista'' naġixxi b''ġustizzja.
-
-Meta ngħidu ''omofobiku'', aħna niddeskrivu nemiku. Meta ngħidu ''homomaniack'', aħna niddeskrivu obsessat. Meta nidentifikaw l-eteroffobija bħala għerua, aħna niddeskrivu fearful. U f''waħ ta'' fearful, ir-risposta mhux l-istess bħal f''waħ ta'' nemiku.
-
-Il-maniack diskriminatorju huwa xi ħadd li l-identità tiegħu hija tant fragile li m'tistgħux tisporta l-eżistenza ta'' l-alterità. L-obsessjoni tiegħu għal l-oħra mhux biss ir-riflessa inversa ta'' anksjetà tiegħu dwar nnifsu. Kull liġi li huwa jivvota kontra d-differenza huwa konfessjoni ta'' insigurtà. Kull insultu huwa qrajt ta'' paniku. Kull perseguzzjoni huwa tentattiva disperat biex jissemplifika dinja li l-kumplassità jithammqu.
-
-Qal ma jagħmel l-atti tiegħu l-anqas serius, l-anqas inkundannabbli. Imma hija jbddelx il-ħarsa li aħna npoġġu fuq il-mekkaniżmu. U f''dan il-bidla tal-ħarsa jinsab, eħq barra mir-reżistenza neċessarja, sallum ta'' komprenzjoni — u għalhekk ta'' trasformazzjoni.
-
-Għax ma jista'' nħuċ mania billi jiddaħħal fobija. U ma tista'' jikkumbatti l-biża'' b''jinjora li teżisti.
+1. **Jirresponsabbilizza**: ma tiġġustifikax manija kif tiġġustifika biża'
+2. **Jiddijanjożja b'mod ġust**: l-ossessjoni hi l-mekkaniżmu reali
+3. **Jisposta l-problema**: id-disfunzjoni hija fl-osservatur, mhux fl-osservat
 
 ---
 
-## Setta Parti: Il-Kwistjoni li nqaħħodlek
+## Is-Sitt Parti: L-Episodju 01 bil-Maqlub
 
-Il-kliem li aħna tuża biex niddeskrivu diskriminazzjoniet — jaruhom verament? Jew jifformaw iskrin oħra bejnna u r-realtà?
+### Il-konnessjoni mas-serje
 
-Jekk il-vokabulari jipproteġi dak li jippretetendi jikkombatti, allura l-ewwel att ta'' reżistenza huwa forsi qal jinnomaw. Mhux minn koquetteria lingwistika. Għax ma tista'' jħuċ dak li inti ma tista'' jitqiegħ.
+Fl-Episodju 01 tal-Ġnien tal-Għeruq, iddokumentajna d-drift semantiku tal-partiti politiċi: kliem li jibqa' fuq fliexken li l-kontenut tagħhom inbidel. "Libertà," "solidarjetà," "ġustizzja soċjali" — it-tikketti jibqgħu, is-sens jispaxxa.
 
-Iktibli. Il-ġnien hija kbira, u ċerti għeruq huma mdeffunja fil-lingwa nnifisha.
+Hawn, nosservaw il-fenomenu invers: kliem li qatt ma kellhom il-kontenut it-tajjeb. Mhux drift — żball tal-pedament. Il-kelma "omofobija" ma driftatx mis-sens oriġinali tagħha. Inbniet fuq suffissu inadattat, għal raġunijiet strateġiċi li jinftehmu imma li l-konsegwenzi tagħhom qed jilħquna.
+
+Hija l-istess lezzjoni, viżta min-naħa l-oħra tal-mera: il-vokabolarju qatt mhu innoċenti. Meta l-kliem jimmentaw — b'drift jew b'kostruzzjoni — jipproteġu l-istrutturi li jippretendu jsemmu.
+
+### Il-ksenomanjaku huwa beżżiegħ li ma jafx
+
+Din l-analiżi mhijiex biss eżerċizzju ta' stil lessikali. Issemmi b'mod korrett, tfisser tifhem b'mod korrett. U tifhem b'mod korrett, tfisser tkun tista' taġixxi b'ġustizzja.
+
+Taħt il-manija storbjuża, taħt il-liġijiet u l-insulti u l-vjolenza, forsi hemm tassew biża'. Biża' fonda, spiss mhux ammessa, kultant inkonxja: dik ta' dinja li ma tikkonformax mal-immaġni rassikuranti li wieħed jagħmel lilha. Il-biża' li l-ieħor, bl-eżistenza sempliċi tiegħu, ipoġġi fil-kwistjoni s-solidità taċ-ċertezzi tal-persuna nnifisha.
+
+Imma din il-biża', il-ksenomanjaku jibdilha f'aggressjoni. Ma jaħrabx — jattakka. U hija din it-trasformazzjoni li trid tissemma. Il-manija hija s-sintomu attiv; il-biża' mhijiex ħlief l-għerq midfun.
+
+Il-manjaku diskriminatorju huwa xi ħadd li l-identità tiegħu hija tant fraġli li ma tissaportix l-eżistenza tal-alterità. L-ossessjoni tiegħu bl-ieħor mhijiex ħlief ir-rifless invers tal-anzjetà tiegħu dwaru nnifsu. Kull liġi li jivvota kontra d-differenza hija ammissjoni ta' insigurtà. Kull insultu huwa għajta ta' paniku. Kull persekuzzjoni hija tentattiv desperat li tissemplifikà dinja li l-kumplessità tagħha titfgħu.
+
+Dan ma jagħmilx l-atti tiegħu inqas serji, inqas kundannabbli. Imma jbiddel il-ħarsa li npoġġu fuq il-mekkaniżmu. U f'din il-bidla tal-ħarsa tinsab forsi, lil hinn mir-reżistenza neċessarja, ċavetta ta' fehim — u għalhekk ta' trasformazzjoni.
+
+---
+
+## Il-Kontra-vokabolarju: Insemmu wkoll l-inklużjoni
+
+Jekk insemmu mill-ġdid il-patoloġiji, insemmu wkoll il-virtujiet. Kontra l-xenomanija, teżisti antidotu li l-Griegi kienu jafuha sew: il-**filoksenija** (φιλοξενία) — litteralment, l-imħabba tal-barrani.
+
+Il-filoksenija mhijiex inġenwità. Mhijiex it-tħassir tal-persuna quddiem l-ieħor. Hija l-kapaċità li tara fil-barrani mhux theddida, imma possibbiltà. Tieqa fuq dinja li għadek ma tafx. Arrikkiment pjuttost milli dilwizzjoni.
+
+| Patoloġija | Antidotu |
+|------------|----------|
+| Xenomanija | Filoksenija — imħabba tal-barrani, ospitalità |
+| Omomanija | Aċċettazzjoni tad-diversità tal-imħabbiet |
+| Transmanija | Rispett għall-awtodeterminazzjoni tal-ġisem |
+| Etnomanija | Rikonoxximent tad-dinjità ugwali |
+| Islamomanija | Laiċità awtentika — indifferenza benevolenti għat-twemmin ta' ħaddieħor |
+
+Il-qawwa vera mhijiex fl-uniformità — hija fil-kapaċità li tilqa' d-differenza mingħajr ma tinħall fiha.
+
+---
+
+### Il-mistoqsija li nħallilek
+
+Il-kliem li nużaw biex niddeskrivu d-diskriminazzjonijiet — jiddeskrivuhomx verament? Jew jiffurmaw skrin ieħor bejnna u r-realtà?
+
+Jekk il-vokabolarju jipproteġi dak li jippretendu jiġġieled, allura l-ewwel att ta' reżistenza forsi jkun li nsemmu mill-ġdid. Mhux b'koketteria lingwistika. Għax ma tistax tfejjaq dak li ma tafx issemmi.
+
+**Xenomanija**: l-ossessjoni morbida tal-ieħor. Il-Ġbir Nominattiv tad-diskriminazzjonijiet kollha.
+
+Issa, għandna kelma.
+
+Iktibli. Il-ġnien hu kbir, u ċerti għeruq huma midfunin fil-lingwa nnifisha.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, 'George Weinberg', 2017; Gregory M. Herek, 'The Father of ''Homophobia'': George Weinberg (1929-2017)', Beyond Homophobia blog, Marzu 2017.
+[^1]: Britannica, "George Weinberg," 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)," Beyond Homophobia blog, Marzu 2017.
 
-[^2]: Wikipedia, 'George Weinberg (psychologist)'; Jack Nichols & Lige Clarke, artiklu fi *Screw Magazine*, 5 Mejju 1969; *Time Magazine*, 'The Homosexual in America', 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, artikolu fi *Screw Magazine*, 5 ta' Mejju 1969; *Time Magazine*, "The Homosexual in America," 1969.
 
-[^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin''s Press, 1972.
+[^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entrati φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entrati φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregory M. Herek, 'Beyond ''Homophobia'': Thinking about sexual prejudice and stigma in the twenty-first century', *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, kaput ''Sexual Prejudice: Advances in Conceptual and Empirical Models'', 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century," *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, kapitolu "Sexual Prejudice: Advances in Conceptual and Empirical Models," 2016.
 
-[^6]: Gregory M. Herek, 'The Psychology of Sexual Prejudice', *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
+[^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice," *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Associated Press, aġġornament tal-*AP Stylebook*, Novembru 2012; *Politico*, 'AP nixes ''homophobia'', ''ethnic cleansing''', 26 Novembru 2012; *The Advocate*, 'AP Says Homophobia Off the Mark', 26 Novembru 2012.
+[^7]: Associated Press, aġġornament tal-*AP Stylebook*, Novembru 2012; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'," 26 ta' Novembru 2012; *The Advocate*, "AP Says Homophobia Off the Mark," 26 ta' Novembru 2012.
 
-[^8]: George Weinberg, 'Homophobia: Don''t Ban the Word', *The Huffington Post*, 2012; *PinkNews*, 'Doctor who invented the term ''homophobia'' dies aged 87', Marzu 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word," *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87," Marzu 2017.
 
-[^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
+[^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?," *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (ed.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, 'Homophobia', *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (ed.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia," *Encyclopedia of Sex and Gender*, 2007.

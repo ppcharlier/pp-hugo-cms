@@ -1,255 +1,312 @@
 ---
-title: "Heterofobija un Diskriminējošas Manias"
+title: "Ksenomānija"
 date: 2026-02-10
 draft: false
 episode: 8
 series: "Sakņu Dārzs"
-subtitle: "Kad vārdi aprunā diagnoze"
-description: "Sufikss -fobija apraksta baiļi. Bet tas, kurs vajā, nebēg — viņš ir apņemts. Etimolohiska izpēte par valodas meli, kas aizsargā, ko tas dēvē cīnīties."
+subtitle: "Diskrimināciju Nominatīvā Pulcēšanās"
+description: "Homofobija, ksenofobija, transfobija — šie vārdi melo. Sufikss -fobija apraksta bailes, bet tas, kurš vajā, nebēg: viņš ir apsēsts. Etimoloģiska izpēte par valodas meli, kas aizsargā diskriminācijas, un priekšlikums vienojošam terminam: ksenomānija, slimīga apsēstība ar citu."
 categories: ["filozofija", "lingvistika", "psiholoģija"]
-tags: ["etimoloģija", "homofobija", "diskriminācija", "heterofobija", "mania", "fobija", "valoda", "Veinbergs", "Hereks", "priekšnojāuma"]
+tags: [
+  "ksenomānija", "etimoloģija", "diskriminācija", "valoda", "mānija", "fobija",
+  "homofobija", "ksenofobija", "transfobija", "islamofobija", "rasisms", "seksisms",
+  "homomānija", "transmānija", "islamomānija", "etnomānija",
+  "iekļaušana", "daudzveidība", "citādība", "tolerance", "cieņa", "cilvēka cieņa",
+  "aizspriedums", "apsēstība", "Veinbergs", "Hereks", "sociālā psiholoģija"
+]
 sources:
   - "Britannica, 'George Weinberg', 2017"
   - "Gregory M. Herek, 'The Father of Homophobia: George Weinberg (1929-2017)', Beyond Homophobia blog, marts 2017"
   - "Wikipedia, 'George Weinberg (psychologist)'"
-  - "Jack Nichols & Lige Clarke, raksts Screw Magazine, 5 maijs 1969"
+  - "Jack Nichols & Lige Clarke, raksts Screw Magazine, 1969. gada 5. maijs"
   - "Time Magazine, 'The Homosexual in America', 1969"
   - "George Weinberg, Society and the Healthy Homosexual, St. Martin's Press, 1972"
   - "Pierre Chantraine, Dictionnaire étymologique de la langue grecque, Klincksieck, 1968"
   - "Liddell-Scott-Jones, A Greek-English Lexicon, Oxford University Press"
   - "Gregory M. Herek, 'Beyond Homophobia', Sexuality Research and Social Policy, 1(2), 6-24, 2004"
   - "Gregory M. Herek, 'The Psychology of Sexual Prejudice', Current Directions in Psychological Science, 9(1), 19-22, 2000"
-  - "Associated Press, atjaunojums uz AP Stylebook, novembris 2012"
-  - "Politico, 'AP nixes homophobia, ethnic cleansing', 26 novembris 2012"
+  - "Associated Press, AP Stylebook atjauninājums, 2012. gada novembris"
+  - "Politico, 'AP nixes homophobia, ethnic cleansing', 2012. gada 26. novembris"
   - "George Weinberg, 'Homophobia: Don't Ban the Word', The Huffington Post, 2012"
   - "Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, 'Is Homophobia Associated With Homosexual Arousal?', Journal of Abnormal Psychology, 105(3), 440-445, 1996"
   - "Byrne Fone, Homophobia: A History, Picador, 2001"
-  - "Warren J. Blumenfeld (éd.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
+  - "Warren J. Blumenfeld (red.), Homophobia: How We All Pay the Price, Beacon Press, 1992"
 ---
 
 > **Pārredzamības piezīme**
 >
-> Šī hronika ir cilvēka (Pépé) un mākslīgā intelekta (Claude, Anthropic) sadarbības rezultāts. Vadošās idejas, redakcijas virziens un galīgā validācija ir cilvēka darbs. Dokumentu pētniecība un teksta redakcija tiek veikta ar AI palīdzību.
+> Šī hronika ir cilvēka (Pépé) un mākslīgā intelekta (Claude, Anthropic) sadarbības rezultāts. Vadošās idejas, redakcijas virziens un galīgā validācija ir cilvēka darbs. Dokumentu izpēte un teksta sagatavošana tiek veikta ar MI palīdzību.
 >
-> Tā kā AI var pieļaut neprecizitātes, **katrs faktisks apgalvojums tiek citēts** no pārbaudāmiem akadēmiski, enciklopēdiski vai žurnālistiski avotiem. Avoti ir uzskaitīti raksta beigās.
+> Tā kā MI var pieļaut neprecizitātes, **katrs faktiskais apgalvojums ir pamatots** ar pārbaudāmiem akadēmiskiem, enciklopēdiskiem vai žurnālistiskiem avotiem. Avoti ir uzskaitīti raksta beigās.
 >
-> Šo tekstu var īstenot tikai tā cilvēka redaktors, kurš par to uzņemas atbildību.
+> Šo tekstu var attiecināt tikai uz tā cilvēka redaktoru, kurš uzņemas par to atbildību.
 
 ---
 
-Šo nedēļu es nonācu etimoloģisks bedri. Tas notiek bieži — es izvelku pavediens un es beidzos trīs stundas vēlāk ar bumbu, kas skaita mani pārmetu.
+Šonedēļ es iekrītu etimoloģiskā trušu alā. Tas notiek bieži — es pavelku pavedienu un trīs stundas vēlāk es atrodos ar kamolu, kas mani pārmainīgi uzlūko.
 
-Pavedieni, šo reizi, bija sufikss. Četri burti: *-fobija*. Es noliktu tos blakus, ko viņi dēvē aprakstīt. Un tas neklāja. Pavisam nē.
+Pavediens šoreiz bija sufikss. Četri burti: *-fobija*. Es tos noliku blakus tam, ko tie it kā apraksta. Un tas neklāva. Nemaz.
 
-Vārdiem ir atmiņa, un tā atgriežas vēnajai grieķu. Un senajai grieķu, viņa nemelojas. Mēs, tomēr — mēs melojam ar viņu gabaliem.
-
----
-
-## Pirmā daļa: Stratēģiskā Imperfektā Vārda Ierosinājums
-
-### Džordžs Veinbergs un Ģeniāls 1965
-
-1965, Amerikas psihologs Džordžs Veinbergs novēro kaut ko biedējošu savā kolēģi. Kad viņš uzaicinā homoseksuālas draugi uz sapulces, daži konfrerju reaģē ar viskozas averzija — "bez argumentu, tikai par riebumu", viņš vēlāk teiks.[^1]
-
-Veinbergs saprot, ka problēma nav pie homosexuāļu. Problēma ir no tas, kuri skaita viņu. Un iemīļot to, viņš izdomā vārdu: *homophobia*.
-
-Termins pirmo reizi parādās preses uz 1969, žurnālā *Screw*, tad *Time Magazine* to pašu gadu.[^2] 1972, Veinbergs to attīsta uz *Sabiedrību un Veselīgu Homosexuāli*, revolucionāru grāmatu, kuras pirmā teikums dod tonus: "Es niekad neeksaminē pacientu kā veselīgs, tik drīz kā viņš pārvar savus priekšnojāumu pret homoseksuālismu".[^3]
-
-Ģeniālā labi ir stratēģiskā: par pievienošanu sufiks *-fobija* uz anti-gay priekšnojāums, Veinbergs pārvērš diagnoze. Tas nav homoseksuāls, kas ir slims — tas ir tas, kurs piekunde uz persekucija. Laikā, kad homoseksuālisms joprojām bija *Diagnostiski un Statistiski Manuāla* (DSM) kā psihiātriskā patoloģija, šo inversiōu bija akts intelektuāla pretestība.[^3]
-
-### Vārds Apzinājies Viņu Limitāciju
-
-Bet Veinbergs zināja, ka viņu vārds bija neperfekts. Viņš to faktiskā ierobežota: "Terrors no esošo tuvi ar homoseksuāli — un, gadījumā homoseksuāļu paši, pašnīcības".[^3]
-
-Vārds darbojas — brīnumainā — kā politiskā rīka. Tas piedevā attīstībā par noņemšanu homoseksuālisma no DSM 1973. Tas deva nosaukums kaut kas, ko visi redzēja, bet neviens nevarēja nosauc.[^2]
-
-Bet sešdesmit gadi vēlāk, vārds mūs ieslēdz.
+Vārdiem ir atmiņa, un tā sniedzas līdz sengrieķu valodai. Un sengrieķu valoda nemelo. Mēs, turpretī — mēs melojam ar tās gabaliem.
 
 ---
 
-## Otrā daļa: Etimoloģiskā Meli
+## Pirmā daļa: Nepilnīga vārda stratēģiskā radīšana
 
-### Kas Grieķu Faktiski Saka
+### Džordžs Veinbergs un 1965. gada ģeniālais gājiens
 
-Sufikss *-fobija* (φόβος) nosauc baiļi, bēgšanu, instinktīvu averziju.[^4] Arahnofobija bēg no spidere. Klaustrafobes bēg no tūkšu vietas. Agorafobes bēg no pūļa. Katrā gadījumā, mehānisms ir identisks: terrors, kas spiež uz novēršanu, atsegšanu, paralīzē.
+1965. gadā amerikāņu psihologs Džordžs Veinbergs novēro kaut ko satraucošu savos kolēģos. Kad viņš uzaicina homoseksuālus draugus uz sanāksmēm, daži kolēģi reaģē ar iekšēju riebumu — "bez argumentiem, tikai riebums", viņš vēlāk teiks.[^1]
 
-Tā, ko tas, kurs dēvē "homofobija" dara?
+Veinbergs saprot, ka problēma nav homoseksuāļos. Problēma ir tajos, kas viņus vēro. Un lai to nosauktu, viņš izdomā vārdu: *homophobia*.
 
-Viņš nebēg. Viņš nepieglezdarīst. Viņš nemaina ielu ar drebošanu. Nē. Viņš likumdošanu. Viņš molests. Viņš uzbrūk. Viņš izseko. Viņš norādes uz mitin, petīcijas, spredikcijas un persecukā. Viņš uzaicina viņam savā guļamistabā ar fanatiskā neatlaidību. Viņš pūles nozīmīgas enerģijas uz skrūļī, pierakstu, kondemnā, un cenšas kontrolēt intimitāti no pavisam nozīmīgiem.
+Termins pirmo reizi parādās presē 1969. gadā, žurnālā *Screw*, pēc tam *Time Magazine* tajā pašā gadā.[^2] 1972. gadā Veinbergs to attīsta grāmatā *Society and the Healthy Homosexual*, revolucionārā darbā, kura pirmais teikums nosaka toni: "Es nekad neuzskatītu pacientu par veselu, kamēr viņš nav pārvarējis savus aizspriedumus pret homoseksualitāti".[^3]
 
-Šis uzvedības nav fobija. Tas ir obsesija.
+Ģeniālais gājiens ir stratēģisks: pievienojot sufiksu *-fobija* pret-geju aizspriedumam, Veinbergs apgriež diagnozi. Tas nav homoseksuālis, kas ir slims — tas ir tas, kurš vajā. Laikā, kad homoseksualitāte vēl bija *Diagnostikas un Statistikas Rokasgrāmatā* (DSM) kā psihiatriska patoloģija, šī apgriešana bija intelektuālas pretestības akts.[^3]
 
-### Zinātne Apstiprina: Tas Nav Baiļi
+### Vārds, kas apzinās savas robežas
 
-Gregorijs Hereks, profesors psiholoģija pie Kalifornijas Universitātes Deivisa, un viens no lielākajiem pasaules ekspertu uz seksuālo priekšnojāumu, īstenoja desmitgadi dokumentējot limitācijas par termina. Šeit viņa 2004 pamatraksts, "Par Homophobia", viņš atzīmē, ka vārds "reti norāda uz intensīvu, neracionālu baiļi no seksuālo mazākumtautas", tas ir "sniegts caur psihopataloģijas prizmu bez esošu koncepta kā diagnoze", un tas "nepietiekami atspoguļots lomas no plašāka sociālo normu rokās formējošis individuāla attieksme".[^5]
+Bet Veinbergs zināja, ka viņa vārds ir nepilnīgs. Viņš to faktiski definēja šauri: "šausmas no atrašanās tuvu homoseksuāļiem — un, homoseksuāļu pašu gadījumā, pašnaids".[^3]
 
-Hereks piedāvā aizstāt termina ar "seksuāls priekšnojāums" (*sexual prejudice*), ko viņš definē kā "negatīvas attieksmes pret indivīdu iemesla to seksuālo orientāciju".[^6] Tas ir precīzāks. Bet tas nav vēl taisnīgs pietiekami.
+Vārds darbojās — brīnišķīgi — kā politisks instruments. Tas palīdzēja izņemt homoseksualitāti no DSM 1973. gadā. Tas deva nosaukumu kaut kam, ko visi redzēja, bet neviens nevarēja nosaukt.[^2]
 
-Jo problēma nav tikai imprecizitāte. Tas ir apgaismojums virziens.
-
-### Retoriskā Vaigs
-
-2012, Asociēts Presē — kura *Stylebook* nosaka redakcijas normas lielākajam daļai Amerikas avīzes — ir izņēmuši vārds "homophobia" no politiskā un sociāla konteksti. Redaktors-viņa Dāvs Minthorn paskaidroja: "Tas ir vienkārši neprecīza. Tas ir atribūcija psihiskas problēma uz kādu, un tas ierosina zināšanu, kas mums nav".[^7]
-
-Veinbergs pats opozīts uz šo atcelšanu, argumentējot vārds paliktu "kritisks par mūsu cilvēku" tik ilgi, kamēr darbības, ko tas aprakstīt pieturēsies.[^8] Viņš bija taisnīgs uz nepieciešamību iemīļot. Bet jautājums paliktu: nenosaucot neprecīza, nav tas neapzināti aizsargāt?
-
-Jo šeit kas sufikss *-fobija* ļauj: jebkura persecutor var atspoguļots "es nav baidies", un ir tehniski pareiza. Vārds piedāvā viņu retoriska izeja.
-
-Vēl sliktāks: tas veido sliktāks stimulu uz uzbrukumiem. Ja jūs esat apsūdzēts par baiļiem, kā jūs pierāda pret? Ar parādi jūs neesat baidies. Ar ņemšanu uz objekts tikpat baidies. Ar sitiens, ar saucam, ar persekucija — tieši uz parādi, ka jūs neesat tas, ko vārds dēvē aprakstīt. Fobija dēvē bēgšanu; atbilstības uz fobiju dēvē uzbrukumu. Vārds aprakstīt vardarbību — tas izraisa to.
-
-Un pa apvienošanu *homo-* uz negativs sufikss, tas diskreetā inscriber problēmu uz homoseksuāļu pusē — it kā vienkāršs esošums aizdevā jums patologiju pie otra.
+Bet sešdesmit gadus vēlāk vārds mūs iesloga.
 
 ---
 
-## Trešā daļa: Taisnīga Diagnoze — Mania
+## Otrā daļa: Etimoloģiskais meli
 
-### Priecīgāka Sufikss
+### Ko grieķu valoda patiešām saka
 
-Senajai grieķu piedāvā mums anya cits rīks: *-mania* (μανία) — saslimšana, obsesija devouring, fiksācija compulsive, kas patērē racionalitāti.[^4] Pyromaniacs ne "baidies" par uguni: viņi ir possesed pēc viņa. Megalomania ne "bēga" lielības: viņi ir vergi viņam. Kleptomaniacs ne "redoubt" zādzību: viņi ir ieslodzīti viņam.
+Sufikss *-fobos* (φόβος) apzīmē bailes, bēgšanu, instinktīvu riebumu.[^4] Arahnofobs bēg no zirnekļa. Klaustrofobs bēg no slēgtas telpas. Agorafobs bēg no pūļa. Katrā gadījumā mehānisms ir identisks: šausmas, kas spiež izvairīties, atkāpties, sastingt.
 
-Homosimaniac ne baidies homoseksuāļi: viņš ir obsesēts ar viņiem. Viņš domā par viņu rīta lasot galusvārdu. Viņš domā par viņu, redzot divus cilvēkus pēc rokas uz ielas. Viņš domā par viņu balso, ar izglītošanu viņu bērni, ar izvēlpūļu savus cīņu. Viņu prāts ir kolonizēts pēc viņu homosexuality otra ar intensitāte, ko lielākā daļa homoseksuāļu paši iespējams sniedzas.
+Taču ko dara tas, ko sauc par "homofobu"?
 
-### Zinātne Obsesijas
+Viņš nebēg. Viņš nesaraujas. Viņš nemaina ielas pusi drebēdams. Nē. Viņš likumdod. Viņš uzmāc. Viņš uzbrūk. Viņš vajā. Viņš demonstrē, paraksta petīcijas, sludina un vajā. Viņš ielaužas citu guļamistabās ar fanātiķa neatlaidību. Viņš velta ievērojamu enerģiju, lai pārbaudītu, komentētu, nosodītu un mēģinātu kontrolēt pilnīgi svešu cilvēku intimitāti.
 
-1996, psihologs Henriks Adams, Lesters Raits, un Betanija Lorba no Džordžijas Universitātes publicēja pētījums, kas kļuva slauta *Žurnālā Neparastā Psiholoģija*. Viņi mērīja fizioloģiskos atbildes no 64 heterosexuāļu — 35 klasificētu kā "homofobīski" un 29 kā "ne-homofobīski" — uz homoerotic stimuli. Rezultāt: tikai homofobi vīri parādīja nozīmīgu seksuālo jārosinājuma uz homoseksuāls vieš stimuli.[^9]
+Šī uzvedība nav fobija. Tā ir apsēstība.
 
-Interpretācijas no šā pētījuma ir debatētas — jārosinājuma varētu atspoguļots skaļpelki vietā pēc iespējas.[^9] Bet kas pētījums dokumentē bez ambiguitāte, tas ir nesamērīga reactivity: "homofobe" nenoliedz acis. Viņu ķermenis reaģē. Viņu uzmanības ir captured. Tas ir mehānisms fiksācijas obsesijas, ne viena no fobiju.
+### Zinātne apstiprina: tās nav bailes
 
-### Trīskārtīgs Labums Jaunā Termiņa
+Gregorijs Hereks, psiholoģijas profesors Kalifornijas Universitātē Deivisā un viens no pasaules vadošajiem seksuālo aizspriedumu speciālistiem, ir veltījis gadu desmitus, dokumentējot termina ierobežojumus. Savā 2004. gada pamatrakstā "Beyond Homophobia" viņš atzīmē, ka vārds "reti attiecas uz intensīvām, iracionālām bailēm no seksuālajām minoritātēm", ka tas "ir ietverts psiholoģiskās patoloģijas prizmā, nebūdams koncipēts kā diagnoze", un ka tas "nepietiekami atspoguļo plašāku sociālo normu lomu individuālo attieksmju veidošanā".[^5]
 
-Termins *homosimaniac* pastāv trīskārtīgs labumu:
+Hereks piedāvā aizstāt terminu ar "seksuālais aizspriedums" (*sexual prejudice*), ko viņš definē kā "negatīvas attieksmes pret indivīdu viņa seksuālās orientācijas dēļ".[^6] Tas ir precīzāk. Bet tas vēl nav pietiekami pareizi.
 
-1. **Etimoloģiski precīza**: tas aprakstā obsesiju, ne baiļi.
-2. **Klīniski godīga**: psiholoģisks literatūra plaši dokumentējusi compulsive un projicēto dimensiōu šo uzvedības.[^9][^10]
-3. **Retoriskā taisnīga**: tas vienlīdzina apgaismojums, tur, kur patiesā disfunkcija sēž — uz persecutor, ne uz persecuted. Homosimaniac nēsā viņa diagnoze viņa pašu nosaukumā.
+Jo problēma nav tikai neprecizitāte. Tā ir uzmanības virziens.
 
----
+### Retoriskais vairogs
 
-## Ceturtā daļa: Ģeneralizācija — Diskriminējošas Manias
+2012. gadā Associated Press — kura *Stylebook* nosaka redakcionālos standartus lielākajai daļai amerikāņu laikrakstu — izņēma vārdu "homophobia" no politiskajiem un sociālajiem kontekstiem. Redaktora vietnieks Deivs Minthorns paskaidroja: "Tas vienkārši ir neprecīzi. Tas ir piedēvēt kādam psihisku traucējumu, un tas pieņem zināšanas, kas mums nav".[^7]
 
-### Shēma Tas Atkārtojās
+Pats Veinbergs iebilda pret šo izņemšanu, argumentējot, ka vārds paliek "būtisks mūsu cilvēcībai", kamēr vien turpinās darbības, ko tas apraksta.[^8] Viņam bija taisnība par nepieciešamību nosaukt. Bet jautājums paliek: nepareizi nosaukt — vai tas nav neapzināti aizsargāt?
 
-Kas mēs novērojam homoseksuālisma vērts par komplektā diskriminācijas. Visur sufikss *-fobija* maskas realitāte uzvedības.
+Jo lūk, ko sufikss *-fobija* ļauj: jebkurš vajātājs var atbildēt "man nav bail", un būt tehniski pareizs. Vārds piedāvā viņam lingvistisku izeju.
 
-*Xenomaniac* ne "baidies" no svešiniekiem — viņš ir obsesēts pēc viņa klātbūtnes. Viņš to redzē visur, viņš to padara atbildīga par visu, viņš attīsta visu politiskā programmu uz šo fiksāciju. Viņš pūles vairāk laika uz runāšanu par svešiniekiem, kā svešnieki paši pūles, domājot par viņu.
+Vēl sliktāk: tas rada perversu stimulu agresijai. Ja jūs apsūdz par bailēm, kā jūs pierādāt pretējo? Parādot, ka jums nav bail. Dodoties uz it kā biedējošo objektu. Sitot, apvainojot, vajājot — tieši lai pierādītu, ka jūs neesat tas, ko vārds it kā apraksta. Fobija prasa bēgšanu; fobijas atspēkošana prasa uzbrukumu. Vārds neapraksta vardarbību — tas to provocē.
 
-*Ethnomaniac* ne trembles pirms skaņas no ādas — viņš scruitinizes viņu, kategorizeties viņu, hierarhizeesti viņu ar collectorist skrupulosity.
-
-*Transmaniac* ne "bēga" transgender cilvēki — viņš iegulda laiku un enerģiju nesamērīgu uz pārraudzību viņu ķermeni, viņu identifikācijas dokumenti, viņu tualetes.
-
-*Islamomaniac* ne "bēga" moslemi — viņš izseko viņu, pierakstu viņu, pārraugā viņu, fantasija viņu, viņu izsauc pie katra debat it kā viss civilizācijas atkarīgs uz ko sieviete jauktais savā galvā.
-
-Katrā gadījumā viena un tā pati struktūra: ne apeurīr no baiļiem, bet obsesija fiksācija, kas patērē uzmanību, diskursu, un politiskā darbība manika.
-
-### Kurš Benefīti No Nepareizā Diagnoze?
-
-Iepriekšējie episodi no Sakņu Dārzs uzburt jautājums: *cui bono* — uz kam profīti noziegums? Piermiņam tai šeit.
-
-Uz kam profīti sufikss *-fobija*?
-
-Noteikti ne uz upuriem, kuri sevi atradā lingvistiski apvienoti uz vārdu negatīvā. Noteikti ne uz publiku diskursu, kas zaudē precizitāte. Noteikti ne uz psiholoģiju, kas sēž viņa klīniskā sufikss devoyē.
-
-Tas profīti uz persecutor, kuru lūdz atlikt: "es nav baidies." Tas profīti uz represijas sistēmu, kas paliktu iemīļot: ja tas ir individuāla "fobija", tas nav sociāla struktūra. Un tas profīti uz viņiem, kuri labprāt patholoģizesti indivīdi, drīzāk kā uz apspriešanu sistēmu.
+Un pievienojot *homo-* negatīvam sufiksam, tas smalki ieraksta problēmu homoseksuāļa pusē — it kā vienkārša eksistence pietiktu, lai izraisītu patoloģiju otrā.
 
 ---
 
-## Piektā daļa: Heterofobija — patiesais nosaukums no saknes
+## Trešā daļa: Pareizā diagnoze — mānija
 
-### Parastības Trunk
+### Daudz precīzāks sufikss
 
-Paliktu iemīļot parastības common no viņu manias. Un šeit viņu viena vārds eksistē jau, kura etimoloģija slēpj magnifique irojniju: *heterofobija*.
+Sengrieķu valoda mums piedāvā citu instrumentu: *-mania* (μανία) — neprāts, aprījoša apsēstība, kompulsīva fiksācija, kas patērē saprātu.[^4] Piromāns ne "baidās" no uguns: viņš ir tās apsēsts. Megalomāns ne "bēg" no varenības: viņš ir tās vergs. Kleptomāns ne "bīstas" zādzības: viņš ir tās gūsteknis.
 
-*Heteros* (ἕτερος) nozīmē senajai grieķu "otra", "tas, kas ir atšķirīgs", "kas nav identisks sev".[^4] *Phobos*, baiļi. Heterofobija ir tāpēc, tā vēstniecību, tā baiļi no alteritāte — eksistenciāla izbiedēts no ko diferencē no viņu.
+Homomāns nebaidās no homoseksualitātes: viņš ir ar to apsēsts. Viņš domā par to no rīta, lasot avīzi. Viņš domā par to, redzot divus cilvēkus, kas turas aiz rokām uz ielas. Viņš domā par to, balsojot, audzinot savus bērnus, izvēloties savas politiskās cīņas. Viņa prāts ir kolonizēts ar citu homoseksualitāti ar intensitāti, ko lielākā daļa pašu homoseksuāļu droši vien nesasniedz.
 
-Un tur sufikss *-fobija* atgrieztos uz viņu taisnību. Jo zemē maniaks trokšņota, zem viņu likumiem un insultu un vardarbībā, tur bija reāli baiļi. Pamatotas, bieži neizspiests, dažreiz neapzinājās: no pasaule, kas neatbilst drošam pārliecību sev par viņu. Baiļi, ka otra, pēc viņu pašas esošuma, viņ pasamatošanu soliditāti no savs pašs pārliecību.
+### Apsēstības zinātne
 
-Heterofobs — tas baiļi par alteritāte zem viņu visu formu — ir parastības kopīgs no rasism, seksuālismu, homosexuālisma, ksenophobija. Baiļi ir sakne; mania ir tā aktīvās simptomas.
+1996. gadā psihologi Henrijs Adamss, Lesters Raits un Betanija Lora no Džordžijas Universitātes publicēja pētījumu, kas kļuva slavens *Journal of Abnormal Psychology*. Viņi mērīja 64 heteroseksuālu vīriešu fizioloģiskās reakcijas — 35 klasificēti kā "homofobi" un 29 kā "ne-homofobi" — uz homoerotiskiem stimuliem. Rezultāts: tikai homofobiskie vīrieši uzrādīja nozīmīgu seksuālu uzbudinājumu uz vīriešu homoseksuālajiem stimuliem.[^9]
 
-### Pilnīga Struktūra
+Šī pētījuma interpretācijas ir apstrīdētas — uzbudinājums varētu atspoguļot trauksmi, nevis vēlmi.[^9] Bet ko pētījums dokumentē bez divdomības, ir nesamērīga reaktivitāte: "homofobs" nenovērš acis. Viņa ķermenis reaģē. Viņa uzmanība ir piesaistīta. Tas ir obsesīvās fiksācijas mehānisms, nevis fobijas.
+
+### Jaunā termina trīskāršais ieguvums
+
+Terminam *homomāns* ir trīskāršs ieguvums:
+
+1. **Etimoloģiski precīzs**: tas apraksta apsēstību, nevis bailes.
+2. **Klīniski godīgs**: psiholoģiskā literatūra plaši dokumentē šo uzvedību kompulsīvo un projektīvo dimensiju.[^9][^10]
+3. **Retoriski taisnīgs**: tas pārvieto uzmanību tur, kur patiešām atrodas disfunkcija — pie vajātāja, nevis vajātā. Homomāns nes savu diagnozi savā pašā vārdā.
+
+---
+
+## Ceturtā daļa: Vispārināšana — diskriminējošās mānijas
+
+### Shēma, kas atkārtojas
+
+Tas, ko mēs novērojam attiecībā uz homoseksualitāti, attiecas uz visām diskriminācijām. Visur sufikss *-fobija* maskē uzvedības realitāti.
+
+*Ksenomāns* nebaidās no svešinieka — viņš ir apsēsts ar viņa klātbūtni. Viņš to redz visur, padara atbildīgu par visu, veido veselas politiskās programmas uz šīs fiksācijas. Viņš velta vairāk laika runāšanai par svešiniekiem nekā paši svešinieki velta domāšanai par viņu.
+
+*Etnomāns* nedreb krāsas priekšā — viņš to pārbauda, kategorizē, hierarhizē ar kolekcionāra kompulsivitāti.
+
+*Transmāns* nebēg no transpersonām — viņš iegulda nesamērīgu laiku un enerģiju, lai uzraudzītu viņu ķermeņus, viņu identitātes dokumentus, viņu tualetes.
+
+*Islamomāns* nebēg no musulmaņiem — viņš viņus izseko, komentē, uzrauga, fantazē, piesauc katrā debatē, it kā visa civilizācija būtu atkarīga no tā, ko sieviete valkā uz galvas.
+
+Katrā gadījumā tā pati struktūra: nevis izbijušās izvairīšanās, bet obsesīva fiksācija, kas aprij māniķa uzmanību, runu un politisko darbību.
+
+### Kurš gūst labumu no nepareizās diagnozes?
+
+Iepriekšējās Sakņu Dārza epizodes uzdeva jautājumu: *cui bono* — kam noziegums ir izdevīgs? Pielietosim to šeit.
+
+Kam izdevīgs sufikss *-fobija*?
+
+Noteikti ne upuriem, kas atrodas lingvistiski saistīti ar negatīvu vārdu. Noteikti ne publiskajai debatei, kas zaudē precizitāti. Noteikti ne psiholoģijai, kas redz savu klīnisko sufiksu sagrozītu.
+
+Tas ir izdevīgs vajātājam, kurš var attaisnoties: "Man nav bail." Tas ir izdevīgs apspiešanas sistēmām, kas paliek nenosauktas: ja tā ir individuāla "fobija", tā nav sociāla struktūra. Un tas ir izdevīgs visiem, kas labāk patologizē indivīdus nekā apšauba sistēmas.
+
+---
+
+## Piektā daļa: Ksenomānija — Nominatīvā Pulcēšanās
+
+### Kāpēc nepieciešams vienojošs termins?
+
+Vēl jānosaka visu šo māniju kopējā sakne. Mums vajag vārdu, kas apvieno zem viena karoga visas diskriminējošās apsēstības — **Nominatīvā Pulcēšanās**, ja vēlaties, uzvedībām, kas noraida citu.
+
+*(Akronīms N.P., kas no tā izriet, ir tikai sakritība. Vai arī nē.)*
+
+### Kāpēc ne "heteromānija"?
+
+Varētu piedāvāt *heteromāniju*, no grieķu *heteros* (ἕτερος) — "cits", "atšķirīgais". Bet šim terminam ir divdomības problēma: ikdienas valodā "hetero-" nekavējoties liek domāt par heteroseksualitāti. *Heteromānija* varētu tikt sajaukta ar apsēstību *ar* heteroseksualitāti, kas mulsina vēstījumu.
+
+### "Ksenomānijas" skaidrība
+
+Termins **ksenomānija** ir skaidrs.
+
+*Xenos* (ξένος) sengrieķu valodā apzīmē svešinieku, to, kas nāk no citviet, to, kas nepieder grupai.[^4] Tā ir sakne vārdam *ksenofobija*, bet arī *ksenofilija* un skaistajam vārdam *filoksenija* — viesmīlība, mīlestība pret svešinieku.
+
+**Ksenomānija** tātad ir slimīga apsēstība ar svešinieku — bet "svešinieks" visplašākajā nozīmē:
+
+- **Nacionālais svešinieks**: tas, kas nāk no citas valsts, citas kultūras
+- **Reliģiskais svešinieks**: tas, kas lūdz citu dievu vai to pašu dievu citādi — "sašaurinātais tuvākais" reliģijām, kas ierobežo tuvākā mīlestību uz tiem, kas dala ticību
+- **Seksuālais svešinieks**: tas, kura orientācija vai identitāte neatbilst normai, kas balstīta uz nepilnīgu dabas novērojumu
+- **Etniskais svešinieks**: tas, kura izskats atšķiras no vietējā vairākuma
+- **Sociālais svešinieks**: tas, kura dzīvesveids, izvēles, vērtības atšķiras no apkārtējā konformisma
+
+Visas šīs "citādības" ksenomāns uztver kā eksistenciālus draudus. Ne tāpēc, ka tās viņam patiešām draud — bet tāpēc, ka to vienkāršā eksistence apdraud fikciju par vienveidīgu, paredzamu, mierinošu pasauli.
+
+### Pārskatītā pilnīgā struktūra
 
 ```
-HETEROFOBIJA (sakne)
-    Baiļi eksistenciāl par alteritāte
+KSENOMĀNIJA (kopējā sakne)
+    Slimīga apsēstība ar citu, atšķirīgo, svešinieku
+           │
+           ├── Homomānija: apsēstība ar citu seksuālo orientāciju
+           ├── Transmānija: apsēstība ar citu dzimuma identitāti
+           ├── Etnomānija: apsēstība ar citu etnisko izcelsmi
+           ├── Islamomānija: apsēstība ar citu reliģiju
+           ├── Naidīgā ginomānija: apsēstība ar sieviešu kontroli
+           └── utt.
            │
            ▼
-    DISKRIMINĒJOŠAS MANIAS (simptomi)
-    ├── Homomanija: obsesija par seksuālā orientācija otra
-    ├── Xenomanija: obsesija par izcelsme otra
-    ├── Ethnomanija: obsesija par skaļa ādas otra
-    ├── Transmanija: obsesija par dzimuma identifikācija otra
-    ├── Islamomanija: obsesija par reliģija otra
-    └── utt.
-           │
-           ▼
-    REPRESIJAS SISTĒMU (struktūras)
-    ├── Heterosexualitāte: heterosexuāļu privilēģija sistēmas
-    ├── Rasisms: rasas hierarhijas sistēmas
-    ├── Patriarhāts: vīrieša dominības sistēmas
-    └── utt.
+    APSPIEŠANAS SISTĒMAS (institucionalizētas struktūras)
+           ├── Heteroseksisms: heteroseksuālās privilēģijas sistēma
+           ├── Rasisms: rasu hierarhijas sistēma
+           ├── Patriarhāts: vīriešu dominances sistēma
+           ├── Koloniālisms: tautu ekspluatācijas sistēma
+           └── utt.
 ```
 
-Šī arhitektūra atšķir trīs līmeņi, ko pašreizējais vārdnīciba apjauc:
+Šī arhitektūra izšķir divus līmeņus, ko pašreizējā vārdnīca sajauc:
 
-1. **Baiļi** (heterofobija) — pamatotas psiholoģiskais līmenis, bieži bezapzinājās
-2. **Obsesija** (manias) — redzams uzvedības līmenis, compulsive
-3. **Sistēma** (represijas struktūras) — iestādes, kultūra līmeni
+1. **Apsēstība** (ksenomānija un tās variācijas) — redzams uzvedības līmenis, kompulsīvs, gan individuāls, gan kolektīvs
+2. **Sistēma** (apspiešanas struktūras) — institucionāls, kultūras, vēsturisks līmenis
 
-Apjaukšana šie līmeņi ir atņem viņu cīnību efektīvi.
+Ksenomāns ir kājnieks. Sistēma ir armija. Sajaukt abus nozīmē atņemt sev iespēju efektīvi cīnīties.
 
----
+### Ko atklāj jaunā vārdnīca
 
-## Sestā daļa: Epizoda 01 Apgriezti
+| Vecais termins | Norāda uz... | Jaunais termins | Atklāj... |
+|----------------|--------------|-----------------|-----------|
+| Homofobs | Bailes, savu baiļu upuris | Homomāns | Apsēstība, atbildīgs par savu apsēstību |
+| Ksenofobs | Bailes no svešinieka | Ksenomāns | Slimīga fiksācija uz svešinieku |
+| Transfobs | Bailes no transpersonām | Transmāns | Kompulsīva transķermeņu uzraudzība |
+| Islamofobs | Bailes no islāma | Islamomāns | Obsesīva fantazēšana par musulmani |
 
-### Savienojuma Uz Sēriju
+Sufikss *-mānija* dara trīs lietas, ko *-fobija* nedara:
 
-Epizodā 01 no Sakņu Dārzs, mēs dokumentējam semātiskā dreifs politiskā partiju: vārdi, kas palika uz pudeles kura saturs bija mainījies. "Brīvības", "solidaritāte", "sociāla taisnību" — etiķetes paliktu, nozīme iztvaiko.
-
-Šeit, mēs novērojam fenomens apgriezt: vārdi, kas nikad ir pareizā saturs. Ne dreifs — sākotnējā kļūda. Vārds "homophobia" nav driftied no viņu sākotnējā nozīme. Viņš bija konstruēts uz nepareizā sufikss, iemeslu strategiski saprotams, taču, par to sekas, kas mūs atrauj.
-
-Tā ir viena un tā pati mācība, redzams no otru pusi un spoguļa: vārdnīcu ir nekad nevainīga. Kad vārdi melo — par dreifs vai pēc konstrūkciju — viņi aizsargā struktūru viņi dēvē nosaukums.
-
-### Persecutor ir Fearful Kuru Viņš Neatrod
-
-Šī analīze ir ne tikai lexiskais stila vingrošana. Nosaukums pareizi, tas ir saprast pareizi. Un saprast pareizi, tas ir dziedēt rīcībā ar taisnību.
-
-Kad mēs saka "homophobe", mēs aprakstīt ienaidnieks. Kad mēs saka "homosimaniac", mēs aprakstīt obsessed. Kad mēs identificēt heterofobiju kā saknes, mēs aprakstīt fearful. Un priekš fearful, atbilde nav viena, ja ir ienaidnieks.
-
-Diskriminējošā maniac ir kāds, kura identifikācija tik trausls, ka viņa ne tolerē alteritāte esošumu. Viņa obsesija uz otra ir tikai reversiōs atspoguļojums viņa skaļpelki par sevi. Katra likuma viņa balso pret atšķirību ir un atvainošanu. Katra insults ir kliedziens panikas. Katra persekucija ir aprijuma un aprijuma.
-
-Tas neatdara viņu darbības, ne mazāk no smaguma, ne mazāk ar condemna. Bet tas maina acu jūs nēsāt uz mehānismu. Un šajā skatīšanas mainīšu, iespējams, ārpus nepieciešams pretestības, ir atslēga uz sapratni — un tāpēc transformāciju.
-
-Jo tu neārstē maniju nosaucot viņu fobiju. Un jūs necīnās baiļi, ignorējot, ka viņas eksistē.
+1. **Tas uzliek atbildību**: māniju neattaisno kā bailes
+2. **Tas diagnoze pareizi**: apsēstība ir patiesais mehānisms
+3. **Tas pārvieto problēmu**: disfunkcija ir novērotājā, nevis novērotajā
 
 ---
 
-## Septītā daļa: Jautājums Es Atstāju Jums
+## Sestā daļa: 01. epizode otrādi
 
-Vārdi, ko mēs izmantojam aprakstīt diskriminācijas — viņi aprakstīt viņu pareizi? Vai viņi veido vēl viena ekrāna starp mūs un realitāti?
+### Saistība ar sēriju
 
-Ja vārdnīca pasargā ko tas dēvē cīnīties, tad pirmā akts no pretestības, iespējams, ir iemīļot viņu. Ne caur linguistisku eleganci. Jo jūs nespējat ārstēt, ko jūs nespējat pareizi iemīļot.
+Sakņu Dārza 01. epizodē mēs dokumentējām politisko partiju semantisko novirzi: vārdi, kas paliek uz pudelēm, kuru saturs ir mainījies. "Brīvība", "solidaritāte", "sociālais taisnīgums" — etiķetes paliek, jēga iztvaiko.
 
-Rakstiet man. Dārzs ir liels, un daži saknes ir apglabāti valodā pati.
+Šeit mēs novērojam pretējo fenomenu: vārdi, kuriem nekad nav bijis pareizais saturs. Ne novirze — pamata kļūda. Vārds "homofobija" nav novirzījies no savas sākotnējās nozīmes. Tas tika konstruēts uz nepiemērota sufiksa, saprotamu stratēģisku iemeslu dēļ, bet kuru sekas mūs tagad panāk.
+
+Tā ir tā pati mācība, redzēta no otras spoguļa puses: vārdnīca nekad nav nevainīga. Kad vārdi melo — vai nu caur novirzi, vai caur konstrukciju — tie aizsargā struktūras, ko tie it kā nosauc.
+
+### Ksenomāns ir baidīgs, kas sevi nepazīst
+
+Šī analīze nav tikai leksiska stila vingrinājums. Pareizi nosaukt nozīmē pareizi saprast. Un pareizi saprast nozīmē spēt pareizi rīkoties.
+
+Zem trokšņainās mānijas, zem likumiem un apvainojumiem un vardarbības, varbūt patiešām ir bailes. Dziļas, bieži neatzītas, dažkārt neapzinātas bailes: no pasaules, kas neatbilst mierinošajam priekšstatam, ko cilvēks par to veido. Bailes, ka cits, ar savu vienkāršo eksistenci, apšauba viņa paša pārliecību stabilitāti.
+
+Bet šīs bailes ksenomāns pārvērš agresijā. Viņš nebēg — viņš uzbrūk. Un tieši šī pārvēršana ir jānosauc. Mānija ir aktīvais simptoms; bailes ir tikai apslēptā sakne.
+
+Diskriminējošais māniķis ir kāds, kura identitāte ir tik trausla, ka tā neiztur citādības eksistenci. Viņa apsēstība ar citu ir tikai apgriezts viņa trauksmes par sevi atspoguļojums. Katrs likums, par ko viņš balso pret atšķirību, ir nedrošības atzīšana. Katrs apvainojums ir panikas kliedziens. Katra vajāšana ir izmisīgs mēģinājums vienkāršot pasauli, kuras sarežģītība viņu pārņem.
+
+Tas nepadara viņa darbības ne mazāk smagas, ne mazāk nosodāmas. Bet tas maina skatienu uz mehānismu. Un šajā skatījuma maiņā varbūt, ārpus nepieciešamās pretestības, slēpjas sapratnes atslēga — un līdz ar to pārvērtības.
+
+---
+
+## Pretī vārdnīca: nosaukt arī iekļaušanu
+
+Ja mēs pārdēvējam patoloģijas, nosaucam arī tikumus. Pretī ksenomānijai pastāv pretinde, ko grieķi labi pazina: **filoksenija** (φιλοξενία) — burtiski, mīlestība pret svešinieku.
+
+Filoksenija nav naivitāte. Tā nav sevis dzēšana otra priekšā. Tā ir spēja redzēt svešiniekā nevis draudus, bet iespēju. Logu uz pasauli, ko vēl nepazīst. Bagātināšanu, nevis izšķīdināšanu.
+
+| Patoloģija | Pretinde |
+|------------|----------|
+| Ksenomānija | Filoksenija — mīlestība pret svešinieku, viesmīlība |
+| Homomānija | Mīlestību daudzveidības pieņemšana |
+| Transmānija | Cieņa pret ķermeņu pašnoteikšanos |
+| Etnomānija | Vienlīdzīgas cieņas atzīšana |
+| Islamomānija | Patiesa laicisms — labvēlīga vienaldzība pret citu ticējumiem |
+
+Patiesais spēks nav vienveidībā — tas ir spējā uzņemt atšķirību, tajā neizšķīstot.
+
+---
+
+### Jautājums, ko jums atstāju
+
+Vārdi, ko mēs lietojam, lai aprakstītu diskriminācijas — vai tie tās patiešām apraksta? Vai tie veido vēl vienu ekrānu starp mums un realitāti?
+
+Ja vārdnīca aizsargā to, ko tā it kā apkaro, tad varbūt pirmais pretestības akts ir pārdēvēt. Ne lingvistiskas koketerijas dēļ. Tāpēc, ka nevar ārstēt to, ko neprot nosaukt.
+
+**Ksenomānija**: slimīga apsēstība ar citu. Visu diskrimināciju Nominatīvā Pulcēšanās.
+
+Tagad mums ir vārds.
+
+Rakstiet man. Dārzs ir liels, un dažas saknes ir apraktas pašā valodā.
 
 *Pépé*
 
 ---
 
-[^1]: Britannica, "Džordžs Veinbergs", 2017 ; Gregorijs M. Hereks, "Tēvs no 'Homophobia': Džordžs Veinbergs (1929-2017)", Beyond Homophobia bloga, marts 2017.
+[^1]: Britannica, "George Weinberg", 2017; Gregory M. Herek, "The Father of 'Homophobia': George Weinberg (1929-2017)", Beyond Homophobia emuārs, 2017. gada marts.
 
-[^2]: Wikipedia, "Džordžs Veinbergs (psihologs)" ; Džeks Nikolss & Liģe Klārka, raksts *Screw Magazine*, 5 maijs 1969 ; *Time Magazine*, "Homosexuāls Amerikā", 1969.
+[^2]: Wikipedia, "George Weinberg (psychologist)"; Jack Nichols & Lige Clarke, raksts *Screw Magazine*, 1969. gada 5. maijs; *Time Magazine*, "The Homosexual in America", 1969.
 
-[^3]: Džordžs Veinbergs, *Sabiedrību un Veselīgu Homosexuāli*, St. Martīna Prese, 1972.
+[^3]: George Weinberg, *Society and the Healthy Homosexual*, St. Martin's Press, 1972.
 
-[^4]: Pjērs Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968 ; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (entres φόβος, μανία, ἕτερος).
+[^4]: Pierre Chantraine, *Dictionnaire étymologique de la langue grecque*, Klincksieck, 1968; Liddell-Scott-Jones, *A Greek-English Lexicon*, Oxford University Press (ieraksti φόβος, μανία, ξένος, ἕτερος).
 
-[^5]: Gregorijs M. Hereks, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004 ; *Cambridge Handbook of the Psychology of Prejudice*, nodaļa "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
+[^5]: Gregory M. Herek, "Beyond 'Homophobia': Thinking about sexual prejudice and stigma in the twenty-first century", *Sexuality Research and Social Policy*, 1(2), 6-24, 2004; *Cambridge Handbook of the Psychology of Prejudice*, nodaļa "Sexual Prejudice: Advances in Conceptual and Empirical Models", 2016.
 
-[^6]: Gregorijs M. Hereks, "Psiholoģiju Seksuālas Priekšnojāums", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
+[^6]: Gregory M. Herek, "The Psychology of Sexual Prejudice", *Current Directions in Psychological Science*, 9(1), 19-22, 2000.
 
-[^7]: Asociēts Presē, atjaunojums no *AP Stylebook*, novembris 2012 ; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 26 novembris 2012 ; *The Advocate*, "AP Says Homophobia Off the Mark", 26 novembris 2012.
+[^7]: Associated Press, *AP Stylebook* atjauninājums, 2012. gada novembris; *Politico*, "AP nixes 'homophobia', 'ethnic cleansing'", 2012. gada 26. novembris; *The Advocate*, "AP Says Homophobia Off the Mark", 2012. gada 26. novembris.
 
-[^8]: Džordžs Veinbergs, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012 ; *PinkNews*, "Ārsts kuru izdomāts termina 'homophobia' dies vecumā 87", marts 2017.
+[^8]: George Weinberg, "Homophobia: Don't Ban the Word", *The Huffington Post*, 2012; *PinkNews*, "Doctor who invented the term 'homophobia' dies aged 87", 2017. gada marts.
 
-[^9]: Henriks E. Adams, Lesters V. Raits Jr. & Betanija A. Lorba, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
+[^9]: Henry E. Adams, Lester W. Wright Jr. & Bethany A. Lohr, "Is Homophobia Associated With Homosexual Arousal?", *Journal of Abnormal Psychology*, 105(3), 440-445, 1996.
 
-[^10]: Bairns Fone, *Homophobia: A History*, Picador, 2001 ; Vorens D. Blumenfelds (éd.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992 ; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
+[^10]: Byrne Fone, *Homophobia: A History*, Picador, 2001; Warren J. Blumenfeld (red.), *Homophobia: How We All Pay the Price*, Beacon Press, 1992; Encyclopedia.com, "Homophobia", *Encyclopedia of Sex and Gender*, 2007.
